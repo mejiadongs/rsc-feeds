@@ -3,7 +3,28 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 28 Sep 2026 08:11:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 19:43:25 +0000</lastBuildDate>
+<item>
+<title>Atomistic Modeling of Chemical Disorder in Materials: Bridging Conventional Methods and AI-Assisted Approaches</title>
+<link>https://doi.org/10.1039/d6dd00292g</link>
+<guid isPermaLink="false">10.1039/d6dd00292g</guid>
+<pubDate>Mon, 28 Sep 2026 17:44:16 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiayu Peng, Peichen Zhong</p><p>Chemical disorder, originating from the mixed occupation of crystallographic sites by multiple elements, is widespread in metal alloys, ceramics, and other compositionally complex materials, where short- and long-range orderings can...</p><p>DOI: 10.1039/d6dd00292g</p>]]></description>
+</item>
+<item>
+<title>Multi-axis quality evaluation of data augmentation for perovskite solar cell datasets</title>
+<link>https://doi.org/10.1039/d6dd00198j</link>
+<guid isPermaLink="false">10.1039/d6dd00198j</guid>
+<pubDate>Mon, 28 Sep 2026 12:59:20 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Minseong Kim, Jinho Lee, Hye W. Chun, Eun Seo Shin, Hajra Yousf, Shujuan Huang, Dong-Won Kang, Hyosung Choi, Jong H. Kim, Jincheol Kim</p><p>A three-axis framework evaluates augmented data through predictive response, data compatibility, and structural preservation, providing a systematic approach for assessing data augmentation quality and reliability.</p><p>DOI: 10.1039/d6dd00198j</p>]]></description>
+</item>
+<item>
+<title>PACE-SIMS: Checkpoint-Gated Autonomous SIMS Characterization with AI-Agent Quality Control</title>
+<link>https://doi.org/10.1039/d6dd00609d</link>
+<guid isPermaLink="false">10.1039/d6dd00609d</guid>
+<pubDate>Mon, 28 Sep 2026 09:03:24 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Anton Ievlev, Heather Hare, Yiyang Li, Sergei V. Kalinin</p><p>Time-of-flight secondary ion mass spectrometry (ToF-SIMS) is widely used for local chemical investigations across a broad range of materials and systems. However, its operation is expensive in expert time: a...</p><p>DOI: 10.1039/d6dd00609d</p>]]></description>
+</item>
 <item>
 <title>Packing efficiency governs CO₂/H₂ selectivity in machine-learning-screened metal–organic frameworks</title>
 <link>https://doi.org/10.1039/d6dd00598e</link>
@@ -65,7 +86,7 @@
 <link>https://doi.org/10.1039/d6dd00275g</link>
 <guid isPermaLink="false">10.1039/d6dd00275g</guid>
 <pubDate>Mon, 21 Sep 2026 16:23:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Connor R.M. MacDonald, Alex Samuel Loch, Neil Berry, Emily Rose Draper</p><p>The development of functional materials such as multilayer films from supramolecular self-assembling materials is hindered by the current lack of design principles and predictability. Quantitative structure-property relationships have emerged as...</p><p>DOI: 10.1039/d6dd00275g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Connor R. M. MacDonald, Alex S. Loch, Neil G. Berry, Emily R. Draper</p><p>We show through a proof-of-concept dataset for naphthalenes and rylenes that solubility can be effectively classified with sufficient high-quality training data, and highlight the need for standardised characterisation procedures.</p><p>DOI: 10.1039/d6dd00275g</p>]]></description>
 </item>
 <item>
 <title>Uncertainty-Aware Machine Learning Discovery of Temperature-Induced Solid-Solid Phase Transitions for Thermal Management Applications</title>
@@ -138,11 +159,11 @@
 <description><![CDATA[<p><b>Authors:</b> Ömer H. Omar, Daniele Padula, Kate A. Morrison, Krzysztof Pawlak, Alexander Ciupa, Dávid Havasi, Alessandro Troisi</p><p>From a large database of 12 million commercially available molecules we identify those that can show emission from higher excited states and verify this property experimentally.</p><p>DOI: 10.1039/d6dd00402d</p>]]></description>
 </item>
 <item>
-<title>From First Principles to Machine Learning: Accelerating the Design and Discovery of Hybrid Organic–Inorganic Perovskites</title>
+<title>From first principles to machine learning: accelerating the design and discovery of hybrid organic–inorganic perovskites</title>
 <link>https://doi.org/10.1039/d6dd00303f</link>
 <guid isPermaLink="false">10.1039/d6dd00303f</guid>
 <pubDate>Wed, 16 Sep 2026 14:48:00 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Lim Kim, Tianle Yue, Ying Li</p><p>Hybrid organic–inorganic perovskites (HOIPs) have emerged as one of the most structurally versatile and technologically promising materials, with demonstrated applications spanning photovoltaics, light-emitting diodes, photodetectors, and piezoelectric energy harvesters. Despite...</p><p>DOI: 10.1039/d6dd00303f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yu Lim Kim, Tianle Yue, Ying Li</p><p>Forward and inverse design workflows for Hybrid organic–inorganic perovskite (HOIP) discovery. The two workflows traverse the structure–property mapping in opposite directions toward the same target properties.</p><p>DOI: 10.1039/d6dd00303f</p>]]></description>
 </item>
 <item>
 <title>Inside front cover</title>
