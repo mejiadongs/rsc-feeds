@@ -34,6 +34,10 @@ JOURNALS = {
     "nr":   ("Nanoscale",                          "2040-3364"),
     "cp":   ("Physical Chemistry Chemical Physics","1463-9076"),
     "sc":   ("Chemical Science",                   "2041-6520"),
+    "cs":   ("Chemical Society Reviews",           "0306-0012"),
+    "dd":   ("Digital Discovery",                  "2635-098X"),
+    "nh":   ("Nanoscale Horizons",                 "2055-6756"),
+    "cc":   ("Chemical Communications",            "1359-7345"),
 }
 
 # Crossref 建议留联系邮箱，可进入更稳定的 "polite pool"
