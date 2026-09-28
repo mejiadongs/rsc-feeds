@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>RSC - Digital Discovery</title>
+<link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
+<description>RSC - Digital Discovery (via Crossref)</description>
+<lastBuildDate>Mon, 28 Sep 2026 08:11:53 +0000</lastBuildDate>
+<item>
+<title>Packing efficiency governs CO₂/H₂ selectivity in machine-learning-screened metal–organic frameworks</title>
+<link>https://doi.org/10.1039/d6dd00598e</link>
+<guid isPermaLink="false">10.1039/d6dd00598e</guid>
+<pubDate>Sat, 26 Sep 2026 06:43:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Md. Rifat Khandaker, Mohammad Asaduzzaman Chowdhury, Sujan Hossain</p><p>Pre-combustion CO₂/H₂ separation requires MOFs that combine high CO₂ working capacity with strong H₂ rejection. Full ARC-MOF screening by GCMC is impractical, so we used an uncertainty-guided machine-learning workflow to...</p><p>DOI: 10.1039/d6dd00598e</p>]]></description>
+</item>
+<item>
+<title>Systematic Trends in Water Properties Across Jacob's Ladder Density Functionals</title>
+<link>https://doi.org/10.1039/d6dd00571c</link>
+<guid isPermaLink="false">10.1039/d6dd00571c</guid>
+<pubDate>Fri, 25 Sep 2026 20:43:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nam Dào, Daniel S King, Frederick Stein, Xiaoyu Wang, Dongjin Kim, Jan Gerit Brandenburg, Jürg Hutter, Bingqing Cheng</p><p>Kohn-Sham density functional theory is the workhorse of computational materials science and chemistry, but the optimal choice of exchange-correlation approximation for a given system is often unclear. Traditional benchmark studies...</p><p>DOI: 10.1039/d6dd00571c</p>]]></description>
+</item>
+<item>
+<title>An In Silico Tool for Rapid and Accessible Training in Self-Driving Laboratory Development</title>
+<link>https://doi.org/10.1039/d6dd00557h</link>
+<guid isPermaLink="false">10.1039/d6dd00557h</guid>
+<pubDate>Fri, 25 Sep 2026 15:42:58 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Veronica Lai, Erin Lindenberg, Jason E Hein, Rebekah Greenwood, Wenyu Zhang</p><p>Self-driving laboratories (SDLs) integrate robotic experimentation and machine learning to autonomously navigate complex chemical and materials search spaces-but their development demands simultaneous mastery of experimental parameterisation, automated measurement, and optimisation...</p><p>DOI: 10.1039/d6dd00557h</p>]]></description>
+</item>
+<item>
+<title>Calibra: A Robotic System for Automated Calibration Standard Preparation and Quantification</title>
+<link>https://doi.org/10.1039/d6dd00514d</link>
+<guid isPermaLink="false">10.1039/d6dd00514d</guid>
+<pubDate>Wed, 23 Sep 2026 13:23:06 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Clark Zhang, Rebekah Greenwood, Wenyu Zhang, Maria Politi, Chance Hattrick, Sara Guzman, Matt Reish, Jason E Hein</p><p>Automated sample preparation for small-molecule analysis remains technically challenging not because individual laboratory modules are unavailable, but because integrating them into a reliable end-to-end workflow is. We present Calibra: an...</p><p>DOI: 10.1039/d6dd00514d</p>]]></description>
+</item>
+<item>
+<title>Recent advances in AI-driven biotherapeutic discovery using protein generative models</title>
+<link>https://doi.org/10.1039/d6dd00222f</link>
+<guid isPermaLink="false">10.1039/d6dd00222f</guid>
+<pubDate>Wed, 23 Sep 2026 08:40:39 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Haelyn Kim, Hakyung Lee, Jinung Song, Juyong Lee</p><p>Protein generative models design therapeutic backbones and sequences that are then filtered by cross-validation metrics. We review these methods, their therapeutic applications, and how far these metrics actually predict experimental success.</p><p>DOI: 10.1039/d6dd00222f</p>]]></description>
+</item>
+<item>
+<title>Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES</title>
+<link>https://doi.org/10.1039/d6dd00261g</link>
+<guid isPermaLink="false">10.1039/d6dd00261g</guid>
+<pubDate>Wed, 23 Sep 2026 02:43:36 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yinan Wang, Arpita Varadwaj, Teruyasu Mizoguchi, Masato Kotsugi</p><p>Revealing how heteroatom doping alters the local electronic structure of graphene is crucial for understanding and controlling its functional properties. In this study, we combine density functional theory (DFT) and...</p><p>DOI: 10.1039/d6dd00261g</p>]]></description>
+</item>
+<item>
+<title>Phenotypic reversion and target prioritization for cellular inflammation via representation learning with foundation models</title>
+<link>https://doi.org/10.1039/d6dd00287k</link>
+<guid isPermaLink="false">10.1039/d6dd00287k</guid>
+<pubDate>Tue, 22 Sep 2026 21:43:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Daniel Wong, Mary Piper, Jiao Qiao, Max Russo, Pierre Jean, Djork-Arné Clevert, Jason D Arroyo, Evanthia Pashos</p><p>The identification of genetic perturbations that can reverse disease-associated cellular phenotypes toward a healthy state is a central challenge in early drug discovery. We present a proof-of-concept framework leveraging single-cell...</p><p>DOI: 10.1039/d6dd00287k</p>]]></description>
+</item>
+<item>
+<title>Notation matters: cross-representation inconsistency in chemistry language models and its mechanistic origins</title>
+<link>https://doi.org/10.1039/d6dd00309e</link>
+<guid isPermaLink="false">10.1039/d6dd00309e</guid>
+<pubDate>Tue, 22 Sep 2026 09:25:04 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Animesh Mishra</p><p>Large language models (LLMs) are increasingly applied to molecular property prediction, but whether they encode notation-agnostic molecular representations or exploit surface-level string patterns re- mains untested. We present a dual-phase...</p><p>DOI: 10.1039/d6dd00309e</p>]]></description>
+</item>
+<item>
+<title>An accessible property classification framework to predict the solubility of functionalised naphthalenes and rylenes in organic solvents</title>
+<link>https://doi.org/10.1039/d6dd00275g</link>
+<guid isPermaLink="false">10.1039/d6dd00275g</guid>
+<pubDate>Mon, 21 Sep 2026 16:23:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Connor R.M. MacDonald, Alex Samuel Loch, Neil Berry, Emily Rose Draper</p><p>The development of functional materials such as multilayer films from supramolecular self-assembling materials is hindered by the current lack of design principles and predictability. Quantitative structure-property relationships have emerged as...</p><p>DOI: 10.1039/d6dd00275g</p>]]></description>
+</item>
+<item>
+<title>Uncertainty-Aware Machine Learning Discovery of Temperature-Induced Solid-Solid Phase Transitions for Thermal Management Applications</title>
+<link>https://doi.org/10.1039/d6dd00257a</link>
+<guid isPermaLink="false">10.1039/d6dd00257a</guid>
+<pubDate>Mon, 21 Sep 2026 13:43:59 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Cibrán López, Joshua Ojih, Ming Hu, Josep Lluis Tamarit, Edgardo Saucedo, Claudio Cazorla</p><p>Solid-solid phase transitions underpin key functionalities in energy storage, solid-state refrigeration, and adaptive thermal management, yet predicting them at finite temperature remains a major computational challenge. Here, we introduce an...</p><p>DOI: 10.1039/d6dd00257a</p>]]></description>
+</item>
+<item>
+<title>Large language models as proxies for human experts in synthesis optimization</title>
+<link>https://doi.org/10.1039/d6dd00176a</link>
+<guid isPermaLink="false">10.1039/d6dd00176a</guid>
+<pubDate>Mon, 21 Sep 2026 09:51:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Stephen A. McCoy, Jonathan Chen, Jeffrey G. Ethier, Luke A. Baldwin</p><p>Leveraging human intuition and large language models for the optimization of complex, multi-variable chemical reaction spaces.</p><p>DOI: 10.1039/d6dd00176a</p>]]></description>
+</item>
+<item>
+<title>PyRosettaCluster : a Python framework for scalable and reproducible bio-macromolecular modeling and design</title>
+<link>https://doi.org/10.1039/d6dd00308g</link>
+<guid isPermaLink="false">10.1039/d6dd00308g</guid>
+<pubDate>Mon, 21 Sep 2026 09:07:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jason C. Klima</p><p>The PyRosettaCluster framework automatically encodes the information necessary for scientific reproducibility into its results, promoting a well-defined, scalable scientific computing workflow for bio-macromolecular modeling and design tasks.</p><p>DOI: 10.1039/d6dd00308g</p>]]></description>
+</item>
+<item>
+<title>Commit: SurfPro2: a relational database, curation workflow and repository of surfactant physicochemical data</title>
+<link>https://doi.org/10.1039/d6dd00522e</link>
+<guid isPermaLink="false">10.1039/d6dd00522e</guid>
+<pubDate>Fri, 18 Sep 2026 16:03:51 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Stefan L. Hödl, Pim F. J. Dankloff, Alexander A. Korotkevich, Wilhelm T. S. Huck, William E. Robinson</p><p>It provides a reproducible platform for curating, querying and extracting surfactant physicochemical data.</p><p>DOI: 10.1039/d6dd00522e</p>]]></description>
+</item>
+<item>
+<title>Pockets to products: a data-driven approach for classification of monoterpene synthases</title>
+<link>https://doi.org/10.1039/d6dd00312e</link>
+<guid isPermaLink="false">10.1039/d6dd00312e</guid>
+<pubDate>Fri, 18 Sep 2026 15:24:06 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Cathal Ó Raghallaigh, Nigel S. Scrutton, Sam Hay</p><p>An interpretable structure-based ML framework uses active-site properties to predict linalool or limonene (linear/cyclic) production by monoterpene synthases identifying conserved motifs linked to cyclisation to inform future rational engineering.</p><p>DOI: 10.1039/d6dd00312e</p>]]></description>
+</item>
+<item>
+<title>SLC localization in HEK 293 cells – a Human-in-the-loop machine learning approach</title>
+<link>https://doi.org/10.1039/d5dd00564g</link>
+<guid isPermaLink="false">10.1039/d5dd00564g</guid>
+<pubDate>Fri, 18 Sep 2026 08:46:09 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Bartosz Baranowski, Martin Pfeifer, Elisabetta Ghisu, Mark-Anthony Bray, Ulrich Goldmann, Gernot Wolf, Alvaro Ingles-Prieto, Tabea Wiedmer, Giulio Superti-Furga, Jürgen Reinhardt, Paul Selzer</p><p>Human-in-the-loop machine learning predicts SLC transporter localization in HEK293 cells from high-content imaging, Expert-guided iterative relabeling improves data quality and model accuracy, enabling efficient ML-assisted classification.</p><p>DOI: 10.1039/d5dd00564g</p>]]></description>
+</item>
+<item>
+<title>Real‑Space Chemistry on Quantum Computers: A Fault‑Tolerant Algorithm with Adaptive Grids and Transcorrelated Extension.</title>
+<link>https://doi.org/10.1039/d6dd00002a</link>
+<guid isPermaLink="false">10.1039/d6dd00002a</guid>
+<pubDate>Thu, 17 Sep 2026 17:23:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> César Feniou, Christopher Cherfan, Julien Zylberman, Baptiste Claudon, Jean-Philip Piquemal, Emmanuel Giner</p><p>First-quantized, real-space formulations of quantum chemistry on quantum computers are appealing: qubit count scales logarithmically with spatial resolution, and Coulomb operators achieve quadratic instead of quartic computational scaling of two‑electron...</p><p>DOI: 10.1039/d6dd00002a</p>]]></description>
+</item>
+<item>
+<title>Predicting molecular structure from sparse NMR data, proof-of-concept using a graph neural network</title>
+<link>https://doi.org/10.1039/d6dd00189k</link>
+<guid isPermaLink="false">10.1039/d6dd00189k</guid>
+<pubDate>Thu, 17 Sep 2026 08:03:22 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ben Honoré, Calvin Yiu, Jose Napolitano, Dave Russell, Iuni Margaret Laura Trist, Ruth Dooley, Craig Philip Butts</p><p>We demonstrate that graph-based neural networks are capable of molecular structure elucidation of organic molecules directly from experimentally measurable NMR spectroscopic properties. Such a system is a holy grail for...</p><p>DOI: 10.1039/d6dd00189k</p>]]></description>
+</item>
+<item>
+<title>TopoFormer : a topological-geometric neural network for accurate protein solubility prediction</title>
+<link>https://doi.org/10.1039/d6dd00219f</link>
+<guid isPermaLink="false">10.1039/d6dd00219f</guid>
+<pubDate>Wed, 16 Sep 2026 18:43:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sabari Kumar, Olivia M. Harman, Su-min Song, Yeonjoon Kim, Robert S. Paton, Seonah Kim</p><p>Interpretable protein solubility prediction from predicted protein structures is enabled through the fusion of geometric and topological protein representations.</p><p>DOI: 10.1039/d6dd00219f</p>]]></description>
+</item>
+<item>
+<title>Breaking the digital-physical barrier in organic electronics materials discovery: application to finding anti-Kasha molecules</title>
+<link>https://doi.org/10.1039/d6dd00402d</link>
+<guid isPermaLink="false">10.1039/d6dd00402d</guid>
+<pubDate>Wed, 16 Sep 2026 17:47:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ömer H. Omar, Daniele Padula, Kate A. Morrison, Krzysztof Pawlak, Alexander Ciupa, Dávid Havasi, Alessandro Troisi</p><p>From a large database of 12 million commercially available molecules we identify those that can show emission from higher excited states and verify this property experimentally.</p><p>DOI: 10.1039/d6dd00402d</p>]]></description>
+</item>
+<item>
+<title>From First Principles to Machine Learning: Accelerating the Design and Discovery of Hybrid Organic–Inorganic Perovskites</title>
+<link>https://doi.org/10.1039/d6dd00303f</link>
+<guid isPermaLink="false">10.1039/d6dd00303f</guid>
+<pubDate>Wed, 16 Sep 2026 14:48:00 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yu Lim Kim, Tianle Yue, Ying Li</p><p>Hybrid organic–inorganic perovskites (HOIPs) have emerged as one of the most structurally versatile and technologically promising materials, with demonstrated applications spanning photovoltaics, light-emitting diodes, photodetectors, and piezoelectric energy harvesters. Despite...</p><p>DOI: 10.1039/d6dd00303f</p>]]></description>
+</item>
+<item>
+<title>Inside front cover</title>
+<link>https://doi.org/10.1039/d6dd90047j</link>
+<guid isPermaLink="false">10.1039/d6dd90047j</guid>
+<pubDate>Wed, 16 Sep 2026 14:43:16 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6dd90047j</p>]]></description>
+</item>
+<item>
+<title>Contents list</title>
+<link>https://doi.org/10.1039/d6dd90048h</link>
+<guid isPermaLink="false">10.1039/d6dd90048h</guid>
+<pubDate>Wed, 16 Sep 2026 14:43:02 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6dd90048h</p>]]></description>
+</item>
+<item>
+<title>Front cover</title>
+<link>https://doi.org/10.1039/d6dd90046a</link>
+<guid isPermaLink="false">10.1039/d6dd90046a</guid>
+<pubDate>Wed, 16 Sep 2026 14:41:21 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6dd90046a</p>]]></description>
+</item>
+<item>
+<title>Back cover</title>
+<link>https://doi.org/10.1039/d6dd90049f</link>
+<guid isPermaLink="false">10.1039/d6dd90049f</guid>
+<pubDate>Wed, 16 Sep 2026 14:38:33 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6dd90049f</p>]]></description>
+</item>
+<item>
+<title>Binary Interaction Parameters of a Million Mixtures for PCP-SAFT using Deep Learning</title>
+<link>https://doi.org/10.1039/d6dd00195e</link>
+<guid isPermaLink="false">10.1039/d6dd00195e</guid>
+<pubDate>Wed, 16 Sep 2026 11:25:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Carl Hemprich, Gernot Bauer, Gustavo Chaparro, André Bardow, Philipp Rehner</p><p>Vapor-liquid equilibria of mixtures are essential for designing processes in the chemical, pharmaceutical, and energy industries. In the absence of experimental data, early conceptual process design relies on prediction methods...</p><p>DOI: 10.1039/d6dd00195e</p>]]></description>
+</item>
+<item>
+<title>Towards sustainable exploration of chemical spaces with machine learning</title>
+<link>https://doi.org/10.1039/d6dd00157b</link>
+<guid isPermaLink="false">10.1039/d6dd00157b</guid>
+<pubDate>Wed, 16 Sep 2026 10:43:46 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Leonardo Medrano Sandonas, David Balcells, Tom Barnowsky, Anton Bochkarev, Jacqueline Cole, Volker L. Deringer, Werner Dobrautz, Adrian Ehrenhofer, Thorben Frank, Pascal Friederich, Rico Friedrich, Janine George, Luca Giringhelli, Alejandra Hinostroza, Veronika Jurásková, Hannes Kneiding, Yury Lysogorskiy, Johannes T. Margraf, Hanna Türk, O. Anatole von Lilienfield, Milica Todorović, Alexandre Tkatchenko, Mariana Rossi, Gianaurelio Cuniberti</p><p>Artificial intelligence is transforming molecular and materials science, but its growing computational and data demands raise critical sustainability challenges. In this Perspective, we examine resource considerations across the AI-driven discovery...</p><p>DOI: 10.1039/d6dd00157b</p>]]></description>
+</item>
+<item>
+<title>Quantifying the Structural Memory of Metallic Glasses with Graph Neural Networks</title>
+<link>https://doi.org/10.1039/d6dd00166a</link>
+<guid isPermaLink="false">10.1039/d6dd00166a</guid>
+<pubDate>Tue, 15 Sep 2026 19:43:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Emily J Gurniak, Paulo Branicio</p><p>The structural encoding of thermal history in metallic glasses is obscured by the absence of long-range periodicity. Here, we define a "representative information volume", the minimum spatial scale required to...</p><p>DOI: 10.1039/d6dd00166a</p>]]></description>
+</item>
+<item>
+<title>From literature to lab: LLM powered catalyst synthesis protocol generation</title>
+<link>https://doi.org/10.1039/d6dd00229c</link>
+<guid isPermaLink="false">10.1039/d6dd00229c</guid>
+<pubDate>Tue, 15 Sep 2026 16:33:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yue Zhang, Song Luo, Dongxia Liu, Dionisios G. Vlachos, Hui Fang</p><p>Catalysis plays a crucial role in numerous industrial processes. Yet the vast knowledge of catalyst synthesis procedures in scientific literature remains inaccessible to robotic systems due to the gap between...</p><p>DOI: 10.1039/d6dd00229c</p>]]></description>
+</item>
+<item>
+<title>TRPM8 virtual screening: the essential role of target-specific, inactive-enriched machine-learning scoring functions</title>
+<link>https://doi.org/10.1039/d6dd00399k</link>
+<guid isPermaLink="false">10.1039/d6dd00399k</guid>
+<pubDate>Tue, 15 Sep 2026 11:02:47 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nivya James, Pedro J. Ballester</p><p>The Transient Receptor Potential Melastatin 8 (TRPM8) ion channel is an emerging target in pain and inflammation. Target-specific scoring functions trained on inactive-enriched data enable robust early enrichment in structure-based virtual screening.</p><p>DOI: 10.1039/d6dd00399k</p>]]></description>
+</item>
+<item>
+<title>Robust transfer learning for Bayesian optimization of chemical reactions</title>
+<link>https://doi.org/10.1039/d6dd00527f</link>
+<guid isPermaLink="false">10.1039/d6dd00527f</guid>
+<pubDate>Mon, 14 Sep 2026 13:58:23 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Guanming Chen, Priyanka Parihar, Maximilian Fleck, Thijs Stuyver</p><p>Hyperprior, molecular representation, and transfer strategy are key factors in transfer learning for chemical BO. Our two-phase protocol balances knowledge reuse with robustness against negative transfer, providing a practical default.</p><p>DOI: 10.1039/d6dd00527f</p>]]></description>
+</item>
+<item>
+<title>Gaussian process regression-enhanced screening of Ir–Co–Ti mixed-oxide thin-film electrocatalyst libraries for acidic oxygen evolution</title>
+<link>https://doi.org/10.1039/d6dd00127k</link>
+<guid isPermaLink="false">10.1039/d6dd00127k</guid>
+<pubDate>Mon, 14 Sep 2026 10:42:52 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Joanna M. Przybysz, Felix Thelen, Florian Lourens, Ken Jenewein, Alfred Ludwig, Serhiy Cherevko</p><p>Gaussian process regression-enhanced workflows allow for accelerating research while maintaining a deeper understanding of performance trends.</p><p>DOI: 10.1039/d6dd00127k</p>]]></description>
+</item>
+</channel></rss>
