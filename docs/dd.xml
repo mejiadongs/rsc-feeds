@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 28 Sep 2026 19:43:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 05:51:48 +0000</lastBuildDate>
 <item>
 <title>Atomistic Modeling of Chemical Disorder in Materials: Bridging Conventional Methods and AI-Assisted Approaches</title>
 <link>https://doi.org/10.1039/d6dd00292g</link>
@@ -227,19 +227,5 @@
 <guid isPermaLink="false">10.1039/d6dd00399k</guid>
 <pubDate>Tue, 15 Sep 2026 11:02:47 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Nivya James, Pedro J. Ballester</p><p>The Transient Receptor Potential Melastatin 8 (TRPM8) ion channel is an emerging target in pain and inflammation. Target-specific scoring functions trained on inactive-enriched data enable robust early enrichment in structure-based virtual screening.</p><p>DOI: 10.1039/d6dd00399k</p>]]></description>
-</item>
-<item>
-<title>Robust transfer learning for Bayesian optimization of chemical reactions</title>
-<link>https://doi.org/10.1039/d6dd00527f</link>
-<guid isPermaLink="false">10.1039/d6dd00527f</guid>
-<pubDate>Mon, 14 Sep 2026 13:58:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Guanming Chen, Priyanka Parihar, Maximilian Fleck, Thijs Stuyver</p><p>Hyperprior, molecular representation, and transfer strategy are key factors in transfer learning for chemical BO. Our two-phase protocol balances knowledge reuse with robustness against negative transfer, providing a practical default.</p><p>DOI: 10.1039/d6dd00527f</p>]]></description>
-</item>
-<item>
-<title>Gaussian process regression-enhanced screening of Ir–Co–Ti mixed-oxide thin-film electrocatalyst libraries for acidic oxygen evolution</title>
-<link>https://doi.org/10.1039/d6dd00127k</link>
-<guid isPermaLink="false">10.1039/d6dd00127k</guid>
-<pubDate>Mon, 14 Sep 2026 10:42:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Joanna M. Przybysz, Felix Thelen, Florian Lourens, Ken Jenewein, Alfred Ludwig, Serhiy Cherevko</p><p>Gaussian process regression-enhanced workflows allow for accelerating research while maintaining a deeper understanding of performance trends.</p><p>DOI: 10.1039/d6dd00127k</p>]]></description>
 </item>
 </channel></rss>
