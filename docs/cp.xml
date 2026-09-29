@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Tue, 29 Sep 2026 13:03:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 22:22:46 +0000</lastBuildDate>
+<item>
+<title>Pre-seeding diabatic anchors for reproducible directdynamics quantum photodissociation: An 8-state fulldimensional DD-vMCG study of CH 2 OO</title>
+<link>https://doi.org/10.1039/d6cp02996e</link>
+<guid isPermaLink="false">10.1039/d6cp02996e</guid>
+<pubDate>Tue, 29 Sep 2026 15:22:54 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kevin Ma, Graham Worth</p><p>Criegee intermediates (carbonyl oxides) are atmospheric intermediates whose near-UV photodissociation involves dense manifolds of coupled singlet states. In propagation-diabatised direct-dynamics variational multi-configurational Gaussian (DD-vMCG) calculations, early insertions into a database...</p><p>DOI: 10.1039/d6cp02996e</p>]]></description>
+</item>
 <item>
 <title>Exploring the photophysical properties of CdS core and CdS@ZnS core–shell quantum dots for Hg 2+ -ion sensing and phosphor-converted white LED applications</title>
 <link>https://doi.org/10.1039/d6cp02221a</link>
@@ -810,11 +817,11 @@
 <description><![CDATA[<p><b>Authors:</b> Muthu Austeria, Vinothbabu Palanisamy, Srinivasan Sampath</p><p>The layered material 1T-MoSSe demonstrates enhanced phase stability compared to pristine 1T-MoS₂ and 1T-MoSe₂. To understand the origin of this improved stability, first-principles calculations were employed, focusing on both electronic...</p><p>DOI: 10.1039/d6cp01470d</p>]]></description>
 </item>
 <item>
-<title>Spin-Orbital Matching Driven by Axial Oxygen on V1/Graphene for Selective C=O Hydrogenation of Acrolein</title>
+<title>Spin-orbital matching driven by axial oxygen on V 1 /graphene for selective CO hydrogenation of acrolein</title>
 <link>https://doi.org/10.1039/d6cp02345b</link>
 <guid isPermaLink="false">10.1039/d6cp02345b</guid>
 <pubDate>Wed, 16 Sep 2026 08:23:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bingqing Ge, Fenfei Wei, Jian Lin, Sen Lin</p><p>Thermodynamics usually favors C=C over C=O reduction, challenging selective acrolein hydrogenation on non-noble metals. Our DFT calculations show that axial oxygen on vanadium single-atom anchored on double-vacancy graphene modulates the...</p><p>DOI: 10.1039/d6cp02345b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Bingqing Ge, Fenfei Wei, Jian Lin, Sen Lin</p><p>Double-vacancy graphene with axial O coordination tunes the spin moment of vanadium single atom to match acrolein's HOMO, reversing C=C selectivity preference and enabling allyl alcohol formation on a non-noble catalyst.</p><p>DOI: 10.1039/d6cp02345b</p>]]></description>
 </item>
 <item>
 <title>The robustness of composite pulses elucidated by classical mechanics. II. The role of initial state distribution</title>

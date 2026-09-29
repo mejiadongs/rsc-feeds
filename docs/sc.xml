@@ -3,7 +3,28 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Tue, 29 Sep 2026 13:03:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 22:22:48 +0000</lastBuildDate>
+<item>
+<title>Dynamic Charge Distribution as a Key Driver of Catalytic Reactivity in an Artificial Metalloenzyme</title>
+<link>https://doi.org/10.1039/d6sc05720a</link>
+<guid isPermaLink="false">10.1039/d6sc05720a</guid>
+<pubDate>Tue, 29 Sep 2026 21:23:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> David W Kastner, Linda Leone, Clorice Reinhardt, Husain Adamji, Melissa Manetsch, Alessandra Esposito, Flavia Nastri, Yuriy Román-Leshkov, Angela Lombardi, Heather Kulik</p><p>Miniature artificial metalloenzymes provide a simplified platform to extract design principles for engineering catalysts that outperform natural enzymes. Among them, mimochromes (MCs) emerged as excellent candidates for replicating the activity...</p><p>DOI: 10.1039/d6sc05720a</p>]]></description>
+</item>
+<item>
+<title>Syndirella: Synthesis-directed fragment elaboration enables extensive and cost-effective binding site exploration beyond catalog compounds</title>
+<link>https://doi.org/10.1039/d6sc02032a</link>
+<guid isPermaLink="false">10.1039/d6sc02032a</guid>
+<pubDate>Tue, 29 Sep 2026 18:43:36 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kate K Fieseler, Max Winokan, Joseph Morrone, Charlotte Mary Deane, Frank von Delft, Warren Athol Thompson</p><p>Fragment screens provide an information-rich starting point for designing derivative compounds in structure-based drug discovery. However, derivatives in the fragment-to-hit stage are typically designed from only one or a few...</p><p>DOI: 10.1039/d6sc02032a</p>]]></description>
+</item>
+<item>
+<title>Taming carbamoyl radical for selective hydrocarbamidation of alkynes via metallaphotoredox catalysis</title>
+<link>https://doi.org/10.1039/d6sc01758d</link>
+<guid isPermaLink="false">10.1039/d6sc01758d</guid>
+<pubDate>Tue, 29 Sep 2026 17:43:22 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nandita Ahalyan, Pintu Ghosh, Vikash Kumar, Sudip Maiti, Abhaykumar Rajpara, Saikat Pandit, Debabrata Maiti</p><p>The direct installation of amide groups across unsaturated C-C bonds remains a persistent challenge in chemical transformation. Although nickel-catalyzed hydrocarbamoylation and hydroamidation of alkynes have been developed under thermal conditions,...</p><p>DOI: 10.1039/d6sc01758d</p>]]></description>
+</item>
 <item>
 <title>Boosting CO 2 hydrogenation to C 2+ hydrocarbons via phase modulation using Ni-doped CuCo catalyst</title>
 <link>https://doi.org/10.1039/d6sc05518d</link>
@@ -355,11 +376,11 @@
 <description><![CDATA[<p><b>Authors:</b> Xiangjie Luo, Xinran Ji, Zhuoying Chen, Haoyu Wu, Han Cheng, Bing Zhang, Yong Qian</p><p>In this work, we constructed 14 nitrone-derived 19 F NMR probes for HClO detection, among which 19FP-10 proved capable of reliably quantifying HClO in septic mouse plasma and distinguishing inflamed from normal brain tissue.</p><p>DOI: 10.1039/d6sc06063c</p>]]></description>
 </item>
 <item>
-<title>X-Align: Annotation-Independent Cross-Platform Alignment of Untargeted Metabolomics Features</title>
+<title>X-Align: annotation-independent cross-platform alignment of untargeted metabolomics features</title>
 <link>https://doi.org/10.1039/d6sc04644d</link>
 <guid isPermaLink="false">10.1039/d6sc04644d</guid>
 <pubDate>Tue, 22 Sep 2026 01:04:43 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Han Bao, Zengqi Yan, Bin Wang, Xinxin Wang, Xinjie Zhao, Chunxia Zhao, Wangshu Qin, Wen-Zhao Wang, Chang Liu, Xin Lu, Guowang Xu</p><p>Massive untargeted metabolomics datasets are rapidly accumulating, but cross-study and cross-platform reuse remain limited by poor comparability. This limitation is exacerbated by the low rate of confident structural annotation, which...</p><p>DOI: 10.1039/d6sc04644d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Han Bao, Zengqi Yan, Bin Wang, Xinxin Wang, Xinjie Zhao, Chunxia Zhao, Wangshu Qin, Wenzhao Wang, Chang Liu, Xin Lu, Guowang Xu</p><p>X-Align combines MS/MS-derived reference retention with spectral similarity for annotation-independent alignment of untargeted metabolomics features across platforms and studies.</p><p>DOI: 10.1039/d6sc04644d</p>]]></description>
 </item>
 <item>
 <title>Enantioselective synthesis of sulfondiimidoyl fluorides via pyridine- N -oxide-catalyzed sulfondiimidoyl transfer</title>

@@ -3,7 +3,28 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 29 Sep 2026 13:03:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 22:22:52 +0000</lastBuildDate>
+<item>
+<title>Accelerating Proton Affinity Prediction with Multi-Fidelity Machine Learning</title>
+<link>https://doi.org/10.1039/d6dd00362a</link>
+<guid isPermaLink="false">10.1039/d6dd00362a</guid>
+<pubDate>Tue, 29 Sep 2026 13:03:20 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Debjyoti Bhattacharya, Yifan Liu, Valentino R Cooper, Wesley F. Reinhart</p><p>Accurate gas-phase proton affinities (PAs) are essential for designing proton carriers in anhydrous fuel cells, yet high-level quantum-chemical calculations are too expensive for large libraries. We develop a multi-fidelity △-learning...</p><p>DOI: 10.1039/d6dd00362a</p>]]></description>
+</item>
+<item>
+<title>Benchmarking Machine Learning and Molecular Dynamics Methods for the Prediction of the Thermophysical Properties of Organic Liquids</title>
+<link>https://doi.org/10.1039/d6dd00260a</link>
+<guid isPermaLink="false">10.1039/d6dd00260a</guid>
+<pubDate>Tue, 29 Sep 2026 13:03:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Egheosa Ogbomo, Fionn Carman, Daniele Dini, James Patrick Ewen</p><p>Accurate prediction of thermophysical properties is crucial for the rational design of lubricants and cooling fluids. We compile a database of approximately 4,700 experimental and critically evaluated reference values for...</p><p>DOI: 10.1039/d6dd00260a</p>]]></description>
+</item>
+<item>
+<title>The Data in Data Science for Chemistry: How the Sausage is Made</title>
+<link>https://doi.org/10.1039/d6dd00648e</link>
+<guid isPermaLink="false">10.1039/d6dd00648e</guid>
+<pubDate>Tue, 29 Sep 2026 13:03:03 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ruben Laplaza, Stefan Heinen, Carlos Vivar Rios</p><p>Machine-learning failures in experimental chemistry are often diagnosed as ``messy data'', but messiness is not a single problem. This Perspective argues that experimental ML failures should be diagnosed at the...</p><p>DOI: 10.1039/d6dd00648e</p>]]></description>
+</item>
 <item>
 <title>Atomistic Modeling of Chemical Disorder in Materials: Bridging Conventional Methods and AI-Assisted Approaches</title>
 <link>https://doi.org/10.1039/d6dd00292g</link>
