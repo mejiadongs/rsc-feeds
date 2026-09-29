@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 29 Sep 2026 05:51:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 13:03:46 +0000</lastBuildDate>
 <item>
 <title>Atomistic Modeling of Chemical Disorder in Materials: Bridging Conventional Methods and AI-Assisted Approaches</title>
 <link>https://doi.org/10.1039/d6dd00292g</link>
@@ -79,7 +79,7 @@
 <link>https://doi.org/10.1039/d6dd00309e</link>
 <guid isPermaLink="false">10.1039/d6dd00309e</guid>
 <pubDate>Tue, 22 Sep 2026 09:25:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Animesh Mishra</p><p>Large language models (LLMs) are increasingly applied to molecular property prediction, but whether they encode notation-agnostic molecular representations or exploit surface-level string patterns re- mains untested. We present a dual-phase...</p><p>DOI: 10.1039/d6dd00309e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Animesh Mishra</p><p>Predictions from a chemistry language model shift by 1.69 log S on average when the same molecule is rewritten in another notation, affecting 88% of ESOL. Descriptor models are unaffected, locating the failure in string-based models.</p><p>DOI: 10.1039/d6dd00309e</p>]]></description>
 </item>
 <item>
 <title>An accessible property classification framework to predict the solubility of functionalised naphthalenes and rylenes in organic solvents</title>
@@ -215,11 +215,11 @@
 <description><![CDATA[<p><b>Authors:</b> Emily J Gurniak, Paulo Branicio</p><p>The structural encoding of thermal history in metallic glasses is obscured by the absence of long-range periodicity. Here, we define a "representative information volume", the minimum spatial scale required to...</p><p>DOI: 10.1039/d6dd00166a</p>]]></description>
 </item>
 <item>
-<title>From literature to lab: LLM powered catalyst synthesis protocol generation</title>
+<title>From literature to lab: LLM-powered catalyst synthesis protocol generation</title>
 <link>https://doi.org/10.1039/d6dd00229c</link>
 <guid isPermaLink="false">10.1039/d6dd00229c</guid>
 <pubDate>Tue, 15 Sep 2026 16:33:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yue Zhang, Song Luo, Dongxia Liu, Dionisios G. Vlachos, Hui Fang</p><p>Catalysis plays a crucial role in numerous industrial processes. Yet the vast knowledge of catalyst synthesis procedures in scientific literature remains inaccessible to robotic systems due to the gap between...</p><p>DOI: 10.1039/d6dd00229c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yue Zhang, Song Luo, Dongxia Liu, Dionisios G. Vlachos, Hui Fang</p><p>An LLM transforms catalyst synthesis literature into machine-actionable protocols for robotic experiments.</p><p>DOI: 10.1039/d6dd00229c</p>]]></description>
 </item>
 <item>
 <title>TRPM8 virtual screening: the essential role of target-specific, inactive-enriched machine-learning scoring functions</title>

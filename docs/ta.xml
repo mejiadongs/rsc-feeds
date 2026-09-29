@@ -3,7 +3,49 @@
 <title>RSC - Journal of Materials Chemistry A</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/ta</link>
 <description>RSC - Journal of Materials Chemistry A (via Crossref)</description>
-<lastBuildDate>Tue, 29 Sep 2026 05:51:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 13:03:31 +0000</lastBuildDate>
+<item>
+<title>Scalable Dual-Side LiAlF4 Nano-Coating by Fluidized Electron-Beam Evaporation for High-Voltage, Air-Stable Sulfide All-Solid-State Batteries</title>
+<link>https://doi.org/10.1039/d6ta06042k</link>
+<guid isPermaLink="false">10.1039/d6ta06042k</guid>
+<pubDate>Tue, 29 Sep 2026 11:02:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yu-Ke Wang, Hui-Kang Xia, Jia Lu, Wangqi Dai, Huanhao Lei, Jinning Zuo, Zhengwen Fu</p><p>Sulfide-based all-solid-state batteries (ASSBs) are hindered by the severe oxidative decomposition of electrolytes at high-voltage cathodes. Herein, we report a scalable and solvent-free interface engineering strategy using fluidized electron-beam evaporation...</p><p>DOI: 10.1039/d6ta06042k</p>]]></description>
+</item>
+<item>
+<title>Correlation between ion dynamics and redox activity on in situ anchored 2D-on-1D heterostructures for enhanced energy storage and water splitting</title>
+<link>https://doi.org/10.1039/d6ta05450a</link>
+<guid isPermaLink="false">10.1039/d6ta05450a</guid>
+<pubDate>Tue, 29 Sep 2026 11:00:46 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Gurmeet Kaur, Srishti Agarwal, Shivam Tyagi, Bhaskar Kaviraj</p><p>The synergistic coupling of electrolyte-mediated ion dynamics and heterointerface engineering offers a promising approach for the rational design of high-performance energy storage systems.</p><p>DOI: 10.1039/d6ta05450a</p>]]></description>
+</item>
+<item>
+<title>Achieving high rate capacity and cyclability of LiMn 0.6 Fe 0.4 PO 4 cathode through crystal-facet modulation and Mg-doping engineering</title>
+<link>https://doi.org/10.1039/d6ta04214g</link>
+<guid isPermaLink="false">10.1039/d6ta04214g</guid>
+<pubDate>Tue, 29 Sep 2026 10:46:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xiaoling Cui, Ning He, Peng Wang, Hao Ding, Xingpeng Cai, Meiling Wu, Bin Fu, Hui Li, Ningshuang Zhang, Shiyou Li</p><p>Herein, a synergistic strategy of crystal-facet modulation and Mg doping engineering is proposed to achieve high capacity, superior rate capability, and long cycle stability in LMFP.</p><p>DOI: 10.1039/d6ta04214g</p>]]></description>
+</item>
+<item>
+<title>Soft coral-inspired hyperbranched binders enabling stress adaptability and rapid lithium-ion transport for silicon anodes</title>
+<link>https://doi.org/10.1039/d6ta05814k</link>
+<guid isPermaLink="false">10.1039/d6ta05814k</guid>
+<pubDate>Tue, 29 Sep 2026 06:09:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hua Fan, Haiqing Qin, Yilong Wu, Zuxue Mo, Zhenjun Zhang, Xiangyong Xue, Anjun Lu, Xiaoxu Lei, Haowen Jiang</p><p>The soft coral-inspired LiPAA-TG binder forms a rigid-flexible network for fast Li-ion transport, enabling NCM613-Si/C@graphite pouch cells to reach 1049 cycles at 80% capacity retention.</p><p>DOI: 10.1039/d6ta05814k</p>]]></description>
+</item>
+<item>
+<title>Phase Engineering and Boundary Precipitation for NaNbO3-Based Ceramics with Enhanced Energy Storage Performance</title>
+<link>https://doi.org/10.1039/d6ta06246f</link>
+<guid isPermaLink="false">10.1039/d6ta06246f</guid>
+<pubDate>Tue, 29 Sep 2026 06:04:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xinrong Zhong, Anze Shui, Hulei YU, Quanyue Wen</p><p>Simultaneously improving energy efficiency (η) and dielectric breakdown strength (Eb) is essential for high-performance NaNbO3-based dielectric capacitors. Herein, we propose a synergistic strategy that couples paraelectric phase engineering with the...</p><p>DOI: 10.1039/d6ta06246f</p>]]></description>
+</item>
+<item>
+<title>Hidden Solid-Liquid Interfacial Failure Governs Fast-Charging Degradation in Large-Capacity Semi-Solid-State Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta05518d</link>
+<guid isPermaLink="false">10.1039/d6ta05518d</guid>
+<pubDate>Tue, 29 Sep 2026 06:04:08 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Shanpeng Qin, Yan Lyu, Jie Gao, Menghan Li</p><p>Fast charging is essential for the practical deployment of high-energy lithium-ion batteries, yet the degradation mechanism of commercial large-capacity semi-solid-state lithium-ion batteries under high-rate charging remains insufficiently understood. Here, the...</p><p>DOI: 10.1039/d6ta05518d</p>]]></description>
+</item>
 <item>
 <title>Machine Learning Reveals Performance Trends in Nitrate Electroreduction across Transition Metal Catalysts and Reaction Environments</title>
 <link>https://doi.org/10.1039/d6ta05573g</link>
@@ -481,11 +523,11 @@
 <description><![CDATA[<p><b>Authors:</b> Gabriele Calabrese Sivieri, Nicolò Galvani, Raimondo Cecchini, Cristiano Albonetti, Matteo Ferri, Fulvio Mancarella, Luisa Barba, Denis Gentili, Massimiliano Cavallini, Fabiola Liscio</p><p>Crystallization under confinement offers a route to engineer polymer packing, morphology, and transport pathways in organic thermoelectric materials. Here, we systematically tune the lateral size of in-plane confinement in poly(3,4-ethylenedioxythiophene):polystyrene...</p><p>DOI: 10.1039/d6ta06222a</p>]]></description>
 </item>
 <item>
-<title>Defect-Regulated Ni Single Atoms on g-C3N4 for Visible-Light Semi-Hydrogenation of Phenylacetylene</title>
+<title>Defect-regulated Ni single atoms on g-C 3 N 4 for visible-light semi-hydrogenation of phenylacetylene</title>
 <link>https://doi.org/10.1039/d6ta05695d</link>
 <guid isPermaLink="false">10.1039/d6ta05695d</guid>
 <pubDate>Tue, 22 Sep 2026 08:23:01 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiaohan Ma, Yuanyuan Li, Jingsong Huang, Harry M. Meyer III, Addis Fuhr, Alex Puretzky, Lihua Zhang, Ryuichi Shimogawa, Anatoly I Frenkel, kinga A Unocic, Panchapakesan Ganesh, Jianhua Tong, Zili Wu</p><p>Phenylacetylene (PA), a catalyst-poisoning impurity in styrene feedstock for polystyrene production, can be selectively converted to styrene by semi-hydrogenation. Here, we design a two-dimensional single-atom photocatalyst by anchoring single atom...</p><p>DOI: 10.1039/d6ta05695d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xiaohan Ma, Yuanyuan Li, Jingsong Huang, Harry Meyer, Addis Fuhr, Alexander Puretzky, Lihua Zhang, Ryuichi Shimogawa, Anatoly I. Frenkel, Kinga A. Unocic, Panchapakesan Ganesh, Jianhua Tong, Zili Wu</p><p>Schematic of visible-light PA semi-hydrogenation on Ni single atoms anchored at electron-rich N vacancies on g-C 3 N 4 . Photogenerated charges drive methanol oxidation and PA reduction at adjacent Ni sites, coupled by proton transfer.</p><p>DOI: 10.1039/d6ta05695d</p>]]></description>
 </item>
 <item>
 <title>Dynamic Evolution of Cu Sites in MXenes for Selective Electrochemical CO 2 Reduction: A Density Functional Theory Study</title>
@@ -523,11 +565,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yuying Yang, Junjie Ma, Xueli Huang, Tinxue Feng, Chungen Jiang, He Huang, Na Liu, Peng Wei</p><p>Co 2+ doping regulates CeO 2 oxygen vacancies and acid–base properties; 5%Co–CeO 2 achieves 93.6% diol conversion and 94.6% polycarbonate selectivity, with DRIFTS revealing bidentate carbonate–alkoxide coupling as the key chain-growth step.</p><p>DOI: 10.1039/d6ta06158c</p>]]></description>
 </item>
 <item>
-<title>Cu-cyclen porous organic polymers for highly efficient photocatalytic CO2 reduction and H2 production</title>
+<title>Cu-cyclen porous organic polymers for highly efficient photocatalytic CO 2 reduction and H 2 production</title>
 <link>https://doi.org/10.1039/d6ta04173f</link>
 <guid isPermaLink="false">10.1039/d6ta04173f</guid>
 <pubDate>Tue, 22 Sep 2026 01:04:38 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiawei Hu, Qiao-Yan Qi, Haozheng Lyu, Peng-Ju Tian, Shunyi Ming, Zhan-Ting Li, Jia Tian</p><p>Integrating molecular metal centers into porous organic polymer (POP) frameworks provides an effective strategy to overcome the intrinsic charge-transfer limitations of pristine POP photocatalysts. Here, a Cu-cyclen porous organic polymer...</p><p>DOI: 10.1039/d6ta04173f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jiawei Hu, Qiao-Yan Qi, Haozheng Lyu, Peng-Ju Tian, Shunyi Ming, Zhan-Ting Li, Jia Tian</p><p>A novel Cu-cyclen Cu-POP catalytic system demonstrates a photocatalytic CO 2 -to-CO conversion rate of up to 85 mmol g −1 h −1 and H 2 production rate of up to 6.2 × 10 3 mmol g −1 h −1 , advancing POP platforms for green CO and H 2 production.</p><p>DOI: 10.1039/d6ta04173f</p>]]></description>
 </item>
 <item>
 <title>Sacrificial Cu leaching and molybdate oxoanion-induced suppression of over-oxidation for stable high-entropy-designed anode catalyst</title>
@@ -551,11 +593,11 @@
 <description><![CDATA[<p><b>Authors:</b> Xiaofeng Yuan, Wei Ding, Tongwei Zhang, Ming Lu, Xiaopeng Zhang, Yuangang Xu</p><p>Regioisomerism regulation drives the pyrazole-bistetrazole frameworks to achieve superior overall performance. A series of high-energy salts centered on NPNT were synthesized and comprehensively characterized. Compared with its isomers, NPNT exhibited...</p><p>DOI: 10.1039/d6ta06721b</p>]]></description>
 </item>
 <item>
-<title>The multi-anion environment of Bi13S18I2 governs the mechanism of sodium storage</title>
+<title>The multi-anion environment of Bi 13 S 18 I 2 governs the mechanism of sodium storage</title>
 <link>https://doi.org/10.1039/d6ta06219a</link>
 <guid isPermaLink="false">10.1039/d6ta06219a</guid>
 <pubDate>Mon, 21 Sep 2026 13:24:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xuerui Yi, Yuanzhu Zhao, Zhenyu Guo, Megha Goyal, A. Robert Armstrong, John Irvine, Maria Magdalena Titirici, Caroline Kirk, Neil Robertson</p><p>Sodium-ion batteries (SIBs) are promising for large-scale energy storage. Alloy-type anodes such as Bi metal offer high capacity yet suffer from severe volume expansion and unstable cycling due to alloying...</p><p>DOI: 10.1039/d6ta06219a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xuerui Yi, Yuanzhu Zhao, Zhenyu Guo, Megha Goyal, A. Robert Armstrong, John T. S. Irvine, Maria-Magdalena Titirici, Caroline Kirk, Neil Robertson</p><p>The multi-anion environment of Bi 13 S 18 I 2 modulates the sodium-storage pathway.</p><p>DOI: 10.1039/d6ta06219a</p>]]></description>
 </item>
 <item>
 <title>Direct observation and quantitative analysis of lithium diffusion in LLNbO single crystals via isotope tracing and TOF-SIMS</title>
@@ -628,11 +670,11 @@
 <description><![CDATA[<p><b>Authors:</b> Shi Gu, Guangli Tang, Xianglei Chen, Liang Yin, Hong Li</p><p>Decreasing precursor primary-particle size promotes Li 2 MnO 3 -related structural development and faster Li + transport, enabling higher capacity and improved rate performance in Co-free Li-rich layered cathodes.</p><p>DOI: 10.1039/d6ta04277e</p>]]></description>
 </item>
 <item>
-<title>Exploring the interactions in the ceramic-ceramic membrane, La0.9Sr0.1CoO3-Ce0.8La0.2O2, during the partial oxidation of methane via in situ diffraction</title>
+<title>Exploring the interactions in the ceramic–ceramic membrane, La 0.9 Sr 0.1 CoO 3− δ –Ce 0.8 La 0.2 O 2− δ , during the partial oxidation of methane via in situ diffraction</title>
 <link>https://doi.org/10.1039/d6ta05714d</link>
 <guid isPermaLink="false">10.1039/d6ta05714d</guid>
 <pubDate>Fri, 18 Sep 2026 18:23:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nikolai  Anthony Moreno Clark, Dennis D Nguyen, Patrick Phelps, Thomas Proffen, Allyson Fry-Petit</p><p>Combining a robust catalytically active oxygen transport membrane with ceria-based oxides with high oxygen storage capacity has been used to improve catalytic properties, such as the partial oxidation of methane,...</p><p>DOI: 10.1039/d6ta05714d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Nikolai A. M. Clark, Dennis D. Nguyen, Thomas Proffen, Patrick Phelps, Allyson M. Fry-Petit</p><p>Combining a catalytically active oxygen transport membrane with a ceria-based oxide with high oxygen storage capacity improves catalytic properties, such as the partial oxidation of methane, with the goal of efficient hydrogen generation.</p><p>DOI: 10.1039/d6ta05714d</p>]]></description>
 </item>
 <item>
 <title>Giant built-in field-driven bias-free water splitting in Janus actinide MXenes via solid-liquid interface reconstruction</title>
