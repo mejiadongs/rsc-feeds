@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 29 Sep 2026 22:22:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 05:41:44 +0000</lastBuildDate>
 <item>
 <title>Accelerating Proton Affinity Prediction with Multi-Fidelity Machine Learning</title>
 <link>https://doi.org/10.1039/d6dd00362a</link>
@@ -227,26 +227,5 @@
 <guid isPermaLink="false">10.1039/d6dd00157b</guid>
 <pubDate>Wed, 16 Sep 2026 10:43:46 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Leonardo Medrano Sandonas, David Balcells, Tom Barnowsky, Anton Bochkarev, Jacqueline Cole, Volker L. Deringer, Werner Dobrautz, Adrian Ehrenhofer, Thorben Frank, Pascal Friederich, Rico Friedrich, Janine George, Luca Giringhelli, Alejandra Hinostroza, Veronika Jurásková, Hannes Kneiding, Yury Lysogorskiy, Johannes T. Margraf, Hanna Türk, O. Anatole von Lilienfield, Milica Todorović, Alexandre Tkatchenko, Mariana Rossi, Gianaurelio Cuniberti</p><p>Artificial intelligence is transforming molecular and materials science, but its growing computational and data demands raise critical sustainability challenges. In this Perspective, we examine resource considerations across the AI-driven discovery...</p><p>DOI: 10.1039/d6dd00157b</p>]]></description>
-</item>
-<item>
-<title>Quantifying the Structural Memory of Metallic Glasses with Graph Neural Networks</title>
-<link>https://doi.org/10.1039/d6dd00166a</link>
-<guid isPermaLink="false">10.1039/d6dd00166a</guid>
-<pubDate>Tue, 15 Sep 2026 19:43:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Emily J Gurniak, Paulo Branicio</p><p>The structural encoding of thermal history in metallic glasses is obscured by the absence of long-range periodicity. Here, we define a "representative information volume", the minimum spatial scale required to...</p><p>DOI: 10.1039/d6dd00166a</p>]]></description>
-</item>
-<item>
-<title>From literature to lab: LLM-powered catalyst synthesis protocol generation</title>
-<link>https://doi.org/10.1039/d6dd00229c</link>
-<guid isPermaLink="false">10.1039/d6dd00229c</guid>
-<pubDate>Tue, 15 Sep 2026 16:33:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yue Zhang, Song Luo, Dongxia Liu, Dionisios G. Vlachos, Hui Fang</p><p>An LLM transforms catalyst synthesis literature into machine-actionable protocols for robotic experiments.</p><p>DOI: 10.1039/d6dd00229c</p>]]></description>
-</item>
-<item>
-<title>TRPM8 virtual screening: the essential role of target-specific, inactive-enriched machine-learning scoring functions</title>
-<link>https://doi.org/10.1039/d6dd00399k</link>
-<guid isPermaLink="false">10.1039/d6dd00399k</guid>
-<pubDate>Tue, 15 Sep 2026 11:02:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nivya James, Pedro J. Ballester</p><p>The Transient Receptor Potential Melastatin 8 (TRPM8) ion channel is an emerging target in pain and inflammation. Target-specific scoring functions trained on inactive-enriched data enable robust early enrichment in structure-based virtual screening.</p><p>DOI: 10.1039/d6dd00399k</p>]]></description>
 </item>
 </channel></rss>
