@@ -3,7 +3,56 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Wed, 30 Sep 2026 05:41:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 12:45:32 +0000</lastBuildDate>
+<item>
+<title>Computational investigation of small toxic molecule adsorption on water-stable metal–organic frameworks</title>
+<link>https://doi.org/10.1039/d5cp04215a</link>
+<guid isPermaLink="false">10.1039/d5cp04215a</guid>
+<pubDate>Wed, 30 Sep 2026 10:31:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nazli Jodaeeasl, Shiliang Wang, Anguang Hu, Gilles H. Peslherbe</p><p>Identifying new materials for efficient capture of toxic gases like NH 3 , H 2 S, NO 2 , and SO 2 in humid media is crucial for environmental and human health.</p><p>DOI: 10.1039/d5cp04215a</p>]]></description>
+</item>
+<item>
+<title>Coulomb trapping of ions in a solid electrolyte interphase by deprotonation-induced surface charges</title>
+<link>https://doi.org/10.1039/d6cp00876c</link>
+<guid isPermaLink="false">10.1039/d6cp00876c</guid>
+<pubDate>Wed, 30 Sep 2026 10:30:03 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Isabel Pantenburg, Michael Stich, Falk Thorsten Krauss, Lars Pateras Pescara, Andrea Gabriele Jaegermann, Diemo Renz, Till-Bjarne Upmeier, Jörg Sundermeyer, Andreas Bund, Bernhard Roling</p><p>Deprotonation experiments of SEIs show that fixed surface charges in narrow pores can reduce ionic conductivity, contradicting existing models of ion transport through charged pores. Here, an alternative model based on Coulomb trapping is presented.</p><p>DOI: 10.1039/d6cp00876c</p>]]></description>
+</item>
+<item>
+<title>Sequential FDTD–MD field transfer for mesoscopic dielectric heterogeneity and reduced Langevin structural-bias modelling</title>
+<link>https://doi.org/10.1039/d6cp01711h</link>
+<guid isPermaLink="false">10.1039/d6cp01711h</guid>
+<pubDate>Wed, 30 Sep 2026 09:59:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kevin Thorsen Baird</p><p>A sequential FDTD-MD framework transfers time-averaged rectified fields from mesoscopic photonic jets to simulate macroscopic field-driven structural bias.</p><p>DOI: 10.1039/d6cp01711h</p>]]></description>
+</item>
+<item>
+<title>Molecular insights into pre-existing crack induced mechanical degradation of CSH gel</title>
+<link>https://doi.org/10.1039/d6cp02453j</link>
+<guid isPermaLink="false">10.1039/d6cp02453j</guid>
+<pubDate>Wed, 30 Sep 2026 09:40:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yonghe Tang, Wenbin Xing, Huilin Xie, Cong Lu, Dongshuai Hou, Muhan Wang, Yue Zhang, Xiangfei Meng, Pan Wang</p><p>Atomistic simulations show that higher Ca/Si ratios reduce CSH stiffness and tensile strength, while pre-existing Mode I fractures intensify anisotropy, stress concentration, and fracture propagation.</p><p>DOI: 10.1039/d6cp02453j</p>]]></description>
+</item>
+<item>
+<title>Performance of molybdenum carbide MXenes for pollutant abatement and sensing</title>
+<link>https://doi.org/10.1039/d6cp01565d</link>
+<guid isPermaLink="false">10.1039/d6cp01565d</guid>
+<pubDate>Wed, 30 Sep 2026 09:40:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ricardo Bermeo-Campos, Ángel Morales-García, Alejandro Trejo-Baños, Raúl Oviedo-Roa, Miguel Cruz-Irisson, Francesc Illas</p><p>The adsorption of H 2 S, NH 3 , and HCN pollutants on Mo-derived MXenes with different thicknesses and functionalizations is systematically investigated by means of density functional theory (DFT) combined with transition state theory (TST).</p><p>DOI: 10.1039/d6cp01565d</p>]]></description>
+</item>
+<item>
+<title>Systematic summary and in-depth analysis of the interaction mechanism of multiple modulated structures in the p-type (Bi, Sb) 2 Te 3 alloy</title>
+<link>https://doi.org/10.1039/d6cp02907h</link>
+<guid isPermaLink="false">10.1039/d6cp02907h</guid>
+<pubDate>Wed, 30 Sep 2026 09:36:08 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jie Ren, Qichen Wang, Hangtian Zhu, Fuzhou Han, Wenbin Guo, Geping Li, Jianan Hu</p><p>The interaction mechanism of multiple modulation structures in the p-type (Bi, Sb) 2 Te 3 alloy was observed and summarized for the first time during three-point bending tests.</p><p>DOI: 10.1039/d6cp02907h</p>]]></description>
+</item>
+<item>
+<title>Unraveling the Role of Surface Structure and A Generalized Coordination Number Descriptor for H2O2 Decomposition: Insights for Green Fenton Systems</title>
+<link>https://doi.org/10.1039/d6cp02549h</link>
+<guid isPermaLink="false">10.1039/d6cp02549h</guid>
+<pubDate>Wed, 30 Sep 2026 07:38:46 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Chentao Xu, Ji Li, Zhizhang Shen</p><p>The electrocatalytic green Fenton process has attracted increasing attention for wastewater treatment due to its mild operating conditions. However, the influence of surface structure and metal properties on this process...</p><p>DOI: 10.1039/d6cp02549h</p>]]></description>
+</item>
 <item>
 <title>High-pressure superconductivity in hexagonal CaSH3 with a nonclathrate molecular hydrogen structure</title>
 <link>https://doi.org/10.1039/d6cp03412h</link>
@@ -320,11 +369,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jule Kristin Philipp-Taube, Bennet Austrup, Dietmar Paschek, Annette-Enrica Surkus, Stephan Bartling, Lennart Kruse, Monika Schönhoff, Ralf Ludwig</p><p>Solvate ionic liquids (SILs) are characterised by high thermal and electrochemical stability but suffer from high viscosities and limited ionic conductivities, restricting their application as battery electrolytes. Recently, we introduced...</p><p>DOI: 10.1039/d6cp02990f</p>]]></description>
 </item>
 <item>
-<title>Autonomous Stepping Dynamics of a Two-Legged DNA Walker on a Nanopore Track</title>
+<title>Autonomous stepping dynamics of a two-legged DNA walker on a nanopore track</title>
 <link>https://doi.org/10.1039/d6cp03274e</link>
 <guid isPermaLink="false">10.1039/d6cp03274e</guid>
 <pubDate>Wed, 23 Sep 2026 13:03:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiu-Chong Liu, Jia-Qi Yang, Cheng Li, Li-Zhen Sun</p><p>DNA walkers, a key component of nanorobots, require precise movement control for applications in nanoscale transport and sensing. While biological tracks are widely used in experiments, recent proof-of-principle studies suggest...</p><p>DOI: 10.1039/d6cp03274e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xiu-Chong Liu, Jia-Qi Yang, Cheng Li, Li-Zhen Sun</p><p>Langevin dynamics simulations demonstrate that the walking dynamics, reliability, and efficiency can be modulated by tuning the environmental conditions for autonomous walking of a two-legged DNA walker on the nanopore track.</p><p>DOI: 10.1039/d6cp03274e</p>]]></description>
 </item>
 <item>
 <title>Kinetics of CO 2 reduction across Fe(Ni)S precipitates: the role of pH gradients</title>
@@ -600,11 +649,11 @@
 <description><![CDATA[<p><b>Authors:</b> Ya-Xuan Cheng, Lixia Bai, Jin-Chang Guo</p><p>Stabilizing planar tetracoordinate fluorine (ptF) remains challenging, as its high electronegativity restricts electron delocalization. "Altering the rigidity of the ligand ring" is an effective way to expand the ptF family....</p><p>DOI: 10.1039/d6cp02592g</p>]]></description>
 </item>
 <item>
-<title>In-gap states enhance the hydroxylation of c(6x2) terminated SrTiO 3</title>
+<title>In-gap states enhance the hydroxylation of c (6 × 2) terminated SrTiO 3</title>
 <link>https://doi.org/10.1039/d6cp01053a</link>
 <guid isPermaLink="false">10.1039/d6cp01053a</guid>
 <pubDate>Mon, 21 Sep 2026 08:42:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Marie Neumann, Virginia Pérez-Dieste, Jan Philipp Hofmann</p><p>Strontium titanate (SrTiO 3 ) has been established as a model perovskite for studying fundamental surface-molecule interactions and mechanisms in photo-electrocatalysis. Here, we investigated the electronic structure and water adsorption behavior of...</p><p>DOI: 10.1039/d6cp01053a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Marie Neumann, Virginia Pérez-Dieste, Jan P. Hofmann</p><p>For SrO-terminated SrTiO 3 , shifting E F closer to the CBM by Nb-doping and reduction leads to enhanced surface hydroxylation. This is attributed to higher surface basicity and favourable downward band bending, due to in-gap states close to E F .</p><p>DOI: 10.1039/d6cp01053a</p>]]></description>
 </item>
 <item>
 <title>Complex and heterogeneous fusion dynamics of protein condensates by high-speed imaging and optical trapping</title>
