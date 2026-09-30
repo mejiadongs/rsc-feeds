@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 30 Sep 2026 12:45:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 22:22:26 +0000</lastBuildDate>
+<item>
+<title>Generating Cyclic Conformers with Flow Matching in Cremer-Pople Coordinates</title>
+<link>https://doi.org/10.1039/d6dd00199h</link>
+<guid isPermaLink="false">10.1039/d6dd00199h</guid>
+<pubDate>Wed, 30 Sep 2026 19:43:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Luca Schaufelberger, Aline Hartgers, Kjell Jorner</p><p>Cyclic molecules are ubiquitous across applications in chemistry and biology. Their restricted conformational flexibility provides structural pre-organization that is key to their function in drug discovery and catalysis. However, reliably...</p><p>DOI: 10.1039/d6dd00199h</p>]]></description>
+</item>
+<item>
+<title>Discrete Flow-Based Generative Models for Measurement Optimization in Quantum Computing</title>
+<link>https://doi.org/10.1039/d6dd00430j</link>
+<guid isPermaLink="false">10.1039/d6dd00430j</guid>
+<pubDate>Wed, 30 Sep 2026 14:23:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Isaac L Huidobro-Meezs, Jun Dai, Rodrigo Vargas-Hernandez</p><p>Quantum chemical simulations on quantum computers are limited by a measurement bottleneck: estimating molecular Hamiltonians to chemical accuracy requires a large number of measurements, which remain costly even on fault-tolerant...</p><p>DOI: 10.1039/d6dd00430j</p>]]></description>
+</item>
 <item>
 <title>Accelerating Proton Affinity Prediction with Multi-Fidelity Machine Learning</title>
 <link>https://doi.org/10.1039/d6dd00362a</link>
@@ -226,6 +240,6 @@
 <link>https://doi.org/10.1039/d6dd00157b</link>
 <guid isPermaLink="false">10.1039/d6dd00157b</guid>
 <pubDate>Wed, 16 Sep 2026 10:43:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Leonardo Medrano Sandonas, David Balcells, Tom Barnowsky, Anton Bochkarev, Jacqueline Cole, Volker L. Deringer, Werner Dobrautz, Adrian Ehrenhofer, Thorben Frank, Pascal Friederich, Rico Friedrich, Janine George, Luca Giringhelli, Alejandra Hinostroza, Veronika Jurásková, Hannes Kneiding, Yury Lysogorskiy, Johannes T. Margraf, Hanna Türk, O. Anatole von Lilienfield, Milica Todorović, Alexandre Tkatchenko, Mariana Rossi, Gianaurelio Cuniberti</p><p>Artificial intelligence is transforming molecular and materials science, but its growing computational and data demands raise critical sustainability challenges. In this Perspective, we examine resource considerations across the AI-driven discovery...</p><p>DOI: 10.1039/d6dd00157b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Leonardo Medrano Sandonas, David Balcells, Tom Barnowsky, Anton Bochkarev, Jacqueline M. Cole, Volker L. Deringer, Werner Dobrautz, Adrian Ehrenhofer, Thorben Frank, Pascal Friederich, Rico Friedrich, Janine George, Luca Ghiringhelli, Alejandra Hinostroza Caldas, Veronika Juraskova, Hannes Kneiding, Yury Lysogorskiy, Johannes T. Margraf, Hanna Türk, Anatole von Lilienfeld, Milica Todorović, Alexandre Tkatchenko, Mariana Rossi, Gianaurelio Cuniberti</p><p>The central message of this Perspective is that sustainable ML requires not only designing more efficient algorithms but also transparent reporting, reusable datasets and models, informed benchmarking, and resource-aware community practices.</p><p>DOI: 10.1039/d6dd00157b</p>]]></description>
 </item>
 </channel></rss>

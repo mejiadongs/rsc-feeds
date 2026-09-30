@@ -3,7 +3,14 @@
 <title>RSC - Journal of Materials Chemistry C</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/tc</link>
 <description>RSC - Journal of Materials Chemistry C (via Crossref)</description>
-<lastBuildDate>Wed, 30 Sep 2026 12:45:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 22:22:16 +0000</lastBuildDate>
+<item>
+<title>Sequential Sputtering and Post-Sulfurization Strategy for Stoichiometric AgBiS 2 Photovoltaics</title>
+<link>https://doi.org/10.1039/d6tc02641a</link>
+<guid isPermaLink="false">10.1039/d6tc02641a</guid>
+<pubDate>Wed, 30 Sep 2026 17:03:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nayeong Kwon, Minho Choi, Suhwan Kim, Nuri Na, SangWon KANG, Hyeong Won Seo, Suseong Jang, Da Seul Lee, Jongsung Park</p><p>Silver bismuth sulfide (AgBiS 2 ) has rapidly emerged as a semiconductor alternative to conventional photo-absorber layers in thin-film solar cells. While AgBiS 2 possesses excellent characteristics as a photo-absorber...</p><p>DOI: 10.1039/d6tc02641a</p>]]></description>
+</item>
 <item>
 <title>Donor-dependent aggregation and thermally activated delayed fluorescence in asymmetric anthraquinone-based donor–acceptor emitters</title>
 <link>https://doi.org/10.1039/d6tc02298g</link>
@@ -313,11 +320,11 @@
 <description><![CDATA[<p><b>Authors:</b> Katherine A Koch, Carlos Silva, Ajay Ram  Ram Srimath Kandada</p><p>Excitons and their correlated complexes underpin the rich photophysics of quantum-confined semiconductors. Among these, biexcitons -- bound states of two electrons and two holes -- provide a sensitive probe of...</p><p>DOI: 10.1039/d6tc02365g</p>]]></description>
 </item>
 <item>
-<title>Low Dimensionality-Engineered Ga2O3: From Structural Anisotropy to Carrier Lifecycle Engineering and Beyond</title>
+<title>Low dimensionality-engineered Ga 2 O 3 : from structural anisotropy to carrier lifecycle engineering and beyond</title>
 <link>https://doi.org/10.1039/d6tc02700h</link>
 <guid isPermaLink="false">10.1039/d6tc02700h</guid>
 <pubDate>Wed, 23 Sep 2026 01:43:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiayi Liu, Shujie Jiao, Zehao Shi, Shiyong Gao, Dongbo Wang, Liancheng Zhao</p><p>Gallium oxide (Ga2O3) has emerged as a prominent ultra-wide bandgap semiconductor, yet its bulk counterparts are constrained by inherent structural and application limitations, such as lattice mismatch and the absence...</p><p>DOI: 10.1039/d6tc02700h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jiayi Liu, Shujie Jiao, Zehao Shi, Shiyong Gao, Dongbo Wang, Liancheng Zhao</p><p>Low-dimensional gallium oxide has demonstrated great potential for applications in various fields, such as optoelectronic devices, sensors, and energy technologies, benefiting from the unique physical effects arising from its diverse low-dimensional structural characteristics.</p><p>DOI: 10.1039/d6tc02700h</p>]]></description>
 </item>
 <item>
 <title>Impact of dynamic electrostatic disorder on hole mobility in rubrene: a nonadiabatic molecular dynamics investigation</title>
@@ -425,18 +432,18 @@
 <description><![CDATA[<p><b>Authors:</b> Kohei Yoshimoto, Atsunobu Masuno, Yoshinobu Ezura, Motoi Ueda, Hiroyuki Inoue</p><p>Machine learning MD and synchrotron X-ray experiments suggest that high oxygen coordination suppresses Er clustering, while locally reduced high-energy phonons around Er support efficient MIR fluorescence in Er:La 2 O 3 –Ga 2 O 3 glasses.</p><p>DOI: 10.1039/d6tc02510b</p>]]></description>
 </item>
 <item>
-<title>Decoupling luminescence kinetics in GAGG:Ce,Mg via defect engineering for ultrafast time resolution</title>
-<link>https://doi.org/10.1039/d6tc02552h</link>
-<guid isPermaLink="false">10.1039/d6tc02552h</guid>
-<pubDate>Mon, 21 Sep 2026 15:17:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yiran Hou, RunZe Xu, ZheHao Hua, Lingyue Chen, Xingcan Li, Hao He, Peng Hu, Andrei Sidorenkov, Zheng Liu, Feng Gao, Sen Qian, Jing Ren</p><p>A dual-mode defect engineering strategy in GAGG:Ce,Mg suppresses slow scintillation traps while selectively harnessing prompt Cherenkov radiation via UV-sensitive readout, achieving an ultrafast coincidence time resolution ( σ ) of 24.15 ps.</p><p>DOI: 10.1039/d6tc02552h</p>]]></description>
-</item>
-<item>
 <title>Nanosheet-like MnCo2O4.5@NiCo2S4 composite in situ grown on nickel foam for high-performance supercapacitor</title>
 <link>https://doi.org/10.1039/d6tc02519f</link>
 <guid isPermaLink="false">10.1039/d6tc02519f</guid>
 <pubDate>Mon, 21 Sep 2026 15:17:56 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Zhanjun YU, Xinlong Yao, Yaodong Zhao, Zhengsen Chen, Haibo Huo</p><p>Rational design and fabrication of nanocomposites represent an effective strategy to enhance the energy density, structural stability, and long-term cycling durability of supercapacitors. In this work, nanosheet-like MnCo2O4.5@NiCo2S4 (MCO@NCS) composite...</p><p>DOI: 10.1039/d6tc02519f</p>]]></description>
+</item>
+<item>
+<title>Decoupling luminescence kinetics in GAGG:Ce,Mg via defect engineering for ultrafast time resolution</title>
+<link>https://doi.org/10.1039/d6tc02552h</link>
+<guid isPermaLink="false">10.1039/d6tc02552h</guid>
+<pubDate>Mon, 21 Sep 2026 15:17:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yiran Hou, RunZe Xu, ZheHao Hua, Lingyue Chen, Xingcan Li, Hao He, Peng Hu, Andrei Sidorenkov, Zheng Liu, Feng Gao, Sen Qian, Jing Ren</p><p>A dual-mode defect engineering strategy in GAGG:Ce,Mg suppresses slow scintillation traps while selectively harnessing prompt Cherenkov radiation via UV-sensitive readout, achieving an ultrafast coincidence time resolution ( σ ) of 24.15 ps.</p><p>DOI: 10.1039/d6tc02552h</p>]]></description>
 </item>
 <item>
 <title>Spectroelectrochemical identification and quantification of singly and doubly oxidized polaron states in 2TNATA</title>
@@ -586,11 +593,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jialing Shi, Yue Sun, Haorui Yang, Bin Tang</p><p>This work demonstrates polarization-switchable THG enabled by selective excitation of distinct BICs in an all-dielectric metasurface.</p><p>DOI: 10.1039/d6tc02666d</p>]]></description>
 </item>
 <item>
-<title>Centimetre-size Single Crystals of Metal-free Molecular Pyroelectrics for Broadband Self-powered Photodetection</title>
+<title>Centimetre-size single crystals of metal-free molecular pyroelectrics for broadband self-powered photodetection</title>
 <link>https://doi.org/10.1039/d6tc02419j</link>
 <guid isPermaLink="false">10.1039/d6tc02419j</guid>
 <pubDate>Wed, 16 Sep 2026 14:37:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rui Xiao, Yu Ma, Liwei Tang, Linjie Wei, Qingshun Fan, Mengqi Li, Ji Qi, Guangling Bian, Junhua Luo, Zhihua Sun</p><p>Broadband photodetection that covers the ultraviolet–visible–near-infrared (UV–vis–NIR) optical region is critical for advanced imaging and sensing applications. Metal-free molecular pyroelectric materials, featuring structural tunability, mechanical flexibility, low-temperature processability and environmental...</p><p>DOI: 10.1039/d6tc02419j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Rui Xiao, Yu Ma, Liwei Tang, Linjie Wei, Qingshun Fan, Mengqi Li, Ji Qi, Guangling Bian, Junhua Luo, Zhihua Sun</p><p>Halogen modification of binary ionic salts yields metal-free molecular pyroelectrics with centimetre-size single crystals, enabling self-powered broadband photodetection and providing a route to environmentally friendly detector materials.</p><p>DOI: 10.1039/d6tc02419j</p>]]></description>
 </item>
 <item>
 <title>Dual-function silicon photodetector enabling UV-NIR wavelength identification and color recognition</title>
