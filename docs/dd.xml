@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 30 Sep 2026 22:22:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 06:07:18 +0000</lastBuildDate>
 <item>
 <title>Generating Cyclic Conformers with Flow Matching in Cremer-Pople Coordinates</title>
 <link>https://doi.org/10.1039/d6dd00199h</link>
@@ -178,68 +178,5 @@
 <guid isPermaLink="false">10.1039/d6dd00189k</guid>
 <pubDate>Thu, 17 Sep 2026 08:03:22 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Ben Honoré, Calvin Yiu, Jose Napolitano, Dave Russell, Iuni Margaret Laura Trist, Ruth Dooley, Craig Philip Butts</p><p>We demonstrate that graph-based neural networks are capable of molecular structure elucidation of organic molecules directly from experimentally measurable NMR spectroscopic properties. Such a system is a holy grail for...</p><p>DOI: 10.1039/d6dd00189k</p>]]></description>
-</item>
-<item>
-<title>TopoFormer : a topological-geometric neural network for accurate protein solubility prediction</title>
-<link>https://doi.org/10.1039/d6dd00219f</link>
-<guid isPermaLink="false">10.1039/d6dd00219f</guid>
-<pubDate>Wed, 16 Sep 2026 18:43:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sabari Kumar, Olivia M. Harman, Su-min Song, Yeonjoon Kim, Robert S. Paton, Seonah Kim</p><p>Interpretable protein solubility prediction from predicted protein structures is enabled through the fusion of geometric and topological protein representations.</p><p>DOI: 10.1039/d6dd00219f</p>]]></description>
-</item>
-<item>
-<title>Breaking the digital-physical barrier in organic electronics materials discovery: application to finding anti-Kasha molecules</title>
-<link>https://doi.org/10.1039/d6dd00402d</link>
-<guid isPermaLink="false">10.1039/d6dd00402d</guid>
-<pubDate>Wed, 16 Sep 2026 17:47:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ömer H. Omar, Daniele Padula, Kate A. Morrison, Krzysztof Pawlak, Alexander Ciupa, Dávid Havasi, Alessandro Troisi</p><p>From a large database of 12 million commercially available molecules we identify those that can show emission from higher excited states and verify this property experimentally.</p><p>DOI: 10.1039/d6dd00402d</p>]]></description>
-</item>
-<item>
-<title>From first principles to machine learning: accelerating the design and discovery of hybrid organic–inorganic perovskites</title>
-<link>https://doi.org/10.1039/d6dd00303f</link>
-<guid isPermaLink="false">10.1039/d6dd00303f</guid>
-<pubDate>Wed, 16 Sep 2026 14:48:00 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Lim Kim, Tianle Yue, Ying Li</p><p>Forward and inverse design workflows for Hybrid organic–inorganic perovskite (HOIP) discovery. The two workflows traverse the structure–property mapping in opposite directions toward the same target properties.</p><p>DOI: 10.1039/d6dd00303f</p>]]></description>
-</item>
-<item>
-<title>Inside front cover</title>
-<link>https://doi.org/10.1039/d6dd90047j</link>
-<guid isPermaLink="false">10.1039/d6dd90047j</guid>
-<pubDate>Wed, 16 Sep 2026 14:43:16 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90047j</p>]]></description>
-</item>
-<item>
-<title>Contents list</title>
-<link>https://doi.org/10.1039/d6dd90048h</link>
-<guid isPermaLink="false">10.1039/d6dd90048h</guid>
-<pubDate>Wed, 16 Sep 2026 14:43:02 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90048h</p>]]></description>
-</item>
-<item>
-<title>Front cover</title>
-<link>https://doi.org/10.1039/d6dd90046a</link>
-<guid isPermaLink="false">10.1039/d6dd90046a</guid>
-<pubDate>Wed, 16 Sep 2026 14:41:21 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90046a</p>]]></description>
-</item>
-<item>
-<title>Back cover</title>
-<link>https://doi.org/10.1039/d6dd90049f</link>
-<guid isPermaLink="false">10.1039/d6dd90049f</guid>
-<pubDate>Wed, 16 Sep 2026 14:38:33 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90049f</p>]]></description>
-</item>
-<item>
-<title>Binary Interaction Parameters of a Million Mixtures for PCP-SAFT using Deep Learning</title>
-<link>https://doi.org/10.1039/d6dd00195e</link>
-<guid isPermaLink="false">10.1039/d6dd00195e</guid>
-<pubDate>Wed, 16 Sep 2026 11:25:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Carl Hemprich, Gernot Bauer, Gustavo Chaparro, André Bardow, Philipp Rehner</p><p>Vapor-liquid equilibria of mixtures are essential for designing processes in the chemical, pharmaceutical, and energy industries. In the absence of experimental data, early conceptual process design relies on prediction methods...</p><p>DOI: 10.1039/d6dd00195e</p>]]></description>
-</item>
-<item>
-<title>Towards sustainable exploration of chemical spaces with machine learning</title>
-<link>https://doi.org/10.1039/d6dd00157b</link>
-<guid isPermaLink="false">10.1039/d6dd00157b</guid>
-<pubDate>Wed, 16 Sep 2026 10:43:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Leonardo Medrano Sandonas, David Balcells, Tom Barnowsky, Anton Bochkarev, Jacqueline M. Cole, Volker L. Deringer, Werner Dobrautz, Adrian Ehrenhofer, Thorben Frank, Pascal Friederich, Rico Friedrich, Janine George, Luca Ghiringhelli, Alejandra Hinostroza Caldas, Veronika Juraskova, Hannes Kneiding, Yury Lysogorskiy, Johannes T. Margraf, Hanna Türk, Anatole von Lilienfeld, Milica Todorović, Alexandre Tkatchenko, Mariana Rossi, Gianaurelio Cuniberti</p><p>The central message of this Perspective is that sustainable ML requires not only designing more efficient algorithms but also transparent reporting, reusable datasets and models, informed benchmarking, and resource-aware community practices.</p><p>DOI: 10.1039/d6dd00157b</p>]]></description>
 </item>
 </channel></rss>
