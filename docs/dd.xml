@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 01 Oct 2026 06:07:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 13:29:50 +0000</lastBuildDate>
+<item>
+<title>Optimal Resource Utilization for Autonomous Laboratory Orchestrators</title>
+<link>https://doi.org/10.1039/d6dd00437g</link>
+<guid isPermaLink="false">10.1039/d6dd00437g</guid>
+<pubDate>Thu, 01 Oct 2026 09:43:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Austin McDannald, Julia Tisaranni, Howie Joress</p><p>In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different...</p><p>DOI: 10.1039/d6dd00437g</p>]]></description>
+</item>
 <item>
 <title>Generating Cyclic Conformers with Flow Matching in Cremer-Pople Coordinates</title>
 <link>https://doi.org/10.1039/d6dd00199h</link>
@@ -96,18 +103,18 @@
 <description><![CDATA[<p><b>Authors:</b> Haelyn Kim, Hakyung Lee, Jinung Song, Juyong Lee</p><p>Protein generative models design therapeutic backbones and sequences that are then filtered by cross-validation metrics. We review these methods, their therapeutic applications, and how far these metrics actually predict experimental success.</p><p>DOI: 10.1039/d6dd00222f</p>]]></description>
 </item>
 <item>
-<title>Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES</title>
+<title>Decoding dopant-induced electronic modulation in graphene via region-resolved machine learning of XANES</title>
 <link>https://doi.org/10.1039/d6dd00261g</link>
 <guid isPermaLink="false">10.1039/d6dd00261g</guid>
 <pubDate>Wed, 23 Sep 2026 02:43:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yinan Wang, Arpita Varadwaj, Teruyasu Mizoguchi, Masato Kotsugi</p><p>Revealing how heteroatom doping alters the local electronic structure of graphene is crucial for understanding and controlling its functional properties. In this study, we combine density functional theory (DFT) and...</p><p>DOI: 10.1039/d6dd00261g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yinan Wang, Arpita Varadwaj, Teruyasu Mizoguchi, Masato Kotsugi</p><p>Region-resolved machine learning of C K-edge XANES reveals that the π region contains the dominant information for predicting dopant-induced local electronic structure and bonding in graphene.</p><p>DOI: 10.1039/d6dd00261g</p>]]></description>
 </item>
 <item>
 <title>Phenotypic reversion and target prioritization for cellular inflammation via representation learning with foundation models</title>
 <link>https://doi.org/10.1039/d6dd00287k</link>
 <guid isPermaLink="false">10.1039/d6dd00287k</guid>
 <pubDate>Tue, 22 Sep 2026 21:43:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Daniel Wong, Mary Piper, Jiao Qiao, Max Russo, Pierre Jean, Djork-Arné Clevert, Jason D Arroyo, Evanthia Pashos</p><p>The identification of genetic perturbations that can reverse disease-associated cellular phenotypes toward a healthy state is a central challenge in early drug discovery. We present a proof-of-concept framework leveraging single-cell...</p><p>DOI: 10.1039/d6dd00287k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Daniel R. Wong, Mary Piper, Jiao Qiao, Max Russo, Pierre Jean, Djork-Arné Clevert, Jason D. Arroyo, Evanthia Pashos</p><p>The identification of genetic perturbations that can reverse disease-associated cellular phenotypes toward a healthy state is a central challenge in early drug discovery.</p><p>DOI: 10.1039/d6dd00287k</p>]]></description>
 </item>
 <item>
 <title>Notation matters: cross-representation inconsistency in chemistry language models and its mechanistic origins</title>
