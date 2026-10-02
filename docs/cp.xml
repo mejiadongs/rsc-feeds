@@ -3,7 +3,21 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Fri, 02 Oct 2026 05:49:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 12:48:27 +0000</lastBuildDate>
+<item>
+<title>Organic small molecule modifies perovskite layer to prepare efficient and stable inverted perovskite solar cells</title>
+<link>https://doi.org/10.1039/d6cp02893d</link>
+<guid isPermaLink="false">10.1039/d6cp02893d</guid>
+<pubDate>Fri, 02 Oct 2026 10:37:44 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mengyan Feng, Binbin Wang, Shilong He, supeng Gao, Yaowu Wang, Yue Han, Tao Li, shuguang Cao, Lavrenty G Gutsev, Yao Li</p><p>The perovskite layer is the core component of perovskite solar cells (PSCs), and the quality of perovskite film critically impacts the performance of PSCs. Interface contact optimization, defect passivation, and...</p><p>DOI: 10.1039/d6cp02893d</p>]]></description>
+</item>
+<item>
+<title>Vibronic Landscape of Excitons in Photosynthetic Antenna</title>
+<link>https://doi.org/10.1039/d6cp02540d</link>
+<guid isPermaLink="false">10.1039/d6cp02540d</guid>
+<pubDate>Fri, 02 Oct 2026 08:23:08 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Manuel J. Llansola-Portoles, James N. Sturgis, Andrew Gall, Juan J. Romero, Andrew  A. Pascal, Leonas Valkūnas, Bruno Robert</p><p>Light-harvesting and excitation energy transfer in photosynthesis generally involve chlorophyll-molecules, maintained by their host proteins at short distances from each other, this resulting in excitonic coupling. The transfer of excitation...</p><p>DOI: 10.1039/d6cp02540d</p>]]></description>
+</item>
 <item>
 <title>Theoretical study on second-order nonlinear optical response in S-shaped double helicenes incorporating thiophene and thiopyran units</title>
 <link>https://doi.org/10.1039/d6cp02739c</link>
@@ -341,11 +355,11 @@
 <description><![CDATA[<p><b>Authors:</b> Siyi Ma, Danyang Liu, Teng Zhang, Tuo Yang, Jianying Lu, Junying Wu, Lang Chen</p><p>Aromatic heterocyclic energetic compounds exhibit complex reaction networks involving both bimolecular and unimolecular reactions under shock loading, yet their chemical reaction mechanisms and energy release characteristics remain unclear. This study...</p><p>DOI: 10.1039/d6cp01668e</p>]]></description>
 </item>
 <item>
-<title>Accurate m 6 A Modification Force Field for Conformation Sampling of RNA</title>
+<title>Accurate m 6 A modification forcefield for conformation sampling of RNA</title>
 <link>https://doi.org/10.1039/d6cp01481j</link>
 <guid isPermaLink="false">10.1039/d6cp01481j</guid>
 <pubDate>Mon, 28 Sep 2026 08:23:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Haifeng Chen, Yutong Sun, Zhengxin Li, Junjie Zhu, Bozitao Zhong</p><p>N6-methyladenosine is a widely studied RNA modification that is ubiquitously present in eukaryotic organisms. Abnormal levels of m 6 A modifications are closely associated with the regulation of RNA metabolism,...</p><p>DOI: 10.1039/d6cp01481j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yutong Sun, Zhengxin Li, Bozitao Zhong, Junjie Zhu, Hai-Feng Chen</p><p>MODM6A force field could stabilize the local pairing of RNA.</p><p>DOI: 10.1039/d6cp01481j</p>]]></description>
 </item>
 <item>
 <title>Targeted Engineering of Heteronuclear Bimetallic Atomic Sites on Covalent Triazine Frameworks Toward CO 2 Photoreduction</title>
@@ -509,11 +523,11 @@
 <description><![CDATA[<p>DOI: 10.1039/d6cp90180h</p>]]></description>
 </item>
 <item>
-<title>Tuning Structure and Transport Properties in Triglyme-Based Solvate Ionic Liquids via Controlled Water Addition</title>
+<title>Tuning structure and transport properties in triglyme-based solvate ionic liquids via controlled water addition</title>
 <link>https://doi.org/10.1039/d6cp02990f</link>
 <guid isPermaLink="false">10.1039/d6cp02990f</guid>
 <pubDate>Wed, 23 Sep 2026 13:03:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jule Kristin Philipp-Taube, Bennet Austrup, Dietmar Paschek, Annette-Enrica Surkus, Stephan Bartling, Lennart Kruse, Monika Schönhoff, Ralf Ludwig</p><p>Solvate ionic liquids (SILs) are characterised by high thermal and electrochemical stability but suffer from high viscosities and limited ionic conductivities, restricting their application as battery electrolytes. Recently, we introduced...</p><p>DOI: 10.1039/d6cp02990f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jule Kristin Philipp-Taube, Bennet Austrup, Dietmar Paschek, Annette-Enrica Surkus, Stephan Bartling, Lennart Kruse, Monika Schönhoff, Ralf Ludwig</p><p>WISIL electrolytes feature distinct, stable lithium coordination structures upon minor water addition. Further water replaces G3, destabilising chelate complexes and driving increasingly hydrated lithium species with enhanced transport properties.</p><p>DOI: 10.1039/d6cp02990f</p>]]></description>
 </item>
 <item>
 <title>Autonomous stepping dynamics of a two-legged DNA walker on a nanopore track</title>
@@ -807,7 +821,7 @@
 <link>https://doi.org/10.1039/d6cp02676a</link>
 <guid isPermaLink="false">10.1039/d6cp02676a</guid>
 <pubDate>Mon, 21 Sep 2026 08:23:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kiyoto Kamagata, Atsumi Hando, M A Husna, Hana Kawahara, Ryu-Suke Nozawa, Keisuke Ikeda, Eriko Mano</p><p>Fusion is a key growth mechanism in the formation of mature membrane-less organelles.In this study, we have established a quantitative analysis framework, based on brightfield and fluorescence microscopes coupled with...</p><p>DOI: 10.1039/d6cp02676a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Kiyoto Kamagata, Atsumi Hando, Syamil M. A. Husna, Hana Kawahara, Ryu-Suke Nozawa, Keisuke Ikeda, Eriko Mano</p><p>Fusion is a key growth mechanism in the formation of mature membrane-less organelles.</p><p>DOI: 10.1039/d6cp02676a</p>]]></description>
 </item>
 <item>
 <title>Octylammonium iodide-mediated size control of CsPbI 3 nanocrystals in microfluidic continuous-flow synthesis</title>

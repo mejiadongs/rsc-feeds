@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 02 Oct 2026 05:49:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 12:48:33 +0000</lastBuildDate>
 <item>
 <title>Optimal Resource Utilization for Autonomous Laboratory Orchestrators</title>
 <link>https://doi.org/10.1039/d6dd00437g</link>
@@ -47,11 +47,11 @@
 <description><![CDATA[<p><b>Authors:</b> Ruben Laplaza, Stefan Heinen, Carlos Vivar Rios</p><p>Machine-learning failures in experimental chemistry are often diagnosed as ``messy data'', but messiness is not a single problem. This Perspective argues that experimental ML failures should be diagnosed at the...</p><p>DOI: 10.1039/d6dd00648e</p>]]></description>
 </item>
 <item>
-<title>Atomistic Modeling of Chemical Disorder in Materials: Bridging Conventional Methods and AI-Assisted Approaches</title>
+<title>Atomistic modeling of chemical disorder in materials: bridging conventional methods and AI-assisted approaches</title>
 <link>https://doi.org/10.1039/d6dd00292g</link>
 <guid isPermaLink="false">10.1039/d6dd00292g</guid>
 <pubDate>Mon, 28 Sep 2026 17:44:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiayu Peng, Peichen Zhong</p><p>Chemical disorder, originating from the mixed occupation of crystallographic sites by multiple elements, is widespread in metal alloys, ceramics, and other compositionally complex materials, where short- and long-range orderings can...</p><p>DOI: 10.1039/d6dd00292g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jiayu Peng, Peichen Zhong</p><p>Chemical disorder creates a representation gap between averaged experimental observables and AI-driven atomistic modeling. This review unifies conventional and AI approaches into a roadmap for predictive, disorder-aware materials discovery.</p><p>DOI: 10.1039/d6dd00292g</p>]]></description>
 </item>
 <item>
 <title>Multi-axis quality evaluation of data augmentation for perovskite solar cell datasets</title>
