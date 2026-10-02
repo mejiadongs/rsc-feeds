@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 01 Oct 2026 22:46:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:49:53 +0000</lastBuildDate>
 <item>
 <title>Optimal Resource Utilization for Autonomous Laboratory Orchestrators</title>
 <link>https://doi.org/10.1039/d6dd00437g</link>
@@ -171,19 +171,5 @@
 <guid isPermaLink="false">10.1039/d5dd00564g</guid>
 <pubDate>Fri, 18 Sep 2026 08:46:09 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Bartosz Baranowski, Martin Pfeifer, Elisabetta Ghisu, Mark-Anthony Bray, Ulrich Goldmann, Gernot Wolf, Alvaro Ingles-Prieto, Tabea Wiedmer, Giulio Superti-Furga, Jürgen Reinhardt, Paul Selzer</p><p>Human-in-the-loop machine learning predicts SLC transporter localization in HEK293 cells from high-content imaging, Expert-guided iterative relabeling improves data quality and model accuracy, enabling efficient ML-assisted classification.</p><p>DOI: 10.1039/d5dd00564g</p>]]></description>
-</item>
-<item>
-<title>Real‑Space Chemistry on Quantum Computers: A Fault‑Tolerant Algorithm with Adaptive Grids and Transcorrelated Extension.</title>
-<link>https://doi.org/10.1039/d6dd00002a</link>
-<guid isPermaLink="false">10.1039/d6dd00002a</guid>
-<pubDate>Thu, 17 Sep 2026 17:23:01 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> César Feniou, Christopher Cherfan, Julien Zylberman, Baptiste Claudon, Jean-Philip Piquemal, Emmanuel Giner</p><p>First-quantized, real-space formulations of quantum chemistry on quantum computers are appealing: qubit count scales logarithmically with spatial resolution, and Coulomb operators achieve quadratic instead of quartic computational scaling of two‑electron...</p><p>DOI: 10.1039/d6dd00002a</p>]]></description>
-</item>
-<item>
-<title>Predicting molecular structure from sparse NMR data, proof-of-concept using a graph neural network</title>
-<link>https://doi.org/10.1039/d6dd00189k</link>
-<guid isPermaLink="false">10.1039/d6dd00189k</guid>
-<pubDate>Thu, 17 Sep 2026 08:03:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ben Honoré, Calvin Yiu, Jose Napolitano, Dave Russell, Iuni Margaret Laura Trist, Ruth Dooley, Craig Philip Butts</p><p>We demonstrate that graph-based neural networks are capable of molecular structure elucidation of organic molecules directly from experimentally measurable NMR spectroscopic properties. Such a system is a holy grail for...</p><p>DOI: 10.1039/d6dd00189k</p>]]></description>
 </item>
 </channel></rss>
