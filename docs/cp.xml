@@ -3,7 +3,7 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Fri, 02 Oct 2026 22:20:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 05:26:42 +0000</lastBuildDate>
 <item>
 <title>Template-Dependent Conformational Remodeling Induced by Matched Mutation Sets in an Artificial Metalloenzyme</title>
 <link>https://doi.org/10.1039/d6cp03303b</link>
@@ -411,11 +411,11 @@
 <description><![CDATA[<p><b>Authors:</b> Enikö Baligács, Nino Wili, José P Carvalho, Anders B. Nielsen, Niels Christian Nielsen</p><p>Dipolar recoupling is a key element in magic-angle-spinning (MAS) solid-state NMR spectroscopy with reintroduced dipole-dipole coupling interactions providing information about internuclear distances and enabling transfer of polarization between spins in...</p><p>DOI: 10.1039/d6cp02762h</p>]]></description>
 </item>
 <item>
-<title>Acceptor Strength and Solvent Polarity Govern Charge Separation in TCBD- and DCNQ-Functionalized Isoindigo Chromophores</title>
+<title>Acceptor strength and solvent polarity govern charge separation in TCBD- and DCNQ-functionalized isoindigo chromophores</title>
 <link>https://doi.org/10.1039/d6cp03787a</link>
 <guid isPermaLink="false">10.1039/d6cp03787a</guid>
 <pubDate>Fri, 25 Sep 2026 10:43:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chamari V. Ileperuma, Youngwoo B. Jang, Yogjivan Rout, Rajneesh Misra, Francis D'Souza</p><p>Far-red-capturing, strong electron-acceptor-bearing isoindigo push-pull systems have been shown to undergo ultrafast charge transfer, leading to charge separation.</p><p>DOI: 10.1039/d6cp03787a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Chamari V. Ileperuma, Youngwoo Jang, Yogajivan Rout, Rajneesh Misra, Francis D’Souza</p><p>Far-red-capturing, strong electron-acceptor-bearing isoindigo push–pull systems have been shown to undergo ultrafast charge transfer, leading to charge separation.</p><p>DOI: 10.1039/d6cp03787a</p>]]></description>
 </item>
 <item>
 <title>Vacancy-engineered electronic reconstruction for spin-polarized photocurrent with signal enhancement in Ti 2 CO 2 MXene</title>
@@ -857,75 +857,5 @@
 <guid isPermaLink="false">10.1039/d6cp00944a</guid>
 <pubDate>Sat, 19 Sep 2026 06:03:44 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Lintao Miao, Chenfei Xue, Xiaoang Yuan, Enlai Gao</p><p>A data-driven framework for calibrating representative atomic volumes for compact crystalline solids, enabling efficient and accurate prediction of material properties solely from the chemical formula.</p><p>DOI: 10.1039/d6cp00944a</p>]]></description>
-</item>
-<item>
-<title>Engineering nonlinear optical absorption through slow-photon effects in calix[4]resorcinarene-based nonlinear distributed Bragg reflectors</title>
-<link>https://doi.org/10.1039/d6cp02052f</link>
-<guid isPermaLink="false">10.1039/d6cp02052f</guid>
-<pubDate>Fri, 18 Sep 2026 16:11:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Siji Alappattu John, Pramod Dominic, K. Shija, Hasana Jahan Elamkulavan, Chandrasekharan Keloth</p><p>The short-wavelength photonic band edge of a nonlinear distributed Bragg reflector is tuned to match 532 nm Nd:YAG excitation. Slow-photon-induced local-field enhancement boosts nonlinear absorption and improves optical limiting.</p><p>DOI: 10.1039/d6cp02052f</p>]]></description>
-</item>
-<item>
-<title>Ge-alloying-regulated band-edge dynamics suppress nonradiative recombination in kesterite Cu 2 Zn(Ge x Sn 1− x )S 4</title>
-<link>https://doi.org/10.1039/d6cp02887j</link>
-<guid isPermaLink="false">10.1039/d6cp02887j</guid>
-<pubDate>Fri, 18 Sep 2026 14:07:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xinwei Guo, Zuyun Chen, Xuemin Hu, Chun Wang, Shengli Zhang, Wenhan Zhou</p><p>Ge-alloyed kesterites promote electron delocalization and stabilize band-edge fluctuations, while enhanced decoherence weakens electron-vibrational coupling and suppresses nonradiative loss.</p><p>DOI: 10.1039/d6cp02887j</p>]]></description>
-</item>
-<item>
-<title>Describing Materials via Interpretable Machine Learning: The Example of Superconductivity</title>
-<link>https://doi.org/10.1039/d6cp00577b</link>
-<guid isPermaLink="false">10.1039/d6cp00577b</guid>
-<pubDate>Fri, 18 Sep 2026 13:22:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Herzain I. Rivera-Arrieta, Lucas Foppa</p><p>Modeling materials properties is often challenged by the intricate interplay of multiple underlying physical processes that govern materials behavior. Machine learning (ML) approaches may capture such intricacy more effectively than...</p><p>DOI: 10.1039/d6cp00577b</p>]]></description>
-</item>
-<item>
-<title>Impurity–engineered orbital contributions to the electronic heat capacity of highly stable monolayer h-B 2 O</title>
-<link>https://doi.org/10.1039/d6cp02783k</link>
-<guid isPermaLink="false">10.1039/d6cp02783k</guid>
-<pubDate>Fri, 18 Sep 2026 12:43:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Farid Mohammadi, Morteza Rahmani, Mahdi Ebrahimi, Kavoos Mirabbaszadeh</p><p>Orbital-resolved electronic heat capacity of pristine h-B 2 O and its evolution under p-type and n-type doping. Results highlight the distinct contributions of P y and P z orbitals to the electronic heat capacity and their response to carrier doping.</p><p>DOI: 10.1039/d6cp02783k</p>]]></description>
-</item>
-<item>
-<title>Adsorption on and surface composition of high-entropy metallic alloy nanoparticles</title>
-<link>https://doi.org/10.1039/d6cp02950g</link>
-<guid isPermaLink="false">10.1039/d6cp02950g</guid>
-<pubDate>Fri, 18 Sep 2026 12:02:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Vladimir P. Zhdanov</p><p>In nanoscience, high-entropy metallic alloy nanoparticles are on top of current interest. The corresponding physicochemical aspects are, however, poorly understood. In this communication, the focus is on the effect of...</p><p>DOI: 10.1039/d6cp02950g</p>]]></description>
-</item>
-<item>
-<title>On the structural and electronic properties of N-heterotriangulene derivatives on metal surfaces: the role of bridging units in tuning molecule–substrate interactions</title>
-<link>https://doi.org/10.1039/d6cp03000a</link>
-<guid isPermaLink="false">10.1039/d6cp03000a</guid>
-<pubDate>Fri, 18 Sep 2026 11:12:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Christoph Li Popko, Saeed Amirjalayer</p><p>Bridging-unit chemistry controls how N-heterotriangulenes bind to coinage metal surfaces—from mobile physisorption to a sulfur-anchored, partially chemisorbed state.</p><p>DOI: 10.1039/d6cp03000a</p>]]></description>
-</item>
-<item>
-<title>Design and characterization of benzotrithiophene-based donor molecules for organic solar cells</title>
-<link>https://doi.org/10.1039/d6cp00927a</link>
-<guid isPermaLink="false">10.1039/d6cp00927a</guid>
-<pubDate>Fri, 18 Sep 2026 10:24:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Muthukumar Pavithrakumar, Kittusamy Senthilkumar</p><p>Functional group substitution and π-conjugation extension of BTT donor molecules modulate their electronic, optical and charge-transport properties, offering promising candidates for efficient organic solar cells.</p><p>DOI: 10.1039/d6cp00927a</p>]]></description>
-</item>
-<item>
-<title>Theoretical design of quantum-tunneling-enabled ultra-steep-slope bipolar reconfigurable logic field-effect transistors based on 2D Janus XMoSiN 2 (X = O, S, Se, Te) monolayers</title>
-<link>https://doi.org/10.1039/d6cp02621d</link>
-<guid isPermaLink="false">10.1039/d6cp02621d</guid>
-<pubDate>Fri, 18 Sep 2026 10:24:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wenhao Zhang, Wenkai Zhao, Hui Wang, Feng Gao, Yuliang Liu, Shunran Shan, Chuanlu Yang, Dongqing Zou</p><p>SMoSiN 2 dual-gate FETs with metallic OMoSiN 2 contacts show symmetric electron-hole transport and SS = 28 mV dec −1 . Gate-programmable reconfiguration yields n -, p - and off-states, enabling logic, half adders and decoders with &gt;50% fewer transistors.</p><p>DOI: 10.1039/d6cp02621d</p>]]></description>
-</item>
-<item>
-<title>The gas-sensitive properties of Ti 2 CO 2 MXene modified by transition metals (Ir and Rh) in relation to lithium-ion thermal runaway gases: a first-principles study</title>
-<link>https://doi.org/10.1039/d6cp02300b</link>
-<guid isPermaLink="false">10.1039/d6cp02300b</guid>
-<pubDate>Fri, 18 Sep 2026 10:22:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yihua He, Xin Liu, Chi Liu, Tao Shen</p><p>With the rapid development of energy storage and power batteries, thermal runaway of lithium-ion batteries (LIBs) poses serious safety risks.</p><p>DOI: 10.1039/d6cp02300b</p>]]></description>
-</item>
-<item>
-<title>Guest-induced amorphization and cage-selective guest dynamics in solid organic clathrates</title>
-<link>https://doi.org/10.1039/d6cp02054b</link>
-<guid isPermaLink="false">10.1039/d6cp02054b</guid>
-<pubDate>Fri, 18 Sep 2026 07:43:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chang Yeop Oh, Sol Geo Lim, Hye Rim Choi, Donghyun Moon, Chiho Sung, Seonghwan Park, Sun Ha Kim, Jeasung Park, Minjun Cha, Ji-Ho Yoon</p><p>Guest-induced amorphization creates a transient quasi-liquid layer at the α-HQ surface, enabling Xe–HQ clathrate nucleation before diffusion through the growing shell becomes rate-limiting.</p><p>DOI: 10.1039/d6cp02054b</p>]]></description>
 </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 02 Oct 2026 22:20:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 05:26:47 +0000</lastBuildDate>
 <item>
 <title>Optimal Resource Utilization for Autonomous Laboratory Orchestrators</title>
 <link>https://doi.org/10.1039/d6dd00437g</link>
@@ -150,26 +150,5 @@
 <guid isPermaLink="false">10.1039/d6dd00308g</guid>
 <pubDate>Mon, 21 Sep 2026 09:07:32 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Jason C. Klima</p><p>The PyRosettaCluster framework automatically encodes the information necessary for scientific reproducibility into its results, promoting a well-defined, scalable scientific computing workflow for bio-macromolecular modeling and design tasks.</p><p>DOI: 10.1039/d6dd00308g</p>]]></description>
-</item>
-<item>
-<title>Commit: SurfPro2: a relational database, curation workflow and repository of surfactant physicochemical data</title>
-<link>https://doi.org/10.1039/d6dd00522e</link>
-<guid isPermaLink="false">10.1039/d6dd00522e</guid>
-<pubDate>Fri, 18 Sep 2026 16:03:51 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Stefan L. Hödl, Pim F. J. Dankloff, Alexander A. Korotkevich, Wilhelm T. S. Huck, William E. Robinson</p><p>It provides a reproducible platform for curating, querying and extracting surfactant physicochemical data.</p><p>DOI: 10.1039/d6dd00522e</p>]]></description>
-</item>
-<item>
-<title>Pockets to products: a data-driven approach for classification of monoterpene synthases</title>
-<link>https://doi.org/10.1039/d6dd00312e</link>
-<guid isPermaLink="false">10.1039/d6dd00312e</guid>
-<pubDate>Fri, 18 Sep 2026 15:24:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Cathal Ó Raghallaigh, Nigel S. Scrutton, Sam Hay</p><p>An interpretable structure-based ML framework uses active-site properties to predict linalool or limonene (linear/cyclic) production by monoterpene synthases identifying conserved motifs linked to cyclisation to inform future rational engineering.</p><p>DOI: 10.1039/d6dd00312e</p>]]></description>
-</item>
-<item>
-<title>SLC localization in HEK 293 cells – a Human-in-the-loop machine learning approach</title>
-<link>https://doi.org/10.1039/d5dd00564g</link>
-<guid isPermaLink="false">10.1039/d5dd00564g</guid>
-<pubDate>Fri, 18 Sep 2026 08:46:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bartosz Baranowski, Martin Pfeifer, Elisabetta Ghisu, Mark-Anthony Bray, Ulrich Goldmann, Gernot Wolf, Alvaro Ingles-Prieto, Tabea Wiedmer, Giulio Superti-Furga, Jürgen Reinhardt, Paul Selzer</p><p>Human-in-the-loop machine learning predicts SLC transporter localization in HEK293 cells from high-content imaging, Expert-guided iterative relabeling improves data quality and model accuracy, enabling efficient ML-assisted classification.</p><p>DOI: 10.1039/d5dd00564g</p>]]></description>
 </item>
 </channel></rss>
