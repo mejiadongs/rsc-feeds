@@ -3,7 +3,14 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sat, 03 Oct 2026 21:25:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 06:02:25 +0000</lastBuildDate>
+<item>
+<title>[CP] Dipole-Constrained Variational Hirshfeld for Electrostatically Faithful Atomic Charges</title>
+<link>https://doi.org/10.1039/d6cp02598f</link>
+<guid isPermaLink="false">10.1039/d6cp02598f</guid>
+<pubDate>Sun, 04 Oct 2026 00:23:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Leila Pujal, Farnaz Heidar-Zadeh</p><p>Density-based atomic partitioning methods provide atomic electron densities that enable the consistent derivation of atomic properties used to model non-bonded interactions, but their atomic charges often fail to accurately reproduce...</p><p>DOI: 10.1039/d6cp02598f</p>]]></description>
+</item>
 <item>
 <title>[TA] Strain-Assisted Surface Defect Engineering in ZnSxSe1−x Solid Solutions for Enhanced Mercury Capture</title>
 <link>https://doi.org/10.1039/d6ta05305j</link>
@@ -5078,68 +5085,5 @@
 <guid isPermaLink="false">10.1039/d6tc01529h</guid>
 <pubDate>Sun, 20 Sep 2026 01:43:52 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Chunqiu Zheng, Junfeng Lin, Yong Chen, Hengzhuo Cai, Xuefei Ren, Bekcy Joseph, Xubing Lu, Xingsen Gao, Yana Vaynzof, Junming Liu, Sujuan Wu</p><p>Tin-based perovskite solar cells (PSCs) have attracted widespread interest as viable substitutes for lead-based PSCs because of their reduced toxicity and high theoretical efficiency. The SnF2 material is an almost...</p><p>DOI: 10.1039/d6tc01529h</p>]]></description>
-</item>
-<item>
-<title>[TA] Tuning MnO2 Lattice Charge Density by Aluminum Doping for Ordered Manganese Deposition in Aqueous Zinc-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta05772a</link>
-<guid isPermaLink="false">10.1039/d6ta05772a</guid>
-<pubDate>Sat, 19 Sep 2026 12:43:30 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> shuwei chen, Yuan Shang, Ting Hu, Siting Qiao, Yuhuo Luo, Xi Chen, Minglin Chen, Zhi-Guang Xu, Yongbo Wu, Xiaoming Lin</p><p>The inherently low electrical conductivity and ambiguities surrounding its charge storage mechanism of the MnO2 cathode remain major barriers to its application in high-performance aqueous zinc-ion batteries. Thus, we have...</p><p>DOI: 10.1039/d6ta05772a</p>]]></description>
-</item>
-<item>
-<title>[CP] First-principles thermoelectric transport in pristine and substitutionally doped monolayer 1T-TeSe 2</title>
-<link>https://doi.org/10.1039/d6cp02984a</link>
-<guid isPermaLink="false">10.1039/d6cp02984a</guid>
-<pubDate>Sat, 19 Sep 2026 12:43:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zikang Zhang, Xiaohui Chen, Wenkai Chen, Jinli Zhang</p><p>As, P and Si introduce finite-depth acceptor levels in monolayer 1T-TeSe 2 while Cl and Br remain resonant; the predicted peak ZT at 800 K spans 1.30–1.90 across thermal transport models.</p><p>DOI: 10.1039/d6cp02984a</p>]]></description>
-</item>
-<item>
-<title>[TA] Precursor primary-particle architecture governs structural evolution and electrochemical kinetics in Co-free Li-rich layered cathodes</title>
-<link>https://doi.org/10.1039/d6ta04277e</link>
-<guid isPermaLink="false">10.1039/d6ta04277e</guid>
-<pubDate>Sat, 19 Sep 2026 10:23:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shi Gu, Guangli Tang, Xianglei Chen, Liang Yin, Hong Li</p><p>Decreasing precursor primary-particle size promotes Li 2 MnO 3 -related structural development and faster Li + transport, enabling higher capacity and improved rate performance in Co-free Li-rich layered cathodes.</p><p>DOI: 10.1039/d6ta04277e</p>]]></description>
-</item>
-<item>
-<title>[NR] A Bulk-Surface-Coupled Neuroevolution Potential Reveals Dynamic Low-Coordinated Pd Sites and Interfacial Water Structuring on Pd/GaN</title>
-<link>https://doi.org/10.1039/d6nr02319c</link>
-<guid isPermaLink="false">10.1039/d6nr02319c</guid>
-<pubDate>Sat, 19 Sep 2026 09:43:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Liang Qiu, Ying Li, Zhaosong Wu, Yilin Dong, Baowen Zhou</p><p>Dynamic low-coordination metal sites and solvent organization are central descriptors of aqueous metal/semiconductor catalytic interfaces, but density functional theory (DFT) alone can't efficiently capture their structure evolution at finite temperature....</p><p>DOI: 10.1039/d6nr02319c</p>]]></description>
-</item>
-<item>
-<title>[TC] Synthesis of High Aspect Ratio Ag NWs Regulated by Ferric Nitrate: Machine Learning Prediction and Validation</title>
-<link>https://doi.org/10.1039/d6tc01706a</link>
-<guid isPermaLink="false">10.1039/d6tc01706a</guid>
-<pubDate>Sat, 19 Sep 2026 08:23:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lulu Bao, Kun Wu, Jizhe Zhang, Ning Peng, Yuhao Zhang, Qiang Zhou, Caixia Kan, Juan Xu, Xingzhong Zhu</p><p>Silver nanowires (Ag NWs) are an important nanomaterial for applications as flexible optoelectronic devices and biosensors, and their morphology, such as length and diameter, significantly affects the electrical conductivity. This...</p><p>DOI: 10.1039/d6tc01706a</p>]]></description>
-</item>
-<item>
-<title>[CP] Data-driven calibration of atomic volumes for efficient prediction of material properties from chemical formula</title>
-<link>https://doi.org/10.1039/d6cp00944a</link>
-<guid isPermaLink="false">10.1039/d6cp00944a</guid>
-<pubDate>Sat, 19 Sep 2026 06:03:44 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lintao Miao, Chenfei Xue, Xiaoang Yuan, Enlai Gao</p><p>A data-driven framework for calibrating representative atomic volumes for compact crystalline solids, enabling efficient and accurate prediction of material properties solely from the chemical formula.</p><p>DOI: 10.1039/d6cp00944a</p>]]></description>
-</item>
-<item>
-<title>[SC] Bromonium-catalyzed 1,2-diamination of various conjugated alkenes</title>
-<link>https://doi.org/10.1039/d6sc06084f</link>
-<guid isPermaLink="false">10.1039/d6sc06084f</guid>
-<pubDate>Sat, 19 Sep 2026 06:03:44 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Takeshi Sugiyama, Ryo Nakajima, Yuuka Kakizaki, Yuki Yamada, Satoshi Minakata</p><p>A diastereoselective 1,2-diamination applicable to a wide range of α,β-unsaturated carbonyls and π-conjugated alkenes is described. The bromonium catalytic system enables the reaction, affording products with complete anti-selectivity.</p><p>DOI: 10.1039/d6sc06084f</p>]]></description>
-</item>
-<item>
-<title>[MH] Breaking the Drug Dependency: A Self-Antioxidant Bilayer Patch for Oral Ulcer Treatment</title>
-<link>https://doi.org/10.1039/d6mh01021k</link>
-<guid isPermaLink="false">10.1039/d6mh01021k</guid>
-<pubDate>Sat, 19 Sep 2026 01:23:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yuan Ding, Qianyue Zeng, Xu Peng, Kai Ren, Miao Zhang, Xinyuan Xu, Xiaoming Huang, Tong Wu, Jing Xie, Jianshu Li</p><p>Oral ulcers (OUs) are a common aliment of the oral mucosa, leading pain or even systemic illness to patient's daily lives.Current oral patch strategies primarily address the wet and dynamic...</p><p>DOI: 10.1039/d6mh01021k</p>]]></description>
-</item>
-<item>
-<title>[CC] Programmable DNA-mediated coordination polymer nanospheres as highly specific catechol oxidase mimics for biosensing and environmental monitoring</title>
-<link>https://doi.org/10.1039/d6cc04881a</link>
-<guid isPermaLink="false">10.1039/d6cc04881a</guid>
-<pubDate>Sat, 19 Sep 2026 01:23:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wangyu Xu, Jinyan Zhang, Ting Hou, Feng Li, Jiafu Chang</p><p>Programmable adenine-rich DNA templates direct Cu-coordination nanospheres that act as selective catechol oxidase mimics with no peroxidase cross-activity.</p><p>DOI: 10.1039/d6cc04881a</p>]]></description>
 </item>
 </channel></rss>

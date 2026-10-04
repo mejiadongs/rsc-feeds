@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Sat, 03 Oct 2026 21:25:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 06:02:13 +0000</lastBuildDate>
+<item>
+<title>Dipole-Constrained Variational Hirshfeld for Electrostatically Faithful Atomic Charges</title>
+<link>https://doi.org/10.1039/d6cp02598f</link>
+<guid isPermaLink="false">10.1039/d6cp02598f</guid>
+<pubDate>Sun, 04 Oct 2026 00:23:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Leila Pujal, Farnaz Heidar-Zadeh</p><p>Density-based atomic partitioning methods provide atomic electron densities that enable the consistent derivation of atomic properties used to model non-bonded interactions, but their atomic charges often fail to accurately reproduce...</p><p>DOI: 10.1039/d6cp02598f</p>]]></description>
+</item>
 <item>
 <title>Template-Dependent Conformational Remodeling Induced by Matched Mutation Sets in an Artificial Metalloenzyme</title>
 <link>https://doi.org/10.1039/d6cp03303b</link>
@@ -843,19 +850,5 @@
 <guid isPermaLink="false">10.1039/d6cp03138b</guid>
 <pubDate>Mon, 21 Sep 2026 06:04:09 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yukina Takahashi, Kaho Yamamoto</p><p>Ag nanoplates enable efficient NIR light harvesting, while semiconductor conductivity and interfacial recombination govern the photoresponse of all-solid-state p-type PICS cells.</p><p>DOI: 10.1039/d6cp03138b</p>]]></description>
-</item>
-<item>
-<title>First-principles thermoelectric transport in pristine and substitutionally doped monolayer 1T-TeSe 2</title>
-<link>https://doi.org/10.1039/d6cp02984a</link>
-<guid isPermaLink="false">10.1039/d6cp02984a</guid>
-<pubDate>Sat, 19 Sep 2026 12:43:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zikang Zhang, Xiaohui Chen, Wenkai Chen, Jinli Zhang</p><p>As, P and Si introduce finite-depth acceptor levels in monolayer 1T-TeSe 2 while Cl and Br remain resonant; the predicted peak ZT at 800 K spans 1.30–1.90 across thermal transport models.</p><p>DOI: 10.1039/d6cp02984a</p>]]></description>
-</item>
-<item>
-<title>Data-driven calibration of atomic volumes for efficient prediction of material properties from chemical formula</title>
-<link>https://doi.org/10.1039/d6cp00944a</link>
-<guid isPermaLink="false">10.1039/d6cp00944a</guid>
-<pubDate>Sat, 19 Sep 2026 06:03:44 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lintao Miao, Chenfei Xue, Xiaoang Yuan, Enlai Gao</p><p>A data-driven framework for calibrating representative atomic volumes for compact crystalline solids, enabling efficient and accurate prediction of material properties solely from the chemical formula.</p><p>DOI: 10.1039/d6cp00944a</p>]]></description>
 </item>
 </channel></rss>
