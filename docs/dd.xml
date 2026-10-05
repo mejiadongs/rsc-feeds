@@ -3,7 +3,28 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 05 Oct 2026 05:51:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:54:56 +0000</lastBuildDate>
+<item>
+<title>SCALAR: Quantifying Structural Hallucination, Consistency, and Reasoning Gaps in Materials Foundation Models</title>
+<link>https://doi.org/10.1039/d6dd00393a</link>
+<guid isPermaLink="false">10.1039/d6dd00393a</guid>
+<pubDate>Mon, 05 Oct 2026 14:03:06 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Can Polat, Mustafa Kurban, Erchin Serpedin, Hasan Kurban</p><p>Large language models are increasingly applied to materials science reasoning, yet their behavior under physically structured distribution shifts remains poorly understood. We introduce SCALAR (Structural Consistency And Logic Across Regimes),...</p><p>DOI: 10.1039/d6dd00393a</p>]]></description>
+</item>
+<item>
+<title>Introduction to ‘AI in drug discovery at ICANN2025’</title>
+<link>https://doi.org/10.1039/d6dd90045c</link>
+<guid isPermaLink="false">10.1039/d6dd90045c</guid>
+<pubDate>Mon, 05 Oct 2026 13:52:22 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Igor V. Tetko, Djork-Arné Clevert</p><p>Igor V. Tetko and Djork-Arné Clevert introduce the Digital Discovery themed collection on ‘AI in drug discovery at ICANN2025’.</p><p>DOI: 10.1039/d6dd90045c</p>]]></description>
+</item>
+<item>
+<title>Comment on ``Protein language visualizer: a repository for homology exploration with language model embeddings''</title>
+<link>https://doi.org/10.1039/d6dd00416d</link>
+<guid isPermaLink="false">10.1039/d6dd00416d</guid>
+<pubDate>Mon, 05 Oct 2026 13:46:47 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yiquan Wang</p><p>The Protein Language Visualizer (PLVis) is a valuable and accessible tool for exploring protein language model embeddings of whole proteomes at scale. PLVis performs three quantitative steps in the two-dimensional...</p><p>DOI: 10.1039/d6dd00416d</p>]]></description>
+</item>
 <item>
 <title>Optimal Resource Utilization for Autonomous Laboratory Orchestrators</title>
 <link>https://doi.org/10.1039/d6dd00437g</link>
@@ -61,11 +82,11 @@
 <description><![CDATA[<p><b>Authors:</b> Minseong Kim, Jinho Lee, Hye W. Chun, Eun Seo Shin, Hajra Yousf, Shujuan Huang, Dong-Won Kang, Hyosung Choi, Jong H. Kim, Jincheol Kim</p><p>A three-axis framework evaluates augmented data through predictive response, data compatibility, and structural preservation, providing a systematic approach for assessing data augmentation quality and reliability.</p><p>DOI: 10.1039/d6dd00198j</p>]]></description>
 </item>
 <item>
-<title>PACE-SIMS: Checkpoint-Gated Autonomous SIMS Characterization with AI-Agent Quality Control</title>
+<title>PACE-SIMS: checkpoint-gated autonomous SIMS characterization with AI-agent quality control</title>
 <link>https://doi.org/10.1039/d6dd00609d</link>
 <guid isPermaLink="false">10.1039/d6dd00609d</guid>
 <pubDate>Mon, 28 Sep 2026 09:03:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Anton Ievlev, Heather Hare, Yiyang Li, Sergei V. Kalinin</p><p>Time-of-flight secondary ion mass spectrometry (ToF-SIMS) is widely used for local chemical investigations across a broad range of materials and systems. However, its operation is expensive in expert time: a...</p><p>DOI: 10.1039/d6dd00609d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Anton V. Ievlev, Heather Hare, Yiyang Li, Sergei V. Kalinin</p><p>Expert supervision is the ToF-SIMS bottleneck. An AI agent planned and ran a blind two-polarity study—35 measurements in 8.1 h from 40 min of human attention—and delivered transferable scientific results.</p><p>DOI: 10.1039/d6dd00609d</p>]]></description>
 </item>
 <item>
 <title>Packing efficiency governs CO₂/H₂ selectivity in machine-learning-screened metal–organic frameworks</title>
@@ -75,11 +96,11 @@
 <description><![CDATA[<p><b>Authors:</b> Md. Rifat Khandaker, Mohammad Asaduzzaman Chowdhury, Sujan Hossain</p><p>Pre-combustion CO₂/H₂ separation requires MOFs that combine high CO₂ working capacity with strong H₂ rejection. Full ARC-MOF screening by GCMC is impractical, so we used an uncertainty-guided machine-learning workflow to...</p><p>DOI: 10.1039/d6dd00598e</p>]]></description>
 </item>
 <item>
-<title>Systematic Trends in Water Properties Across Jacob's Ladder Density Functionals</title>
+<title>Systematic trends in water properties across Jacob's ladder density functionals</title>
 <link>https://doi.org/10.1039/d6dd00571c</link>
 <guid isPermaLink="false">10.1039/d6dd00571c</guid>
 <pubDate>Fri, 25 Sep 2026 20:43:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nam Dào, Daniel S King, Frederick Stein, Xiaoyu Wang, Dongjin Kim, Jan Gerit Brandenburg, Jürg Hutter, Bingqing Cheng</p><p>Kohn-Sham density functional theory is the workhorse of computational materials science and chemistry, but the optimal choice of exchange-correlation approximation for a given system is often unclear. Traditional benchmark studies...</p><p>DOI: 10.1039/d6dd00571c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Nam H. Đào, Daniel S. King, Frederick Stein, Xiaoyu Wang, Dongjin Kim, Gerit Brandenburg, Jürg Hutter, Bingqing Cheng</p><p>Kohn–Sham density functional theory is the workhorse of computational materials science and chemistry, but the optimal choice of exchange–correlation approximation for a given system is often unclear.</p><p>DOI: 10.1039/d6dd00571c</p>]]></description>
 </item>
 <item>
 <title>An In Silico Tool for Rapid and Accessible Training in Self-Driving Laboratory Development</title>
@@ -131,11 +152,11 @@
 <description><![CDATA[<p><b>Authors:</b> Connor R. M. MacDonald, Alex S. Loch, Neil G. Berry, Emily R. Draper</p><p>We show through a proof-of-concept dataset for naphthalenes and rylenes that solubility can be effectively classified with sufficient high-quality training data, and highlight the need for standardised characterisation procedures.</p><p>DOI: 10.1039/d6dd00275g</p>]]></description>
 </item>
 <item>
-<title>Uncertainty-Aware Machine Learning Discovery of Temperature-Induced Solid-Solid Phase Transitions for Thermal Management Applications</title>
+<title>Uncertainty-aware machine learning discovery of candidate temperature-induced solid–solid phase transitions for thermal management applications</title>
 <link>https://doi.org/10.1039/d6dd00257a</link>
 <guid isPermaLink="false">10.1039/d6dd00257a</guid>
 <pubDate>Mon, 21 Sep 2026 13:43:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Cibrán López, Joshua Ojih, Ming Hu, Josep Lluis Tamarit, Edgardo Saucedo, Claudio Cazorla</p><p>Solid-solid phase transitions underpin key functionalities in energy storage, solid-state refrigeration, and adaptive thermal management, yet predicting them at finite temperature remains a major computational challenge. Here, we introduce an...</p><p>DOI: 10.1039/d6dd00257a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Cibrán López, Joshua Ojih, Ming Hu, Josep-Lluís Tamarit, Edgardo Saucedo, Claudio Cazorla</p><p>We predict hundreds of solid–solid phase transitions using a machine-learning model trained on an extensive phonon database, enabling high-throughput screening with uncertainty quantification for thermal management materials discovery.</p><p>DOI: 10.1039/d6dd00257a</p>]]></description>
 </item>
 <item>
 <title>Large language models as proxies for human experts in synthesis optimization</title>
