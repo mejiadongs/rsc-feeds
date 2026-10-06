@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 06 Oct 2026 00:08:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 06:30:52 +0000</lastBuildDate>
+<item>
+<title>Extrapolation-aware machine learning with applicability-domain gating for low-temperature lithium-ion electrolyte discovery</title>
+<link>https://doi.org/10.1039/d6dd00518g</link>
+<guid isPermaLink="false">10.1039/d6dd00518g</guid>
+<pubDate>Tue, 06 Oct 2026 02:23:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mingyang Zhu, Xiaoyu Hou, Yiting Lin, Honglai Liu, Kai Chen, Cheng Lian</p><p>Lithium-ion electrolyte conductivity drops sharply at low temperatures, but the vast formulation space prevents exhaustive experimental screening. While machine learning (ML) accelerates discovery, models evaluated with random splits can overestimate...</p><p>DOI: 10.1039/d6dd00518g</p>]]></description>
+</item>
 <item>
 <title>Pharmacological Stratification of Public Bioactivity Databases: A Reusable, OECD-Anchored Curation and Benchmarking Framework Demonstrated for Opioid Receptors</title>
 <link>https://doi.org/10.1039/d6dd00392c</link>
