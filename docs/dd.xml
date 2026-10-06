@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 05 Oct 2026 14:54:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:08:27 +0000</lastBuildDate>
+<item>
+<title>Pharmacological Stratification of Public Bioactivity Databases: A Reusable, OECD-Anchored Curation and Benchmarking Framework Demonstrated for Opioid Receptors</title>
+<link>https://doi.org/10.1039/d6dd00392c</link>
+<guid isPermaLink="false">10.1039/d6dd00392c</guid>
+<pubDate>Mon, 05 Oct 2026 16:03:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Manal A Nael, Laxman M Alakonda, Abhik Ghosh, Sara J Ward, Lee-Yuan Liu, Anjali M Rajadhyaksha, Magid Abou-Gharbia, Khaled Elokely</p><p>Public bioactivity databases are heterogeneous not only in measurement type, where binding affinities and functional potencies are reported on different scales, but in pharmacology: the same compound and target can...</p><p>DOI: 10.1039/d6dd00392c</p>]]></description>
+</item>
 <item>
 <title>SCALAR: Quantifying Structural Hallucination, Consistency, and Reasoning Gaps in Materials Foundation Models</title>
 <link>https://doi.org/10.1039/d6dd00393a</link>
@@ -143,33 +150,5 @@
 <guid isPermaLink="false">10.1039/d6dd00309e</guid>
 <pubDate>Tue, 22 Sep 2026 09:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Animesh Mishra</p><p>Predictions from a chemistry language model shift by 1.69 log S on average when the same molecule is rewritten in another notation, affecting 88% of ESOL. Descriptor models are unaffected, locating the failure in string-based models.</p><p>DOI: 10.1039/d6dd00309e</p>]]></description>
-</item>
-<item>
-<title>An accessible property classification framework to predict the solubility of functionalised naphthalenes and rylenes in organic solvents</title>
-<link>https://doi.org/10.1039/d6dd00275g</link>
-<guid isPermaLink="false">10.1039/d6dd00275g</guid>
-<pubDate>Mon, 21 Sep 2026 16:23:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Connor R. M. MacDonald, Alex S. Loch, Neil G. Berry, Emily R. Draper</p><p>We show through a proof-of-concept dataset for naphthalenes and rylenes that solubility can be effectively classified with sufficient high-quality training data, and highlight the need for standardised characterisation procedures.</p><p>DOI: 10.1039/d6dd00275g</p>]]></description>
-</item>
-<item>
-<title>Uncertainty-aware machine learning discovery of candidate temperature-induced solid–solid phase transitions for thermal management applications</title>
-<link>https://doi.org/10.1039/d6dd00257a</link>
-<guid isPermaLink="false">10.1039/d6dd00257a</guid>
-<pubDate>Mon, 21 Sep 2026 13:43:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Cibrán López, Joshua Ojih, Ming Hu, Josep-Lluís Tamarit, Edgardo Saucedo, Claudio Cazorla</p><p>We predict hundreds of solid–solid phase transitions using a machine-learning model trained on an extensive phonon database, enabling high-throughput screening with uncertainty quantification for thermal management materials discovery.</p><p>DOI: 10.1039/d6dd00257a</p>]]></description>
-</item>
-<item>
-<title>Large language models as proxies for human experts in synthesis optimization</title>
-<link>https://doi.org/10.1039/d6dd00176a</link>
-<guid isPermaLink="false">10.1039/d6dd00176a</guid>
-<pubDate>Mon, 21 Sep 2026 09:51:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Stephen A. McCoy, Jonathan Chen, Jeffrey G. Ethier, Luke A. Baldwin</p><p>Leveraging human intuition and large language models for the optimization of complex, multi-variable chemical reaction spaces.</p><p>DOI: 10.1039/d6dd00176a</p>]]></description>
-</item>
-<item>
-<title>PyRosettaCluster : a Python framework for scalable and reproducible bio-macromolecular modeling and design</title>
-<link>https://doi.org/10.1039/d6dd00308g</link>
-<guid isPermaLink="false">10.1039/d6dd00308g</guid>
-<pubDate>Mon, 21 Sep 2026 09:07:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jason C. Klima</p><p>The PyRosettaCluster framework automatically encodes the information necessary for scientific reproducibility into its results, promoting a well-defined, scalable scientific computing workflow for bio-macromolecular modeling and design tasks.</p><p>DOI: 10.1039/d6dd00308g</p>]]></description>
 </item>
 </channel></rss>

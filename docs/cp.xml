@@ -3,7 +3,21 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Mon, 05 Oct 2026 14:54:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:08:21 +0000</lastBuildDate>
+<item>
+<title>Impact of Ligand Bulk on Conformational Rearrangement in Supported Organometallic Complexes</title>
+<link>https://doi.org/10.1039/d6cp03084j</link>
+<guid isPermaLink="false">10.1039/d6cp03084j</guid>
+<pubDate>Mon, 05 Oct 2026 15:02:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jacob Mayer, Mita Halder, Da-Jiang Liu, Damien Culver, Frédéric Perras</p><p>Measuring the dynamics of surface organometallic species, let alone connecting these to catalysis, is highly challenging. We have applied surface-sensitive proton fast-magic-angle spinning double-quantum sideband NMR methods to probe the...</p><p>DOI: 10.1039/d6cp03084j</p>]]></description>
+</item>
+<item>
+<title>Hybrid machine learning for enhanced prediction of diffusion coefficients in liquids</title>
+<link>https://doi.org/10.1039/d6cp00793g</link>
+<guid isPermaLink="false">10.1039/d6cp00793g</guid>
+<pubDate>Mon, 05 Oct 2026 15:02:49 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jens Wagner, Zeno Romero, Kerstin Münnemann, Sebastian Schmitt, Thomas Specht, Hans Hasse, Fabian Jirasek</p><p>A hybrid Enhanced Stokes–Einstein (ESE) model uses a neural-network correction to enable physically consistent, interpretable, and substantially improved predictions for infinite-dilution diffusion coefficients in pure solvents.</p><p>DOI: 10.1039/d6cp00793g</p>]]></description>
+</item>
 <item>
 <title>Atomistic Study on the role of CNT as a Nucleating agent of α-Al in Al-CNT Composite</title>
 <link>https://doi.org/10.1039/d6cp03568j</link>
@@ -383,11 +397,11 @@
 <description><![CDATA[<p><b>Authors:</b> Sergey P. Verevkin, Dzmitry H. Zaitsau, Arina V Elbakari, Yong Zhang, Edward Joseph Maginn</p><p>The vaporisation enthalpy as a function of alkyl chain length was studied for 1-alkyl-3methylimidazolium hexafluorophosphate ([Cnmim][PF6 ]) ionic liquids (ILs) with both an experimental technique and molecular dynamics (MD) simulations....</p><p>DOI: 10.1039/d6cp02591a</p>]]></description>
 </item>
 <item>
-<title>Detonation reaction mechanisms of 3,4-Dinitropyrazole: shockinduced reaction behavior and kinetic characteristics</title>
+<title>Detonation reaction mechanisms of 3,4-dinitropyrazole: shock-induced reaction behavior and kinetic characteristics</title>
 <link>https://doi.org/10.1039/d6cp01668e</link>
 <guid isPermaLink="false">10.1039/d6cp01668e</guid>
 <pubDate>Mon, 28 Sep 2026 08:23:35 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Siyi Ma, Danyang Liu, Teng Zhang, Tuo Yang, Jianying Lu, Junying Wu, Lang Chen</p><p>Aromatic heterocyclic energetic compounds exhibit complex reaction networks involving both bimolecular and unimolecular reactions under shock loading, yet their chemical reaction mechanisms and energy release characteristics remain unclear. This study...</p><p>DOI: 10.1039/d6cp01668e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Siyi Ma, Danyang Liu, Teng Zhang, Tuo Yang, Jianying Lu, Junying Wu, Lang Chen</p><p>Aromatic heterocyclic energetic compound DNP undergoes initial reactions involving bimolecular H/O transfer and unimolecular denitration. Subsequent reactions generate key intermediates, and the final N 2 is predominantly formed via direct ring cleavage.</p><p>DOI: 10.1039/d6cp01668e</p>]]></description>
 </item>
 <item>
 <title>Accurate m 6 A modification forcefield for conformation sampling of RNA</title>
@@ -717,159 +731,5 @@
 <guid isPermaLink="false">10.1039/d6cp03142k</guid>
 <pubDate>Tue, 22 Sep 2026 06:43:05 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Chuangye Wang, Hong Wang, Xinyi Zhang, Yiran Wang, Jianing Ge, Jintang Xue</p><p>Owing to its good environmental stability and easy modification, polyaniline (PANI) is regarded as a promising candidate of corrosion inhibitor and hydrophobic modifier. To For the sake of extending the...</p><p>DOI: 10.1039/d6cp03142k</p>]]></description>
-</item>
-<item>
-<title>Competitive lithium-ion solvation structures in linear and cyclic carbonate electrolytes: Insights from OPLS-AA molecular dynamics simulations</title>
-<link>https://doi.org/10.1039/d6cp01073c</link>
-<guid isPermaLink="false">10.1039/d6cp01073c</guid>
-<pubDate>Mon, 21 Sep 2026 16:23:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rumana Hasan, Dibakar Datta</p><p>Solvation structure of lithium ions is an important factor in determining the performance of lithiumion batteries. However, the detailed study of solvation structures and coordination behavior of Li+ ions in...</p><p>DOI: 10.1039/d6cp01073c</p>]]></description>
-</item>
-<item>
-<title>Explicit microsolvation as a “conformational chaperone” for openCOSMO-RS solvation energy predictions</title>
-<link>https://doi.org/10.1039/d6cp01697a</link>
-<guid isPermaLink="false">10.1039/d6cp01697a</guid>
-<pubDate>Mon, 21 Sep 2026 15:27:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Michael R. Dooley, Shubham Vyas</p><p>Conformational sampling with implicit solvation models can incorrectly favor intramolecular bonding. Explicit solvation during sampling can act as a conformational chaperone disrupting these bonds and improving COSMO-RS solvation energy predictions.</p><p>DOI: 10.1039/d6cp01697a</p>]]></description>
-</item>
-<item>
-<title>From primary retention to saturation: an Avrami-type framework for magnetic nanoparticle capture in flow</title>
-<link>https://doi.org/10.1039/d6cp02670b</link>
-<guid isPermaLink="false">10.1039/d6cp02670b</guid>
-<pubDate>Mon, 21 Sep 2026 15:17:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Daniil Sobenin, Danil Abramov, Lyubov Bondarenko, Kamila Kydralieva</p><p>Dose-dependent magnetic capture is governed by the transition from primary retention to cooperative accumulation and finite trap saturation, linking magnetic-field strength to capture capacity under flow.</p><p>DOI: 10.1039/d6cp02670b</p>]]></description>
-</item>
-<item>
-<title>Two-dimensional materials for gas sensing: bridging computational design and experimental synthesis</title>
-<link>https://doi.org/10.1039/d6cp02961b</link>
-<guid isPermaLink="false">10.1039/d6cp02961b</guid>
-<pubDate>Mon, 21 Sep 2026 14:28:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhixiu Wang, Xingang Jiang, Jing Zhang, Haiying Du, Wencai Yi</p><p>Experiments and computations require closer synergistic integration amid the data-driven development paradigm powered by machine learning and high-throughput screening in the research of 2D gas sensors.</p><p>DOI: 10.1039/d6cp02961b</p>]]></description>
-</item>
-<item>
-<title>Regulation of conductivity and magnetism in asymmetric multipolarized InCrO 3 monolayers</title>
-<link>https://doi.org/10.1039/d6cp01840h</link>
-<guid isPermaLink="false">10.1039/d6cp01840h</guid>
-<pubDate>Mon, 21 Sep 2026 14:14:50 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Longlin Feng, Yiwen Zheng, Xiangwen Xu, Feifei Luo, Guannan Li, Feng Liang, Benling Gao, Guang Song</p><p>The α-/β-MLs are 2D InCrO 3 structures. Sufficient out-of-plane E -field can drive the transition from α-ML (FM semiconductor, out-plane magnetization, T C = 320 K, tiny dipole) to β-ML (FM semi-metal, in-plane magnetization, T C = 560 K, large dipole).</p><p>DOI: 10.1039/d6cp01840h</p>]]></description>
-</item>
-<item>
-<title>From Condensates to Fibrils: Polyphosphate-Regulated Phase Separation of p53</title>
-<link>https://doi.org/10.1039/d6cp02900k</link>
-<guid isPermaLink="false">10.1039/d6cp02900k</guid>
-<pubDate>Mon, 21 Sep 2026 13:43:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Narendran Sekar, Hema Chandra Kotamarthi, Swathi Sudhakar</p><p>Protein aggregation is widely associated with neurodegenerative disorders, but increasing evidence suggests that similar misfolding phenomena also contribute to cancer. Although p53 aggregation is commonly associated with oncogenic mutations, wild-type...</p><p>DOI: 10.1039/d6cp02900k</p>]]></description>
-</item>
-<item>
-<title>Polymorph selection at the surface of organic semiconductor glasses</title>
-<link>https://doi.org/10.1039/d6cp02751b</link>
-<guid isPermaLink="false">10.1039/d6cp02751b</guid>
-<pubDate>Mon, 21 Sep 2026 13:43:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Agnes C. Nkele, Lingyu Wang, Nurjahan Khatun, Elliott Chen, Tanguy Terlier, Gregory J. O. Beran, Kushal Bagchi</p><p>Elimination of the free surface allows selection of a single polymorph during annealing glassy films of organic semiconductor CBP.</p><p>DOI: 10.1039/d6cp02751b</p>]]></description>
-</item>
-<item>
-<title>Quantum-mechanical elastic and transport cross sections for Mg + –He collisions: from ultracold sympathetic cooling to room-temperature ion mobility</title>
-<link>https://doi.org/10.1039/d6cp02722a</link>
-<guid isPermaLink="false">10.1039/d6cp02722a</guid>
-<pubDate>Mon, 21 Sep 2026 12:23:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Syham Lias, Samira Louaifi Hamaili, Kamel Alioua</p><p>Quantum-mechanical elastic and transport cross sections for Mg + –He collisions are computed from ultracold to room-temperature regimes, enabling sympathetic cooling and ion mobility applications.</p><p>DOI: 10.1039/d6cp02722a</p>]]></description>
-</item>
-<item>
-<title>Complexation mechanism in LiH–ammonia borane complexes: insights from chemical shielding and vibrational analysis</title>
-<link>https://doi.org/10.1039/d6cp01965j</link>
-<guid isPermaLink="false">10.1039/d6cp01965j</guid>
-<pubDate>Mon, 21 Sep 2026 11:12:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Krishna, L. K. Saini, Mukesh Pandey</p><p>Study of complexation mechanism in LiH: n NH 3 BH 3 ( n = 1–2) using quantum chemical treatments, vibrational mode analysis and chemical shielding effect.</p><p>DOI: 10.1039/d6cp01965j</p>]]></description>
-</item>
-<item>
-<title>Classifying Crystalline Phases in Complex Systems: A Machine Learning Approach with Order Parameters</title>
-<link>https://doi.org/10.1039/d6cp03126a</link>
-<guid isPermaLink="false">10.1039/d6cp03126a</guid>
-<pubDate>Mon, 21 Sep 2026 11:03:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Diksha Kadre, Vipin Kumar, Shreshtha Dhankar, Sudeep Punnathanam, Rajesh Pavan Pothukuchi</p><p>Crystal polymorphism is a common phenomenon in many atomic and molecular systems. Identification and accurate classification of crystal polymorphs during molecular simulations is of scientific interest while studying crystallization, nucleation,...</p><p>DOI: 10.1039/d6cp03126a</p>]]></description>
-</item>
-<item>
-<title>Dimensionality-Driven Photovoltaic Performance in CsPbBr₃ Perovskites: A Comparative Study of 3D, 2D, and 3D/2D Interface Architectures</title>
-<link>https://doi.org/10.1039/d6cp01617k</link>
-<guid isPermaLink="false">10.1039/d6cp01617k</guid>
-<pubDate>Mon, 21 Sep 2026 10:43:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Prasann Kshatriya, Vidit B Zala, Yogesh Kumar Sonvane</p><p>In this study, we investigate the structural, electronic, and optical properties of CsPbBr₃ perovskite in its 3D bulk, 2D nanosheet, and 3D/2D interface configurations to evaluate their potential for high-efficiency...</p><p>DOI: 10.1039/d6cp01617k</p>]]></description>
-</item>
-<item>
-<title>Tensile strain enhances four-phonon scattering and suppresses thermal conductivity in monolayer MoSe</title>
-<link>https://doi.org/10.1039/d6cp03387c</link>
-<guid isPermaLink="false">10.1039/d6cp03387c</guid>
-<pubDate>Mon, 21 Sep 2026 10:23:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dingbo Zhang, Wenwen Chen, Ye Liu, Yuxiang Ni</p><p>Biaxial tensile strain strongly suppresses thermal conductivity in fractional-layer MoSe 2 by reducing phonon propagation and increasing the relative importance of four-phonon scattering.</p><p>DOI: 10.1039/d6cp03387c</p>]]></description>
-</item>
-<item>
-<title>Assessing sequence reversal effects on coiled-coil stability using AI-based structure prediction and enhanced sampling atomistic simulations</title>
-<link>https://doi.org/10.1039/d6cp01691j</link>
-<guid isPermaLink="false">10.1039/d6cp01691j</guid>
-<pubDate>Mon, 21 Sep 2026 09:42:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Maria Arnittali, Elena Markopoulou, Vagelis Harmandaris, Anastassia N. Rissanou</p><p>This study investigates the impact of sequence inversion on the structural integrity and thermodynamic stability of the wtRop protein, a prototypical coiled-coil motif.</p><p>DOI: 10.1039/d6cp01691j</p>]]></description>
-</item>
-<item>
-<title>Hydrogen spillover nanoalloy: cathodic protection against reverse current degradation for intermittent water electrolysis</title>
-<link>https://doi.org/10.1039/d6cp03021a</link>
-<guid isPermaLink="false">10.1039/d6cp03021a</guid>
-<pubDate>Mon, 21 Sep 2026 09:42:50 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shuhao Wang, Zhongheng Fu, Dazhi Yao, Yang Xiao, Chuan Zhao</p><p>Alkaline water electrolysis stands as a promising avenue for large-scale green hydrgen production. Nickel-molybdenum (NiMo) alloys are efficient electrocatalysts towards hydrogen evolution reaction on the cathode side, yet their metallic...</p><p>DOI: 10.1039/d6cp03021a</p>]]></description>
-</item>
-<item>
-<title>Molecular dynamics insights into CO 2 /CH 4 – n -docosane molecular mixing under deep reservoir conditions</title>
-<link>https://doi.org/10.1039/d6cp02939f</link>
-<guid isPermaLink="false">10.1039/d6cp02939f</guid>
-<pubDate>Mon, 21 Sep 2026 09:03:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lianming Zhao, Wenxi Han, Zhanchi Zhao, Jifa Fu, Yuqi Qiu, Yuan Li, Xueru Wang, Jinghao Zhang, Hao Ren, Guang Zhao, Jing Xu</p><p>MD simulations reveal that CO 2 outperforms CH 4 in mobilizing n -docosane within SiO 2 nanopores. CO 2 's strong affinity and polar interactions disrupt C22-C22 associations and weaken C22-SiO 2 adhesion, but weak CH 4 interactions limit oil recovery.</p><p>DOI: 10.1039/d6cp02939f</p>]]></description>
-</item>
-<item>
-<title>Group 13 Metalloligand Regulate Bimetallic [Pd-E] (E=Al, Ga, In) Catalyzed CO 2 Hydrosilylation: Mechanism and Catalyst Design</title>
-<link>https://doi.org/10.1039/d6cp02311h</link>
-<guid isPermaLink="false">10.1039/d6cp02311h</guid>
-<pubDate>Mon, 21 Sep 2026 09:03:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lili Yu, Zhendong Li, Xiaoyan Li</p><p>Group 13 metalligands can regulate the catalytic performance through the heterobimetallic bond and have found widespread applications in catalysis. Herein, the detailed mechanism of CO₂ hydrosilylation catalyzed by 6,6″-bis(phosphino) terpyridine-coordinated...</p><p>DOI: 10.1039/d6cp02311h</p>]]></description>
-</item>
-<item>
-<title>Multi-physics Investigations on The Thermal Effect in Giant Photostriction Phenomenon in MAPbBr 3 Crystal</title>
-<link>https://doi.org/10.1039/d6cp01780k</link>
-<guid isPermaLink="false">10.1039/d6cp01780k</guid>
-<pubDate>Mon, 21 Sep 2026 09:02:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Beichen Qiao, Dong Liu, Chengshun Liu, Zhenghua Wen, Wei-Yan Cong, ChengBo Guan, Ying-Bo Lu, Zhongchen Wu</p><p>The photo-induced lattice expansion in metal-halide perovskites is an important phenomenon affecting the physical properties. However, there is extensive controversy over whether it is a direct non-thermal photostrictive effect or...</p><p>DOI: 10.1039/d6cp01780k</p>]]></description>
-</item>
-<item>
-<title>Planar tetracoordinate fluorine stabilized by rigid Zn 4 Po 4 , Cd 4 Te 4 , and Cd 4 Po 4 rings</title>
-<link>https://doi.org/10.1039/d6cp02592g</link>
-<guid isPermaLink="false">10.1039/d6cp02592g</guid>
-<pubDate>Mon, 21 Sep 2026 08:43:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ya-Xuan Cheng, Li-Xia Bai, Jin-Chang Guo</p><p>The ptF F©Zn 4 Po 4 − , F©Cd 4 Te 4 − and F©Cd 4 Po 4 − superhalogen anions were predicted by adopting the strategy of “adjusting the rigidity of the ligand ring”.</p><p>DOI: 10.1039/d6cp02592g</p>]]></description>
-</item>
-<item>
-<title>In-gap states enhance the hydroxylation of c (6 × 2) terminated SrTiO 3</title>
-<link>https://doi.org/10.1039/d6cp01053a</link>
-<guid isPermaLink="false">10.1039/d6cp01053a</guid>
-<pubDate>Mon, 21 Sep 2026 08:42:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Marie Neumann, Virginia Pérez-Dieste, Jan P. Hofmann</p><p>For SrO-terminated SrTiO 3 , shifting E F closer to the CBM by Nb-doping and reduction leads to enhanced surface hydroxylation. This is attributed to higher surface basicity and favourable downward band bending, due to in-gap states close to E F .</p><p>DOI: 10.1039/d6cp01053a</p>]]></description>
-</item>
-<item>
-<title>Complex and heterogeneous fusion dynamics of protein condensates by high-speed imaging and optical trapping</title>
-<link>https://doi.org/10.1039/d6cp02676a</link>
-<guid isPermaLink="false">10.1039/d6cp02676a</guid>
-<pubDate>Mon, 21 Sep 2026 08:23:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kiyoto Kamagata, Atsumi Hando, Syamil M. A. Husna, Hana Kawahara, Ryu-Suke Nozawa, Keisuke Ikeda, Eriko Mano</p><p>Fusion is a key growth mechanism in the formation of mature membrane-less organelles.</p><p>DOI: 10.1039/d6cp02676a</p>]]></description>
-</item>
-<item>
-<title>Octylammonium iodide-mediated size control of CsPbI 3 nanocrystals in microfluidic continuous-flow synthesis</title>
-<link>https://doi.org/10.1039/d6cp02360f</link>
-<guid isPermaLink="false">10.1039/d6cp02360f</guid>
-<pubDate>Mon, 21 Sep 2026 08:02:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Simin Zhang, Bo Huang, Shitong Li, Huichao Zhang</p><p>Microfluidic flow synthesis using octylammonium iodide achieves precise size control of CsPbI 3 nanocrystals. The extra iodide ions promote nucleation bursts and suppress growth, resulting in small NCs with blue-shifted emission.</p><p>DOI: 10.1039/d6cp02360f</p>]]></description>
-</item>
-<item>
-<title>Near-infrared response of all-solid-state photodetector cells based on plasmon-induced charge separation at the interface between p-type semiconductors and silver nanoparticles</title>
-<link>https://doi.org/10.1039/d6cp03138b</link>
-<guid isPermaLink="false">10.1039/d6cp03138b</guid>
-<pubDate>Mon, 21 Sep 2026 06:04:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yukina Takahashi, Kaho Yamamoto</p><p>Ag nanoplates enable efficient NIR light harvesting, while semiconductor conductivity and interfacial recombination govern the photoresponse of all-solid-state p-type PICS cells.</p><p>DOI: 10.1039/d6cp03138b</p>]]></description>
 </item>
 </channel></rss>
