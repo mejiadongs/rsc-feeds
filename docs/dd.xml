@@ -3,7 +3,28 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 07 Oct 2026 06:09:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 13:35:22 +0000</lastBuildDate>
+<item>
+<title>Automated natural product dereplication via DEPT-135 spectral matching</title>
+<link>https://doi.org/10.1039/d6dd00553e</link>
+<guid isPermaLink="false">10.1039/d6dd00553e</guid>
+<pubDate>Wed, 07 Oct 2026 12:30:09 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yojana Gadiya, Manvendra Singh, Tobias Kind, Abhishek Patel, Venkat Macherla, Subbaraju Gottumukkala, August Allen, Biswapriya B Misra, Daniel Domingo-Fernández</p><p>Nuclear magnetic resonance is central to identifying novel natural products, but assigning structures to unknown compounds is still slow and largely manual. Distortionless Enhancement by Polarization Transfer (DEPT) is a...</p><p>DOI: 10.1039/d6dd00553e</p>]]></description>
+</item>
+<item>
+<title>A Unified AI-Agent-Assisted Platform for Coupled Experimental and Simulation-Based Workflows in Self-Driving Laboratories</title>
+<link>https://doi.org/10.1039/d6dd00418k</link>
+<guid isPermaLink="false">10.1039/d6dd00418k</guid>
+<pubDate>Wed, 07 Oct 2026 10:23:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sebastian Putz, Ahmed Khalil Mama, Matthias Franzreb</p><p>Self-driving laboratories (SDLs) promise to accelerate experimental research, yet translating scientific intent into executable automated workflows remains a bottleneck. We present a template-based platform that separates workflow design from execution....</p><p>DOI: 10.1039/d6dd00418k</p>]]></description>
+</item>
+<item>
+<title>Learning probabilistic pharmacophore maps enables efficient hit finding</title>
+<link>https://doi.org/10.1039/d6dd00226a</link>
+<guid isPermaLink="false">10.1039/d6dd00226a</guid>
+<pubDate>Wed, 07 Oct 2026 06:36:24 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> David Boe, Daniel Elbrecht, Hnin Ookhin, Artur Menzeleev, Marcus E. Farmer, Nataliya Nady, Sathya Chitturi, James Frick, Adam Morra, Tony Schroeder, Alpha A. Lee</p><p>ML-derived pharmacophore generation facilitates virtual screening at large scale for hit identification workflows while remaining robust to common evaluation biases.</p><p>DOI: 10.1039/d6dd00226a</p>]]></description>
+</item>
 <item>
 <title>SurGBSA: Learning Representations From Molecular Dynamics Simulations</title>
 <link>https://doi.org/10.1039/d6dd00174b</link>
@@ -131,11 +152,11 @@
 <description><![CDATA[<p><b>Authors:</b> Nam H. Đào, Daniel S. King, Frederick Stein, Xiaoyu Wang, Dongjin Kim, Gerit Brandenburg, Jürg Hutter, Bingqing Cheng</p><p>Kohn–Sham density functional theory is the workhorse of computational materials science and chemistry, but the optimal choice of exchange–correlation approximation for a given system is often unclear.</p><p>DOI: 10.1039/d6dd00571c</p>]]></description>
 </item>
 <item>
-<title>An In Silico Tool for Rapid and Accessible Training in Self-Driving Laboratory Development</title>
+<title>An in silico tool for rapid and accessible training in self-driving laboratory development</title>
 <link>https://doi.org/10.1039/d6dd00557h</link>
 <guid isPermaLink="false">10.1039/d6dd00557h</guid>
 <pubDate>Fri, 25 Sep 2026 15:42:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Veronica Lai, Erin Lindenberg, Jason E Hein, Rebekah Greenwood, Wenyu Zhang</p><p>Self-driving laboratories (SDLs) integrate robotic experimentation and machine learning to autonomously navigate complex chemical and materials search spaces-but their development demands simultaneous mastery of experimental parameterisation, automated measurement, and optimisation...</p><p>DOI: 10.1039/d6dd00557h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Rebekah Greenwood, Veronica Lai, Wenyu Zhang, Erin Lindenberg, Jason E. Hein</p><p>A no-stakes, accessible training environment for new self-driving laboratory users. Structured modules guide training in design, execution, and interpretation of an optimization campaign.</p><p>DOI: 10.1039/d6dd00557h</p>]]></description>
 </item>
 <item>
 <title>Calibra: a robotic system for automated calibration standard preparation and quantification</title>
