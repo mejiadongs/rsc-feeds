@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 06 Oct 2026 18:28:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 06:09:37 +0000</lastBuildDate>
+<item>
+<title>SurGBSA: Learning Representations From Molecular Dynamics Simulations</title>
+<link>https://doi.org/10.1039/d6dd00174b</link>
+<guid isPermaLink="false">10.1039/d6dd00174b</guid>
+<pubDate>Tue, 06 Oct 2026 19:03:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> William Derek Jones, Yue Yang, Felice Lightstone, Niema Moshiri, Jonathan Allen, Tajana Rosing</p><p>Protein-ligand interactions are inherently dynamic, yet most neural network methods for structure-based drug design rely on static structural representations. Atomistic molecular dynamics (MD) simulations provide a tool to model the...</p><p>DOI: 10.1039/d6dd00174b</p>]]></description>
+</item>
 <item>
 <title>A Multimodal Screening and Validation Framework for Polymer Glass-Transition Temperature Design</title>
 <link>https://doi.org/10.1039/d6dd00148c</link>
@@ -150,19 +157,5 @@
 <guid isPermaLink="false">10.1039/d6dd00261g</guid>
 <pubDate>Wed, 23 Sep 2026 02:43:36 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yinan Wang, Arpita Varadwaj, Teruyasu Mizoguchi, Masato Kotsugi</p><p>Region-resolved machine learning of C K-edge XANES reveals that the π region contains the dominant information for predicting dopant-induced local electronic structure and bonding in graphene.</p><p>DOI: 10.1039/d6dd00261g</p>]]></description>
-</item>
-<item>
-<title>Phenotypic reversion and target prioritization for cellular inflammation via representation learning with foundation models</title>
-<link>https://doi.org/10.1039/d6dd00287k</link>
-<guid isPermaLink="false">10.1039/d6dd00287k</guid>
-<pubDate>Tue, 22 Sep 2026 21:43:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Daniel R. Wong, Mary Piper, Jiao Qiao, Max Russo, Pierre Jean, Djork-Arné Clevert, Jason D. Arroyo, Evanthia Pashos</p><p>The identification of genetic perturbations that can reverse disease-associated cellular phenotypes toward a healthy state is a central challenge in early drug discovery.</p><p>DOI: 10.1039/d6dd00287k</p>]]></description>
-</item>
-<item>
-<title>Notation matters: cross-representation inconsistency in chemistry language models and its mechanistic origins</title>
-<link>https://doi.org/10.1039/d6dd00309e</link>
-<guid isPermaLink="false">10.1039/d6dd00309e</guid>
-<pubDate>Tue, 22 Sep 2026 09:25:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Animesh Mishra</p><p>Predictions from a chemistry language model shift by 1.69 log S on average when the same molecule is rewritten in another notation, affecting 88% of ESOL. Descriptor models are unaffected, locating the failure in string-based models.</p><p>DOI: 10.1039/d6dd00309e</p>]]></description>
 </item>
 </channel></rss>
