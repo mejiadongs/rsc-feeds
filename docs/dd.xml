@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 07 Oct 2026 23:10:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 06:16:26 +0000</lastBuildDate>
 <item>
 <title>Extending the Adsorption Information File for AI Digitization of Literature Isotherms and Computational Simulation Reporting</title>
 <link>https://doi.org/10.1039/d6dd00699j</link>
@@ -171,26 +171,5 @@
 <guid isPermaLink="false">10.1039/d6dd00557h</guid>
 <pubDate>Fri, 25 Sep 2026 15:42:58 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Rebekah Greenwood, Veronica Lai, Wenyu Zhang, Erin Lindenberg, Jason E. Hein</p><p>A no-stakes, accessible training environment for new self-driving laboratory users. Structured modules guide training in design, execution, and interpretation of an optimization campaign.</p><p>DOI: 10.1039/d6dd00557h</p>]]></description>
-</item>
-<item>
-<title>Calibra: a robotic system for automated calibration standard preparation and quantification</title>
-<link>https://doi.org/10.1039/d6dd00514d</link>
-<guid isPermaLink="false">10.1039/d6dd00514d</guid>
-<pubDate>Wed, 23 Sep 2026 13:23:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Clark Zhang, Rebekah Greenwood, Wenyu Zhang, Maria Politi, Chance Hattrick, Sara M. Guzman, Matthew E. Reish, Jason E. Hein</p><p>Automated sample preparation for small-molecule analysis remains technically challenging.</p><p>DOI: 10.1039/d6dd00514d</p>]]></description>
-</item>
-<item>
-<title>Recent advances in AI-driven biotherapeutic discovery using protein generative models</title>
-<link>https://doi.org/10.1039/d6dd00222f</link>
-<guid isPermaLink="false">10.1039/d6dd00222f</guid>
-<pubDate>Wed, 23 Sep 2026 08:40:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Haelyn Kim, Hakyung Lee, Jinung Song, Juyong Lee</p><p>Protein generative models design therapeutic backbones and sequences that are then filtered by cross-validation metrics. We review these methods, their therapeutic applications, and how far these metrics actually predict experimental success.</p><p>DOI: 10.1039/d6dd00222f</p>]]></description>
-</item>
-<item>
-<title>Decoding dopant-induced electronic modulation in graphene via region-resolved machine learning of XANES</title>
-<link>https://doi.org/10.1039/d6dd00261g</link>
-<guid isPermaLink="false">10.1039/d6dd00261g</guid>
-<pubDate>Wed, 23 Sep 2026 02:43:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yinan Wang, Arpita Varadwaj, Teruyasu Mizoguchi, Masato Kotsugi</p><p>Region-resolved machine learning of C K-edge XANES reveals that the π region contains the dominant information for predicting dopant-induced local electronic structure and bonding in graphene.</p><p>DOI: 10.1039/d6dd00261g</p>]]></description>
 </item>
 </channel></rss>
