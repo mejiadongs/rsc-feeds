@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 08 Oct 2026 06:16:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 13:44:54 +0000</lastBuildDate>
+<item>
+<title>Commit: BitBIRCH: Efficient clustering of large molecular libraries</title>
+<link>https://doi.org/10.1039/d5dd00493d</link>
+<guid isPermaLink="false">10.1039/d5dd00493d</guid>
+<pubDate>Thu, 08 Oct 2026 09:41:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ignacio Pickering, Krisztina Zsigmond, Kenneth López Pérez, Miroslav Lžičař, Ramon Alain Miranda-Quintana</p><p>We present BitBIRCH-Lean, a fast, memory-efficient implementation of the BitBIRCH algorithm, designed for high-throughput clustering of huge molecular libraries (up to billions of drug-like molecules) on typical workstations. BitBIRCH-Lean considerably...</p><p>DOI: 10.1039/d5dd00493d</p>]]></description>
+</item>
+<item>
+<title>Automating MD simulations for proteins using large language models: NAMD-agent</title>
+<link>https://doi.org/10.1039/d6dd00535g</link>
+<guid isPermaLink="false">10.1039/d6dd00535g</guid>
+<pubDate>Thu, 08 Oct 2026 08:50:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Omid Barati Farimani, Achuth Chandrasekhar, Amir Barati Farimani</p><p>Molecular dynamics simulations are an essential tool in understanding protein structure, dynamics, and function at the atomic level.</p><p>DOI: 10.1039/d6dd00535g</p>]]></description>
+</item>
 <item>
 <title>Extending the Adsorption Information File for AI Digitization of Literature Isotherms and Computational Simulation Reporting</title>
 <link>https://doi.org/10.1039/d6dd00699j</link>
@@ -58,7 +72,7 @@
 <link>https://doi.org/10.1039/d6dd00518g</link>
 <guid isPermaLink="false">10.1039/d6dd00518g</guid>
 <pubDate>Tue, 06 Oct 2026 02:23:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mingyang Zhu, Xiaoyu Hou, Yiting Lin, Honglai Liu, Kai Chen, Cheng Lian</p><p>Lithium-ion electrolyte conductivity drops sharply at low temperatures, but the vast formulation space prevents exhaustive experimental screening. While machine learning (ML) accelerates discovery, models evaluated with random splits can overestimate...</p><p>DOI: 10.1039/d6dd00518g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Mingyang Zhu, Xiaoyu Hou, Yiting Lin, Honglai Liu, Kai Chen, Cheng Lian</p><p>An extrapolation-aware machine-learning framework combines physics-informed descriptors with applicability-domain gating to identify trusted low-temperature electrolyte candidates while flagging unsupported predictions.</p><p>DOI: 10.1039/d6dd00518g</p>]]></description>
 </item>
 <item>
 <title>Pharmacological Stratification of Public Bioactivity Databases: A Reusable, OECD-Anchored Curation and Benchmarking Framework Demonstrated for Opioid Receptors</title>
@@ -110,18 +124,18 @@
 <description><![CDATA[<p><b>Authors:</b> Isaac L Huidobro-Meezs, Jun Dai, Rodrigo Vargas-Hernandez</p><p>Quantum chemical simulations on quantum computers are limited by a measurement bottleneck: estimating molecular Hamiltonians to chemical accuracy requires a large number of measurements, which remain costly even on fault-tolerant...</p><p>DOI: 10.1039/d6dd00430j</p>]]></description>
 </item>
 <item>
-<title>Accelerating Proton Affinity Prediction with Multi-Fidelity Machine Learning</title>
+<title>Accelerating proton affinity prediction with multi-fidelity machine learning</title>
 <link>https://doi.org/10.1039/d6dd00362a</link>
 <guid isPermaLink="false">10.1039/d6dd00362a</guid>
 <pubDate>Tue, 29 Sep 2026 13:03:20 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Debjyoti Bhattacharya, Yifan Liu, Valentino R Cooper, Wesley F. Reinhart</p><p>Accurate gas-phase proton affinities (PAs) are essential for designing proton carriers in anhydrous fuel cells, yet high-level quantum-chemical calculations are too expensive for large libraries. We develop a multi-fidelity △-learning...</p><p>DOI: 10.1039/d6dd00362a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Debjyoti Bhattacharya, Yifan Liu, Valentino R. Cooper, Wesley F. Reinhart</p><p>Accurate gas-phase proton affinities (PAs) are essential for designing proton carriers in anhydrous fuel cells, yet high-level quantum-chemical calculations are too expensive for large libraries.</p><p>DOI: 10.1039/d6dd00362a</p>]]></description>
 </item>
 <item>
-<title>Benchmarking Machine Learning and Molecular Dynamics Methods for the Prediction of the Thermophysical Properties of Organic Liquids</title>
+<title>Benchmarking machine learning and molecular dynamics methods for the prediction of the thermophysical properties of organic liquids</title>
 <link>https://doi.org/10.1039/d6dd00260a</link>
 <guid isPermaLink="false">10.1039/d6dd00260a</guid>
 <pubDate>Tue, 29 Sep 2026 13:03:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Egheosa Ogbomo, Fionn Carman, Daniele Dini, James Patrick Ewen</p><p>Accurate prediction of thermophysical properties is crucial for the rational design of lubricants and cooling fluids. We compile a database of approximately 4,700 experimental and critically evaluated reference values for...</p><p>DOI: 10.1039/d6dd00260a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Egheosa Ogbomo, Fionn Carman, Daniele Dini, James P. Ewen</p><p>Machine learning models trained on ∼4700 reference values predict the density, viscosity, and thermal conductivity of lubricant-sized organic molecules, benchmarked against Green–Kubo molecular dynamics simulations of eight representative fluids.</p><p>DOI: 10.1039/d6dd00260a</p>]]></description>
 </item>
 <item>
 <title>The Data in Data Science for Chemistry: How the Sausage is Made</title>
@@ -152,11 +166,11 @@
 <description><![CDATA[<p><b>Authors:</b> Anton V. Ievlev, Heather Hare, Yiyang Li, Sergei V. Kalinin</p><p>Expert supervision is the ToF-SIMS bottleneck. An AI agent planned and ran a blind two-polarity study—35 measurements in 8.1 h from 40 min of human attention—and delivered transferable scientific results.</p><p>DOI: 10.1039/d6dd00609d</p>]]></description>
 </item>
 <item>
-<title>Packing efficiency governs CO₂/H₂ selectivity in machine-learning-screened metal–organic frameworks</title>
+<title>Packing efficiency governs CO 2 /H 2 selectivity in machine-learning-screened metal–organic frameworks</title>
 <link>https://doi.org/10.1039/d6dd00598e</link>
 <guid isPermaLink="false">10.1039/d6dd00598e</guid>
 <pubDate>Sat, 26 Sep 2026 06:43:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Md. Rifat Khandaker, Mohammad Asaduzzaman Chowdhury, Sujan Hossain</p><p>Pre-combustion CO₂/H₂ separation requires MOFs that combine high CO₂ working capacity with strong H₂ rejection. Full ARC-MOF screening by GCMC is impractical, so we used an uncertainty-guided machine-learning workflow to...</p><p>DOI: 10.1039/d6dd00598e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Md. Rifat Khandaker, Mohammad Asaduzzaman Chowdhury, Sujan Hossain</p><p>Machine-learning screening of 278 778 ARC-MOFs identifies packing efficiency, rather than pore diameter, as a key driver of CO 2 /H 2 selectivity and prioritises 50 candidates for further validation.</p><p>DOI: 10.1039/d6dd00598e</p>]]></description>
 </item>
 <item>
 <title>Systematic trends in water properties across Jacob's ladder density functionals</title>
