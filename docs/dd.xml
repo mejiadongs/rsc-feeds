@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 08 Oct 2026 23:26:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 06:18:55 +0000</lastBuildDate>
+<item>
+<title>A Robotic System of Automated in-situ Heating X-Ray Diffraction Experimentation in Autonomous Laboratories</title>
+<link>https://doi.org/10.1039/d6dd00502k</link>
+<guid isPermaLink="false">10.1039/d6dd00502k</guid>
+<pubDate>Fri, 09 Oct 2026 00:24:48 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hyuk Jun Yoo, Bernardus Rendy, Yuxing Fei, Andrea Giunto, Lauren N Walters, Gerbrand Ceder</p><p>Autonomous materials discovery platforms have successfully accelerated high-throughput synthesis, yet the manipulation and real-time tracking of complex solid-state synthesis pathways remain a critical challenge. Therefore, we present a fully integrated,...</p><p>DOI: 10.1039/d6dd00502k</p>]]></description>
+</item>
 <item>
 <title>Commit: BitBIRCH: Efficient clustering of large molecular libraries</title>
 <link>https://doi.org/10.1039/d5dd00493d</link>
