@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 09 Oct 2026 06:18:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 18:24:53 +0000</lastBuildDate>
+<item>
+<title>BoFlex: Modular Bayesian Optimization for Autonomous Experimentation</title>
+<link>https://doi.org/10.1039/d6dd00224b</link>
+<guid isPermaLink="false">10.1039/d6dd00224b</guid>
+<pubDate>Fri, 09 Oct 2026 13:23:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sina Sadeghi, Jinge Xu, Kristofer Reyes, Milad Abolhasani</p><p>Self-driving laboratories (SDLs) are rapidly changing how chemical and materials research is performed by closing the loop between automated experimentation and data-driven decision making, enabling faster discovery and optimization with...</p><p>DOI: 10.1039/d6dd00224b</p>]]></description>
+</item>
 <item>
 <title>A Robotic System of Automated in-situ Heating X-Ray Diffraction Experimentation in Autonomous Laboratories</title>
 <link>https://doi.org/10.1039/d6dd00502k</link>
@@ -124,11 +131,11 @@
 <description><![CDATA[<p><b>Authors:</b> Luca Schaufelberger, Aline Hartgers, Kjell Jorner</p><p>Cyclic molecules are ubiquitous across applications in chemistry and biology. Their restricted conformational flexibility provides structural pre-organization that is key to their function in drug discovery and catalysis. However, reliably...</p><p>DOI: 10.1039/d6dd00199h</p>]]></description>
 </item>
 <item>
-<title>Discrete Flow-Based Generative Models for Measurement Optimization in Quantum Computing</title>
+<title>Discrete flow-based generative models for measurement optimization in quantum computing</title>
 <link>https://doi.org/10.1039/d6dd00430j</link>
 <guid isPermaLink="false">10.1039/d6dd00430j</guid>
 <pubDate>Wed, 30 Sep 2026 14:23:01 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Isaac L Huidobro-Meezs, Jun Dai, Rodrigo Vargas-Hernandez</p><p>Quantum chemical simulations on quantum computers are limited by a measurement bottleneck: estimating molecular Hamiltonians to chemical accuracy requires a large number of measurements, which remain costly even on fault-tolerant...</p><p>DOI: 10.1039/d6dd00430j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Isaac L. Huidobro-Meezs, Jun Dai, Rodrigo A. Vargas-Hernández</p><p>Estimating molecular Hamiltonians to chemical accuracy requires a large number of measurements. We use GFlowNets to produce non-overlapping groupings that reduce measurement and two-qubit gate counts and serve to initialize overlapping methods.</p><p>DOI: 10.1039/d6dd00430j</p>]]></description>
 </item>
 <item>
 <title>Accelerating proton affinity prediction with multi-fidelity machine learning</title>
@@ -145,11 +152,11 @@
 <description><![CDATA[<p><b>Authors:</b> Egheosa Ogbomo, Fionn Carman, Daniele Dini, James P. Ewen</p><p>Machine learning models trained on ∼4700 reference values predict the density, viscosity, and thermal conductivity of lubricant-sized organic molecules, benchmarked against Green–Kubo molecular dynamics simulations of eight representative fluids.</p><p>DOI: 10.1039/d6dd00260a</p>]]></description>
 </item>
 <item>
-<title>The Data in Data Science for Chemistry: How the Sausage is Made</title>
+<title>The data in data science for chemistry: how the sausage is made</title>
 <link>https://doi.org/10.1039/d6dd00648e</link>
 <guid isPermaLink="false">10.1039/d6dd00648e</guid>
 <pubDate>Tue, 29 Sep 2026 13:03:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ruben Laplaza, Stefan Heinen, Carlos Vivar Rios</p><p>Machine-learning failures in experimental chemistry are often diagnosed as ``messy data'', but messiness is not a single problem. This Perspective argues that experimental ML failures should be diagnosed at the...</p><p>DOI: 10.1039/d6dd00648e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ruben Laplaza, Stefan N. Heinen, Carlos Vivar Rios</p><p>Machine-learning failures in experimental chemistry are often blamed on “messy data”, but messiness is not a single problem. We trace data failures to specific pipeline stages and outline diagnostics, remedies, and the path forward.</p><p>DOI: 10.1039/d6dd00648e</p>]]></description>
 </item>
 <item>
 <title>Atomistic modeling of chemical disorder in materials: bridging conventional methods and AI-assisted approaches</title>
