@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 09 Oct 2026 18:24:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 06:01:33 +0000</lastBuildDate>
 <item>
 <title>BoFlex: Modular Bayesian Optimization for Autonomous Experimentation</title>
 <link>https://doi.org/10.1039/d6dd00224b</link>
@@ -185,19 +185,5 @@
 <guid isPermaLink="false">10.1039/d6dd00598e</guid>
 <pubDate>Sat, 26 Sep 2026 06:43:12 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Md. Rifat Khandaker, Mohammad Asaduzzaman Chowdhury, Sujan Hossain</p><p>Machine-learning screening of 278 778 ARC-MOFs identifies packing efficiency, rather than pore diameter, as a key driver of CO 2 /H 2 selectivity and prioritises 50 candidates for further validation.</p><p>DOI: 10.1039/d6dd00598e</p>]]></description>
-</item>
-<item>
-<title>Systematic trends in water properties across Jacob's ladder density functionals</title>
-<link>https://doi.org/10.1039/d6dd00571c</link>
-<guid isPermaLink="false">10.1039/d6dd00571c</guid>
-<pubDate>Fri, 25 Sep 2026 20:43:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nam H. Đào, Daniel S. King, Frederick Stein, Xiaoyu Wang, Dongjin Kim, Gerit Brandenburg, Jürg Hutter, Bingqing Cheng</p><p>Kohn–Sham density functional theory is the workhorse of computational materials science and chemistry, but the optimal choice of exchange–correlation approximation for a given system is often unclear.</p><p>DOI: 10.1039/d6dd00571c</p>]]></description>
-</item>
-<item>
-<title>An in silico tool for rapid and accessible training in self-driving laboratory development</title>
-<link>https://doi.org/10.1039/d6dd00557h</link>
-<guid isPermaLink="false">10.1039/d6dd00557h</guid>
-<pubDate>Fri, 25 Sep 2026 15:42:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rebekah Greenwood, Veronica Lai, Wenyu Zhang, Erin Lindenberg, Jason E. Hein</p><p>A no-stakes, accessible training environment for new self-driving laboratory users. Structured modules guide training in design, execution, and interpretation of an optimization campaign.</p><p>DOI: 10.1039/d6dd00557h</p>]]></description>
 </item>
 </channel></rss>
