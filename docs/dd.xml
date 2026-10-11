@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Sat, 10 Oct 2026 21:51:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 05:58:51 +0000</lastBuildDate>
 <item>
 <title>BoFlex: Modular Bayesian Optimization for Autonomous Experimentation</title>
 <link>https://doi.org/10.1039/d6dd00224b</link>
@@ -178,12 +178,5 @@
 <guid isPermaLink="false">10.1039/d6dd00609d</guid>
 <pubDate>Mon, 28 Sep 2026 09:03:24 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Anton V. Ievlev, Heather Hare, Yiyang Li, Sergei V. Kalinin</p><p>Expert supervision is the ToF-SIMS bottleneck. An AI agent planned and ran a blind two-polarity study—35 measurements in 8.1 h from 40 min of human attention—and delivered transferable scientific results.</p><p>DOI: 10.1039/d6dd00609d</p>]]></description>
-</item>
-<item>
-<title>Packing efficiency governs CO 2 /H 2 selectivity in machine-learning-screened metal–organic frameworks</title>
-<link>https://doi.org/10.1039/d6dd00598e</link>
-<guid isPermaLink="false">10.1039/d6dd00598e</guid>
-<pubDate>Sat, 26 Sep 2026 06:43:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Md. Rifat Khandaker, Mohammad Asaduzzaman Chowdhury, Sujan Hossain</p><p>Machine-learning screening of 278 778 ARC-MOFs identifies packing efficiency, rather than pore diameter, as a key driver of CO 2 /H 2 selectivity and prioritises 50 candidates for further validation.</p><p>DOI: 10.1039/d6dd00598e</p>]]></description>
 </item>
 </channel></rss>
