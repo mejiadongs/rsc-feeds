@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 12 Oct 2026 06:09:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 15:41:45 +0000</lastBuildDate>
+<item>
+<title>Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</title>
+<link>https://doi.org/10.1039/d6dd00278a</link>
+<guid isPermaLink="false">10.1039/d6dd00278a</guid>
+<pubDate>Mon, 12 Oct 2026 12:43:21 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zeyu Wang, Shuya Yamazaki, Martin  Hoffmann Petersen, Masato Ohnishi, Tomiya Yamamoto, Wei Nong, Jianghai Wang, Ruiming Zhu, Masatoshi Hanai, Michimasa Morita, Toyotaro Suzumura, Zekun Ren, Junichiro Shiomi, Kedar Hippalgaonkar</p><p>The appearance of generative models has opened vast chemical spaces in the design of functional materials. Although machine learning interatomic potentials (MLIPs) have substantially accelerated phonon calculations, high-fidelity prediction of...</p><p>DOI: 10.1039/d6dd00278a</p>]]></description>
+</item>
 <item>
 <title>BoFlex: Modular Bayesian Optimization for Autonomous Experimentation</title>
 <link>https://doi.org/10.1039/d6dd00224b</link>
@@ -89,11 +96,11 @@
 <description><![CDATA[<p><b>Authors:</b> Mingyang Zhu, Xiaoyu Hou, Yiting Lin, Honglai Liu, Kai Chen, Cheng Lian</p><p>An extrapolation-aware machine-learning framework combines physics-informed descriptors with applicability-domain gating to identify trusted low-temperature electrolyte candidates while flagging unsupported predictions.</p><p>DOI: 10.1039/d6dd00518g</p>]]></description>
 </item>
 <item>
-<title>Pharmacological Stratification of Public Bioactivity Databases: A Reusable, OECD-Anchored Curation and Benchmarking Framework Demonstrated for Opioid Receptors</title>
+<title>Pharmacological stratification of public bioactivity databases: a reusable, OECD-anchored curation and benchmarking framework demonstrated for opioid receptors</title>
 <link>https://doi.org/10.1039/d6dd00392c</link>
 <guid isPermaLink="false">10.1039/d6dd00392c</guid>
 <pubDate>Mon, 05 Oct 2026 16:03:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Manal A Nael, Laxman M Alakonda, Abhik Ghosh, Sara J Ward, Lee-Yuan Liu, Anjali M Rajadhyaksha, Magid Abou-Gharbia, Khaled Elokely</p><p>Public bioactivity databases are heterogeneous not only in measurement type, where binding affinities and functional potencies are reported on different scales, but in pharmacology: the same compound and target can...</p><p>DOI: 10.1039/d6dd00392c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Manal A. Nael, Laxman M. Alakonda, Abhik Ghosh, Sara Jane Ward, Lee-Yuan Liu Chen, Anjali M. Rajadhyaksha, Magid Abou-Gharbia, Khaled M. Elokely</p><p>Pooled functional QSAR models attain strong scores by silently predicting binding affinity; stratifying public bioactivity data by pharmacological mechanism and assay readout produces endpoints whose predictions support a defensible, testable claim.</p><p>DOI: 10.1039/d6dd00392c</p>]]></description>
 </item>
 <item>
 <title>SCALAR: Quantifying Structural Hallucination, Consistency, and Reasoning Gaps in Materials Foundation Models</title>
