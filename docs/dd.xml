@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 13 Oct 2026 14:21:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 22:54:20 +0000</lastBuildDate>
+<item>
+<title>BigMixSolDB: extraction of a solubility database in solvent mixtures with an uncertainty-quantified large language model-based pipeline</title>
+<link>https://doi.org/10.1039/d6dd00169f</link>
+<guid isPermaLink="false">10.1039/d6dd00169f</guid>
+<pubDate>Tue, 13 Oct 2026 14:50:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Andrei Voinea, Anna C. M. Thöni, Elija Veenman, Wilhelm T. S. Huck, Tal Kachman, Mathijs F. J. Mabesoone</p><p>The rapidly expanding body of chemical literature contains physical data scattered across unstructured text and complex tables in thousands of publications.</p><p>DOI: 10.1039/d6dd00169f</p>]]></description>
+</item>
+<item>
+<title>Exploring Reaction Condition Space with Expert-Informed Representation Learning</title>
+<link>https://doi.org/10.1039/d6dd00286b</link>
+<guid isPermaLink="false">10.1039/d6dd00286b</guid>
+<pubDate>Tue, 13 Oct 2026 14:23:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Matthew Ball, Felix Andreas Faber, Cassie Pratley, Dragos Horvath, Giulia Bergonzini, Thierry Kogej, Alexandre Varnek, Christof M. Jäger, Mikhail Kabeshov</p><p>The selection of appropriate reaction conditions is paramount in chemical synthesis and can greatly impact the success of experimental campaigns. Machine learning models for reaction outcome prediction have focused primarily...</p><p>DOI: 10.1039/d6dd00286b</p>]]></description>
+</item>
 <item>
 <title>Diffusion-based Active Learning for Inverse Design: A Modular Framework Unifying Single-/Multi-objective and Serial/Batch Optimization</title>
 <link>https://doi.org/10.1039/d6dd00538a</link>
