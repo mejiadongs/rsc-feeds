@@ -3,7 +3,7 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Mon, 12 Oct 2026 15:41:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 00:49:03 +0000</lastBuildDate>
 <item>
 <title>Exploring the Excited State Mechanisms of a Viscosity-Sensitive Zeromethine Merocyanine Dye Emitter</title>
 <link>https://doi.org/10.1039/d6sc05772a</link>
@@ -243,11 +243,11 @@
 <description><![CDATA[<p><b>Authors:</b> Raffaele Graziano, Enrico Cadoni, Simona Marzano, Valentina Arciuolo, Naura Fakhira Antariksa, Marco Di Antonio, Jussara Amato, Annemieke Madder, Bruno Pagano</p><p>Sequence-specific PNA hybridization directs a conjugated ligand toward selected adjacent c-KIT G-quadruplexes, enabling directional stabilization and differential modulation of promoter activity.</p><p>DOI: 10.1039/d6sc04697e</p>]]></description>
 </item>
 <item>
-<title>Function-Preserving Photooxidation of AS1411 Aptamer by a G-Quadruplex-Guided Photosensitizer</title>
+<title>Function-preserving photooxidation of AS1411 aptamer by a G-quadruplex-guided photosensitizer</title>
 <link>https://doi.org/10.1039/d6sc06144c</link>
 <guid isPermaLink="false">10.1039/d6sc06144c</guid>
 <pubDate>Mon, 05 Oct 2026 06:23:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Maria Vittoria Cottini, Karolina Agnieszka Saczuk, Jakub Trojnar, Lucía López Pacios, Darío Puchán Sánchez, Arthur H. G. David, Ikenna Obi, Nasim Sabouri, Juan Jose Nogueira Perez, Marta Dudek, Clement Cabanetos, Lara Martínez-Fernández, Jan Jamroskovic, Marco Deiana</p><p>AS1411 is a G-quadruplex (G4) aptamer that binds nucleolin (NCL) and is widely used to promote cancer-associated delivery of photoactive cargos. Yet the fate of AS1411 after photosensitizer loading and...</p><p>DOI: 10.1039/d6sc06144c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Maria V. Cottini, Karolina Saczuk, Jakub Trojnar, Lucía López-Pacios, Dario Puchán Sánchez, Arthur H. G. David, Ikenna Obi, Nasim Sabouri, Juan J. Nogueira, Marta Dudek, Clément Cabanetos, Lara Martínez-Fernández, Jan Jamroskovic, Marco Deiana</p><p>AS1411 reprograms DBI-POE photochemistry toward site-localized guanine oxidation while preserving G4 structure and nucleolin recognition, revealing a function-preserving mode of aptamer-guided photosensitization.</p><p>DOI: 10.1039/d6sc06144c</p>]]></description>
 </item>
 <item>
 <title>Unlocking catalytic asymmetric transformations of sulfilimidoyl fluorides toward chiral sulfinimidate esters</title>
@@ -465,61 +465,5 @@
 <guid isPermaLink="false">10.1039/d6sc05819a</guid>
 <pubDate>Tue, 29 Sep 2026 06:03:53 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Qinglin Zhou, Daohu Sheng, Hao Wang, Songmao Han, Lanxin Wang, Siyao Cheng, Wei Dong, Aming Xie</p><p>Interchain Cu–S coordination forms ordered layered PEDOT networks and regulates charge transport, polaronic states, and polarization loss. Cu-PEDOT-2 delivers −69.53 dB reflection loss and a 6.00 GHz effective absorption bandwidth at 2.5 mm.</p><p>DOI: 10.1039/d6sc05819a</p>]]></description>
-</item>
-<item>
-<title>Direct-inject liquid-chromatography enables an autonomous continuous preferential crystallization platform</title>
-<link>https://doi.org/10.1039/d6sc05647d</link>
-<guid isPermaLink="false">10.1039/d6sc05647d</guid>
-<pubDate>Mon, 28 Sep 2026 14:44:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Joshua S. Derasp, Felix Painsecq, Wenyu Zhang, Matthew E. Reish, Paloma Prieto, Jason E. Hein</p><p>Sampling the slurry directly, online chiral HPLC detects the unwanted enantiomer within the growing solid and triggers a thermal reset that purges it, enabling five days of autonomous preferential crystallization of both enantiomers.</p><p>DOI: 10.1039/d6sc05647d</p>]]></description>
-</item>
-<item>
-<title>Coordination-cage-templated multivalent glycan arrays: effects of mixed-glycan composition and chain length on lectin binding</title>
-<link>https://doi.org/10.1039/d6sc01981a</link>
-<guid isPermaLink="false">10.1039/d6sc01981a</guid>
-<pubDate>Mon, 28 Sep 2026 12:45:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Callum L. Pritchard, Melissa Ligorio, Filip Kusnir, Matthew I. Gibson, Michael D. Ward</p><p>Coordination cages are used as scaffolds to assemble monodisperse glycoclusters of 24 glycan units incorporating mixtures of glycans, or varying spacer lengths, to determine effects on lectin binding.</p><p>DOI: 10.1039/d6sc01981a</p>]]></description>
-</item>
-<item>
-<title>When less is more: harnessing optimal quencher concentrations to maximize quantum yields in TADF photoredox reactions</title>
-<link>https://doi.org/10.1039/d6sc06836g</link>
-<guid isPermaLink="false">10.1039/d6sc06836g</guid>
-<pubDate>Mon, 28 Sep 2026 12:43:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Federica Fina, Matthias Schmitz, Maria-Sophie Bertrams, Caterina Bellatreccia, Chris Burdenski, Max M. Hansmann, Paola Ceroni, Christoph Kerzig</p><p>Lower quencher concentrations favor triplet over singlet quenching, enhancing radical yield via higher cage escape efficiency. This “less is more” strategy suits TADF and conventional triplet-populating photocatalysts, boosting photoredox efficiency.</p><p>DOI: 10.1039/d6sc06836g</p>]]></description>
-</item>
-<item>
-<title>Amorphization-enabled decoupling of hydrogen and hydroxide binding on RuSi for efficient alkaline hydrogen evolution</title>
-<link>https://doi.org/10.1039/d6sc05983j</link>
-<guid isPermaLink="false">10.1039/d6sc05983j</guid>
-<pubDate>Mon, 28 Sep 2026 11:23:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Weizheng Cai, Haotian Guan, Chuanlong Liu, Yangfan Lu, Jiazhen Wu</p><p>Disordered Ru–Si dual sites decouple H and OH binding, opening a higher-activity HBE–OHBE regime for alkaline HER and delivering 7.85 mV at 10 mA cm −2 with &gt;1000 h durability at 1 A cm −2 .</p><p>DOI: 10.1039/d6sc05983j</p>]]></description>
-</item>
-<item>
-<title>Ligand- and alkali metal identity-effects in ligand-induced ortho -selective C(sp 2 )–H metalation of neophyl-sodium and lithium complexes</title>
-<link>https://doi.org/10.1039/d6sc06427b</link>
-<guid isPermaLink="false">10.1039/d6sc06427b</guid>
-<pubDate>Mon, 28 Sep 2026 10:42:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Matthew E. Lowe, Nathan Davison, Paul G. Waddell, Jack M. Hemingway, Corinne Wills, James A. Dawson, Roly J. Armstrong, Erli Lu</p><p>Ligand- and metal identity-effects in organo-alkali metal reagents induced ortho-selective C(sp 2 )–H activation.</p><p>DOI: 10.1039/d6sc06427b</p>]]></description>
-</item>
-<item>
-<title>Graphite-conjugated phthalocyanines through dioxin linkages: a molecularly programmable platform for heterogeneous CO 2 electrocatalysis</title>
-<link>https://doi.org/10.1039/d6sc06126e</link>
-<guid isPermaLink="false">10.1039/d6sc06126e</guid>
-<pubDate>Mon, 28 Sep 2026 10:23:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chenyu Zhu, Lei Gao, Yulun Wu, Yu-Hao Gu, Xinyu Xu, Ya Yin, Hai-Xu Wang, Shuai Yuan</p><p>Graphite–phthalocyanine conjugation through 1,4-dioxin linkages enables substituent-controlled electronic tuning of Ni–N 4 active sites, establishing a molecularly defined heterogeneous platform for optimizing CO 2 reduction activity.</p><p>DOI: 10.1039/d6sc06126e</p>]]></description>
-</item>
-<item>
-<title>Peripheral transition metalation: hemilabile meso -N-metalated phthalocyanines showing activatable near-infrared photophysical properties</title>
-<link>https://doi.org/10.1039/d6sc06151f</link>
-<guid isPermaLink="false">10.1039/d6sc06151f</guid>
-<pubDate>Mon, 28 Sep 2026 09:02:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Arata Kawamatsu, Yoko Kobayashi, Naoyuki Toriumi, Masanobu Uchiyama</p><p>meso -N-metalated phthalocyanine complexes show hemilabile behaviors with switchable near-IR emissive properties responding to various external stimuli.</p><p>DOI: 10.1039/d6sc06151f</p>]]></description>
-</item>
-<item>
-<title>In vivo NIR-to-NIR imaging with bispidine–lanthanide( iii ) complexes</title>
-<link>https://doi.org/10.1039/d6sc05072g</link>
-<guid isPermaLink="false">10.1039/d6sc05072g</guid>
-<pubDate>Mon, 28 Sep 2026 08:03:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Patrick A. Cieslik, Margaux Roux, Lamiaa M. A. Ali, Salauat R. Kiraev, Leonardo Papa, Philipp D. Engel, Sophie Brasselet, Alexei Grichine, Magali Gary-Bobo, Olivier Maury, Peter Comba</p><p>Two-photon luminescent bioprobes have emerged as powerful tools for in cellulo and in vivo imaging.</p><p>DOI: 10.1039/d6sc05072g</p>]]></description>
 </item>
 </channel></rss>

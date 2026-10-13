@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 12 Oct 2026 15:41:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 00:49:07 +0000</lastBuildDate>
 <item>
 <title>Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</title>
 <link>https://doi.org/10.1039/d6dd00278a</link>
@@ -40,11 +40,11 @@
 <description><![CDATA[<p><b>Authors:</b> Omid Barati Farimani, Achuth Chandrasekhar, Amir Barati Farimani</p><p>Molecular dynamics simulations are an essential tool in understanding protein structure, dynamics, and function at the atomic level.</p><p>DOI: 10.1039/d6dd00535g</p>]]></description>
 </item>
 <item>
-<title>Extending the Adsorption Information File for AI Digitization of Literature Isotherms and Computational Simulation Reporting</title>
+<title>Extending the adsorption information file for AI digitization of literature isotherms and computational simulation reporting</title>
 <link>https://doi.org/10.1039/d6dd00699j</link>
 <guid isPermaLink="false">10.1039/d6dd00699j</guid>
 <pubDate>Wed, 07 Oct 2026 19:23:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Siddharth Ravichandran, Jack D. Evans, Daniel William Siderius, Stefan Kaskel, Louis Vanduyfhuys, Veronique Van Speybroeck</p><p>Computational simulations are indispensable for predicting adsorption properties in porous materials, with applications in gas storage, carbon capture, and molecular separations. Yet, reuse and standardized reporting of adsorption data remain...</p><p>DOI: 10.1039/d6dd00699j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Siddharth Ravichandran, Jack D. Evans, Daniel W. Siderius, Stefan Kaskel, Louis Vanduyfhuys, Veronique Van Speybroeck</p><p>The extended adsorption information file format makes computational adsorption results easier to share and reuse. Vision-capable language models help recover literature isotherms for reporting in the same format.</p><p>DOI: 10.1039/d6dd00699j</p>]]></description>
 </item>
 <item>
 <title>Computational Design of Functionalized Cyclodextrin Probes for Sensitive and Selective PFAS Detection</title>
@@ -58,7 +58,7 @@
 <link>https://doi.org/10.1039/d6dd00553e</link>
 <guid isPermaLink="false">10.1039/d6dd00553e</guid>
 <pubDate>Wed, 07 Oct 2026 12:30:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yojana Gadiya, Manvendra Singh, Tobias Kind, Abhishek Patel, Venkat Macherla, Subbaraju Gottumukkala, August Allen, Biswapriya B Misra, Daniel Domingo-Fernández</p><p>Nuclear magnetic resonance is central to identifying novel natural products, but assigning structures to unknown compounds is still slow and largely manual. Distortionless Enhancement by Polarization Transfer (DEPT) is a...</p><p>DOI: 10.1039/d6dd00553e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yojana Gadiya, Manvendra Singh, Tobias Kind, Abhishek Patel, Venkat Macherla, Subbaraju Gottumukkala, August Allen, Biswapriya B. Misra, Daniel Domingo-Fernández</p><p>We introduce spectral similarity methods for DEPT-135 structure dereplication and evaluate their performance against a simulated natural product library of hundreds of thousands of spectra.</p><p>DOI: 10.1039/d6dd00553e</p>]]></description>
 </item>
 <item>
 <title>A Unified AI-Agent-Assisted Platform for Coupled Experimental and Simulation-Based Workflows in Self-Driving Laboratories</title>
@@ -82,11 +82,11 @@
 <description><![CDATA[<p><b>Authors:</b> William Derek Jones, Yue Yang, Felice Lightstone, Niema Moshiri, Jonathan Allen, Tajana Rosing</p><p>Protein-ligand interactions are inherently dynamic, yet most neural network methods for structure-based drug design rely on static structural representations. Atomistic molecular dynamics (MD) simulations provide a tool to model the...</p><p>DOI: 10.1039/d6dd00174b</p>]]></description>
 </item>
 <item>
-<title>A Multimodal Screening and Validation Framework for Polymer Glass-Transition Temperature Design</title>
+<title>A multimodal screening and validation framework for polymer glass-transition temperature design</title>
 <link>https://doi.org/10.1039/d6dd00148c</link>
 <guid isPermaLink="false">10.1039/d6dd00148c</guid>
 <pubDate>Tue, 06 Oct 2026 06:03:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tianyu Huang, Wenzhu Bi, Xi Zhang, Gui Xiao, Zheyuan Jiang, Menghao Yang</p><p>The polymer glass-transition temperature (Tg) is a critical parameter governing mechanical and thermal performance as well as the processing window. However, experimental characterization and large-scale molecular dynamics (MD) simulations are...</p><p>DOI: 10.1039/d6dd00148c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Tianyu Huang, Wenzhu Bi, Xi Zhang, Xiao Gui, Zheyuan Jiang, Menghao Yang</p><p>A generation–screening–validation framework integrates VAE sampling, multimodal T g prediction and MD bilinear fitting to accelerate T g -targeted polymer design.</p><p>DOI: 10.1039/d6dd00148c</p>]]></description>
 </item>
 <item>
 <title>Extrapolation-aware machine learning with applicability-domain gating for low-temperature lithium-ion electrolyte discovery</title>
@@ -164,26 +164,5 @@
 <guid isPermaLink="false">10.1039/d6dd00648e</guid>
 <pubDate>Tue, 29 Sep 2026 13:03:03 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Ruben Laplaza, Stefan N. Heinen, Carlos Vivar Rios</p><p>Machine-learning failures in experimental chemistry are often blamed on “messy data”, but messiness is not a single problem. We trace data failures to specific pipeline stages and outline diagnostics, remedies, and the path forward.</p><p>DOI: 10.1039/d6dd00648e</p>]]></description>
-</item>
-<item>
-<title>Atomistic modeling of chemical disorder in materials: bridging conventional methods and AI-assisted approaches</title>
-<link>https://doi.org/10.1039/d6dd00292g</link>
-<guid isPermaLink="false">10.1039/d6dd00292g</guid>
-<pubDate>Mon, 28 Sep 2026 17:44:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiayu Peng, Peichen Zhong</p><p>Chemical disorder creates a representation gap between averaged experimental observables and AI-driven atomistic modeling. This review unifies conventional and AI approaches into a roadmap for predictive, disorder-aware materials discovery.</p><p>DOI: 10.1039/d6dd00292g</p>]]></description>
-</item>
-<item>
-<title>Multi-axis quality evaluation of data augmentation for perovskite solar cell datasets</title>
-<link>https://doi.org/10.1039/d6dd00198j</link>
-<guid isPermaLink="false">10.1039/d6dd00198j</guid>
-<pubDate>Mon, 28 Sep 2026 12:59:20 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Minseong Kim, Jinho Lee, Hye W. Chun, Eun Seo Shin, Hajra Yousf, Shujuan Huang, Dong-Won Kang, Hyosung Choi, Jong H. Kim, Jincheol Kim</p><p>A three-axis framework evaluates augmented data through predictive response, data compatibility, and structural preservation, providing a systematic approach for assessing data augmentation quality and reliability.</p><p>DOI: 10.1039/d6dd00198j</p>]]></description>
-</item>
-<item>
-<title>PACE-SIMS: checkpoint-gated autonomous SIMS characterization with AI-agent quality control</title>
-<link>https://doi.org/10.1039/d6dd00609d</link>
-<guid isPermaLink="false">10.1039/d6dd00609d</guid>
-<pubDate>Mon, 28 Sep 2026 09:03:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Anton V. Ievlev, Heather Hare, Yiyang Li, Sergei V. Kalinin</p><p>Expert supervision is the ToF-SIMS bottleneck. An AI agent planned and ran a blind two-polarity study—35 measurements in 8.1 h from 40 min of human attention—and delivered transferable scientific results.</p><p>DOI: 10.1039/d6dd00609d</p>]]></description>
 </item>
 </channel></rss>
