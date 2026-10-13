@@ -3,7 +3,28 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 13 Oct 2026 00:49:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 14:21:59 +0000</lastBuildDate>
+<item>
+<title>Diffusion-based Active Learning for Inverse Design: A Modular Framework Unifying Single-/Multi-objective and Serial/Batch Optimization</title>
+<link>https://doi.org/10.1039/d6dd00538a</link>
+<guid isPermaLink="false">10.1039/d6dd00538a</guid>
+<pubDate>Tue, 13 Oct 2026 12:03:18 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Gwang-Noh Ahn, Amirezza Motafegh, Seunghun Jang, Gyoung S. Na</p><p>Efficient and data-agnostic optimization of energy-relevant chemical processes and plant operations is challenging. Traditional Bayesian optimization (BO) faces challenges in the case of complex input manifolds, and the multi-objective and...</p><p>DOI: 10.1039/d6dd00538a</p>]]></description>
+</item>
+<item>
+<title>RXNMapperv2: updated validation and evaluation on expanded chemical space</title>
+<link>https://doi.org/10.1039/d6dd00425c</link>
+<guid isPermaLink="false">10.1039/d6dd00425c</guid>
+<pubDate>Tue, 13 Oct 2026 11:30:52 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yves Grandjean, Sacha Raffaud, Annie M. Westerlund, Philippe Schwaller, Samuel Genheden, Jean-Louis Reymond</p><p>Atom-to-atom mapping (AAM) assigns reactant atoms to product atoms and is fundamental for reaction classification, template extraction, and synthesis planning. RXNMapper derives AAM from the attention of a Transformer model...</p><p>DOI: 10.1039/d6dd00425c</p>]]></description>
+</item>
+<item>
+<title>Accelerated screening of cellulose additives via supervised latent representations</title>
+<link>https://doi.org/10.1039/d6dd00605a</link>
+<guid isPermaLink="false">10.1039/d6dd00605a</guid>
+<pubDate>Tue, 13 Oct 2026 10:30:20 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Pauliina Ahokas, Hannu Rummukainen, Olli Pakarinen, Antti Paajanen, Mikko Mäkelä</p><p>We combined chemical descriptors with atomistic simulations to construct a physics-informed latent representation that predicts the effects of molecular and polymeric additives on regenerated cellulose films.</p><p>DOI: 10.1039/d6dd00605a</p>]]></description>
+</item>
 <item>
 <title>Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</title>
 <link>https://doi.org/10.1039/d6dd00278a</link>
@@ -61,11 +82,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yojana Gadiya, Manvendra Singh, Tobias Kind, Abhishek Patel, Venkat Macherla, Subbaraju Gottumukkala, August Allen, Biswapriya B. Misra, Daniel Domingo-Fernández</p><p>We introduce spectral similarity methods for DEPT-135 structure dereplication and evaluate their performance against a simulated natural product library of hundreds of thousands of spectra.</p><p>DOI: 10.1039/d6dd00553e</p>]]></description>
 </item>
 <item>
-<title>A Unified AI-Agent-Assisted Platform for Coupled Experimental and Simulation-Based Workflows in Self-Driving Laboratories</title>
+<title>A unified AI-agent-assisted platform for coupled experimental and simulation-based workflows in self-driving laboratories</title>
 <link>https://doi.org/10.1039/d6dd00418k</link>
 <guid isPermaLink="false">10.1039/d6dd00418k</guid>
 <pubDate>Wed, 07 Oct 2026 10:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sebastian Putz, Ahmed Khalil Mama, Matthias Franzreb</p><p>Self-driving laboratories (SDLs) promise to accelerate experimental research, yet translating scientific intent into executable automated workflows remains a bottleneck. We present a template-based platform that separates workflow design from execution....</p><p>DOI: 10.1039/d6dd00418k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Sebastian Putz, Ahmed Khalil Mama, Matthias Franzreb</p><p>We present a platform in which no-code interfaces with AI-agent-assisted code generation let domain scientists author reusable workflow templates that execute deterministically, apply it to chromatography, and quantify the reliability of the agents.</p><p>DOI: 10.1039/d6dd00418k</p>]]></description>
 </item>
 <item>
 <title>Learning probabilistic pharmacophore maps enables efficient hit finding</title>
@@ -103,11 +124,11 @@
 <description><![CDATA[<p><b>Authors:</b> Manal A. Nael, Laxman M. Alakonda, Abhik Ghosh, Sara Jane Ward, Lee-Yuan Liu Chen, Anjali M. Rajadhyaksha, Magid Abou-Gharbia, Khaled M. Elokely</p><p>Pooled functional QSAR models attain strong scores by silently predicting binding affinity; stratifying public bioactivity data by pharmacological mechanism and assay readout produces endpoints whose predictions support a defensible, testable claim.</p><p>DOI: 10.1039/d6dd00392c</p>]]></description>
 </item>
 <item>
-<title>SCALAR: Quantifying Structural Hallucination, Consistency, and Reasoning Gaps in Materials Foundation Models</title>
+<title>SCALAR: quantifying structural hallucination, consistency, and reasoning gaps in materials foundation models</title>
 <link>https://doi.org/10.1039/d6dd00393a</link>
 <guid isPermaLink="false">10.1039/d6dd00393a</guid>
 <pubDate>Mon, 05 Oct 2026 14:03:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Can Polat, Mustafa Kurban, Erchin Serpedin, Hasan Kurban</p><p>Large language models are increasingly applied to materials science reasoning, yet their behavior under physically structured distribution shifts remains poorly understood. We introduce SCALAR (Structural Consistency And Logic Across Regimes),...</p><p>DOI: 10.1039/d6dd00393a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Can Polat, Mustafa Kurban, Erchin Serpedin, Hasan Kurban</p><p>Large language models are increasingly applied to materials science reasoning, yet their behavior under physically structured distribution shifts remains poorly understood.</p><p>DOI: 10.1039/d6dd00393a</p>]]></description>
 </item>
 <item>
 <title>Introduction to ‘AI in drug discovery at ICANN2025’</title>
