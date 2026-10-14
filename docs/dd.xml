@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 14 Oct 2026 05:02:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 12:04:47 +0000</lastBuildDate>
 <item>
 <title>BigMixSolDB: extraction of a solubility database in solvent mixtures with an uncertainty-quantified large language model-based pipeline</title>
 <link>https://doi.org/10.1039/d6dd00169f</link>
@@ -12,11 +12,11 @@
 <description><![CDATA[<p><b>Authors:</b> Andrei Voinea, Anna C. M. Thöni, Elija Veenman, Wilhelm T. S. Huck, Tal Kachman, Mathijs F. J. Mabesoone</p><p>The rapidly expanding body of chemical literature contains physical data scattered across unstructured text and complex tables in thousands of publications.</p><p>DOI: 10.1039/d6dd00169f</p>]]></description>
 </item>
 <item>
-<title>Exploring Reaction Condition Space with Expert-Informed Representation Learning</title>
+<title>Exploring reaction condition space with expert-informed representation learning</title>
 <link>https://doi.org/10.1039/d6dd00286b</link>
 <guid isPermaLink="false">10.1039/d6dd00286b</guid>
 <pubDate>Tue, 13 Oct 2026 14:23:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Matthew Ball, Felix Andreas Faber, Cassie Pratley, Dragos Horvath, Giulia Bergonzini, Thierry Kogej, Alexandre Varnek, Christof M. Jäger, Mikhail Kabeshov</p><p>The selection of appropriate reaction conditions is paramount in chemical synthesis and can greatly impact the success of experimental campaigns. Machine learning models for reaction outcome prediction have focused primarily...</p><p>DOI: 10.1039/d6dd00286b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Matthew Ball, Felix Andreas Faber, Cassie Pratley, Thierry Kogej, Dragos Horvath, Alexandre Varnek, Giulia Bergonzini, Christof Martin Jäger, Mikhail Kabeshov</p><p>The selection of appropriate reaction conditions is paramount in chemical synthesis and can greatly impact the success of experimental campaigns.</p><p>DOI: 10.1039/d6dd00286b</p>]]></description>
 </item>
 <item>
 <title>Diffusion-based Active Learning for Inverse Design: A Modular Framework Unifying Single-/Multi-objective and Serial/Batch Optimization</title>
@@ -110,11 +110,11 @@
 <description><![CDATA[<p><b>Authors:</b> David Boe, Daniel Elbrecht, Hnin Ookhin, Artur Menzeleev, Marcus E. Farmer, Nataliya Nady, Sathya Chitturi, James Frick, Adam Morra, Tony Schroeder, Alpha A. Lee</p><p>ML-derived pharmacophore generation facilitates virtual screening at large scale for hit identification workflows while remaining robust to common evaluation biases.</p><p>DOI: 10.1039/d6dd00226a</p>]]></description>
 </item>
 <item>
-<title>SurGBSA: Learning Representations From Molecular Dynamics Simulations</title>
+<title>SurGBSA: learning representations from molecular dynamics simulations</title>
 <link>https://doi.org/10.1039/d6dd00174b</link>
 <guid isPermaLink="false">10.1039/d6dd00174b</guid>
 <pubDate>Tue, 06 Oct 2026 19:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> William Derek Jones, Yue Yang, Felice Lightstone, Niema Moshiri, Jonathan Allen, Tajana Rosing</p><p>Protein-ligand interactions are inherently dynamic, yet most neural network methods for structure-based drug design rely on static structural representations. Atomistic molecular dynamics (MD) simulations provide a tool to model the...</p><p>DOI: 10.1039/d6dd00174b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Derek Jones, Yue Yang, Felice C. Lightstone, Niema Moshiri, Jonathan E. Allen, Tajana S. Rosing</p><p>SurGBSA combines molecular dynamics pretraining with fine-tuning on snapshot-level MMGBSA energies, enabled by a dataset of short MD simulations of docking poses. The MMGBSA fine-tuned models adapt to binding affinity and decoy pose ranking tasks.</p><p>DOI: 10.1039/d6dd00174b</p>]]></description>
 </item>
 <item>
 <title>A multimodal screening and validation framework for polymer glass-transition temperature design</title>
@@ -166,11 +166,11 @@
 <description><![CDATA[<p><b>Authors:</b> Austin McDannald, Julia Tisaranni, Howie Joress</p><p>In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different...</p><p>DOI: 10.1039/d6dd00437g</p>]]></description>
 </item>
 <item>
-<title>Generating Cyclic Conformers with Flow Matching in Cremer-Pople Coordinates</title>
+<title>Generating cyclic conformers with flow matching in Cremer–Pople coordinates</title>
 <link>https://doi.org/10.1039/d6dd00199h</link>
 <guid isPermaLink="false">10.1039/d6dd00199h</guid>
 <pubDate>Wed, 30 Sep 2026 19:43:01 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Luca Schaufelberger, Aline Hartgers, Kjell Jorner</p><p>Cyclic molecules are ubiquitous across applications in chemistry and biology. Their restricted conformational flexibility provides structural pre-organization that is key to their function in drug discovery and catalysis. However, reliably...</p><p>DOI: 10.1039/d6dd00199h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Luca Schaufelberger, Aline Hartgers, Kjell Jorner</p><p>PuckerFlow generates conformers of cyclic molecules by performing flow matching in Cremer–Pople coordinates.</p><p>DOI: 10.1039/d6dd00199h</p>]]></description>
 </item>
 <item>
 <title>Discrete flow-based generative models for measurement optimization in quantum computing</title>

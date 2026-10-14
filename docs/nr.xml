@@ -3,7 +3,28 @@
 <title>RSC - Nanoscale</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/nr</link>
 <description>RSC - Nanoscale (via Crossref)</description>
-<lastBuildDate>Wed, 14 Oct 2026 05:02:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 12:04:32 +0000</lastBuildDate>
+<item>
+<title>Fibroblast-derived exosomes in wound healing and regenerative medicine: mechanisms, therapeutic potential, and clinical perspectives</title>
+<link>https://doi.org/10.1039/d6nr01426g</link>
+<guid isPermaLink="false">10.1039/d6nr01426g</guid>
+<pubDate>Wed, 14 Oct 2026 10:44:16 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sih-Chi Chuang, Pei-Chia Hung, Lekshmi Rethi, Pei-Wei Weng, Hoa Duc Chau, Van Khiet Pham, Anh Thuy Vo, Hieu Trung Nguyen, Chia-Ling Chang, Andrew E-Y. Chuang</p><p>Fibroblast-derived exosomes regulate inflammation, angiogenesis, extracellular matrix remodeling and skin regeneration. Their integration with biomaterial-based delivery systems offers promising strategies for wound healing, facial rejuvenation and regenerative medicine.</p><p>DOI: 10.1039/d6nr01426g</p>]]></description>
+</item>
+<item>
+<title>Self-Supporting VO 2 @MXene Electrode with the Boosted Zn 2+ (De)intercalation Kinetics and Cycling Stability for Aqueous Zincion Battery</title>
+<link>https://doi.org/10.1039/d6nr02957d</link>
+<guid isPermaLink="false">10.1039/d6nr02957d</guid>
+<pubDate>Wed, 14 Oct 2026 08:03:21 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yan Yan, Xingyuan Wu, Jiayi Rui, Ying Lu, Keying Cai, Jie Zhou</p><p>Vanadium dioxide (VO2) with the high theoretical capacity is one of the promising cathodes of aqueous zinc-ion batteries (AZIBs) for safe and sustainable energy storage. But the poor electrical conductivity...</p><p>DOI: 10.1039/d6nr02957d</p>]]></description>
+</item>
+<item>
+<title>Modeling intraframe dynamics in STEM imaging and their impact on three-dimensional nanoparticle reconstruction: When time blurs space</title>
+<link>https://doi.org/10.1039/d6nr02905a</link>
+<guid isPermaLink="false">10.1039/d6nr02905a</guid>
+<pubDate>Wed, 14 Oct 2026 07:43:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Tom Stoops, Klaas Luyckx, Annick De Backer, Sandra Van Aert</p><p>The unique properties of nanoparticles arise from their specific structures and sizes. In particular, the dynamics of atoms on the surface of a nanoparticle are of great interest as they...</p><p>DOI: 10.1039/d6nr02905a</p>]]></description>
+</item>
 <item>
 <title>Two-step passivation of Br defects for fluorapatite supported CsPbBr 3 quantum dots with successive enhancement of photoluminescence performance</title>
 <link>https://doi.org/10.1039/d6nr02375d</link>
@@ -72,7 +93,7 @@
 <link>https://doi.org/10.1039/d6nr00784h</link>
 <guid isPermaLink="false">10.1039/d6nr00784h</guid>
 <pubDate>Mon, 12 Oct 2026 11:43:20 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ariadna Murillo Bello, Mohamed A Khaled, Thorsten Friedrich, Petra Hellwig, Nicolas Javahiraly, Hicham Majjad</p><p>Plasmonic nanoantennas offer powerful opportunities for enhancing vibrational spectroscopic signals of biomolecules at surfaces, yet their application to structurally fragile membrane proteins remains challenging. Here, lithographically defined gold bowtie nanoantennas...</p><p>DOI: 10.1039/d6nr00784h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ariadna Murillo Bello, Hicham Majjad, Nicolas Javahiraly, Mohamed Ali Khaled, Thorsten Friedrich, Petra Hellwig</p><p>Lithographically defined gold bowtie nanoantennas enable dual infrared and Raman detection of a membrane protein, providing strong signal improvement, high sensitivity, and selectivity, while preserving its native secondary structure.</p><p>DOI: 10.1039/d6nr00784h</p>]]></description>
 </item>
 <item>
 <title>Resistance mapping in mesoscopic films of low dimensional materials</title>
@@ -240,7 +261,7 @@
 <link>https://doi.org/10.1039/d6nr02565j</link>
 <guid isPermaLink="false">10.1039/d6nr02565j</guid>
 <pubDate>Tue, 06 Oct 2026 11:43:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Marcel Hohn, Imad Limame, Peter Ludewig, Chirag Palekar, Aris Koulas-Simos, Kerstin Volz, Stephan Reitzenstein</p><p>Scalable quantum photonic technologies require deterministic sources of entangled photons that are compatible with established semiconductor manufacturing platforms. While self-assembled III--V semiconductor quantum dots are among the most promising sources...</p><p>DOI: 10.1039/d6nr02565j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Marcel Hohn, Imad Limame, Peter Ludewig, Chirag C. Palekar, Aris Koulas-Simos, Kerstin Volz, Stephan Reitzenstein</p><p>Energy–time entangled photon pairs are generated from InGaAs/GaAs quantum dots monolithically integrated on silicon, reaching Franson visibilities of (64 ± 7)% and demonstrating a scalable route to silicon-compatible quantum photonic circuits.</p><p>DOI: 10.1039/d6nr02565j</p>]]></description>
 </item>
 <item>
 <title>A first-principles study on the 57 Fe Mössbauer isomer shifts and quadrupole splittings of representative ORR intermediates on Fe–N–C with various spin states</title>
@@ -425,11 +446,11 @@
 <description><![CDATA[<p><b>Authors:</b> Chenran Zhang, Yun-Lu Sun, Zifeng Xiao, Xiuzhen Xu, Xiaobin Xu</p><p>A dual-layer two-photon lithography (DL-TPL) strategy combining positive and negative photoresists achieves 99 nm resolution in a single maskless, vacuum-free exposure, outperforming conventional TPL and other bilayer methods.</p><p>DOI: 10.1039/d6nr02031c</p>]]></description>
 </item>
 <item>
-<title>Discovery of a Vacancy-Modified T′-Hexaferrite Phase in Hydrothermally Synthesized Barium Ferrite Nanoplatelets</title>
+<title>Discovery of a vacancy-modified T′-hexaferrite phase in hydrothermally synthesized barium ferrite nanoplatelets</title>
 <link>https://doi.org/10.1039/d6nr02585d</link>
 <guid isPermaLink="false">10.1039/d6nr02585d</guid>
 <pubDate>Wed, 30 Sep 2026 10:42:44 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Darko Makovec, Nilesh Kumar, Ivan Raič, Matic Poberznik, Janvit Teržan, Petra Jenuš Belec, Anton Meden, Goran Dražič, Sašo Gyergyek</p><p>Hydrothermal synthesis of Co-substituted barium hexaferrite nanoplatelets (NPLs) revealed the formation of a previously unreported hexaferrite-related phase at elevated Co concentrations. At low Co contents (BaFe12−xCoxO19, x ≤ 0.09), Co...</p><p>DOI: 10.1039/d6nr02585d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Darko Makovec, Matic Poberžnik, Nilesh Kumar, Janvit Teržan, Petra Jenuš Belec, Ivan Raič, Anton Meden, Goran Dražić, Sašo Gyergyek</p><p>Co substitution in barium hexaferrite nanoplatelets stabilizes a previously unreported T′-hexaferrite phase with Co-site vacancies. Combined STEM and first-principles modelling reveal its defect structure and thermodynamic stability.</p><p>DOI: 10.1039/d6nr02585d</p>]]></description>
 </item>
 <item>
 <title>Octreotide-Modified pH-Responsive Nanocomposites for Ultrasound Imaging-Guided Chemo-Photothermal Therapy of Prostate Cancer</title>
