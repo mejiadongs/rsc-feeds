@@ -3,7 +3,42 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Wed, 14 Oct 2026 17:20:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 21:47:43 +0000</lastBuildDate>
+<item>
+<title>[SC] Molecular Solar Thermal Energy Storage in Nitrone-Oxaziridine Pairs with Widely Tunable Thermal Half-Lives</title>
+<link>https://doi.org/10.1039/d6sc06724g</link>
+<guid isPermaLink="false">10.1039/d6sc06724g</guid>
+<pubDate>Wed, 14 Oct 2026 20:43:08 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Subhayan Chakraborty, Junichi Usuba, Ashley Nguyen, Han P. Q. Nguyen, Grace G. D. Han</p><p>Oxaziridines have long been considered too unstable to isolate, typically generated in situ and immediately consumed during synthesis. Here we show that this instability can be tamed and harnessed, establishing...</p><p>DOI: 10.1039/d6sc06724g</p>]]></description>
+</item>
+<item>
+<title>[DD] Back cover</title>
+<link>https://doi.org/10.1039/d6dd90053d</link>
+<guid isPermaLink="false">10.1039/d6dd90053d</guid>
+<pubDate>Wed, 14 Oct 2026 18:04:27 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6dd90053d</p>]]></description>
+</item>
+<item>
+<title>[DD] Front cover</title>
+<link>https://doi.org/10.1039/d6dd90050j</link>
+<guid isPermaLink="false">10.1039/d6dd90050j</guid>
+<pubDate>Wed, 14 Oct 2026 18:02:46 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6dd90050j</p>]]></description>
+</item>
+<item>
+<title>[DD] Inside front cover</title>
+<link>https://doi.org/10.1039/d6dd90051h</link>
+<guid isPermaLink="false">10.1039/d6dd90051h</guid>
+<pubDate>Wed, 14 Oct 2026 18:02:24 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6dd90051h</p>]]></description>
+</item>
+<item>
+<title>[DD] Contents list</title>
+<link>https://doi.org/10.1039/d6dd90052f</link>
+<guid isPermaLink="false">10.1039/d6dd90052f</guid>
+<pubDate>Wed, 14 Oct 2026 18:02:02 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6dd90052f</p>]]></description>
+</item>
 <item>
 <title>[CP] Ab Initio Diabatic Potential Energy Matrix for the Lowest-lying Singlet States of HCN Responsible for Collisional Excitation/Quenching of CN(X 2  + /A 2 ) with H</title>
 <link>https://doi.org/10.1039/d6cp02777f</link>
@@ -1111,18 +1146,18 @@
 <description><![CDATA[<p><b>Authors:</b> Zhe Li, Jianing Chen, Yi Feng, Haolong Chang, Xinyao Qiao, Qingyue Cui, Rui Wu, Chunmei Huang, Rui Zhang, Pengfei Yin, Hui Liu, Xiwen Du</p><p>The alkaline hydrogen evolution reaction (HER) is a critical process in the electrochemical production of hydrogen fuel from water, offering a promising route for energy storage. However, for practical applications,...</p><p>DOI: 10.1039/d6cc06046c</p>]]></description>
 </item>
 <item>
-<title>[CC] Solid-State Hydrides for CO₂ conversion: thermochemical and mechanochemical pathways</title>
-<link>https://doi.org/10.1039/d6cc05397a</link>
-<guid isPermaLink="false">10.1039/d6cc05397a</guid>
-<pubDate>Mon, 12 Oct 2026 14:03:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Guillermina Amica, María Laura Grasso, Julián A Puszkiel Saldivar, Fabiana C. Gennari</p><p>Solid-state hydrides combine hydrogen storage with the direct reduction of CO2, which opens an alternative route for carbon capture and utilisation. This review examines the use of ionic, complex and...</p><p>DOI: 10.1039/d6cc05397a</p>]]></description>
-</item>
-<item>
 <title>[CC] Spatial Heterogeneity and Preferential Edge Degradation in LiFePO4/Graphite Pouch Cells after Long-Term Cycling</title>
 <link>https://doi.org/10.1039/d6cc05399h</link>
 <guid isPermaLink="false">10.1039/d6cc05399h</guid>
 <pubDate>Mon, 12 Oct 2026 14:03:24 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Mengyuan Gao, Lai Chen, Jinyang Dong, Yi Jin, Rui Tang, Hong Liu, Jiaxin Gao, Zixuan Wang, Kangkang Bi, Yun Lu, Kang Yan, Ning Li, Yibiao Guan, Yuefeng Su</p><p>This study investigates in-plane aging heterogeneity in LiFePO4/graphite pouch cells after long-term cycling. By combining nondestructive ultrasonic imaging with multiscale failure analysis, pronounced edge-to-center degradation heterogeneity is revealed. A slight...</p><p>DOI: 10.1039/d6cc05399h</p>]]></description>
+</item>
+<item>
+<title>[CC] Solid-State Hydrides for CO₂ conversion: thermochemical and mechanochemical pathways</title>
+<link>https://doi.org/10.1039/d6cc05397a</link>
+<guid isPermaLink="false">10.1039/d6cc05397a</guid>
+<pubDate>Mon, 12 Oct 2026 14:03:24 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Guillermina Amica, María Laura Grasso, Julián A Puszkiel Saldivar, Fabiana C. Gennari</p><p>Solid-state hydrides combine hydrogen storage with the direct reduction of CO2, which opens an alternative route for carbon capture and utilisation. This review examines the use of ionic, complex and...</p><p>DOI: 10.1039/d6cc05397a</p>]]></description>
 </item>
 <item>
 <title>[CC] A DNA–Organocatalyst Hybrid for Aqueous Asymmetric Aldol Reaction via Asymmetric Activation/Poisoning</title>
