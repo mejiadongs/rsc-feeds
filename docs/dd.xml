@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 13 Oct 2026 22:54:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 05:02:34 +0000</lastBuildDate>
 <item>
 <title>BigMixSolDB: extraction of a solubility database in solvent mixtures with an uncertainty-quantified large language model-based pipeline</title>
 <link>https://doi.org/10.1039/d6dd00169f</link>
@@ -178,26 +178,5 @@
 <guid isPermaLink="false">10.1039/d6dd00430j</guid>
 <pubDate>Wed, 30 Sep 2026 14:23:01 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Isaac L. Huidobro-Meezs, Jun Dai, Rodrigo A. Vargas-Hernández</p><p>Estimating molecular Hamiltonians to chemical accuracy requires a large number of measurements. We use GFlowNets to produce non-overlapping groupings that reduce measurement and two-qubit gate counts and serve to initialize overlapping methods.</p><p>DOI: 10.1039/d6dd00430j</p>]]></description>
-</item>
-<item>
-<title>Accelerating proton affinity prediction with multi-fidelity machine learning</title>
-<link>https://doi.org/10.1039/d6dd00362a</link>
-<guid isPermaLink="false">10.1039/d6dd00362a</guid>
-<pubDate>Tue, 29 Sep 2026 13:03:20 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Debjyoti Bhattacharya, Yifan Liu, Valentino R. Cooper, Wesley F. Reinhart</p><p>Accurate gas-phase proton affinities (PAs) are essential for designing proton carriers in anhydrous fuel cells, yet high-level quantum-chemical calculations are too expensive for large libraries.</p><p>DOI: 10.1039/d6dd00362a</p>]]></description>
-</item>
-<item>
-<title>Benchmarking machine learning and molecular dynamics methods for the prediction of the thermophysical properties of organic liquids</title>
-<link>https://doi.org/10.1039/d6dd00260a</link>
-<guid isPermaLink="false">10.1039/d6dd00260a</guid>
-<pubDate>Tue, 29 Sep 2026 13:03:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Egheosa Ogbomo, Fionn Carman, Daniele Dini, James P. Ewen</p><p>Machine learning models trained on ∼4700 reference values predict the density, viscosity, and thermal conductivity of lubricant-sized organic molecules, benchmarked against Green–Kubo molecular dynamics simulations of eight representative fluids.</p><p>DOI: 10.1039/d6dd00260a</p>]]></description>
-</item>
-<item>
-<title>The data in data science for chemistry: how the sausage is made</title>
-<link>https://doi.org/10.1039/d6dd00648e</link>
-<guid isPermaLink="false">10.1039/d6dd00648e</guid>
-<pubDate>Tue, 29 Sep 2026 13:03:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ruben Laplaza, Stefan N. Heinen, Carlos Vivar Rios</p><p>Machine-learning failures in experimental chemistry are often blamed on “messy data”, but messiness is not a single problem. We trace data failures to specific pipeline stages and outline diagnostics, remedies, and the path forward.</p><p>DOI: 10.1039/d6dd00648e</p>]]></description>
 </item>
 </channel></rss>
