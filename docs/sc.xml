@@ -3,7 +3,49 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Thu, 15 Oct 2026 04:50:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 11:41:22 +0000</lastBuildDate>
+<item>
+<title>A Chemo-Mechanical Regulated Flexible-Rigid Binder Enables High-Rate Na-S Batteries</title>
+<link>https://doi.org/10.1039/d6sc05511g</link>
+<guid isPermaLink="false">10.1039/d6sc05511g</guid>
+<pubDate>Thu, 15 Oct 2026 09:03:10 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiahao Zhang, Yanjun Zheng, Ke Zhang, Xin Li, Dong Liu, Xiang Li, Liuyue Cao, Lei Zhang, Binwei Zhang, Zidong Wei, Shi-Gang Sun</p><p>Room temperature sodium-sulfur (RT Na-S) batteries are promising candidates for low-cost, high-energy-density energy storage. However, severe cathode volume expansion and polysulfide shuttling induce electrode pulverization, activematerial loss, and large electrochemical...</p><p>DOI: 10.1039/d6sc05511g</p>]]></description>
+</item>
+<item>
+<title>Nitrate electroreduction: volcanoes à la carte</title>
+<link>https://doi.org/10.1039/d6sc05985f</link>
+<guid isPermaLink="false">10.1039/d6sc05985f</guid>
+<pubDate>Thu, 15 Oct 2026 08:23:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mattia Salomone, Ioannis Katsounaros, Federico Calle-Vallejo</p><p>The electrochemical nitrate reduction reaction (NO3RR) is a promising strategy for sustainable ammonia production and nitrate remediation, but its complex reaction mechanism poses significant experimental and computational challenges. While simplified...</p><p>DOI: 10.1039/d6sc05985f</p>]]></description>
+</item>
+<item>
+<title>Cucurbit[7]uril-mediated aqueous self-assembly and supramolecular functionalisation of selenium nanoparticles</title>
+<link>https://doi.org/10.1039/d6sc05797g</link>
+<guid isPermaLink="false">10.1039/d6sc05797g</guid>
+<pubDate>Thu, 15 Oct 2026 08:03:23 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Daniel Ponsford, Si Yin Tee, Choon Peng Teng, Siew Lang Teo, Andrew Thomson, Yidan Yin, Ceri A Foster, Gregory Q Wallace, William J. Peveler, Ming-Yong Han, Tung-Chun Lee</p><p>We report the first example of noncovalent binding interactions between cucurbit[7]uril (CB7, a synthetic molecular receptor) and a surface comprising a non-metallic elemental solid (selenium, Se). The interaction enabled the...</p><p>DOI: 10.1039/d6sc05797g</p>]]></description>
+</item>
+<item>
+<title>RedoxDB and RedEx: closing the DFT-experiment domain gap in redox potential prediction with transfer learning</title>
+<link>https://doi.org/10.1039/d6sc05970h</link>
+<guid isPermaLink="false">10.1039/d6sc05970h</guid>
+<pubDate>Thu, 15 Oct 2026 08:03:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Dat M Doan, Kim E. Jelfs, Qilei Song, Anthony Kucernak</p><p>Organic redox-active molecules (ORMs) are promising components of aqueous electrolytes in redox flow batteries (RFBs), a scalable electrochemical energy storage technology designed to address the intermittency of renewable energy. However,...</p><p>DOI: 10.1039/d6sc05970h</p>]]></description>
+</item>
+<item>
+<title>Functionalization of strong C(sp 3 )–H bonds in the presence of weak C(sp 3 )–H bonds enables the block-selective modification of thermoplastic elastomers</title>
+<link>https://doi.org/10.1039/d6sc06546e</link>
+<guid isPermaLink="false">10.1039/d6sc06546e</guid>
+<pubDate>Thu, 15 Oct 2026 07:57:03 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Alexandra D. Handlin, Mark A. Nosiglia, Erik J. Alexanian, Frank A. Leibfarth</p><p>A regent controlled, contra-thermodynamic block-selective modification of poly(styrene- b -ethylene- r -butylene- b -styrene) (SEBS), a commercial thermoplastic elastomer with diverse applications.</p><p>DOI: 10.1039/d6sc06546e</p>]]></description>
+</item>
+<item>
+<title>α-CF 3 radical chemistry: from generation to application in organic synthesis</title>
+<link>https://doi.org/10.1039/d6sc06476k</link>
+<guid isPermaLink="false">10.1039/d6sc06476k</guid>
+<pubDate>Thu, 15 Oct 2026 06:52:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zhenlei Zou, Jie Dong, Yuxia Yang, Weigang Zhang, Yi Wang</p><p>This review highlights radical strategies (2015–2026) for α -CF 3 installation, covering transmetal-catalyzed coupling, radical addition, and leaving-group-assisted strategies, emphasizing mechanisms and fluoride feedstock valorization.</p><p>DOI: 10.1039/d6sc06476k</p>]]></description>
+</item>
 <item>
 <title>Practical Asymmetric Hydrogenation of Tetrasubstituted Cyclic Enamides for Enantioenriched 3-Amino-4-Methylpiperidines</title>
 <link>https://doi.org/10.1039/d6sc05491a</link>
@@ -194,18 +236,18 @@
 <description><![CDATA[<p><b>Authors:</b> Eduardo Guimarães, Andreas Sachs, Johannes Röder, Sophia M. Schalk, Lea Völker, Lenja Wilkens, Merle Arrowsmith, Ivo Krummenacher, Sourav Kar, Eufrânio N. da Silva Júnior, Holger Braunschweig</p><p>The one-electron reduction of a cyclic alkyl(amino)carbene (CAAC)-stabilised trifluoroborane with Li yields the stable difluoroboryl radical [(CAAC)BF2]•, which, although essentially CAAC-centred, reacts like a boron-centred one. Further reduction with Li...</p><p>DOI: 10.1039/d6sc05302e</p>]]></description>
 </item>
 <item>
-<title>Realizing a 4,3,3-Connected tfe Topology in an Imidazole-Linked Three-Dimensional Covalent Organic Framework</title>
+<title>Realizing a 4,3,3-connected tfe topology in an imidazole-linked three-dimensional covalent organic framework</title>
 <link>https://doi.org/10.1039/d6sc06024b</link>
 <guid isPermaLink="false">10.1039/d6sc06024b</guid>
 <pubDate>Fri, 09 Oct 2026 06:03:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tsukasa Irie, Sourav Ghosh, Hayato Orui, Tokuhisa Kawawaki, Tasuku Hamaguchi, Hiroshi Jinnai, Ranjit Thapa, Saikat Das, Yuichi Negishi</p><p>Reticular chemistry relies on translating molecular geometry into periodic topology, yet many theoretically possible nets remain inaccessible because low-symmetry multinodal connectivity is difficult to crystallize. Here we report TU-433, an...</p><p>DOI: 10.1039/d6sc06024b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Tsukasa Irie, Sourav Ghosh, Hayato Orui, Tokuhisa Kawawaki, Tasuku Hamaguchi, Hiroshi Jinnai, Ranjit Thapa, Saikat Das, Yuichi Negishi</p><p>Topological simplification unlocks the first 4,3,3-connected tfe topology covalent organic framework, transforming high-connectivity reticular design into an unprecedented architecture for programmable wastewater purification.</p><p>DOI: 10.1039/d6sc06024b</p>]]></description>
 </item>
 <item>
-<title>Toward Resolving the RuO 2 /IrO 2 Oxygen Evolution Activity Puzzle: Critical Roles of Spin Polarization and Exchange-Correlation Functional Accuracy</title>
+<title>Toward resolving the RuO 2 /IrO 2 oxygen evolution activity puzzle: critical roles of spin polarization and exchange–correlation functional accuracy</title>
 <link>https://doi.org/10.1039/d6sc04703c</link>
 <guid isPermaLink="false">10.1039/d6sc04703c</guid>
 <pubDate>Fri, 09 Oct 2026 02:43:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiaokun Xie, Jiashun Wu, Zhenbin Wang</p><p>The oxygen evolution reaction (OER) activity ordering of RuO 2 and IrO 2 is well established experimentally, yet density functional theory calculations have persistently failed to reproduce this trend, undermining computational catalyst...</p><p>DOI: 10.1039/d6sc04703c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xiaokun Xie, Jiashun Wu, Zhenbin Wang</p><p>The oxygen evolution reaction (OER) activity ordering of RuO 2 and IrO 2 is well established experimentally, yet density functional theory calculations have persistently failed to reproduce this trend, undermining computational catalyst design.</p><p>DOI: 10.1039/d6sc04703c</p>]]></description>
 </item>
 <item>
 <title>Quantifying U-H covalency in a Series of Uranyl Borohydrides using ¹H NMR Spectroscopy</title>
@@ -313,11 +355,11 @@
 <description><![CDATA[<p><b>Authors:</b> Ethan M. Hartman, Jeffrey D. Martell</p><p>A new approach for DEL synthesis that leverages DNA annealing to bring a catalyst in proximity to an on-DNA substrate. The utility of this method was demonstrated through aliphatic alcohol oxidation achieving high conversion under mild conditions.</p><p>DOI: 10.1039/d6sc05041g</p>]]></description>
 </item>
 <item>
-<title>Redox-State-Dependent CO Binding in MoFe Nitrogenase: Insights from EPR, IR, and QM/MM Analysis</title>
+<title>Redox-state-dependent CO binding in MoFe nitrogenase: insights from EPR, IR, and QM/MM analysis</title>
 <link>https://doi.org/10.1039/d6sc05535d</link>
 <guid isPermaLink="false">10.1039/d6sc05535d</guid>
 <pubDate>Wed, 07 Oct 2026 07:02:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Atanu Rana, Justin P Joyce, Zachary Mathe, Casey Van Stappen, Kushal Sengupta, Christian Lorent, Ingo Zebger, Laure Decamps, Serena DeBeer</p><p>Nitrogenase drives biological nitrogen fixation through an eight-step cycle, in which “n” electrons and protons are accumulated across the E n catalytic states. Carbon monoxide (CO), a noncompetitive inhibitor for Mo...</p><p>DOI: 10.1039/d6sc05535d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Atanu Rana, Justin P. Joyce, Zachary Mathe, Casey Van Stappen, Kushal Sengupta, Christian Lorent, Ingo Zebger, Laure Decamps, Serena DeBeer</p><p>Combined spectroscopic and computational studies elucidate the mechanism of CO binding and inhibition in the early E n states of MoFe nitrogenase.</p><p>DOI: 10.1039/d6sc05535d</p>]]></description>
 </item>
 <item>
 <title>Single-atom site modulation of Cu electrocatalysts for CO 2 electroreduction</title>
@@ -481,10 +523,10 @@
 <description><![CDATA[<p><b>Authors:</b> Ran Zheng, Qiang Zhang, Lulu Wang, Mingwei Wan, Zhaoquan Yao, Tongliang Hu, Jian Xu, Xian-He Bu</p><p>Robust NKU-400 features aromatic-rich, N/O-functionalized channels that enable one-step purification of C 2 H 4 to polymer-grade purity and subsequent recovery of high-purity C 3 H 6 from multicomponent MTO streams.</p><p>DOI: 10.1039/d6sc05534f</p>]]></description>
 </item>
 <item>
-<title>Modular Synthesis of 3,3-Diarylpropylamines via the Photo- and Copper-Catalyzed 1,3-Aminoarylation of Cyclopropanes</title>
+<title>Modular synthesis of 3,3-diarylpropylamines via the photo- and copper-catalyzed 1,3-aminoarylation of cyclopropanes</title>
 <link>https://doi.org/10.1039/d6sc06246f</link>
 <guid isPermaLink="false">10.1039/d6sc06246f</guid>
 <pubDate>Thu, 01 Oct 2026 06:23:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Carlo Baldassari, Carolin Veras Rodriguez, Tin Nguyen, Jerome Waser</p><p>3-Diarylpropylamines are privileged pharmacophores in drugs such as fendiline and tolterodine, but their synthesis has been limited by the use of stepwise, single-bond-forming routes. We report the first 1,3-aminoarylation of...</p><p>DOI: 10.1039/d6sc06246f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Carlo Baldassari, Carolin N. Veras Rodriguez, Tin V. T. Nguyen, Jerome Waser</p><p>The 1,3-aminoarylation of aryl cyclopropanes is reported using photo- and copper-catalyzed reactions. Together, these complementary pathways enable modular access to pharmaceutically relevant 3,3-diarylpropylamines with diverse electronic properties.</p><p>DOI: 10.1039/d6sc06246f</p>]]></description>
 </item>
 </channel></rss>
