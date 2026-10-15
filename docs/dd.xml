@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 14 Oct 2026 21:47:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:50:59 +0000</lastBuildDate>
 <item>
 <title>Back cover</title>
 <link>https://doi.org/10.1039/d6dd90053d</link>
@@ -192,19 +192,5 @@
 <guid isPermaLink="false">10.1039/d6dd00437g</guid>
 <pubDate>Thu, 01 Oct 2026 09:43:11 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Austin McDannald, Julia Tisaranni, Howie Joress</p><p>In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different...</p><p>DOI: 10.1039/d6dd00437g</p>]]></description>
-</item>
-<item>
-<title>Generating cyclic conformers with flow matching in Cremer–Pople coordinates</title>
-<link>https://doi.org/10.1039/d6dd00199h</link>
-<guid isPermaLink="false">10.1039/d6dd00199h</guid>
-<pubDate>Wed, 30 Sep 2026 19:43:01 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Luca Schaufelberger, Aline Hartgers, Kjell Jorner</p><p>PuckerFlow generates conformers of cyclic molecules by performing flow matching in Cremer–Pople coordinates.</p><p>DOI: 10.1039/d6dd00199h</p>]]></description>
-</item>
-<item>
-<title>Discrete flow-based generative models for measurement optimization in quantum computing</title>
-<link>https://doi.org/10.1039/d6dd00430j</link>
-<guid isPermaLink="false">10.1039/d6dd00430j</guid>
-<pubDate>Wed, 30 Sep 2026 14:23:01 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Isaac L. Huidobro-Meezs, Jun Dai, Rodrigo A. Vargas-Hernández</p><p>Estimating molecular Hamiltonians to chemical accuracy requires a large number of measurements. We use GFlowNets to produce non-overlapping groupings that reduce measurement and two-qubit gate counts and serve to initialize overlapping methods.</p><p>DOI: 10.1039/d6dd00430j</p>]]></description>
 </item>
 </channel></rss>
