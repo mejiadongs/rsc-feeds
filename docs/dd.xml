@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 16 Oct 2026 11:34:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 16:46:07 +0000</lastBuildDate>
+<item>
+<title>Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems</title>
+<link>https://doi.org/10.1039/d6dd00494f</link>
+<guid isPermaLink="false">10.1039/d6dd00494f</guid>
+<pubDate>Fri, 16 Oct 2026 15:03:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Seenivasan Hariharan, Kareljan Schoutens, Sachin Kinge, Lucas Visscher</p><p>Multiscale modeling of complex chemical systems requires algorithms that operate coherently across electronic, atomistic, mesoscopic, and continuum scales. While quantum algorithms have been proposed for each regime, no systematic framework...</p><p>DOI: 10.1039/d6dd00494f</p>]]></description>
+</item>
+<item>
+<title>Sampling a Trillion-Sized GDB-20 Database of Drug-Like Molecules by Generative Artificial Intelligence</title>
+<link>https://doi.org/10.1039/d6dd00213g</link>
+<guid isPermaLink="false">10.1039/d6dd00213g</guid>
+<pubDate>Fri, 16 Oct 2026 14:03:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ye Buehler, Sacha Javor, Jean-Louis Reymond</p><p>Identifying new chemical entities for small molecule drug discovery requires the continued exploration of its vast chemical space, which has been speculated to contain 10 60 or more molecules. Here we...</p><p>DOI: 10.1039/d6dd00213g</p>]]></description>
+</item>
 <item>
 <title>Biologically-driven generative chemistry: using biological data to guide de novo drug design</title>
 <link>https://doi.org/10.1039/d6dd00413j</link>
@@ -110,11 +124,11 @@
 <description><![CDATA[<p><b>Authors:</b> Hyuk Jun Yoo, Bernardus Rendy, Yuxing Fei, Andrea Giunto, Lauren N Walters, Gerbrand Ceder</p><p>Autonomous materials discovery platforms have successfully accelerated high-throughput synthesis, yet the manipulation and real-time tracking of complex solid-state synthesis pathways remain a critical challenge. Therefore, we present a fully integrated,...</p><p>DOI: 10.1039/d6dd00502k</p>]]></description>
 </item>
 <item>
-<title>Commit: BitBIRCH: Efficient clustering of large molecular libraries</title>
+<title>Commit: BitBIRCH: efficient clustering of large molecular libraries</title>
 <link>https://doi.org/10.1039/d5dd00493d</link>
 <guid isPermaLink="false">10.1039/d5dd00493d</guid>
 <pubDate>Thu, 08 Oct 2026 09:41:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ignacio Pickering, Krisztina Zsigmond, Kenneth López Pérez, Miroslav Lžičař, Ramon Alain Miranda-Quintana</p><p>We present BitBIRCH-Lean, a fast, memory-efficient implementation of the BitBIRCH algorithm, designed for high-throughput clustering of huge molecular libraries (up to billions of drug-like molecules) on typical workstations. BitBIRCH-Lean considerably...</p><p>DOI: 10.1039/d5dd00493d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ignacio Pickering, Krisztina Zsigmond, Kenneth López Pérez, Miroslav Lžičař, Ramón Alain Miranda-Quintana</p><p>We present BitBIRCH-Lean, a fast, memory-efficient implementation of the BitBIRCH algorithm, designed for high-throughput clustering of huge molecular libraries (up to billions of drug-like molecules) on modern scientific workstations.</p><p>DOI: 10.1039/d5dd00493d</p>]]></description>
 </item>
 <item>
 <title>Automating MD simulations for proteins using large language models: NAMD-agent</title>
