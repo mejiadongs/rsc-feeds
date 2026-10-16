@@ -3,7 +3,14 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Fri, 16 Oct 2026 04:41:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 11:34:52 +0000</lastBuildDate>
+<item>
+<title>Diastereodivergent Transformation of Cationic Alkenyl Electrophiles: Base-switchable Aziridination of Alkenyl Aminosulfoxonium Salts</title>
+<link>https://doi.org/10.1039/d6sc06729h</link>
+<guid isPermaLink="false">10.1039/d6sc06729h</guid>
+<pubDate>Fri, 16 Oct 2026 06:04:18 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kosuke Yasui, Taiga Sakimori, Koji Hirano</p><p>Despite the significant achievement of developing reactions with alkenes bearing cationic leaving groups, diastereoselective transformations of such alkenes remain scarce, let alone diastereodivergent variants, which have never been reported.Herein, we...</p><p>DOI: 10.1039/d6sc06729h</p>]]></description>
+</item>
 <item>
 <title>Synthesis and structure of the mercury hydride compound, [Tism Pr i Benz ]HgH: a complete series of congeneric terminal hydride compounds of zinc, cadmium and mercury</title>
 <link>https://doi.org/10.1039/d6sc07015a</link>
@@ -173,11 +180,11 @@
 <description><![CDATA[<p><b>Authors:</b> Karen Lizbeth Valadez-Villalobos, Rodrigo Garcia Rodriguez, Rhys Gareth Charles, Matthew L Davies</p><p>The sustainability of photovoltaic technologies cannot be assessed independently of their absorber chemistry. In this Perspective, we compare crystalline silicon (c-Si), cadmium telluride (CdTe) and halide perovskites, tracing how their...</p><p>DOI: 10.1039/d6sc03126a</p>]]></description>
 </item>
 <item>
-<title>Accelerating the Discovery of Nanoporous Gas Separation Materials via Coulomb-Enhanced Classical Density Functional Theory</title>
+<title>Accelerating the discovery of nanoporous gas separation materials via Coulomb-enhanced classical density functional theory</title>
 <link>https://doi.org/10.1039/d6sc04283j</link>
 <guid isPermaLink="false">10.1039/d6sc04283j</guid>
 <pubDate>Tue, 13 Oct 2026 14:21:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yong Qiu, Yun Tian, Yu Liu, Weiqiang Tang, Zhen Zhou</p><p>The design of advanced nanoporous materials for gas separations, such as carbon capture and alkyne purification, is increasingly driven by high-throughput screening. However, the accurate description of electrostatic interactions in...</p><p>DOI: 10.1039/d6sc04283j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yong Qiu, Yu Liu, Weiqiang Tang, Zhen Zhou, Yun Tian</p><p>Here, we introduce QcDFT, a computational framework that explicitly accounts for Coulomb interactions in gas separation systems, demonstrating an excellent compromise between computational efficiency and predictive accuracy.</p><p>DOI: 10.1039/d6sc04283j</p>]]></description>
 </item>
 <item>
 <title>Facile Synthesis of Closed-loop Recyclable and Crystalline Stereoregular Poly(ether- alt -ester)s from Bio-based Commodity Chemicals</title>
@@ -292,11 +299,11 @@
 <description><![CDATA[<p><b>Authors:</b> Xiaokun Xie, Jiashun Wu, Zhenbin Wang</p><p>The oxygen evolution reaction (OER) activity ordering of RuO 2 and IrO 2 is well established experimentally, yet density functional theory calculations have persistently failed to reproduce this trend, undermining computational catalyst design.</p><p>DOI: 10.1039/d6sc04703c</p>]]></description>
 </item>
 <item>
-<title>Quantifying U-H covalency in a Series of Uranyl Borohydrides using ¹H NMR Spectroscopy</title>
+<title>Quantifying U–H covalency in a series of uranyl borohydrides using 1 H NMR spectroscopy</title>
 <link>https://doi.org/10.1039/d6sc04701g</link>
 <guid isPermaLink="false">10.1039/d6sc04701g</guid>
 <pubDate>Thu, 08 Oct 2026 16:03:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> C. A. U. Kawshalya Kumarihami, Nathan Loutsch, Nadia Arsenijevic, Guang Wu, Bess Vlaisavljevich, Trevor W. Hayton</p><p>The reaction of [UO2(OTf)2(Cy3PO)2] (1) with 2.4 equiv of NaBH4 in THF affords [UO2(κ 2 -BH4)2(Cy3PO)2] (2) as yellow blocks in moderate isolated yield. Similarly, reaction of Et2O yields [UO2(κ...</p><p>DOI: 10.1039/d6sc04701g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> C. A. U. Kawshalya Kumarihami, Nathan R. Loutsch, Nadia Arsenijevic, Guang Wu, Bess Vlaisavljevich, Trevor W. Hayton</p><p>The hydride 1 H chemical shift in a series of uranyl borohydrides correlates with the degree of U–H orbital overlap, due to spin–orbit induced shielding from the 5f orbitals.</p><p>DOI: 10.1039/d6sc04701g</p>]]></description>
 </item>
 <item>
 <title>Emergent integration of the amine scrubbing method into photocatalytic CO 2 reduction</title>

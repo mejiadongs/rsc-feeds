@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 16 Oct 2026 04:41:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 11:34:54 +0000</lastBuildDate>
 <item>
 <title>Biologically-driven generative chemistry: using biological data to guide de novo drug design</title>
 <link>https://doi.org/10.1039/d6dd00413j</link>
@@ -96,11 +96,11 @@
 <description><![CDATA[<p><b>Authors:</b> Zeyu Wang, Shuya Yamazaki, Martin  Hoffmann Petersen, Masato Ohnishi, Tomiya Yamamoto, Wei Nong, Jianghai Wang, Ruiming Zhu, Masatoshi Hanai, Michimasa Morita, Toyotaro Suzumura, Zekun Ren, Junichiro Shiomi, Kedar Hippalgaonkar</p><p>The appearance of generative models has opened vast chemical spaces in the design of functional materials. Although machine learning interatomic potentials (MLIPs) have substantially accelerated phonon calculations, high-fidelity prediction of...</p><p>DOI: 10.1039/d6dd00278a</p>]]></description>
 </item>
 <item>
-<title>BoFlex: Modular Bayesian Optimization for Autonomous Experimentation</title>
+<title>BoFlex: modular Bayesian optimization for autonomous experimentation</title>
 <link>https://doi.org/10.1039/d6dd00224b</link>
 <guid isPermaLink="false">10.1039/d6dd00224b</guid>
 <pubDate>Fri, 09 Oct 2026 13:23:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sina Sadeghi, Jinge Xu, Kristofer Reyes, Milad Abolhasani</p><p>Self-driving laboratories (SDLs) are rapidly changing how chemical and materials research is performed by closing the loop between automated experimentation and data-driven decision making, enabling faster discovery and optimization with...</p><p>DOI: 10.1039/d6dd00224b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Sina Sadeghi, Jinge Xu, Kristofer G. Reyes, Milad Abolhasani</p><p>BoFlex, a modular Bayesian optimization framework, elevates surrogate choice to a first-class design element, supporting Gaussian processes, ensemble neural networks, and random forests for single- and multi-objective autonomous optimization.</p><p>DOI: 10.1039/d6dd00224b</p>]]></description>
 </item>
 <item>
 <title>A Robotic System of Automated in-situ Heating X-Ray Diffraction Experimentation in Autonomous Laboratories</title>
