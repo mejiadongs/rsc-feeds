@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 15 Oct 2026 21:30:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 04:41:26 +0000</lastBuildDate>
 <item>
 <title>Biologically-driven generative chemistry: using biological data to guide de novo drug design</title>
 <link>https://doi.org/10.1039/d6dd00413j</link>
@@ -206,12 +206,5 @@
 <guid isPermaLink="false">10.1039/d6dd00416d</guid>
 <pubDate>Mon, 05 Oct 2026 13:46:47 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yiquan Wang</p><p>The Protein Language Visualizer (PLVis) is a valuable and accessible tool for exploring protein language model embeddings of whole proteomes at scale. PLVis performs three quantitative steps in the two-dimensional...</p><p>DOI: 10.1039/d6dd00416d</p>]]></description>
-</item>
-<item>
-<title>Optimal Resource Utilization for Autonomous Laboratory Orchestrators</title>
-<link>https://doi.org/10.1039/d6dd00437g</link>
-<guid isPermaLink="false">10.1039/d6dd00437g</guid>
-<pubDate>Thu, 01 Oct 2026 09:43:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Austin McDannald, Julia Tisaranni, Howie Joress</p><p>In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different...</p><p>DOI: 10.1039/d6dd00437g</p>]]></description>
 </item>
 </channel></rss>
