@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 16 Oct 2026 21:20:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 04:38:36 +0000</lastBuildDate>
+<item>
+<title>UniDTI: A Multi-modal and Multi-scale Unified Framework for Predicting Drug-Target Interactions</title>
+<link>https://doi.org/10.1039/d6dd00271d</link>
+<guid isPermaLink="false">10.1039/d6dd00271d</guid>
+<pubDate>Sat, 17 Oct 2026 02:43:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> huang shaoxin, Shuguang Yuan, Junlin Dong, Chenyang Wu, Han Lin, Shiyu Wang, Haijian Li, Yinzhen Chen, Horst Vogel, Huawei Zhang, Shuguang Yuan</p><p>Accurate identification of drugtarget interactions (DTIs) is central to modern drug discovery, yet remains challenging because molecular recognition is represented across heterogeneous chemical and biological scales. Here, we present UniDTI,...</p><p>DOI: 10.1039/d6dd00271d</p>]]></description>
+</item>
+<item>
+<title>Bridging the Experimental Last Mile: Digitizing Laboratory Know-How for AI-Assisted Support with Safe Refusal</title>
+<link>https://doi.org/10.1039/d6dd00505e</link>
+<guid isPermaLink="false">10.1039/d6dd00505e</guid>
+<pubDate>Fri, 16 Oct 2026 23:23:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Akira Miura, Momoka Demura, Tetsuya Asai, Yuki Sasahara, Yuji Masubuchi, Chikahiko Mitsui</p><p>While advances in materials informatics have accelerated the development of Self-Driving Laboratories (SDLs), human-led experiments remain standard in many educational and exploratory research settings. We refer to the gap between...</p><p>DOI: 10.1039/d6dd00505e</p>]]></description>
+</item>
 <item>
 <title>Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems</title>
 <link>https://doi.org/10.1039/d6dd00494f</link>
