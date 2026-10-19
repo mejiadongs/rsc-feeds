@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 19 Oct 2026 04:52:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 13:34:23 +0000</lastBuildDate>
+<item>
+<title>Benchmarking machine learning for therapeutic deep eutectic solvent screening: dataset construction, cross-source generalization failure, and applicability-boundary analysis</title>
+<link>https://doi.org/10.1039/d6dd00521g</link>
+<guid isPermaLink="false">10.1039/d6dd00521g</guid>
+<pubDate>Mon, 19 Oct 2026 08:32:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Junxiao Zhu, Shiyi Wang, Ziming Liang, Liang Qin, Chengxiao Wang, Deyun Ma, Lin Chen</p><p>Across a 621-record therapeutic deep eutectic solvent (THEDES) dataset, random CV (AUROC 0.954) overstated cross-source transfer (0.553). Frozen blind and prospective tests support applicability-aware local triage, not autonomous prediction.</p><p>DOI: 10.1039/d6dd00521g</p>]]></description>
+</item>
+<item>
+<title>SCOPE: A Chemically-Aware Workflow Automation Software for Molecules and Molecular Crystals</title>
+<link>https://doi.org/10.1039/d6dd00236f</link>
+<guid isPermaLink="false">10.1039/d6dd00236f</guid>
+<pubDate>Mon, 19 Oct 2026 07:02:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sergi Vela, Manel Serrano</p><p>Large-scale computational chemistry studies increasingly rely on automated and reproducible workflows to explore chemical space. In practice, these workflows typically involve multiple tools for chemical representation, quantum chemistry jobs execution,...</p><p>DOI: 10.1039/d6dd00236f</p>]]></description>
+</item>
 <item>
 <title>UniDTI: A Multi-modal and Multi-scale Unified Framework for Predicting Drug-Target Interactions</title>
 <link>https://doi.org/10.1039/d6dd00271d</link>
@@ -103,11 +117,11 @@
 <description><![CDATA[<p><b>Authors:</b> Gwang-Noh Ahn, Amirezza Motafegh, Seunghun Jang, Gyoung S. Na</p><p>Efficient and data-agnostic optimization of energy-relevant chemical processes and plant operations is challenging. Traditional Bayesian optimization (BO) faces challenges in the case of complex input manifolds, and the multi-objective and...</p><p>DOI: 10.1039/d6dd00538a</p>]]></description>
 </item>
 <item>
-<title>RXNMapperv2: updated validation and evaluation on expanded chemical space</title>
+<title>RXNMapper-v2: updated validation and evaluation on expanded chemical space</title>
 <link>https://doi.org/10.1039/d6dd00425c</link>
 <guid isPermaLink="false">10.1039/d6dd00425c</guid>
 <pubDate>Tue, 13 Oct 2026 11:30:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yves Grandjean, Sacha Raffaud, Annie M. Westerlund, Philippe Schwaller, Samuel Genheden, Jean-Louis Reymond</p><p>Atom-to-atom mapping (AAM) assigns reactant atoms to product atoms and is fundamental for reaction classification, template extraction, and synthesis planning. RXNMapper derives AAM from the attention of a Transformer model...</p><p>DOI: 10.1039/d6dd00425c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yves Grandjean, Sacha Raffaud, Annie M. Westerlund, Philippe Schwaller, Samuel Genheden, Jean-Louis Reymond</p><p>Atom-to-atom mapping (AAM) assigns reactant atoms to product atoms and is fundamental for reaction classification, template extraction, and synthesis planning.</p><p>DOI: 10.1039/d6dd00425c</p>]]></description>
 </item>
 <item>
 <title>Accelerated screening of cellulose additives via supervised latent representations</title>
@@ -159,11 +173,11 @@
 <description><![CDATA[<p><b>Authors:</b> Siddharth Ravichandran, Jack D. Evans, Daniel W. Siderius, Stefan Kaskel, Louis Vanduyfhuys, Veronique Van Speybroeck</p><p>The extended adsorption information file format makes computational adsorption results easier to share and reuse. Vision-capable language models help recover literature isotherms for reporting in the same format.</p><p>DOI: 10.1039/d6dd00699j</p>]]></description>
 </item>
 <item>
-<title>Computational Design of Functionalized Cyclodextrin Probes for Sensitive and Selective PFAS Detection</title>
+<title>Computational design of functionalized cyclodextrin probes for sensitive and selective PFAS detection</title>
 <link>https://doi.org/10.1039/d6dd00386a</link>
 <guid isPermaLink="false">10.1039/d6dd00386a</guid>
 <pubDate>Wed, 07 Oct 2026 14:03:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Siddarth K Achar, Srusti Donapati, Marco Alberto Piazzi, Xiaoyu Sui, Yuqin Wang, Seth Darling, Junhong Chen, Andrew L Ferguson</p><p>Per-and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants that demand highly sensitive and selective molecular recognition strategies for field-deployable detection. Cyclodextrin-based field-effect transistor (FET) sensors demonstrate high sensitivity to perfluorooctanesulfonic...</p><p>DOI: 10.1039/d6dd00386a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Siddarth K. Achar, Srusti Donapati, Marco Piazzi, Xiaoyu Sui, Yuqin Wang, Seth B. Darling, Junhong Chen, Andrew L. Ferguson</p><p>High-throughput virtual screening workflow combining molecular docking, all-atom molecular dynamics, and Bayesian optimization discovers molecular probes for PFAS detection.</p><p>DOI: 10.1039/d6dd00386a</p>]]></description>
 </item>
 <item>
 <title>Automated natural product dereplication via DEPT-135 spectral matching</title>
