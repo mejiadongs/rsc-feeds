@@ -3,7 +3,28 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Tue, 20 Oct 2026 17:18:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 21:42:58 +0000</lastBuildDate>
+<item>
+<title>[TA] High-Throughput Screening of Alucone and Zincone Photoresists through Molecular Layer Deposition</title>
+<link>https://doi.org/10.1039/d6ta03808e</link>
+<guid isPermaLink="false">10.1039/d6ta03808e</guid>
+<pubDate>Tue, 20 Oct 2026 20:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Duncan J Reece, Emily R Crum, Jane Keth, David S Bergsman</p><p>As extreme ultraviolet (EUV) lithography advances toward sub-10 nm half-pitch patterning, photoresists must deliver improved sensitivity while enabling higher resolution and reduced line-edge roughness. Hybrid organic–inorganic thin films deposited via...</p><p>DOI: 10.1039/d6ta03808e</p>]]></description>
+</item>
+<item>
+<title>[CC] Scale-Resolved Silicon Deposition in a Jacketed Silane Reactor</title>
+<link>https://doi.org/10.1039/d6cc00605a</link>
+<guid isPermaLink="false">10.1039/d6cc00605a</guid>
+<pubDate>Tue, 20 Oct 2026 17:23:33 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Lu Qin, Jiyi Zhu, Yanzhe Gai, Pengfei Chu, Dezhi Yi, Qianjin Cai, Guojun Meng, Rui Guo, Yongfeng Lv, Hongjun Zhang, Guangning Qian, Chunxin Luo, Song Du, Zheng Liang</p><p>Matched-basis steady-RANS simulations separate single-rod axial nonuniformity from full-reactor rod-to-rod maldistribution in a jacketed silane reactor. Feed/exhaust topology strongly redistributes rod deposition at fixed precursor throughput, while the apparent cooling-jacket-radius...</p><p>DOI: 10.1039/d6cc00605a</p>]]></description>
+</item>
+<item>
+<title>[TA] A Novel Fused Diketopyrrolopyrrole Non-Fullerene Acceptor Enabled MSIM Ternary Organic Photodetector for Self-Powered Broadband UV-NIR Detection and High-Speed Multilevel Optical Communication</title>
+<link>https://doi.org/10.1039/d6ta06256c</link>
+<guid isPermaLink="false">10.1039/d6ta06256c</guid>
+<pubDate>Tue, 20 Oct 2026 16:43:30 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Suryakant Singh, Leydi M. Moreno, Hemraj Dahiya, Juan Angel Gallego Organero, Pilar de la Cruz, Fernando Langa, Ganesh D. Sharma, Supravat Karak</p><p>Self-powered organic photodetectors (OPDs) capable of broadband near-infrared (NIR) detection, rapid response, and reliable optical signal processing are highly desirable for nextgeneration optoelectronic communication technologies, yet achieving these characteristics simultaneously...</p><p>DOI: 10.1039/d6ta06256c</p>]]></description>
+</item>
 <item>
 <title>[TA] Facet Engineering of the Photocatalytic Surface Microenvironment: From Charge Carrier Dynamics to Reaction Pathway Control</title>
 <link>https://doi.org/10.1039/d6ta07273a</link>
@@ -2980,18 +3001,18 @@
 <description><![CDATA[<p><b>Authors:</b> Xuan Shu, Yongbin Chen, Minjie Hou, Jiarui Liang, Xinyu Yan, Huiyang Bian, Chuanfu Liu</p><p>Structural design and nanoplastics (NPs) filtration performance of the composite membrane.</p><p>DOI: 10.1039/d6ta05928g</p>]]></description>
 </item>
 <item>
-<title>[CC] Enhancement in temperature sensitivity of Ni II /Ni I potential through coupling of ligand-exchange reactions</title>
-<link>https://doi.org/10.1039/d6cc05824h</link>
-<guid isPermaLink="false">10.1039/d6cc05824h</guid>
-<pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sydney Prescott, Daniela Carmona-Pérez, Sameeha Sultana, William W. Brennessel, Agnes E. Thorarinsdottir</p><p>A nickel system with highly temperature-sensitive Ni II /Ni I potential was realized through coupling of ligand-exchange reactions to electron-transfer reactions of nickel.</p><p>DOI: 10.1039/d6cc05824h</p>]]></description>
-</item>
-<item>
 <title>[CC] Solar interfacial evaporation for multi-objective energy and resource recovery: A review of hydrogen, lithium, and electricity cogeneration</title>
 <link>https://doi.org/10.1039/d6cc05825f</link>
 <guid isPermaLink="false">10.1039/d6cc05825f</guid>
 <pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Weiwei Zhang, Boli Nie, Wenjie Li, Na Wang, Wenshuo Cui, Ruixi Tao, Zongying Wu, Ke Lu, Hong Zhang</p><p>Solar interfacial evaporation (SIE) surpasses bulk heating in efficiency through localized photothermal conversion, positioning itself as a key technology for addressing water-energy challenges. However, current research remains confined to specific...</p><p>DOI: 10.1039/d6cc05825f</p>]]></description>
+</item>
+<item>
+<title>[CC] Enhancement in temperature sensitivity of Ni II /Ni I potential through coupling of ligand-exchange reactions</title>
+<link>https://doi.org/10.1039/d6cc05824h</link>
+<guid isPermaLink="false">10.1039/d6cc05824h</guid>
+<pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sydney Prescott, Daniela Carmona-Pérez, Sameeha Sultana, William W. Brennessel, Agnes E. Thorarinsdottir</p><p>A nickel system with highly temperature-sensitive Ni II /Ni I potential was realized through coupling of ligand-exchange reactions to electron-transfer reactions of nickel.</p><p>DOI: 10.1039/d6cc05824h</p>]]></description>
 </item>
 <item>
 <title>[TA] Ultra-efficient rechargeable liquid and flexible zinc–air batteries enabled by cooperative functions of NiFe-MOF and single FeN 4 sites</title>

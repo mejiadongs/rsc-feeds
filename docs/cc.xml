@@ -3,7 +3,14 @@
 <title>RSC - Chemical Communications</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cc</link>
 <description>RSC - Chemical Communications (via Crossref)</description>
-<lastBuildDate>Tue, 20 Oct 2026 17:17:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 21:42:57 +0000</lastBuildDate>
+<item>
+<title>Scale-Resolved Silicon Deposition in a Jacketed Silane Reactor</title>
+<link>https://doi.org/10.1039/d6cc00605a</link>
+<guid isPermaLink="false">10.1039/d6cc00605a</guid>
+<pubDate>Tue, 20 Oct 2026 17:23:33 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Lu Qin, Jiyi Zhu, Yanzhe Gai, Pengfei Chu, Dezhi Yi, Qianjin Cai, Guojun Meng, Rui Guo, Yongfeng Lv, Hongjun Zhang, Guangning Qian, Chunxin Luo, Song Du, Zheng Liang</p><p>Matched-basis steady-RANS simulations separate single-rod axial nonuniformity from full-reactor rod-to-rod maldistribution in a jacketed silane reactor. Feed/exhaust topology strongly redistributes rod deposition at fixed precursor throughput, while the apparent cooling-jacket-radius...</p><p>DOI: 10.1039/d6cc00605a</p>]]></description>
+</item>
 <item>
 <title>Characterization of Hydrogen Storage in Hydroquinone Clathrate using Terahertz Spectroscopy</title>
 <link>https://doi.org/10.1039/d6cc04354b</link>
@@ -593,18 +600,18 @@
 <description><![CDATA[<p><b>Authors:</b> Zishuo Wan, Xitong Zhang, Zihan Xu, Mingyu Wei, Wenbo Zhang, Jian Lv, Yongjia Shi, Daoshan Yang</p><p>A visible-light-enabled four-component sulfonylphosphorothiolation of alkenes using aryl thianthrenium salts as versatile aryl radical precursors with broad substrate scope and good functional-group tolerance has been reported.</p><p>DOI: 10.1039/d6cc05525g</p>]]></description>
 </item>
 <item>
-<title>Enhancement in temperature sensitivity of Ni II /Ni I potential through coupling of ligand-exchange reactions</title>
-<link>https://doi.org/10.1039/d6cc05824h</link>
-<guid isPermaLink="false">10.1039/d6cc05824h</guid>
-<pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sydney Prescott, Daniela Carmona-Pérez, Sameeha Sultana, William W. Brennessel, Agnes E. Thorarinsdottir</p><p>A nickel system with highly temperature-sensitive Ni II /Ni I potential was realized through coupling of ligand-exchange reactions to electron-transfer reactions of nickel.</p><p>DOI: 10.1039/d6cc05824h</p>]]></description>
-</item>
-<item>
 <title>Solar interfacial evaporation for multi-objective energy and resource recovery: A review of hydrogen, lithium, and electricity cogeneration</title>
 <link>https://doi.org/10.1039/d6cc05825f</link>
 <guid isPermaLink="false">10.1039/d6cc05825f</guid>
 <pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Weiwei Zhang, Boli Nie, Wenjie Li, Na Wang, Wenshuo Cui, Ruixi Tao, Zongying Wu, Ke Lu, Hong Zhang</p><p>Solar interfacial evaporation (SIE) surpasses bulk heating in efficiency through localized photothermal conversion, positioning itself as a key technology for addressing water-energy challenges. However, current research remains confined to specific...</p><p>DOI: 10.1039/d6cc05825f</p>]]></description>
+</item>
+<item>
+<title>Enhancement in temperature sensitivity of Ni II /Ni I potential through coupling of ligand-exchange reactions</title>
+<link>https://doi.org/10.1039/d6cc05824h</link>
+<guid isPermaLink="false">10.1039/d6cc05824h</guid>
+<pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sydney Prescott, Daniela Carmona-Pérez, Sameeha Sultana, William W. Brennessel, Agnes E. Thorarinsdottir</p><p>A nickel system with highly temperature-sensitive Ni II /Ni I potential was realized through coupling of ligand-exchange reactions to electron-transfer reactions of nickel.</p><p>DOI: 10.1039/d6cc05824h</p>]]></description>
 </item>
 <item>
 <title>A dual-homologous Li 2 Se additive enables low-barrier Li 2 S activation</title>
