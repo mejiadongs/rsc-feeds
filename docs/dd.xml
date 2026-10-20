@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 20 Oct 2026 11:49:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 17:17:57 +0000</lastBuildDate>
+<item>
+<title>An Autonomous Agentic Query Framework with MCP Tools and Modernized NIST SRD-46 for Accelerating Aqueous Speciation Analysis</title>
+<link>https://doi.org/10.1039/d6dd00466k</link>
+<guid isPermaLink="false">10.1039/d6dd00466k</guid>
+<pubDate>Tue, 20 Oct 2026 14:52:08 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yunkai Sun, Adwaith Ravichandran, Hassan Harb, Rajeev Surendran Assary, Brian J Ingram, Zhenzhen Yang</p><p>Large language models (LLMs) could automate reasoning over structured scientific databases in chemistry and materials science, but this requires purpose-built agentic architectures, not simply better models. We present an agentic...</p><p>DOI: 10.1039/d6dd00466k</p>]]></description>
+</item>
+<item>
+<title>LM2KM: Feature extraction from pretrained protein and molecular language models combining with quantum mechanics (QM) features for KM predictions</title>
+<link>https://doi.org/10.1039/d6dd00139d</link>
+<guid isPermaLink="false">10.1039/d6dd00139d</guid>
+<pubDate>Tue, 20 Oct 2026 12:03:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jingchen Zhai, Lianjin Cai, Taoyu Niu, Lei Xie, Junmei Wang</p><p>The Michaelis constant (KM) is a key parameter for characterizing enzyme–substrate interactions and plays an essential role in enzyme kinetics modeling and physiologically based pharmacokinetic (PBPK) applications. However, experimental determination...</p><p>DOI: 10.1039/d6dd00139d</p>]]></description>
+</item>
 <item>
 <title>NIMO: A Software Platform for Closed-Loop Materials Exploration with Diverse AI Algorithms</title>
 <link>https://doi.org/10.1039/d6dd00371k</link>
@@ -124,11 +138,11 @@
 <description><![CDATA[<p><b>Authors:</b> Matthew Ball, Felix Andreas Faber, Cassie Pratley, Thierry Kogej, Dragos Horvath, Alexandre Varnek, Giulia Bergonzini, Christof Martin Jäger, Mikhail Kabeshov</p><p>The selection of appropriate reaction conditions is paramount in chemical synthesis and can greatly impact the success of experimental campaigns.</p><p>DOI: 10.1039/d6dd00286b</p>]]></description>
 </item>
 <item>
-<title>Diffusion-based Active Learning for Inverse Design: A Modular Framework Unifying Single-/Multi-objective and Serial/Batch Optimization</title>
+<title>Diffusion-based active learning for inverse design: a modular framework unifying single-/multi-objective and serial/batch optimization</title>
 <link>https://doi.org/10.1039/d6dd00538a</link>
 <guid isPermaLink="false">10.1039/d6dd00538a</guid>
 <pubDate>Tue, 13 Oct 2026 12:03:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Gwang-Noh Ahn, Amirezza Motafegh, Seunghun Jang, Gyoung S. Na</p><p>Efficient and data-agnostic optimization of energy-relevant chemical processes and plant operations is challenging. Traditional Bayesian optimization (BO) faces challenges in the case of complex input manifolds, and the multi-objective and...</p><p>DOI: 10.1039/d6dd00538a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Gwang-Noh Ahn, Amirreza Mottafegh, Seunghun Jang, Gyoung S. Na</p><p>A generate-then-filter framework built on conditional diffusion proposes almost no infeasible experiments under unknown constraints, learning the feasible region implicitly from successful experimental data.</p><p>DOI: 10.1039/d6dd00538a</p>]]></description>
 </item>
 <item>
 <title>RXNMapper-v2: updated validation and evaluation on expanded chemical space</title>
