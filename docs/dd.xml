@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 19 Oct 2026 22:27:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 05:00:18 +0000</lastBuildDate>
+<item>
+<title>NIMO: A Software Platform for Closed-Loop Materials Exploration with Diverse AI Algorithms</title>
+<link>https://doi.org/10.1039/d6dd00371k</link>
+<guid isPermaLink="false">10.1039/d6dd00371k</guid>
+<pubDate>Mon, 19 Oct 2026 22:03:13 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ryo Tamura, Naruki Yoshikawa, Koji Tsuda, Shoichi Matsuda</p><p>Self-driving laboratories (SDLs), where artificial intelligence proposes subsequent experiments and robotic systems execute them, are rapidly becoming an important approach to autonomous materials exploration. A practical challenge lies in connecting...</p><p>DOI: 10.1039/d6dd00371k</p>]]></description>
+</item>
 <item>
 <title>RxnMol: Synthesis-Aware Molecular Generation via Reaction-Driven Global Chemical Space Search</title>
 <link>https://doi.org/10.1039/d6dd00325g</link>
@@ -227,33 +234,5 @@
 <guid isPermaLink="false">10.1039/d6dd00518g</guid>
 <pubDate>Tue, 06 Oct 2026 02:23:28 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Mingyang Zhu, Xiaoyu Hou, Yiting Lin, Honglai Liu, Kai Chen, Cheng Lian</p><p>An extrapolation-aware machine-learning framework combines physics-informed descriptors with applicability-domain gating to identify trusted low-temperature electrolyte candidates while flagging unsupported predictions.</p><p>DOI: 10.1039/d6dd00518g</p>]]></description>
-</item>
-<item>
-<title>Pharmacological stratification of public bioactivity databases: a reusable, OECD-anchored curation and benchmarking framework demonstrated for opioid receptors</title>
-<link>https://doi.org/10.1039/d6dd00392c</link>
-<guid isPermaLink="false">10.1039/d6dd00392c</guid>
-<pubDate>Mon, 05 Oct 2026 16:03:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Manal A. Nael, Laxman M. Alakonda, Abhik Ghosh, Sara Jane Ward, Lee-Yuan Liu Chen, Anjali M. Rajadhyaksha, Magid Abou-Gharbia, Khaled M. Elokely</p><p>Pooled functional QSAR models attain strong scores by silently predicting binding affinity; stratifying public bioactivity data by pharmacological mechanism and assay readout produces endpoints whose predictions support a defensible, testable claim.</p><p>DOI: 10.1039/d6dd00392c</p>]]></description>
-</item>
-<item>
-<title>SCALAR: quantifying structural hallucination, consistency, and reasoning gaps in materials foundation models</title>
-<link>https://doi.org/10.1039/d6dd00393a</link>
-<guid isPermaLink="false">10.1039/d6dd00393a</guid>
-<pubDate>Mon, 05 Oct 2026 14:03:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Can Polat, Mustafa Kurban, Erchin Serpedin, Hasan Kurban</p><p>Large language models are increasingly applied to materials science reasoning, yet their behavior under physically structured distribution shifts remains poorly understood.</p><p>DOI: 10.1039/d6dd00393a</p>]]></description>
-</item>
-<item>
-<title>Introduction to ‘AI in drug discovery at ICANN2025’</title>
-<link>https://doi.org/10.1039/d6dd90045c</link>
-<guid isPermaLink="false">10.1039/d6dd90045c</guid>
-<pubDate>Mon, 05 Oct 2026 13:52:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Igor V. Tetko, Djork-Arné Clevert</p><p>Igor V. Tetko and Djork-Arné Clevert introduce the Digital Discovery themed collection on ‘AI in drug discovery at ICANN2025’.</p><p>DOI: 10.1039/d6dd90045c</p>]]></description>
-</item>
-<item>
-<title>Comment on ``Protein language visualizer: a repository for homology exploration with language model embeddings''</title>
-<link>https://doi.org/10.1039/d6dd00416d</link>
-<guid isPermaLink="false">10.1039/d6dd00416d</guid>
-<pubDate>Mon, 05 Oct 2026 13:46:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yiquan Wang</p><p>The Protein Language Visualizer (PLVis) is a valuable and accessible tool for exploring protein language model embeddings of whole proteomes at scale. PLVis performs three quantitative steps in the two-dimensional...</p><p>DOI: 10.1039/d6dd00416d</p>]]></description>
 </item>
 </channel></rss>

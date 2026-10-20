@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Mon, 19 Oct 2026 22:27:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 05:00:13 +0000</lastBuildDate>
+<item>
+<title>Electronic Structure Engineering of Dual-Atom Catalysts Regulates N2 Adsorption Geometry for Enhanced Nitrogen Reduction</title>
+<link>https://doi.org/10.1039/d6cp03490j</link>
+<guid isPermaLink="false">10.1039/d6cp03490j</guid>
+<pubDate>Tue, 20 Oct 2026 00:03:16 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mingyang Ren, Bingling He, Song Ye, Mengyin Liu, Shasha Li, Yongchun Li, Mengli Zhao, Peng Lv, Huan Li, Zhansheng Lu</p><p>Understanding how electronic structure regulates N2 adsorption geometry is crucial for establishing structure-activity relationships in the nitrogen reduction reaction (NRR), yet the intrinsic relationship between electronic structure modulation and adsorption...</p><p>DOI: 10.1039/d6cp03490j</p>]]></description>
+</item>
 <item>
 <title>Enhanced iodine capture performance by ionic polyimine network materials in electric field †</title>
 <link>https://doi.org/10.1039/d6cp02945k</link>
@@ -717,40 +724,5 @@
 <guid isPermaLink="false">10.1039/d6cp01490a</guid>
 <pubDate>Tue, 06 Oct 2026 01:03:31 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Junichi Inamoto, Akane Inoo, Yoshaiki Matsuo</p><p>To improve the rate capability of rechargeable batteries employing intercalation-type active materials, it is essential to identify which reaction step becomes rate-determining under given conditions among the various processes contributing...</p><p>DOI: 10.1039/d6cp01490a</p>]]></description>
-</item>
-<item>
-<title>Impact of ligand bulk on conformational rearrangement in supported organometallic complexes</title>
-<link>https://doi.org/10.1039/d6cp03084j</link>
-<guid isPermaLink="false">10.1039/d6cp03084j</guid>
-<pubDate>Mon, 05 Oct 2026 15:02:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jacob Mayer, Mita Halder, Da-Jiang Liu, Damien B. Culver, Frédéric A. Perras</p><p>NMR methods were used to study the dynamics of supported metallocene complexes. Dynamics were found to freeze once a ligand chain was five or more carbons long, hinting to possible dynamic limitations to olefin polymerization.</p><p>DOI: 10.1039/d6cp03084j</p>]]></description>
-</item>
-<item>
-<title>Hybrid machine learning for enhanced prediction of diffusion coefficients in liquids</title>
-<link>https://doi.org/10.1039/d6cp00793g</link>
-<guid isPermaLink="false">10.1039/d6cp00793g</guid>
-<pubDate>Mon, 05 Oct 2026 15:02:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jens Wagner, Zeno Romero, Kerstin Münnemann, Sebastian Schmitt, Thomas Specht, Hans Hasse, Fabian Jirasek</p><p>A hybrid Enhanced Stokes–Einstein (ESE) model uses a neural-network correction to enable physically consistent, interpretable, and substantially improved predictions for infinite-dilution diffusion coefficients in pure solvents.</p><p>DOI: 10.1039/d6cp00793g</p>]]></description>
-</item>
-<item>
-<title>Atomistic-scale study on the role of CNT as a nucleating agent of α-Al in Al–CNT composite</title>
-<link>https://doi.org/10.1039/d6cp03568j</link>
-<guid isPermaLink="false">10.1039/d6cp03568j</guid>
-<pubDate>Mon, 05 Oct 2026 12:23:01 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Indrani Mukherjee, Jai Vignesh, Aditya Anand, Prosenjit Das</p><p>The novelty of the study lies in establishing a clear understanding of the mechanism of enhanced nucleation of α-Al by carbon nanotubes (CNTs) in cast Al–CNT composites, adopting molecular modelling and DFT approaches as well as experimentation.</p><p>DOI: 10.1039/d6cp03568j</p>]]></description>
-</item>
-<item>
-<title>Unravelling the structure of monocyclic carbon ring cations using vibrational spectroscopy</title>
-<link>https://doi.org/10.1039/d6cp03280j</link>
-<guid isPermaLink="false">10.1039/d6cp03280j</guid>
-<pubDate>Mon, 05 Oct 2026 12:20:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Thomas E. Douglas-Walker, Amit Debnath, Olivia O'Neill, Ewen K. Campbell</p><p>Gas phase spectroscopy of monocyclic carbon ring cations (C 4n + , n = 2–7) reveal intense infrared transitions due to Kekulé-type distortions. A breakdown in linear trends is observed for C 12 + and smaller rings, indicating a change of common structure.</p><p>DOI: 10.1039/d6cp03280j</p>]]></description>
-</item>
-<item>
-<title>A unified toeplitz framework for sequence-dependent molecular sensing: an analytical synthetic proof of concept</title>
-<link>https://doi.org/10.1039/d6cp03223k</link>
-<guid isPermaLink="false">10.1039/d6cp03223k</guid>
-<pubDate>Mon, 05 Oct 2026 10:09:20 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Raphael Matozo Tromer, Alysson Martins Almeida Silva, Rafael Rabelo Nunes, Ketankumar A. Ganure, Santosh K. Tiwary, Luiz Antonio Ribeiro Junior</p><p>Sequence-dependent biosensors infer molecular identity from signals generated by finite local contexts, but highly parameterized decoders often obscure how context distinguishability, sensor calibration, and sensing width constrain reconstruction.</p><p>DOI: 10.1039/d6cp03223k</p>]]></description>
 </item>
 </channel></rss>
