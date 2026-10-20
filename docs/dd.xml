@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 20 Oct 2026 05:00:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 11:49:22 +0000</lastBuildDate>
 <item>
 <title>NIMO: A Software Platform for Closed-Loop Materials Exploration with Diverse AI Algorithms</title>
 <link>https://doi.org/10.1039/d6dd00371k</link>
@@ -159,11 +159,11 @@
 <description><![CDATA[<p><b>Authors:</b> Sina Sadeghi, Jinge Xu, Kristofer G. Reyes, Milad Abolhasani</p><p>BoFlex, a modular Bayesian optimization framework, elevates surrogate choice to a first-class design element, supporting Gaussian processes, ensemble neural networks, and random forests for single- and multi-objective autonomous optimization.</p><p>DOI: 10.1039/d6dd00224b</p>]]></description>
 </item>
 <item>
-<title>A Robotic System of Automated in-situ Heating X-Ray Diffraction Experimentation in Autonomous Laboratories</title>
+<title>A robotic system of automated in situ heating X-ray diffraction experimentation in autonomous laboratories</title>
 <link>https://doi.org/10.1039/d6dd00502k</link>
 <guid isPermaLink="false">10.1039/d6dd00502k</guid>
 <pubDate>Fri, 09 Oct 2026 00:24:48 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Hyuk Jun Yoo, Bernardus Rendy, Yuxing Fei, Andrea Giunto, Lauren N Walters, Gerbrand Ceder</p><p>Autonomous materials discovery platforms have successfully accelerated high-throughput synthesis, yet the manipulation and real-time tracking of complex solid-state synthesis pathways remain a critical challenge. Therefore, we present a fully integrated,...</p><p>DOI: 10.1039/d6dd00502k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Hyuk Jun Yoo, Bernardus Rendy, Yuxing Fei, Andrea Giunto, Lauren N. Walters, Gerbrand Ceder</p><p>Autonomous materials discovery platforms have accelerated high-throughput synthesis, and here we advance this paradigm by achieving real-time tracking of complex solid-state reaction pathways.</p><p>DOI: 10.1039/d6dd00502k</p>]]></description>
 </item>
 <item>
 <title>Commit: BitBIRCH: efficient clustering of large molecular libraries</title>
