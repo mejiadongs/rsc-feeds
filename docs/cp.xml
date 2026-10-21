@@ -3,7 +3,21 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Tue, 20 Oct 2026 21:42:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 04:59:03 +0000</lastBuildDate>
+<item>
+<title>DRAGON-3D: An Electron-Density-Aware Generative Model for Dual-Target Drug Molecule Generation</title>
+<link>https://doi.org/10.1039/d6cp03204d</link>
+<guid isPermaLink="false">10.1039/d6cp03204d</guid>
+<pubDate>Wed, 21 Oct 2026 01:23:38 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zhong-Xing Zhou, Hong-Xing Zhang, Shi Feng, Yan Zhao, Zhen-Yang Liu, Jun-Bao Huang, Qing-Chuan Zheng</p><p>Dual-target drug molecule generation is a significant computational challenge due to the structural constraints imposed by two protein binding pockets. Existing generative models typically rely on scarce dual-target drug datasets...</p><p>DOI: 10.1039/d6cp03204d</p>]]></description>
+</item>
+<item>
+<title>Anisotropic Electron Inelastic Scattering and Monte Carlo Simulation of Electron Emission from Graphite</title>
+<link>https://doi.org/10.1039/d6cp02976k</link>
+<guid isPermaLink="false">10.1039/d6cp02976k</guid>
+<pubDate>Tue, 20 Oct 2026 23:23:25 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zhenhuan Min, Shifeng Mao, Zejun Ding</p><p>We develop a dielectric-functional formulation of anisotropic electron inelastic scattering and an anisotropic Monte Carlo (MC) model for electron transport in uniaxial materials. Within a tensorial dielectric-response framework, the inelastic...</p><p>DOI: 10.1039/d6cp02976k</p>]]></description>
+</item>
 <item>
 <title>Drastically reducing the cost of the XsTD-DFT family of methods using a minimal auxiliary basis set ( η XsTD-DFT) to efficiently treat ultra large systems</title>
 <link>https://doi.org/10.1039/d6cp02294d</link>
@@ -745,61 +759,5 @@
 <guid isPermaLink="false">10.1039/d6cp01544a</guid>
 <pubDate>Wed, 07 Oct 2026 08:13:36 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Huong Trang Vo, Henrik P. H. Wong, Ali Arafeh, Haoxiang Zhao, Sam P. de Visser, Philip Martin, Lujia Chen</p><p>A two-region kinetic model quantitatively predicts decomposition products of C 3 F 7 CN/CO 2 mixtures under the influence of partial discharge, with O 2 and H 2 O additions shifting the product distribution. This enables gas-composition-based fault diagnosis.</p><p>DOI: 10.1039/d6cp01544a</p>]]></description>
-</item>
-<item>
-<title>Mesoscopic charge separation in mixtures of anisotropic Gay–Berne particles and Lennard-Jones spheres</title>
-<link>https://doi.org/10.1039/d6cp03522a</link>
-<guid isPermaLink="false">10.1039/d6cp03522a</guid>
-<pubDate>Tue, 06 Oct 2026 11:03:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Katsuhiko Satoh, Giacomo Saielli</p><p>A layered structure, with layer thicknesses of several particle's diameter, is observed in mixtures of oppositely charged discotic Gay–Berne and spherical Lennar-Jones particles, thus exhibiting a phase with mesoscale charge separation.</p><p>DOI: 10.1039/d6cp03522a</p>]]></description>
-</item>
-<item>
-<title>Magnetic, optical, and photoelectrochemical properties of Er 0.75 Y 0.25 Fe 1− x Co x O 3 ( x = 0.05, 0.15, 0.3, and 0.5): a Mössbauer and X-ray photoelectron spectroscopy study</title>
-<link>https://doi.org/10.1039/d6cp01367h</link>
-<guid isPermaLink="false">10.1039/d6cp01367h</guid>
-<pubDate>Tue, 06 Oct 2026 10:43:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Laxmi Devi, Soumen Ash, Nancy, Akshay Kumar, Adarsh Kumar, Ankush Vij, Sher Singh Meena, Kaustava Bhattacharyya, Anirban Das</p><p>Polycrystalline Er 0.75 Y 0.25 Fe 1− x Co x O 3 ( x = 0.05, 0.15, 0.3, and 0.5) perovskites were synthesized via the solid-state reaction method, and their structural, magnetic, optical and photoelectrochemical properties were investigated.</p><p>DOI: 10.1039/d6cp01367h</p>]]></description>
-</item>
-<item>
-<title>Rational design and mechanistic elucidation of Pt-based alloy-supported Fe 1 (OH) 3 interfaces for superior CO oxidation catalysis</title>
-<link>https://doi.org/10.1039/d6cp02797k</link>
-<guid isPermaLink="false">10.1039/d6cp02797k</guid>
-<pubDate>Tue, 06 Oct 2026 10:03:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ruobing Han, Chenrui Zhang, Tianzhen Yang, Yuquan Zhu, Jingyu Sun, Rufang Zhao, Yang Wang</p><p>DFT is used to design and screen Fe 1 (OH) 3 /M 1 Pt single-site catalysts for CO oxidation. Fe 1 (OH) 3 /Cu 1 Pt exhibits a low reaction barrier of 0.49 eV and favorable stability, offering a rational catalyst design strategy for fuel-cell applications.</p><p>DOI: 10.1039/d6cp02797k</p>]]></description>
-</item>
-<item>
-<title>Photochemical initial reaction mechanism of the ε-CL-20 explosive: a molecular-level study based on TDDFT</title>
-<link>https://doi.org/10.1039/d6cp02402e</link>
-<guid isPermaLink="false">10.1039/d6cp02402e</guid>
-<pubDate>Tue, 06 Oct 2026 08:35:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yao Yule, Wu Junying, Li Junjian, Shang Yiping, Liu Ruizheng, He Tong, Liu Danyang, Chen Lang</p><p>TDDFT reveals ε-CL-20 photochemistry: n(O)→π*(NO 2 ) excitation triggers stepwise N–NO 2 homolysis, creating a novel alternating photochemical–thermal denitration pathway for laser processing and environmental fate.</p><p>DOI: 10.1039/d6cp02402e</p>]]></description>
-</item>
-<item>
-<title>Fundamental effect of strain on carrier mobility in monolayer MoS 2</title>
-<link>https://doi.org/10.1039/d6cp03048c</link>
-<guid isPermaLink="false">10.1039/d6cp03048c</guid>
-<pubDate>Tue, 06 Oct 2026 07:16:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiangtao Zheng, Jianbo Jin, Liucheng Liu, Zhiyong Xu, Shengfeng Zhou</p><p>First-principles calculations are used to comparatively reveal the fundamental effects of tensile strain on the effective mass, deformation potential, and carrier mobility of monolayer MoS 2 .</p><p>DOI: 10.1039/d6cp03048c</p>]]></description>
-</item>
-<item>
-<title>Strain-tunable Dirac nodal-line states and electronic phase transitions in two-dimensional boron hydrides</title>
-<link>https://doi.org/10.1039/d6cp01984f</link>
-<guid isPermaLink="false">10.1039/d6cp01984f</guid>
-<pubDate>Tue, 06 Oct 2026 06:43:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yalan Wei, Yuke Song, Shifang Li, Chaoyu He</p><p>Strain drives orbital inversion in (5–7)-α 2 -B 16 H 16 , transforming the intrinsic semiconductor into a Dirac nodal-line semimetal.</p><p>DOI: 10.1039/d6cp01984f</p>]]></description>
-</item>
-<item>
-<title>Molecular mechanisms of typical chelating agents influencing the early hydration of C 3 S: a combined MD and DFT study</title>
-<link>https://doi.org/10.1039/d6cp03378d</link>
-<guid isPermaLink="false">10.1039/d6cp03378d</guid>
-<pubDate>Tue, 06 Oct 2026 02:03:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yunqi Liu, Fengxiao Zhu, Yanchen Ren, Dongshuai Hou, Pan Wang, Muhan Wang, Xinpeng Wang, Jing Guan, Jian Xiao, Tao Li, Zhibin Zheng, Yue Zhang</p><p>Molecular simulations reveal how chelating agents coordinate surface Ca, reorganize interfacial water, and regulate Ca dissolution from C 3 S, linking ligand structure to cement hydration retardation.</p><p>DOI: 10.1039/d6cp03378d</p>]]></description>
-</item>
-<item>
-<title>Solid-State Ion Diffusion and Interfacial Ion Transfer in Carbon Electrodes: Kinetics, Governing Factors, and Design Perspectives for High-Rate Rechargeable Batteries</title>
-<link>https://doi.org/10.1039/d6cp01490a</link>
-<guid isPermaLink="false">10.1039/d6cp01490a</guid>
-<pubDate>Tue, 06 Oct 2026 01:03:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Junichi Inamoto, Akane Inoo, Yoshaiki Matsuo</p><p>To improve the rate capability of rechargeable batteries employing intercalation-type active materials, it is essential to identify which reaction step becomes rate-determining under given conditions among the various processes contributing...</p><p>DOI: 10.1039/d6cp01490a</p>]]></description>
 </item>
 </channel></rss>

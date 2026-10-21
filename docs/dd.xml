@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 20 Oct 2026 21:42:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 04:59:08 +0000</lastBuildDate>
+<item>
+<title>Dual Digital Twins for Experimental Planning: From Imaging and Characterization to Self-Driving Laboratories and Manufacturing</title>
+<link>https://doi.org/10.1039/d6dd00638h</link>
+<guid isPermaLink="false">10.1039/d6dd00638h</guid>
+<pubDate>Wed, 21 Oct 2026 01:43:55 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sergei V. Kalinin, Yu Liu, Ioannis Sgouralis, Charles Cao, Boris Slautin, Sheryl Sanchez, Kamyar Barakati, Hector Santos, Gerd Duscher, Mahshid Ahmadi</p><p>Automated laboratories increasingly combine automated and cloudified instruments, robotic operation, sample provenance and data infrastructures, and autonomous agents. Yet these capabilities primarily address execution, while planning remain limited to myopic...</p><p>DOI: 10.1039/d6dd00638h</p>]]></description>
+</item>
 <item>
 <title>An Autonomous Agentic Query Framework with MCP Tools and Modernized NIST SRD-46 for Accelerating Aqueous Speciation Analysis</title>
 <link>https://doi.org/10.1039/d6dd00466k</link>
@@ -227,26 +234,5 @@
 <guid isPermaLink="false">10.1039/d6dd00226a</guid>
 <pubDate>Wed, 07 Oct 2026 06:36:24 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> David Boe, Daniel Elbrecht, Hnin Ookhin, Artur Menzeleev, Marcus E. Farmer, Nataliya Nady, Sathya Chitturi, James Frick, Adam Morra, Tony Schroeder, Alpha A. Lee</p><p>ML-derived pharmacophore generation facilitates virtual screening at large scale for hit identification workflows while remaining robust to common evaluation biases.</p><p>DOI: 10.1039/d6dd00226a</p>]]></description>
-</item>
-<item>
-<title>SurGBSA: learning representations from molecular dynamics simulations</title>
-<link>https://doi.org/10.1039/d6dd00174b</link>
-<guid isPermaLink="false">10.1039/d6dd00174b</guid>
-<pubDate>Tue, 06 Oct 2026 19:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Derek Jones, Yue Yang, Felice C. Lightstone, Niema Moshiri, Jonathan E. Allen, Tajana S. Rosing</p><p>SurGBSA combines molecular dynamics pretraining with fine-tuning on snapshot-level MMGBSA energies, enabled by a dataset of short MD simulations of docking poses. The MMGBSA fine-tuned models adapt to binding affinity and decoy pose ranking tasks.</p><p>DOI: 10.1039/d6dd00174b</p>]]></description>
-</item>
-<item>
-<title>A multimodal screening and validation framework for polymer glass-transition temperature design</title>
-<link>https://doi.org/10.1039/d6dd00148c</link>
-<guid isPermaLink="false">10.1039/d6dd00148c</guid>
-<pubDate>Tue, 06 Oct 2026 06:03:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tianyu Huang, Wenzhu Bi, Xi Zhang, Xiao Gui, Zheyuan Jiang, Menghao Yang</p><p>A generation–screening–validation framework integrates VAE sampling, multimodal T g prediction and MD bilinear fitting to accelerate T g -targeted polymer design.</p><p>DOI: 10.1039/d6dd00148c</p>]]></description>
-</item>
-<item>
-<title>Extrapolation-aware machine learning with applicability-domain gating for low-temperature lithium-ion electrolyte discovery</title>
-<link>https://doi.org/10.1039/d6dd00518g</link>
-<guid isPermaLink="false">10.1039/d6dd00518g</guid>
-<pubDate>Tue, 06 Oct 2026 02:23:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mingyang Zhu, Xiaoyu Hou, Yiting Lin, Honglai Liu, Kai Chen, Cheng Lian</p><p>An extrapolation-aware machine-learning framework combines physics-informed descriptors with applicability-domain gating to identify trusted low-temperature electrolyte candidates while flagging unsupported predictions.</p><p>DOI: 10.1039/d6dd00518g</p>]]></description>
 </item>
 </channel></rss>
