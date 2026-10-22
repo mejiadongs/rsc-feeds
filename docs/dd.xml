@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 22 Oct 2026 17:18:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 21:43:54 +0000</lastBuildDate>
 <item>
 <title>Graph Neural Network-Assisted Expansion of an Experimental Structural Database of Organic Macrocycles and Cages</title>
 <link>https://doi.org/10.1039/d6dd00394j</link>
@@ -12,18 +12,18 @@
 <description><![CDATA[<p><b>Authors:</b> Zhirui LAI, Siyuan Yang, Lifeng Ding, Ming Liu</p><p>High-throughput computational screening has emerged as an effective approach for discovering functional porous materials, particularly metal organic frameworks (MOFs) and covalent organic frameworks (COFs). Experimental structural databases have also recently...</p><p>DOI: 10.1039/d6dd00394j</p>]]></description>
 </item>
 <item>
-<title>MetaPLI: Retrieval-Augmented In-Context Regression over Protein-Ligand Structures for Absolute Binding Affinity Prediction</title>
+<title>MetaPLI: retrieval-augmented in-context regression over protein–ligand structures for absolute binding affinity prediction</title>
 <link>https://doi.org/10.1039/d6dd00444j</link>
 <guid isPermaLink="false">10.1039/d6dd00444j</guid>
 <pubDate>Wed, 21 Oct 2026 13:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ziyun Qiao, Jintao Zhu, Yibo Li, Juan Xie, Jin Xie, Yu Li, Weilin Zhang, Jianfeng Pei, Luhua Lai</p><p>Deep learning-assisted target-based drug design is limited by scarce high-quality data for new biological targets and poor generalization to out-of-distribution chemotypes under realistic Design-Make-Test-Analyze conditions. We present MetaPLI, a structure-based...</p><p>DOI: 10.1039/d6dd00444j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ziyun Qiao, Jintao Zhu, Yibo Li, Juan Xie, Jin Xie, Yu Li, Weilin Zhang, Jianfeng Pei, Luhua Lai</p><p>MetaPLI predicts binding affinity from complex structures and a few activity measurements. New assay results update the retrieved context, guiding subsequent prediction and compound selection in a lead optimization loop without retraining.</p><p>DOI: 10.1039/d6dd00444j</p>]]></description>
 </item>
 <item>
-<title>CyRxnOpt: Generalized Reaction Optimization Interface for Autonomous Laboratories and Benchmarking</title>
+<title>CyRxnOpt: generalized reaction optimization interface for autonomous laboratories and benchmarking</title>
 <link>https://doi.org/10.1039/d6dd00180g</link>
 <guid isPermaLink="false">10.1039/d6dd00180g</guid>
 <pubDate>Wed, 21 Oct 2026 06:03:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zachery Crandall, Dulitha P. Kulathunga, Lun An, Jie Zhang, Austin Thompson, Tyler B. Hall, Hailey M. Bates, Long Qi, Theresa L Windus</p><p>Numerous cutting-edge machine learning algorithms have been developed in recent years for efficiently optimizing chemical processes. While many are open-source, evaluating and applying them to chemical processes remains challenging due...</p><p>DOI: 10.1039/d6dd00180g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zachery Crandall, Dulitha P. Kulathunga, Lun An, Jie Zhang, Austin J. Thompson, Tyler B. Hall, Hailey M. Bates, Long Qi, Theresa L. Windus</p><p>CyRxnOpt provides autonomous laboratories and benchmarking frameworks a single interface to access diverse optimization algorithms. Its versatility is demonstrated through benchmarking on both analytical functions and experimental datasets.</p><p>DOI: 10.1039/d6dd00180g</p>]]></description>
 </item>
 <item>
 <title>Dual Digital Twins for Experimental Planning: From Imaging and Characterization to Self-Driving Laboratories and Manufacturing</title>

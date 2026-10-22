@@ -3,7 +3,56 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Thu, 22 Oct 2026 17:18:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 21:43:58 +0000</lastBuildDate>
+<item>
+<title>[TA] Contents list</title>
+<link>https://doi.org/10.1039/d6ta90289h</link>
+<guid isPermaLink="false">10.1039/d6ta90289h</guid>
+<pubDate>Thu, 22 Oct 2026 19:57:28 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6ta90289h</p>]]></description>
+</item>
+<item>
+<title>[TA] Front cover</title>
+<link>https://doi.org/10.1039/d6ta90288j</link>
+<guid isPermaLink="false">10.1039/d6ta90288j</guid>
+<pubDate>Thu, 22 Oct 2026 19:56:37 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6ta90288j</p>]]></description>
+</item>
+<item>
+<title>[TA] Back cover</title>
+<link>https://doi.org/10.1039/d6ta90290a</link>
+<guid isPermaLink="false">10.1039/d6ta90290a</guid>
+<pubDate>Thu, 22 Oct 2026 19:56:17 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6ta90290a</p>]]></description>
+</item>
+<item>
+<title>[TC] On the role of surface oxidation for the nucleation delay in ALD of AlN</title>
+<link>https://doi.org/10.1039/d6tc02829b</link>
+<guid isPermaLink="false">10.1039/d6tc02829b</guid>
+<pubDate>Thu, 22 Oct 2026 18:43:40 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Pamburayi Mpofu, Peggy Bagherzadeh Tabrizi, Houyem Hafdi, Jonas Lauridsen, Oscar Alm, Tommy Larsson, Rosemary Jones, Esko Kokkonen, Joachim Schnadt, Henrik Pedersen</p><p>The early stages of thermal atomic layer deposition (ALD) of aluminium nitride (AlN) using trimethylaluminium (TMA) and ammonia (NH 3 ) on Si (100) with a natural oxide was investigated using operando...</p><p>DOI: 10.1039/d6tc02829b</p>]]></description>
+</item>
+<item>
+<title>[TA] Janus ferroelastic ScS 2 M monolayers: switchable highly anisotropic, piezoelectric, optoelectronic, and photocatalytic properties</title>
+<link>https://doi.org/10.1039/d6ta06921e</link>
+<guid isPermaLink="false">10.1039/d6ta06921e</guid>
+<pubDate>Thu, 22 Oct 2026 17:30:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Gui-Yuan Luo, Xiao Jia, Wu-Ming Liu, Jia-He Lin, Tian Zhang</p><p>Ferroelastic switching enables nonvolatile reorientation of piezoelectric and optoelectronic anisotropies in Janus TP/HP ScS 2 M (M = P, As, Sb), offering opportunities for vector sensing, memory, and strain-tunable photocatalytic water splitting.</p><p>DOI: 10.1039/d6ta06921e</p>]]></description>
+</item>
+<item>
+<title>[CP] Sequential structural changes in the monomeric LOV histidine kinase EL346 revealed by transient infrared spectroscopy</title>
+<link>https://doi.org/10.1039/d6cp03453e</link>
+<guid isPermaLink="false">10.1039/d6cp03453e</guid>
+<pubDate>Thu, 22 Oct 2026 17:28:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Philipp Janke, Raoul E. Herzog, Philipp J. Heckmeier, Peter Hamm</p><p>Transient infrared spectroscopy of the LOV histidine kinase EL346 reveals microsecond-to-millisecond structure changes upon blue-light activation. Signal transduction proceeds through a central α-helical linker in a sequence of kinetic steps.</p><p>DOI: 10.1039/d6cp03453e</p>]]></description>
+</item>
+<item>
+<title>[TA] Proton Exchange Membranes for 120 ℃ Fuel Cell Operation: Polymer Architectures, Composite Strategies, and Interfacial Challenges</title>
+<link>https://doi.org/10.1039/d6ta06051j</link>
+<guid isPermaLink="false">10.1039/d6ta06051j</guid>
+<pubDate>Thu, 22 Oct 2026 17:23:21 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jia Guo, Chong Han, Zhisheng Ma, Haijian Dong, Penghui Zhai, Ruiqian Zhang, Zhehong Lu, Jiantong Li, Zhi Long, Tao Ding, Dongfeng Xue, Yanrong Ren</p><p>Operating proton exchange membrane fuel cells (PEMFCs) near 120 ℃ can simplify water and thermal management, improve heat rejection and impurity tolerance, and broaden the practical window for heavy-duty mobility...</p><p>DOI: 10.1039/d6ta06051j</p>]]></description>
+</item>
 <item>
 <title>[CC] Contents list</title>
 <link>https://doi.org/10.1039/d6cc90353c</link>
@@ -551,11 +600,11 @@
 <description><![CDATA[<p><b>Authors:</b> Zhirui LAI, Siyuan Yang, Lifeng Ding, Ming Liu</p><p>High-throughput computational screening has emerged as an effective approach for discovering functional porous materials, particularly metal organic frameworks (MOFs) and covalent organic frameworks (COFs). Experimental structural databases have also recently...</p><p>DOI: 10.1039/d6dd00394j</p>]]></description>
 </item>
 <item>
-<title>[DD] MetaPLI: Retrieval-Augmented In-Context Regression over Protein-Ligand Structures for Absolute Binding Affinity Prediction</title>
+<title>[DD] MetaPLI: retrieval-augmented in-context regression over protein–ligand structures for absolute binding affinity prediction</title>
 <link>https://doi.org/10.1039/d6dd00444j</link>
 <guid isPermaLink="false">10.1039/d6dd00444j</guid>
 <pubDate>Wed, 21 Oct 2026 13:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ziyun Qiao, Jintao Zhu, Yibo Li, Juan Xie, Jin Xie, Yu Li, Weilin Zhang, Jianfeng Pei, Luhua Lai</p><p>Deep learning-assisted target-based drug design is limited by scarce high-quality data for new biological targets and poor generalization to out-of-distribution chemotypes under realistic Design-Make-Test-Analyze conditions. We present MetaPLI, a structure-based...</p><p>DOI: 10.1039/d6dd00444j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ziyun Qiao, Jintao Zhu, Yibo Li, Juan Xie, Jin Xie, Yu Li, Weilin Zhang, Jianfeng Pei, Luhua Lai</p><p>MetaPLI predicts binding affinity from complex structures and a few activity measurements. New assay results update the retrieved context, guiding subsequent prediction and compound selection in a lead optimization loop without retraining.</p><p>DOI: 10.1039/d6dd00444j</p>]]></description>
 </item>
 <item>
 <title>[SC] Emerging Applications of Zintl Clusters in Small Molecule Activation and Catalysis</title>
@@ -852,11 +901,11 @@
 <description><![CDATA[<p><b>Authors:</b> Rui Gao, Jun Zhao, Zhongjun Hou, Hongjin Li, peng chen, Tianying Yan, Hongzhou Zhang, Lianqi Zhang</p><p>Lithium-sulfur batteries hold great promise for next-generation high-energy storage, yet their practical realization is hindered by the inherent trade-off between high capacity and long-term stability. While conventional hosts offer conductivity...</p><p>DOI: 10.1039/d6ta06260a</p>]]></description>
 </item>
 <item>
-<title>[DD] CyRxnOpt: Generalized Reaction Optimization Interface for Autonomous Laboratories and Benchmarking</title>
+<title>[DD] CyRxnOpt: generalized reaction optimization interface for autonomous laboratories and benchmarking</title>
 <link>https://doi.org/10.1039/d6dd00180g</link>
 <guid isPermaLink="false">10.1039/d6dd00180g</guid>
 <pubDate>Wed, 21 Oct 2026 06:03:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zachery Crandall, Dulitha P. Kulathunga, Lun An, Jie Zhang, Austin Thompson, Tyler B. Hall, Hailey M. Bates, Long Qi, Theresa L Windus</p><p>Numerous cutting-edge machine learning algorithms have been developed in recent years for efficiently optimizing chemical processes. While many are open-source, evaluating and applying them to chemical processes remains challenging due...</p><p>DOI: 10.1039/d6dd00180g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zachery Crandall, Dulitha P. Kulathunga, Lun An, Jie Zhang, Austin J. Thompson, Tyler B. Hall, Hailey M. Bates, Long Qi, Theresa L. Windus</p><p>CyRxnOpt provides autonomous laboratories and benchmarking frameworks a single interface to access diverse optimization algorithms. Its versatility is demonstrated through benchmarking on both analytical functions and experimental datasets.</p><p>DOI: 10.1039/d6dd00180g</p>]]></description>
 </item>
 <item>
 <title>[CC] Precise Fabrication of Supported Zero-valent Nano-noble Metals via Reductant-Preset Cascade In-Situ Reduction: Nitroaromatics Reduction as Probe Reaction</title>
@@ -1461,11 +1510,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jie Gu, Xueqi Ren, Bingyan Zhang, Xiang Hu, Shun Yang</p><p>Oxidative leaching enables selective lithium extraction from spent lithium iron phosphate (LiFePO₄, LFP). Nonetheless, high oxidant consumption in current methods still hinders the sustainable implementation of these selective leaching technologies....</p><p>DOI: 10.1039/d6nr03462d</p>]]></description>
 </item>
 <item>
-<title>[TA] Isothermal Space-Confined Green-Solvent Growth of MAPbBr3 Single Crystals for High-Performance Photodetectors</title>
+<title>[TA] Isothermal space-confined green-solvent growth of MAPbBr 3 single crystals for high-performance photodetectors</title>
 <link>https://doi.org/10.1039/d6ta07237b</link>
 <guid isPermaLink="false">10.1039/d6ta07237b</guid>
 <pubDate>Tue, 20 Oct 2026 06:04:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiamian Wang, Zihui Ran, Wenlong Zong, Jiarong Zhang, Tianwei Song, Caixia Xu, Haibin Sun, Long Xu</p><p>High-performance photodetectors require balancing sensitivity, speed, and cost, yet polycrystalline perovskites suffer from ion migration and high trap density, limiting photodetection performance. Here, we report an ionic-liquid assisted isothermal space-confined...</p><p>DOI: 10.1039/d6ta07237b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jiamian Wang, Zihui Ran, Wenlong Zong, Jiarong Zhang, Tianwei Song, Caixia Xu, Haibin Sun, Long Xu</p><p>In MAPbBr 3 single-crystal photodetectors grown via the space-confined method, a carrier-cycling mechanism assisted by intermediate-depth traps achieves a balance between high responsivity and fast response time.</p><p>DOI: 10.1039/d6ta07237b</p>]]></description>
 </item>
 <item>
 <title>[TC] Supramolecular scaffold-directed 2D assembly of photochromic molecules for solid-state light-induced zwitterion formation and metal accumulation</title>
@@ -2116,7 +2165,7 @@
 <link>https://doi.org/10.1039/d6cc06026a</link>
 <guid isPermaLink="false">10.1039/d6cc06026a</guid>
 <pubDate>Sat, 17 Oct 2026 02:03:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Runde Suo, Chuanfu Zhu, Datong Wu</p><p>Redox-active one-dimensional chiral covalent organic frameworks exhibiting controlled crystallinity were rationally designed and synthesized via a solvothermal approach. These frameworks demonstrated efficient application in the quantitative enantioselective recognition of various...</p><p>DOI: 10.1039/d6cc06026a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Runde Suo, Chuanfu Zhu, Datong Wu</p><p>A pair of redox-active 1D CCOFs were synthesized through imine-based condensation and effectively employed for the enantioselective recognition of various chiral carboxylic acids, regardless of whether they contain electroactive functional groups.</p><p>DOI: 10.1039/d6cc06026a</p>]]></description>
 </item>
 <item>
 <title>[TC] Investigation of broadband nonlinear optical absorption and refraction properties of 2D Mo 2 Ga 2 C and Mo 2 C nanosheets</title>
@@ -4079,18 +4128,18 @@
 <description><![CDATA[<p><b>Authors:</b> Jianing Chen, Yi Feng, Haolong Chang, Xinyao Qiao, Qingyue Cui, Rui Wu, Chunmei Huang, Rui Zhang, Pengfei Yin, Zhe Li, Hui Liu, Xiwen Du</p><p>Pulsed electrochemical oxidation–reduction treatment endows copper with a nanotwinned structure and induces tensile strain, thereby transforming copper from an inactive catalyst into an active catalyst for electrochemical hydrogen evolution.</p><p>DOI: 10.1039/d6cc06046c</p>]]></description>
 </item>
 <item>
-<title>[CC] Solid-state hydrides for CO 2 conversion: thermochemical and mechanochemical pathways</title>
-<link>https://doi.org/10.1039/d6cc05397a</link>
-<guid isPermaLink="false">10.1039/d6cc05397a</guid>
-<pubDate>Mon, 12 Oct 2026 14:03:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Guillermina Amica, María Laura Grasso, Julián Atilio Puszkiel Saldivar, Fabiana Cristina Gennari</p><p>This review highlights how solid-state hydrides revolutionize CO 2 capture and conversion into fuels and chemicals via direct hydrogen transfer and catalysis.</p><p>DOI: 10.1039/d6cc05397a</p>]]></description>
-</item>
-<item>
 <title>[CC] Spatial Heterogeneity and Preferential Edge Degradation in LiFePO4/Graphite Pouch Cells after Long-Term Cycling</title>
 <link>https://doi.org/10.1039/d6cc05399h</link>
 <guid isPermaLink="false">10.1039/d6cc05399h</guid>
 <pubDate>Mon, 12 Oct 2026 14:03:24 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Mengyuan Gao, Lai Chen, Jinyang Dong, Yi Jin, Rui Tang, Hong Liu, Jiaxin Gao, Zixuan Wang, Kangkang Bi, Yun Lu, Kang Yan, Ning Li, Yibiao Guan, Yuefeng Su</p><p>This study investigates in-plane aging heterogeneity in LiFePO4/graphite pouch cells after long-term cycling. By combining nondestructive ultrasonic imaging with multiscale failure analysis, pronounced edge-to-center degradation heterogeneity is revealed. A slight...</p><p>DOI: 10.1039/d6cc05399h</p>]]></description>
+</item>
+<item>
+<title>[CC] Solid-state hydrides for CO 2 conversion: thermochemical and mechanochemical pathways</title>
+<link>https://doi.org/10.1039/d6cc05397a</link>
+<guid isPermaLink="false">10.1039/d6cc05397a</guid>
+<pubDate>Mon, 12 Oct 2026 14:03:24 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Guillermina Amica, María Laura Grasso, Julián Atilio Puszkiel Saldivar, Fabiana Cristina Gennari</p><p>This review highlights how solid-state hydrides revolutionize CO 2 capture and conversion into fuels and chemicals via direct hydrogen transfer and catalysis.</p><p>DOI: 10.1039/d6cc05397a</p>]]></description>
 </item>
 <item>
 <title>[CC] A DNA–Organocatalyst Hybrid for Aqueous Asymmetric Aldol Reaction via Asymmetric Activation/Poisoning</title>
