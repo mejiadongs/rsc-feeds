@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 22 Oct 2026 21:43:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 05:01:43 +0000</lastBuildDate>
 <item>
 <title>Graph Neural Network-Assisted Expansion of an Experimental Structural Database of Organic Macrocycles and Cages</title>
 <link>https://doi.org/10.1039/d6dd00394j</link>
@@ -206,19 +206,5 @@
 <guid isPermaLink="false">10.1039/d6dd00502k</guid>
 <pubDate>Fri, 09 Oct 2026 00:24:48 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Hyuk Jun Yoo, Bernardus Rendy, Yuxing Fei, Andrea Giunto, Lauren N. Walters, Gerbrand Ceder</p><p>Autonomous materials discovery platforms have accelerated high-throughput synthesis, and here we advance this paradigm by achieving real-time tracking of complex solid-state reaction pathways.</p><p>DOI: 10.1039/d6dd00502k</p>]]></description>
-</item>
-<item>
-<title>Commit: BitBIRCH: efficient clustering of large molecular libraries</title>
-<link>https://doi.org/10.1039/d5dd00493d</link>
-<guid isPermaLink="false">10.1039/d5dd00493d</guid>
-<pubDate>Thu, 08 Oct 2026 09:41:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ignacio Pickering, Krisztina Zsigmond, Kenneth López Pérez, Miroslav Lžičař, Ramón Alain Miranda-Quintana</p><p>We present BitBIRCH-Lean, a fast, memory-efficient implementation of the BitBIRCH algorithm, designed for high-throughput clustering of huge molecular libraries (up to billions of drug-like molecules) on modern scientific workstations.</p><p>DOI: 10.1039/d5dd00493d</p>]]></description>
-</item>
-<item>
-<title>Automating MD simulations for proteins using large language models: NAMD-agent</title>
-<link>https://doi.org/10.1039/d6dd00535g</link>
-<guid isPermaLink="false">10.1039/d6dd00535g</guid>
-<pubDate>Thu, 08 Oct 2026 08:50:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Omid Barati Farimani, Achuth Chandrasekhar, Amir Barati Farimani</p><p>Molecular dynamics simulations are an essential tool in understanding protein structure, dynamics, and function at the atomic level.</p><p>DOI: 10.1039/d6dd00535g</p>]]></description>
 </item>
 </channel></rss>

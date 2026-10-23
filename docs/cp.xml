@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Thu, 22 Oct 2026 21:43:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 05:01:38 +0000</lastBuildDate>
+<item>
+<title>Resolving Heterogeneous Chromium Redox Kinetics in Complex Matrices via Physics-Informed XRF and Vis-NIR Spectrometry</title>
+<link>https://doi.org/10.1039/d6cp03199d</link>
+<guid isPermaLink="false">10.1039/d6cp03199d</guid>
+<pubDate>Fri, 23 Oct 2026 01:23:23 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Qingya Wang, Shuliang Wu, Liangliang Tao, Xiaoping Zou, Zhichun Wu, Yaozu Qin, Linfei Qui</p><p>In-situ characterization of chromium (Cr) redox kinetics in heterogeneous mine tailing is often limited by spectral overlaps and matrix-dependent signal interference. While machine learning provides a tool for spectral deconvolution,...</p><p>DOI: 10.1039/d6cp03199d</p>]]></description>
+</item>
 <item>
 <title>Sequential structural changes in the monomeric LOV histidine kinase EL346 revealed by transient infrared spectroscopy</title>
 <link>https://doi.org/10.1039/d6cp03453e</link>
@@ -801,61 +808,5 @@
 <guid isPermaLink="false">10.1039/d6cp03124b</guid>
 <pubDate>Fri, 09 Oct 2026 02:03:07 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Xiaobo Shi, Xin Zhang, Yaxuan Jiao, Bing Wang</p><p>A CrOCl monolayer is a two-dimensional ferromagnetic semiconductor successfully synthesized in recent years, but the origin and tunability of its magnetic anisotropy have not been systematically studied.</p><p>DOI: 10.1039/d6cp03124b</p>]]></description>
-</item>
-<item>
-<title>Energy dissipation pathways in molecular organic crystals under low-velocity impact</title>
-<link>https://doi.org/10.1039/d6cp02811j</link>
-<guid isPermaLink="false">10.1039/d6cp02811j</guid>
-<pubDate>Thu, 08 Oct 2026 14:55:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Francesco Delogu, Rakesh Kumar</p><p>In molecular organic crystals formed by relatively small molecules, the molecules are protected against intramolecular bond rupture caused by the direct action of mechanical forces generated at impact.</p><p>DOI: 10.1039/d6cp02811j</p>]]></description>
-</item>
-<item>
-<title>Spacer-controlled morphology and mixed ionic–electronic transport in 2D Ruddlesden–Popper perovskites</title>
-<link>https://doi.org/10.1039/d6cp03040h</link>
-<guid isPermaLink="false">10.1039/d6cp03040h</guid>
-<pubDate>Thu, 08 Oct 2026 11:03:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Fábio S. A. Abud, Adelino C. Handa, José Romão Franca, Jose Antonio Souza</p><p>Spacer engineering yields compact, photo-responsive 2D perovskite films that function as mixed ionic–electronic conductors.</p><p>DOI: 10.1039/d6cp03040h</p>]]></description>
-</item>
-<item>
-<title>Controlling COF stacking architecture with light at soft interfaces</title>
-<link>https://doi.org/10.1039/d6cp01945e</link>
-<guid isPermaLink="false">10.1039/d6cp01945e</guid>
-<pubDate>Thu, 08 Oct 2026 10:14:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Maximilian L. Hupfer, Arghyadeb Roy, Anna Elmanova, Andrea Dellith, Jan Dellith, Tanja Deckert-Gaudig, Volker Deckert, Todd J. Martínez, Daniel T. Gryko, Jonathan Plentz, Martin Presselt</p><p>Light biases porphyrin COF stacking at soft interfaces, shifting registry from slipped AA′ toward AB during growth.</p><p>DOI: 10.1039/d6cp01945e</p>]]></description>
-</item>
-<item>
-<title>Ab initio kinetics and thermochemistry of hydrogen atom abstraction from solketal by hydroxyl radicals</title>
-<link>https://doi.org/10.1039/d6cp01808d</link>
-<guid isPermaLink="false">10.1039/d6cp01808d</guid>
-<pubDate>Thu, 08 Oct 2026 08:23:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Solmaz Nadiri, Yuxiang Zhu, Chong-Wen Zhou</p><p>OH abstraction from solketal is strongly site- and temperature-dependent across six competing pathways. Calculated rate expressions and thermochemical data support detailed combustion modelling.</p><p>DOI: 10.1039/d6cp01808d</p>]]></description>
-</item>
-<item>
-<title>The role of molecular structure in the ˙OH initiated atmospheric oxidation of dibutyl ether</title>
-<link>https://doi.org/10.1039/d6cp01704e</link>
-<guid isPermaLink="false">10.1039/d6cp01704e</guid>
-<pubDate>Thu, 08 Oct 2026 08:08:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> A. Bhavadharini, L. Sandhiya, K. Senthilkumar</p><p>Dibutyl ether and its structural isomers are promising oxygenated fuels. Their OH-initiated atmospheric degradation was studied using DFT and VTST, revealing isomer-dependent H-abstraction pathways and rate constants.</p><p>DOI: 10.1039/d6cp01704e</p>]]></description>
-</item>
-<item>
-<title>An element-resolved coupled cluster atomization energy data set ranging across the periodic table</title>
-<link>https://doi.org/10.1039/d6cp02720b</link>
-<guid isPermaLink="false">10.1039/d6cp02720b</guid>
-<pubDate>Thu, 08 Oct 2026 08:03:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Robin Dahl, Marcel Müller, Vanessa Kniebes, Hans-Joachim Werner, Stefan Grimme, Andreas Hansen</p><p>We introduce the total atomization energy periodic table compass (TAE-PTComp), a collection of 67 atomization energy data sets, each specifically designed to probe various chemical environments of a characteristic element...</p><p>DOI: 10.1039/d6cp02720b</p>]]></description>
-</item>
-<item>
-<title>Review of the Design and Development of MXene-Based Electrocatalysts for Oxygen Reduction Reaction</title>
-<link>https://doi.org/10.1039/d6cp02187e</link>
-<guid isPermaLink="false">10.1039/d6cp02187e</guid>
-<pubDate>Thu, 08 Oct 2026 07:43:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zixuan Wu, Patrick H-L Sit</p><p>The oxygen reduction reaction (ORR) is a critical half-reaction in fuel cells, but its slow kinetics demand the use of efficient and durable electrocatalysts. MXenes, a novel class of two-dimensional...</p><p>DOI: 10.1039/d6cp02187e</p>]]></description>
-</item>
-<item>
-<title>Photoredox-catalyzed dehalogenation of aryl halides in an aerated supramolecular hydrogel enabled by triplet–triplet annihilation upconversion</title>
-<link>https://doi.org/10.1039/d6cp03415b</link>
-<guid isPermaLink="false">10.1039/d6cp03415b</guid>
-<pubDate>Thu, 08 Oct 2026 06:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Paola Domínguez Domínguez, Sebastián Bonardd, Jorge C. Herrera-Luna, M. Consuelo Jiménez, Raúl Pérez-Ruiz, David Díaz Díaz</p><p>TTA-UC-driven photoredox dehalogenation is achieved in a supramolecular hydrogel under aqueous, aerobic conditions without prior deoxygenation.</p><p>DOI: 10.1039/d6cp03415b</p>]]></description>
 </item>
 </channel></rss>
