@@ -3,7 +3,21 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sat, 24 Oct 2026 11:14:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 16:03:42 +0000</lastBuildDate>
+<item>
+<title>[MH] Manifold Learning and Clustering of Spatially Resolved High-Dimensional Raman Spectra for Surface Heterogeneity Analysis of Polymer Solid-State Electrolytes</title>
+<link>https://doi.org/10.1039/d6mh01835a</link>
+<guid isPermaLink="false">10.1039/d6mh01835a</guid>
+<pubDate>Sat, 24 Oct 2026 13:03:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Andre Adam, Wenda Wu, Chanho Kim, Xianglin Li, Nian Liu, Guang Yang</p><p>Here, we introduce a novel computational framework for analyzing spatially resolve spectral imaging on the basis of manifold learning technique coupled with a clustering algorithm. Numerous Raman spectra collected from...</p><p>DOI: 10.1039/d6mh01835a</p>]]></description>
+</item>
+<item>
+<title>[CC] Unconventional Pathways towards Ethanol and Methanol in CO2 Electroreduction on Unconventional hcp-Cu</title>
+<link>https://doi.org/10.1039/d6cc05161h</link>
+<guid isPermaLink="false">10.1039/d6cc05161h</guid>
+<pubDate>Sat, 24 Oct 2026 12:03:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Richard  Wei Boon Lim, Patrick  Terrence Yu, Mikhail V. Polynski, Yihai Dong, Haoyuan Feng, Zhan Hong Goh, Sergey Kozlov</p><p>A computational analysis of CO2RR yielding challenging alcohol products was performed for fcc and unconventional hcp-Cu nanoparticles. The methanol formation was found as exceptionally challenging due to excessive formate stability,...</p><p>DOI: 10.1039/d6cc05161h</p>]]></description>
+</item>
 <item>
 <title>[NR] Effect of KH550 modification on SiC dispersion, pore structure, and thermal insulation in PVA/colloidal silica composite aerogels</title>
 <link>https://doi.org/10.1039/d6nr03048c</link>
@@ -4296,18 +4310,18 @@
 <description><![CDATA[<p><b>Authors:</b> Xuan Shu, Yongbin Chen, Minjie Hou, Jiarui Liang, Xinyu Yan, Huiyang Bian, Chuanfu Liu</p><p>Structural design and nanoplastics (NPs) filtration performance of the composite membrane.</p><p>DOI: 10.1039/d6ta05928g</p>]]></description>
 </item>
 <item>
-<title>[CC] Solar interfacial evaporation for multi-objective energy and resource recovery: A review of hydrogen, lithium, and electricity cogeneration</title>
-<link>https://doi.org/10.1039/d6cc05825f</link>
-<guid isPermaLink="false">10.1039/d6cc05825f</guid>
-<pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Weiwei Zhang, Boli Nie, Wenjie Li, Na Wang, Wenshuo Cui, Ruixi Tao, Zongying Wu, Ke Lu, Hong Zhang</p><p>Solar interfacial evaporation (SIE) surpasses bulk heating in efficiency through localized photothermal conversion, positioning itself as a key technology for addressing water-energy challenges. However, current research remains confined to specific...</p><p>DOI: 10.1039/d6cc05825f</p>]]></description>
-</item>
-<item>
 <title>[CC] Enhancement in temperature sensitivity of Ni II /Ni I potential through coupling of ligand-exchange reactions</title>
 <link>https://doi.org/10.1039/d6cc05824h</link>
 <guid isPermaLink="false">10.1039/d6cc05824h</guid>
 <pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Sydney Prescott, Daniela Carmona-Pérez, Sameeha Sultana, William W. Brennessel, Agnes E. Thorarinsdottir</p><p>A nickel system with highly temperature-sensitive Ni II /Ni I potential was realized through coupling of ligand-exchange reactions to electron-transfer reactions of nickel.</p><p>DOI: 10.1039/d6cc05824h</p>]]></description>
+</item>
+<item>
+<title>[CC] Solar interfacial evaporation for multi-objective energy and resource recovery: A review of hydrogen, lithium, and electricity cogeneration</title>
+<link>https://doi.org/10.1039/d6cc05825f</link>
+<guid isPermaLink="false">10.1039/d6cc05825f</guid>
+<pubDate>Tue, 13 Oct 2026 01:03:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Weiwei Zhang, Boli Nie, Wenjie Li, Na Wang, Wenshuo Cui, Ruixi Tao, Zongying Wu, Ke Lu, Hong Zhang</p><p>Solar interfacial evaporation (SIE) surpasses bulk heating in efficiency through localized photothermal conversion, positioning itself as a key technology for addressing water-energy challenges. However, current research remains confined to specific...</p><p>DOI: 10.1039/d6cc05825f</p>]]></description>
 </item>
 <item>
 <title>[TA] Ultra-efficient rechargeable liquid and flexible zinc–air batteries enabled by cooperative functions of NiFe-MOF and single FeN 4 sites</title>
