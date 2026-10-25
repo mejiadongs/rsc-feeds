@@ -3,7 +3,14 @@
 <title>RSC - Journal of Materials Chemistry C</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/tc</link>
 <description>RSC - Journal of Materials Chemistry C (via Crossref)</description>
-<lastBuildDate>Sat, 24 Oct 2026 20:57:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 04:53:46 +0000</lastBuildDate>
+<item>
+<title>Machine-Learning-Driven Study of Multicomponent Halide Double Perovskite Alloys for Luminescent Materials</title>
+<link>https://doi.org/10.1039/d6tc01982j</link>
+<guid isPermaLink="false">10.1039/d6tc01982j</guid>
+<pubDate>Sun, 25 Oct 2026 01:04:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xiaoxi Zhang, Zehui Xiong, Wenjing Hu, Jiajun Jiang, Xiaotong Su, Lingrui Tong, Wenjie Wang, Geming Fu, Lin Peng, Tingting Shi, Xiaolin Liu, Jia Lin</p><p>Substitutional alloying breaks the parity-forbidden condition in optical transitions and increases entropy, making it an effective strategy for tuning the optoelectronic properties and stability of perovskites. However, the vast compositional...</p><p>DOI: 10.1039/d6tc01982j</p>]]></description>
+</item>
 <item>
 <title>Calcination-Free Persistent Luminescence in Solvothermally Synthesized Pr3+ -Doped Ba,CaTiO3 Nanoparticles</title>
 <link>https://doi.org/10.1039/d6tc02565j</link>
@@ -360,19 +367,5 @@
 <guid isPermaLink="false">10.1039/d6tc02939f</guid>
 <pubDate>Mon, 12 Oct 2026 08:46:12 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yonghan Wang, Guochang Li, Ruiqi Chen, Rui Liu, Senqiang Zhu</p><p>Extending C^N ligand π-conjugation red-shifts excited-state absorption and lengthens triplet lifetimes, enhancing optical limiting in PMMA films.</p><p>DOI: 10.1039/d6tc02939f</p>]]></description>
-</item>
-<item>
-<title>Centrifugal spray-drying enabled scalable synthesis of Air@rGO€Ni hollow microspheres for superior microwave absorption</title>
-<link>https://doi.org/10.1039/d6tc02931k</link>
-<guid isPermaLink="false">10.1039/d6tc02931k</guid>
-<pubDate>Sat, 10 Oct 2026 10:23:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dongwei Xu, Rui Wang, Chao Wang, Shuaifei Kong, Duo Chen, Xuhai Xiong, Biao Zhao, Xiaoqin Guo, Ping Chen</p><p>Magnetically functionalized graphene hollow microspheres (Air@rGO€Ni) with remarkable microwave absorption performance via scalable centrifugal spray drying combined with controllable in situ pyrolysis.</p><p>DOI: 10.1039/d6tc02931k</p>]]></description>
-</item>
-<item>
-<title>Interfacial Charge Regulation in Ce-Modified CdS-Sensitized TiO2 Nanorod Arrays for Self-Powered UV Photodetection</title>
-<link>https://doi.org/10.1039/d6tc02284g</link>
-<guid isPermaLink="false">10.1039/d6tc02284g</guid>
-<pubDate>Sat, 10 Oct 2026 01:04:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yun Li, Jianlong Zhang, Mingliang Ma, Siyu Lu, Na Wang</p><p>Self-powered photoelectrochemical ultraviolet photodetectors (EUVPDs) are promising for low-power UV monitoring, but TiO2 nanorod-array photoanodes suffer from insufficient light harvesting, sluggish charge transfer, and carrier recombination. Herein, vertically aligned TiO2...</p><p>DOI: 10.1039/d6tc02284g</p>]]></description>
 </item>
 </channel></rss>
