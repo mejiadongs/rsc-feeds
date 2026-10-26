@@ -3,13 +3,13 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 26 Oct 2026 04:57:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 13:16:58 +0000</lastBuildDate>
 <item>
-<title>Graph Neural Network-Assisted Expansion of an Experimental Structural Database of Organic Macrocycles and Cages</title>
+<title>Graph neural network-assisted expansion of an experimental structural database of organic macrocycles and cages</title>
 <link>https://doi.org/10.1039/d6dd00394j</link>
 <guid isPermaLink="false">10.1039/d6dd00394j</guid>
 <pubDate>Wed, 21 Oct 2026 13:23:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhirui LAI, Siyuan Yang, Lifeng Ding, Ming Liu</p><p>High-throughput computational screening has emerged as an effective approach for discovering functional porous materials, particularly metal organic frameworks (MOFs) and covalent organic frameworks (COFs). Experimental structural databases have also recently...</p><p>DOI: 10.1039/d6dd00394j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zhirui Lai, Siyuan Yang, Lifeng Ding, Ming Liu</p><p>We developed a GNN-based workflow to identify macrocycles and cages across the Cambridge Structural Database. This approach expanded the former Macrocycles and Cages Database to 26 860 entries, including 12 257 items missed by rule-based searches.</p><p>DOI: 10.1039/d6dd00394j</p>]]></description>
 </item>
 <item>
 <title>MetaPLI: retrieval-augmented in-context regression over protein–ligand structures for absolute binding affinity prediction</title>
@@ -33,11 +33,11 @@
 <description><![CDATA[<p><b>Authors:</b> Sergei V. Kalinin, Yu Liu, Ioannis Sgouralis, Charles Cao, Boris Slautin, Sheryl Sanchez, Kamyar Barakati, Hector Santos, Gerd Duscher, Mahshid Ahmadi</p><p>Automated laboratories increasingly combine automated and cloudified instruments, robotic operation, sample provenance and data infrastructures, and autonomous agents. Yet these capabilities primarily address execution, while planning remain limited to myopic...</p><p>DOI: 10.1039/d6dd00638h</p>]]></description>
 </item>
 <item>
-<title>An Autonomous Agentic Query Framework with MCP Tools and Modernized NIST SRD-46 for Accelerating Aqueous Speciation Analysis</title>
+<title>An autonomous agentic query framework with MCP tools and modernized NIST SRD-46 for accelerating aqueous speciation analysis</title>
 <link>https://doi.org/10.1039/d6dd00466k</link>
 <guid isPermaLink="false">10.1039/d6dd00466k</guid>
 <pubDate>Tue, 20 Oct 2026 14:52:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yunkai Sun, Adwaith Ravichandran, Hassan Harb, Rajeev Surendran Assary, Brian J Ingram, Zhenzhen Yang</p><p>Large language models (LLMs) could automate reasoning over structured scientific databases in chemistry and materials science, but this requires purpose-built agentic architectures, not simply better models. We present an agentic...</p><p>DOI: 10.1039/d6dd00466k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yunkai Sun, Adwaith Ravichandran, Hassan Harb, Rajeev S. Assary, Brian J. Ingram, Zhenzhen Yang</p><p>Snapshot of the core contents discussed in this work. Detailed benchmarking data and results are available in Zenodo codespace.</p><p>DOI: 10.1039/d6dd00466k</p>]]></description>
 </item>
 <item>
 <title>LM2KM: Feature extraction from pretrained protein and molecular language models combining with quantum mechanics (QM) features for KM predictions</title>
@@ -114,7 +114,7 @@
 <link>https://doi.org/10.1039/d6dd00426a</link>
 <guid isPermaLink="false">10.1039/d6dd00426a</guid>
 <pubDate>Thu, 15 Oct 2026 13:43:05 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jakob Dahl, Klavs F. Jensen</p><p>Machine learning (ML) is changing how chemists generate molecules with desirable properties, plan their synthesis, predict reaction outcomes, and enable systems to perform experiments without continuous human supervision. Building and...</p><p>DOI: 10.1039/d6dd00426a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jakob C. Dahl, Klavs F. Jensen</p><p>A perspective on how machine-learning practices, such as held-out tests, multi-model comparison, and uncertainty propagation, could make kinetic models for solution-phase catalysis more predictive.</p><p>DOI: 10.1039/d6dd00426a</p>]]></description>
 </item>
 <item>
 <title>Machine learning-driven discovery of novel photosensitizers for cancer therapy</title>
