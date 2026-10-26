@@ -3,7 +3,21 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Mon, 26 Oct 2026 13:16:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 22:45:19 +0000</lastBuildDate>
+<item>
+<title>Frequency-selective and ligand-architecture-dependent modulation of nicotinic acetylcholine receptor-ligand binding by terahertz waves</title>
+<link>https://doi.org/10.1039/d6cp03275c</link>
+<guid isPermaLink="false">10.1039/d6cp03275c</guid>
+<pubDate>Mon, 26 Oct 2026 15:03:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Pu-Xian Li, Zeng-Shuai Yan, Yu-Qiang Ma, Hong-Ming Ding</p><p>External oscillating electric fields can perturb biomolecular interactions, but how the response depends on excitation frequency and ligand architecture remains unclear. Here, all-atom molecular dynamics simulations were used to examine...</p><p>DOI: 10.1039/d6cp03275c</p>]]></description>
+</item>
+<item>
+<title>Composition-Dependent Melting Behavior and Configurational Entropy Evolution in 55-Atom Noble Metal Clusters: A Molecular Dynamics Study with Gupta Potential</title>
+<link>https://doi.org/10.1039/d6cp02742c</link>
+<guid isPermaLink="false">10.1039/d6cp02742c</guid>
+<pubDate>Mon, 26 Oct 2026 13:43:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ahat Yusuf, Haiming Duan, Xuan Chen, Fangping Ouyang, Zhenhua Wang</p><p>Melting behaviors of 55-atom pure and bimetallic noble-metal clusters XnY55−n(n = 0–55; X, Y = Cu, Ag, Au) are systematically investigated by molecular dynamics simulations using the Gupta many-body potential....</p><p>DOI: 10.1039/d6cp02742c</p>]]></description>
+</item>
 <item>
 <title>Sodium alginate-stabilized gold nanoparticles synthesized via solution plasma sputtering for turn-on fluorescent detection of mercury( ii ) ions in water</title>
 <link>https://doi.org/10.1039/d6cp02241c</link>
@@ -341,11 +355,11 @@
 <description><![CDATA[<p><b>Authors:</b> Ran Zhang, Yinchang Zhao, Junping Wang, Jun Ni, Zhenhong Dai</p><p>Layered Zintl compounds are attractive thermoelectric materials, while the joint regulation of high-order phonon anharmonicity and bipolar transport by rattling-like vibration and lone-pair electrons remains elusive. Herein, we systematically investigate...</p><p>DOI: 10.1039/d6cp02491b</p>]]></description>
 </item>
 <item>
-<title>Computational Screening of FeM@g-C 6 N 6 Diatomic Catalysts for Selective Electrocatalytic Nitrogen Reduction</title>
+<title>Computational screening of FeM@g-C 6 N 6 (M = selected 3d–5d transition metals) diatomic catalysts for selective electrocatalytic nitrogen reduction</title>
 <link>https://doi.org/10.1039/d6cp02439d</link>
 <guid isPermaLink="false">10.1039/d6cp02439d</guid>
 <pubDate>Tue, 20 Oct 2026 06:43:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rongjian Sa, Liangchun Wu, Linfeng Hu, Xintian Chen, Helong Wu, Weiguo Li, Zuju Ma, Yuan Hu</p><p>Electrocatalytic nitrogen reduction (NRR) offers a sustainable route for ammonia synthesis at room temperature, but is limited by sluggish N2 activation and the competing hydrogen evolution reaction (HER). We systematically...</p><p>DOI: 10.1039/d6cp02439d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Rongjian Sa, Liangchun Wu, Linfeng Hu, Xintian Chen, Helong Wu, Weiguo Li, Zuju Ma, Yuan Hu</p><p>Descriptor-guided screening of FeM@g-C 6 N 6 diatomic catalysts links selective nitrogen reduction to *NNH formation and metal-to-N 2 back-donation, while adjacent *OH co-adsorption reveals local microenvironment effects on N 2 activation.</p><p>DOI: 10.1039/d6cp02439d</p>]]></description>
 </item>
 <item>
 <title>Does the Si/Al-order in K-feldspars influence their hydration structure?</title>
@@ -481,11 +495,11 @@
 <description><![CDATA[<p><b>Authors:</b> Wei-Huang Wang, Zhi-Chao Zhang, Xin-Yu Shi, Yao Chen, Min-Ning Du, Wei-Ming Sun</p><p>Suzuki coupling reaction, a widely used reaction for C-C bond formation in pharmaceutical synthesis, still largely depends on the homogeneous Pd catalysts that suffer from high cost, difficult recovery, and...</p><p>DOI: 10.1039/d6cp03120j</p>]]></description>
 </item>
 <item>
-<title>Janus Ga 2 XTe (X = S, Se) monolayers under hydrostatic pressures: Stability and tunable optoelectronic properties</title>
+<title>Janus Ga 2 XTe (X = S, Se) monolayers under hydrostatic pressures: stability and tunable optoelectronic properties</title>
 <link>https://doi.org/10.1039/d6cp02746f</link>
 <guid isPermaLink="false">10.1039/d6cp02746f</guid>
 <pubDate>Thu, 15 Oct 2026 12:03:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Huabing Shu, Jiyuan Guo, Haiying Xu</p><p>Using DFT+G 0 W 0 +BSE methods, the stability and optoelectronic characteristics of Ga 2 XTe (X = S, Se) monolayers are examined systematically, with particular focus on the effects...</p><p>DOI: 10.1039/d6cp02746f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Huabing Shu, JiYuan Guo, Haiying Xu</p><p>Stability and tunable optoelectronic properties of Janus Ga 2 XTe (X = S, Se) monolayers under hydrostatic pressures.</p><p>DOI: 10.1039/d6cp02746f</p>]]></description>
 </item>
 <item>
 <title>Chemical control of hydrogen cage geometry and electron–phonon coupling in cubic NaXH 12 superconducting hydrides</title>
