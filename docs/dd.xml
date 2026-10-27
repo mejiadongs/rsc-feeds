@@ -3,7 +3,28 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 27 Oct 2026 12:24:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 22:23:12 +0000</lastBuildDate>
+<item>
+<title>MatGPT: Transformer-Based Generation of Inorganic Materials with Targeted Properties</title>
+<link>https://doi.org/10.1039/d6dd00311g</link>
+<guid isPermaLink="false">10.1039/d6dd00311g</guid>
+<pubDate>Tue, 27 Oct 2026 18:23:53 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Harsha  Satya Vardhan Vasamsetti, Pradeep Kumar Pal, Masahiro Ehara, U. Deva Priyakumar</p><p>Functional materials with tailored properties are essential for advancements in crucial areas such as energy storage and semiconductor technologies. Despite progress in generative models, producing materials for specific target properties...</p><p>DOI: 10.1039/d6dd00311g</p>]]></description>
+</item>
+<item>
+<title>IQARIS: An Atlas of Interacting Quantum Atoms across Chemical Space</title>
+<link>https://doi.org/10.1039/d6dd00676k</link>
+<guid isPermaLink="false">10.1039/d6dd00676k</guid>
+<pubDate>Tue, 27 Oct 2026 12:06:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Miguel Gallegos, José Manuel Guevara-Vela, Alexandre Tkatchenko</p><p>Chemical machine learning has achieved remarkable predictive performance by leveraging increasingly large quantum-chemical datasets. Yet, the local quantum in- formation underlying molecular behavior remains largely unexplored at scale, limiting the...</p><p>DOI: 10.1039/d6dd00676k</p>]]></description>
+</item>
+<item>
+<title>ApprOxiMate: A Lightweight Composition-Only Framework for Mixed Oxidation State Estimation</title>
+<link>https://doi.org/10.1039/d6dd00291a</link>
+<guid isPermaLink="false">10.1039/d6dd00291a</guid>
+<pubDate>Tue, 27 Oct 2026 11:43:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Fay Adel Abu Al Timen, Thomas Edward Ashton</p><p>Accurate assignment of oxidation states in multicomponent inorganic systems remains a significant challenge for high-throughput materials discovery, where existing methods are computationally intensive. We introduce ApprOxiMate, a deterministic, composition-only algorithm...</p><p>DOI: 10.1039/d6dd00291a</p>]]></description>
+</item>
 <item>
 <title>Thickness from Color by Inverting the Physics: Self-Calibrating Differentiable Thin-Film Optics for Region-Level 2D-Material Thickness Estimation</title>
 <link>https://doi.org/10.1039/d6dd00623j</link>
