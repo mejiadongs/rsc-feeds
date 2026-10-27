@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 26 Oct 2026 22:45:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:15:31 +0000</lastBuildDate>
+<item>
+<title>Thickness from Color by Inverting the Physics: Self-Calibrating Differentiable Thin-Film Optics for Region-Level 2D-Material Thickness Estimation</title>
+<link>https://doi.org/10.1039/d6dd00623j</link>
+<guid isPermaLink="false">10.1039/d6dd00623j</guid>
+<pubDate>Tue, 27 Oct 2026 04:03:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Benjamin Petrie</p><p>Estimating the thickness of exfoliated two-dimensional flakes from optical micrographs is foundational to 2D-material fabrication. Current learning systems use thin-film optics only offline, to generate training data for networks that...</p><p>DOI: 10.1039/d6dd00623j</p>]]></description>
+</item>
 <item>
 <title>Toward full-cycle automation of closed-loop molecular discovery – a case study on JAK targets</title>
 <link>https://doi.org/10.1039/d6dd00404k</link>
@@ -192,12 +199,5 @@
 <guid isPermaLink="false">10.1039/d6dd00605a</guid>
 <pubDate>Tue, 13 Oct 2026 10:30:20 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Pauliina Ahokas, Hannu Rummukainen, Olli Pakarinen, Antti Paajanen, Mikko Mäkelä</p><p>We combined chemical descriptors with atomistic simulations to construct a physics-informed latent representation that predicts the effects of molecular and polymeric additives on regenerated cellulose films.</p><p>DOI: 10.1039/d6dd00605a</p>]]></description>
-</item>
-<item>
-<title>Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates</title>
-<link>https://doi.org/10.1039/d6dd00278a</link>
-<guid isPermaLink="false">10.1039/d6dd00278a</guid>
-<pubDate>Mon, 12 Oct 2026 12:43:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zeyu Wang, Shuya Yamazaki, Martin  Hoffmann Petersen, Masato Ohnishi, Tomiya Yamamoto, Wei Nong, Jianghai Wang, Ruiming Zhu, Masatoshi Hanai, Michimasa Morita, Toyotaro Suzumura, Zekun Ren, Junichiro Shiomi, Kedar Hippalgaonkar</p><p>The appearance of generative models has opened vast chemical spaces in the design of functional materials. Although machine learning interatomic potentials (MLIPs) have substantially accelerated phonon calculations, high-fidelity prediction of...</p><p>DOI: 10.1039/d6dd00278a</p>]]></description>
 </item>
 </channel></rss>
