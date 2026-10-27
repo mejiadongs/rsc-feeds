@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 27 Oct 2026 05:15:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 12:24:28 +0000</lastBuildDate>
 <item>
 <title>Thickness from Color by Inverting the Physics: Self-Calibrating Differentiable Thin-Film Optics for Region-Level 2D-Material Thickness Estimation</title>
 <link>https://doi.org/10.1039/d6dd00623j</link>
@@ -40,11 +40,11 @@
 <description><![CDATA[<p><b>Authors:</b> Zachery Crandall, Dulitha P. Kulathunga, Lun An, Jie Zhang, Austin J. Thompson, Tyler B. Hall, Hailey M. Bates, Long Qi, Theresa L. Windus</p><p>CyRxnOpt provides autonomous laboratories and benchmarking frameworks a single interface to access diverse optimization algorithms. Its versatility is demonstrated through benchmarking on both analytical functions and experimental datasets.</p><p>DOI: 10.1039/d6dd00180g</p>]]></description>
 </item>
 <item>
-<title>Dual Digital Twins for Experimental Planning: From Imaging and Characterization to Self-Driving Laboratories and Manufacturing</title>
+<title>Dual digital twins for experimental planning: from imaging and characterization to self-driving laboratories and manufacturing</title>
 <link>https://doi.org/10.1039/d6dd00638h</link>
 <guid isPermaLink="false">10.1039/d6dd00638h</guid>
 <pubDate>Wed, 21 Oct 2026 01:43:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sergei V. Kalinin, Yu Liu, Ioannis Sgouralis, Charles Cao, Boris Slautin, Sheryl Sanchez, Kamyar Barakati, Hector Santos, Gerd Duscher, Mahshid Ahmadi</p><p>Automated laboratories increasingly combine automated and cloudified instruments, robotic operation, sample provenance and data infrastructures, and autonomous agents. Yet these capabilities primarily address execution, while planning remain limited to myopic...</p><p>DOI: 10.1039/d6dd00638h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Sergei V. Kalinin, Yu Liu, Boris Slautin, Sheryl L. Sanchez, Kamyar Barakati, Ioannis Sgouralis, Hector Santos-Villalobos, Gerd Duscher, Charles Cao, Mahshid Ahmadi</p><p>Coupled sample and instrument twins predict possible outcomes of candidate measurements. The planner uses these predictions to select the next measurement; observations update the twins.</p><p>DOI: 10.1039/d6dd00638h</p>]]></description>
 </item>
 <item>
 <title>An autonomous agentic query framework with MCP tools and modernized NIST SRD-46 for accelerating aqueous speciation analysis</title>
@@ -82,18 +82,18 @@
 <description><![CDATA[<p><b>Authors:</b> Junxiao Zhu, Shiyi Wang, Ziming Liang, Liang Qin, Chengxiao Wang, Deyun Ma, Lin Chen</p><p>Across a 621-record therapeutic deep eutectic solvent (THEDES) dataset, random CV (AUROC 0.954) overstated cross-source transfer (0.553). Frozen blind and prospective tests support applicability-aware local triage, not autonomous prediction.</p><p>DOI: 10.1039/d6dd00521g</p>]]></description>
 </item>
 <item>
-<title>SCOPE: A Chemically-Aware Workflow Automation Software for Molecules and Molecular Crystals</title>
+<title>SCOPE: a chemically-aware workflow automation software for molecules and molecular crystals</title>
 <link>https://doi.org/10.1039/d6dd00236f</link>
 <guid isPermaLink="false">10.1039/d6dd00236f</guid>
 <pubDate>Mon, 19 Oct 2026 07:02:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sergi Vela, Manel Serrano</p><p>Large-scale computational chemistry studies increasingly rely on automated and reproducible workflows to explore chemical space. In practice, these workflows typically involve multiple tools for chemical representation, quantum chemistry jobs execution,...</p><p>DOI: 10.1039/d6dd00236f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Sergi Vela, Manel Serrano</p><p>SCOPE connects chemically aware molecular representations with automated QC workflows, HPC execution, and data analysis, enabling reproducible end-to-end studies of molecules and molecular crystals.</p><p>DOI: 10.1039/d6dd00236f</p>]]></description>
 </item>
 <item>
-<title>UniDTI: A Multi-modal and Multi-scale Unified Framework for Predicting Drug-Target Interactions</title>
+<title>UniDTI: a multi-modal and multi-scale unified framework for predicting drug–target interactions</title>
 <link>https://doi.org/10.1039/d6dd00271d</link>
 <guid isPermaLink="false">10.1039/d6dd00271d</guid>
 <pubDate>Sat, 17 Oct 2026 02:43:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> huang shaoxin, Shuguang Yuan, Junlin Dong, Chenyang Wu, Han Lin, Shiyu Wang, Haijian Li, Yinzhen Chen, Horst Vogel, Huawei Zhang, Shuguang Yuan</p><p>Accurate identification of drugtarget interactions (DTIs) is central to modern drug discovery, yet remains challenging because molecular recognition is represented across heterogeneous chemical and biological scales. Here, we present UniDTI,...</p><p>DOI: 10.1039/d6dd00271d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shaoxin Huang, Junlin Dong, Chenyang Wu, Han Lin, Shiyu Wang, Haijian Li, Yinzhen Chen, Horst Vogel, Huawei Zhang, Shuguang Yuan</p><p>UniDTI integrates multi-modal, multi-scale drug and protein representations with an established bidirectional intention fusion operator and applies the resulting model to DTI prediction and MOR-focused virtual screening with experimental follow-up.</p><p>DOI: 10.1039/d6dd00271d</p>]]></description>
 </item>
 <item>
 <title>Bridging the Experimental Last Mile: Digitizing Laboratory Know-How for AI-Assisted Support with Safe Refusal</title>
@@ -110,18 +110,18 @@
 <description><![CDATA[<p><b>Authors:</b> Seenivasan Hariharan, Kareljan Schoutens, Sachin Kinge, Lucas Visscher</p><p>Multiscale modeling of complex chemical systems requires algorithms that operate coherently across electronic, atomistic, mesoscopic, and continuum scales. While quantum algorithms have been proposed for each regime, no systematic framework...</p><p>DOI: 10.1039/d6dd00494f</p>]]></description>
 </item>
 <item>
-<title>Sampling a Trillion-Sized GDB-20 Database of Drug-Like Molecules by Generative Artificial Intelligence</title>
+<title>Sampling a trillion-sized GDB-20 database of drug-like molecules by generative artificial intelligence</title>
 <link>https://doi.org/10.1039/d6dd00213g</link>
 <guid isPermaLink="false">10.1039/d6dd00213g</guid>
 <pubDate>Fri, 16 Oct 2026 14:03:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ye Buehler, Sacha Javor, Jean-Louis Reymond</p><p>Identifying new chemical entities for small molecule drug discovery requires the continued exploration of its vast chemical space, which has been speculated to contain 10 60 or more molecules. Here we...</p><p>DOI: 10.1039/d6dd00213g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ye Buehler, Sacha Javor, Jean-Louis Reymond</p><p>Generative AI sampled 12 billion GDB-20 molecules, revealing an sp 3 -rich, 3D-shaped and natural product-like chemical space with potential synthetic accessibility, drug-likeness, toxicity-filter compliance and broad bioactive scaffold coverage.</p><p>DOI: 10.1039/d6dd00213g</p>]]></description>
 </item>
 <item>
 <title>Biologically-driven generative chemistry: using biological data to guide de novo drug design</title>
 <link>https://doi.org/10.1039/d6dd00413j</link>
 <guid isPermaLink="false">10.1039/d6dd00413j</guid>
 <pubDate>Thu, 15 Oct 2026 20:03:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Philip J Harrison, Rocío Mercado</p><p>Drug discovery is a dauntingly difficult process due to the enormous space of possible molecules and the complexity of biological systems. Traditional in silico drug design methods have focused primarily...</p><p>DOI: 10.1039/d6dd00413j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Philip John Harrison, Rocío Mercado</p><p>Biological data can guide molecular generation beyond conventional chemistry-centred objectives. We review progress across four biological modalities and highlight the need for more rigorous validation.</p><p>DOI: 10.1039/d6dd00413j</p>]]></description>
 </item>
 <item>
 <title>How to harness machine learning to make chemical kinetic models more predictive</title>
