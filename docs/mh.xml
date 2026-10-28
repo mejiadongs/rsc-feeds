@@ -3,13 +3,13 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Wed, 28 Oct 2026 13:10:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 22:41:00 +0000</lastBuildDate>
 <item>
-<title>Accelerated Intraporous Blood Flow in Directional Sponges Amplifies Coagulation Factor Activation for Rapid Hemostasis</title>
-<link>https://doi.org/10.1039/d6mh01715k</link>
-<guid isPermaLink="false">10.1039/d6mh01715k</guid>
-<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Rapid blood uptake is essential for porous hemostats, yet fast intraporous transport can hinder clot stabilization by dispersing coagulation components before a stable clot forms. Here, we show that directional...</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
+<title>A Unified Analytical Model for Antiambipolar Transport in Organic Mixed Ionic–Electronic Transistors</title>
+<link>https://doi.org/10.1039/d6mh01595f</link>
+<guid isPermaLink="false">10.1039/d6mh01595f</guid>
+<pubDate>Wed, 28 Oct 2026 15:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Marcos Luginieski, Bruno Bassi Millan Torres, Bianca De Andrade Feitosa, Henrique Frulani de Paula Barbosa, Björn Lüssem, Gregório Couto Faria</p><p>Antiambipolar transport, characterized by a bell-shaped transfer response with gate bias, has emerged as a key functionality for unconventional electronic devices, including neuromorphic circuits, single-transistor artificial neurons, and signal processing...</p><p>DOI: 10.1039/d6mh01595f</p>]]></description>
 </item>
 <item>
 <title>Monolithic flexible all-SnSe thermoelectric generators with co-sintered p-n junctions for efficient low-grade energy harvesting</title>
@@ -17,6 +17,13 @@
 <guid isPermaLink="false">10.1039/d6mh02154a</guid>
 <pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yu Tian, Changzhen Zhang, Shibo Liu, Dongrui Liu, Sining Wang, Bingchao Qin, Li-Dong Zhao</p><p>Flexible thermoelectric generators (f-TEGs) are promising power supplies for wearable and self-powered systems, but their practical output is limited by insufficient temperature gradient, high interficial resistance, and poor conformal adaptability...</p><p>DOI: 10.1039/d6mh02154a</p>]]></description>
+</item>
+<item>
+<title>Accelerated Intraporous Blood Flow in Directional Sponges Amplifies Coagulation Factor Activation for Rapid Hemostasis</title>
+<link>https://doi.org/10.1039/d6mh01715k</link>
+<guid isPermaLink="false">10.1039/d6mh01715k</guid>
+<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Rapid blood uptake is essential for porous hemostats, yet fast intraporous transport can hinder clot stabilization by dispersing coagulation components before a stable clot forms. Here, we show that directional...</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
 </item>
 <item>
 <title>High-current-density solid-state lithium metal batteries through interface engineering</title>
@@ -54,11 +61,11 @@
 <description><![CDATA[<p><b>Authors:</b> Seokjun Han, Benjamin Bermudez, Won Tae Choi</p><p>While promising for grid-scale energy storage, redox flow batteries (RFBs) are hindered by ion-exchange membranes that are costly, impose conductivity-selectivity trade-offs, and undergo long-term degradation. Accordingly, replacing ion-exchange membranes with...</p><p>DOI: 10.1039/d6mh01712f</p>]]></description>
 </item>
 <item>
-<title>From Goldene to Noblene: exhaustive enumeration of the ordered Au-Ag-Cu monolayer alloys</title>
+<title>From goldene to noblene: exhaustive enumeration of the ordered Au–Ag–Cu monolayer alloys</title>
 <link>https://doi.org/10.1039/d6mh01971d</link>
 <guid isPermaLink="false">10.1039/d6mh01971d</guid>
 <pubDate>Fri, 23 Oct 2026 14:23:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Marcelo Lopes Pereira Júnior</p><p>Two-dimensional metals became a laboratory reality with the isolation of Goldene, a gold sheet one atom thick released by chemical exfoliation, which raises the question of what alloying can achieve...</p><p>DOI: 10.1039/d6mh01971d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Marcelo Lopes Pereira Junior</p><p>Two-dimensional metals became a laboratory reality with the isolation of goldene, a gold sheet one atom thick released by chemical exfoliation, which raises the question of what alloying can achieve on the same close-packed lattice.</p><p>DOI: 10.1039/d6mh01971d</p>]]></description>
 </item>
 <item>
 <title>Location Dependent Effect of Spectator Cations on the Hydrogen Evolution Reaction</title>
@@ -68,11 +75,11 @@
 <description><![CDATA[<p><b>Authors:</b> Mohamed Okasha, Saikiran Khamgaonkar, Vivek Maheshwari</p><p>Incorporating alkaline earth metal cations (Mg²⁺, Ca²⁺, Sr²⁺, Ba²⁺) onto the Stern layer of Au and Au-Pt chain-like nanoparticle catalysts via a self-assembly process has been found to modulate alkaline...</p><p>DOI: 10.1039/d6mh01436d</p>]]></description>
 </item>
 <item>
-<title>Multiscale Scattering Design of Bio-Based Phosphorylated Nanocellulose Aerogels for Flame-Retardant Radiative Cooling</title>
+<title>Multiscale scattering design of bio-based phosphorylated nanocellulose aerogels for flame-retardant radiative cooling</title>
 <link>https://doi.org/10.1039/d6mh01470d</link>
 <guid isPermaLink="false">10.1039/d6mh01470d</guid>
 <pubDate>Fri, 23 Oct 2026 11:23:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shaodan Xu, Chun He, Ting Lü, Mingjie Guo, Ying Pan, Lulu Xu, Kate Nguyen, Yan Zhang, Yao Yuan, Wei Wang</p><p>Developing passive radiative cooling materials that integrate fire safety, thermal insulation, and environmental durability remains challenging for bio-based porous systems. Herein, phosphorylated cellulose nanofiber (P-CNF)-based composite aerogels were fabricated by...</p><p>DOI: 10.1039/d6mh01470d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shaodan Xu, Chun He, Ting Lü, Mingjie Guo, Ying Pan, Lulu Xu, Kate Nguyen, Yan Zhang, Yao Yuan, Wei Wang</p><p>Optimizing radiative cooling aerogels requires understanding how thermal insulation and optical properties jointly influence the temperature of the space beneath them.</p><p>DOI: 10.1039/d6mh01470d</p>]]></description>
 </item>
 <item>
 <title>Valley-Selective Transport in 2D Ferrovalley Semiconductors via Interfacial Coupling and External Fields</title>
@@ -187,11 +194,11 @@
 <description><![CDATA[<p><b>Authors:</b> Qifeng Mu, Qingsong Zhang, Dong Shi, Zhihua Sha, Wei Cui, Shi Bai, Shaofei Zhang, Hiroaki Kobayashi, Masaki Matsui, Ruijie Zhu</p><p>A facile yet novel strategy is proposed for the fabrication of microphase separated ionogels with simultaneously high strength and toughness by embedding a flexible polymer network poly(methyl acrylate) (PMA, Hansen...</p><p>DOI: 10.1039/d6mh01563h</p>]]></description>
 </item>
 <item>
-<title>From Molecular Ferroelectrics to Intelligent Sensors: β-Phase Engineering of PVDF by a Discrete Ni-Tb Complex for Self-Powered AI-Assisted Human Activity Recognition</title>
+<title>From molecular ferroelectrics to intelligent sensors: β-phase engineering of PVDF by a discrete Ni–Tb complex for self-powered AI-assisted human activity recognition</title>
 <link>https://doi.org/10.1039/d6mh01650b</link>
 <guid isPermaLink="false">10.1039/d6mh01650b</guid>
 <pubDate>Thu, 15 Oct 2026 11:43:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shewli Pratihar, Bapan Jana, Mohammed  Hassan Shaikh, Niloy Mridha, Akash M Chandran, MEGHA GARG, Vishnu N  N Sasi, P Sravandas, Dipanti Borah, Prasanna Kumar S. Mural, Maheswaran Shanmugam</p><p>Growing environmental and ecological concerns associated with conventional energy-harvesting technologies have accelerated the search for sustainable alternatives such as piezoelectric nanogenerators (PENGs). A key challenge in this domain is the...</p><p>DOI: 10.1039/d6mh01650b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shewli Pratihar, Bapan Jana, Mohammed Hassan Shaikh, Niloy Mridha, Akash M. Chandran, Megha Garg, Vishnu N. Sasi, P. Sravandas, Dipanti Borah, Prasanna Kumar S. Mural, Maheswaran Shanmugam</p><p>NiTb promotes electroactive β-PVDF formation. The PENG delivers ∼15 V, 0.4 µA and 1.77 µW cm −2 . Integrated with AI–ML, it classifies 10 human activities in real time at ∼97% accuracy, with stable operation, capacitor charging and pressure sensing.</p><p>DOI: 10.1039/d6mh01650b</p>]]></description>
 </item>
 <item>
 <title>Materials Horizons Emerging Investigator Series: Dr Yunlan (Emma) Zhang, The University of Texas at Austin, United States</title>

@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 28 Oct 2026 13:10:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 22:41:09 +0000</lastBuildDate>
+<item>
+<title>PocketBagger: generalizable pocket druggability prediction via positive-unlabeled learning</title>
+<link>https://doi.org/10.1039/d6dd00147e</link>
+<guid isPermaLink="false">10.1039/d6dd00147e</guid>
+<pubDate>Wed, 28 Oct 2026 15:59:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Phillip W. Gingrich, Ansuman Biswas, Ioan L. Mica, Kevin M. Brammer, Zhigang Shu, David S. Maxwell, Kaitlyn P. Russell, Bissan Al-Lazikani</p><p>PocketBagger learns from experimentally observed drug-like ligand-binding pockets while treating all other pockets as unlabeled, enabling generalizable druggability prediction without unreliable negative labels.</p><p>DOI: 10.1039/d6dd00147e</p>]]></description>
+</item>
 <item>
 <title>Simulation of Radiation Chemistry by a One-Shot Hybrid Continuum / Monte Carlo Method</title>
 <link>https://doi.org/10.1039/d6dd00003g</link>
@@ -138,11 +145,11 @@
 <description><![CDATA[<p><b>Authors:</b> Shaoxin Huang, Junlin Dong, Chenyang Wu, Han Lin, Shiyu Wang, Haijian Li, Yinzhen Chen, Horst Vogel, Huawei Zhang, Shuguang Yuan</p><p>UniDTI integrates multi-modal, multi-scale drug and protein representations with an established bidirectional intention fusion operator and applies the resulting model to DTI prediction and MOR-focused virtual screening with experimental follow-up.</p><p>DOI: 10.1039/d6dd00271d</p>]]></description>
 </item>
 <item>
-<title>Bridging the Experimental Last Mile: Digitizing Laboratory Know-How for AI-Assisted Support with Safe Refusal</title>
+<title>Bridging the experimental last mile: digitizing laboratory know-how for AI-assisted support with safe refusal</title>
 <link>https://doi.org/10.1039/d6dd00505e</link>
 <guid isPermaLink="false">10.1039/d6dd00505e</guid>
 <pubDate>Fri, 16 Oct 2026 23:23:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Akira Miura, Momoka Demura, Tetsuya Asai, Yuki Sasahara, Yuji Masubuchi, Chikahiko Mitsui</p><p>While advances in materials informatics have accelerated the development of Self-Driving Laboratories (SDLs), human-led experiments remain standard in many educational and exploratory research settings. We refer to the gap between...</p><p>DOI: 10.1039/d6dd00505e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Akira Miura, Yuki Sasahara, Momoka Demura, Yuji Masubuchi, Tetsuya Asai, Chikahiko Mitsui</p><p>First-person lab video, structured by a multimodal model, becomes an instructor-verified manual. AI then supports students with grounded answers or safe refusal.</p><p>DOI: 10.1039/d6dd00505e</p>]]></description>
 </item>
 <item>
 <title>Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems</title>
