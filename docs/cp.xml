@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Tue, 27 Oct 2026 22:23:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 05:53:48 +0000</lastBuildDate>
+<item>
+<title>Orbital Entanglement Based on the Adaptive Sampling Configuration Interaction (ASCI) Method</title>
+<link>https://doi.org/10.1039/d6cp03052a</link>
+<guid isPermaLink="false">10.1039/d6cp03052a</guid>
+<pubDate>Wed, 28 Oct 2026 01:05:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kyeong Su Min, Jae Woo Park</p><p>Orbital entanglement is a promising diagnostic tool for quantifying electron-correlation effects in the orbital basis. We have implemented entanglement calculations using the adaptive sampling configuration interaction (ASCI) method, deterministic selected...</p><p>DOI: 10.1039/d6cp03052a</p>]]></description>
+</item>
 <item>
 <title>Halogen engineering of 4-aminoantipyrine amide derivatives for the corrosion protection of mild steel: experimental and DFT insights</title>
 <link>https://doi.org/10.1039/d6cp03224a</link>
@@ -717,110 +724,5 @@
 <guid isPermaLink="false">10.1039/d6cp02019d</guid>
 <pubDate>Wed, 14 Oct 2026 06:03:42 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Gourav Shukla, Melania Kozdra, Laura Hoelzer, Diddo Diddens, Andreas Heuer</p><p>Hybrid polymer–ceramic electrolytes are promising candidates for solid-state lithium-ion batteries, yet ion transport at polymer–ceramic interfaces often limits performance. Atomistic molecular dynamics simulations at elevated temperatures are used to investigate...</p><p>DOI: 10.1039/d6cp02019d</p>]]></description>
-</item>
-<item>
-<title>BHSMS: a new software for searching the most stable structure of clusters based on the improved basin hopping algorithm</title>
-<link>https://doi.org/10.1039/d6cp00638h</link>
-<guid isPermaLink="false">10.1039/d6cp00638h</guid>
-<pubDate>Tue, 13 Oct 2026 14:30:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yang-Yang Zhang, Yu Cheng, Shu-Wen Zhang, Xin-Yu Dai</p><p>In this work, we present BHSMS, a novel package developed for searching the most stable structure of clusters based on the improved basin hopping algorithm. A detailed overview of the BHSMS codes and applications are presented in this article.</p><p>DOI: 10.1039/d6cp00638h</p>]]></description>
-</item>
-<item>
-<title>Correction: Simulation of protein structure using a coarse-grained potential incorporating the backbone dihedral interactions</title>
-<link>https://doi.org/10.1039/d6cp90190e</link>
-<guid isPermaLink="false">10.1039/d6cp90190e</guid>
-<pubDate>Tue, 13 Oct 2026 11:40:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kanika Kole, Abhik Ghosh Moulick, Jaydeb Chakrabarti</p><p>Correction for ‘Simulation of protein structure using a coarse-grained potential incorporating the backbone dihedral interactions’ by Kanika Kole et al. , Phys. Chem. Chem. Phys. , 2026, 28 , 23541–23554, https://doi.org/10.1039/d6cp02188c.</p><p>DOI: 10.1039/d6cp90190e</p>]]></description>
-</item>
-<item>
-<title>Tuning antibiotic adsorption via aromatic functionalization of chitosan monomers: a computational study</title>
-<link>https://doi.org/10.1039/d6cp02537d</link>
-<guid isPermaLink="false">10.1039/d6cp02537d</guid>
-<pubDate>Tue, 13 Oct 2026 10:46:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Joana F. M. Sousa, Paulo E. Abreu, Artur J. M. Valente, Jorge M. C. Marques</p><p>Aromaticity and hydrophobicity of chitosan derivatives appear to enhance the antibiotic adsorption through electrostatic, van der Waals and π–π stacking interactions, with varying performance depending on the specific drug and pH conditions.</p><p>DOI: 10.1039/d6cp02537d</p>]]></description>
-</item>
-<item>
-<title>Hidden excimer formation in the gas-phase photodynamics of a BN-doped phenanthrene</title>
-<link>https://doi.org/10.1039/d6cp02868c</link>
-<guid isPermaLink="false">10.1039/d6cp02868c</guid>
-<pubDate>Tue, 13 Oct 2026 10:29:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jonas Fackelmayer, Michael Bühler, Michael Müller, Holger Helten, Ingo Fischer, Merle I. S. Röhr</p><p>A BN-doped phenanthrene exhibits long-lived monomer excitation alongside a hidden excimer-forming dimer pathway. Dissociative ionization allows the dimer dynamics to be observed through monomer fragments.</p><p>DOI: 10.1039/d6cp02868c</p>]]></description>
-</item>
-<item>
-<title>Synthesis of Hybrid BCN@Fe3O₄ Nanocomposites by Ultrasonication Technique as a Highly Efficient Photocatalysts for Solar Light-Driven CO₂ Conversion into Producing Sustainable Solar Chemical</title>
-<link>https://doi.org/10.1039/d6cp02372j</link>
-<guid isPermaLink="false">10.1039/d6cp02372j</guid>
-<pubDate>Tue, 13 Oct 2026 10:28:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Pragya Singh, Rajesh K. Yadav, Chinna Bathula, Shaifali Mishra, Kanchan Sharma, Surendra K. Jaiswal, Anurag Rai, Jin-Ook Baeg</p><p>In this work, we report a simple, scalable, reproducible, and template-free in situ growth strategy assisted by ultrasonication for the fabrication of boron-doped graphitic carbon nitride–magnetic iron oxide (BCN@Fe₃O₄) hybrid...</p><p>DOI: 10.1039/d6cp02372j</p>]]></description>
-</item>
-<item>
-<title>Doping polaron analysis</title>
-<link>https://doi.org/10.1039/d5cp05034k</link>
-<guid isPermaLink="false">10.1039/d5cp05034k</guid>
-<pubDate>Tue, 13 Oct 2026 09:12:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> M. Rasteh, S. M. Azami</p><p>Doping polaron analysis is introduced to analyze charge reorganization driven by the doping process.</p><p>DOI: 10.1039/d5cp05034k</p>]]></description>
-</item>
-<item>
-<title>Preparing Small Gaussian Basis for Highly Accurate Ab Initio Description of Lithium Rydberg States</title>
-<link>https://doi.org/10.1039/d6cp03005j</link>
-<guid isPermaLink="false">10.1039/d6cp03005j</guid>
-<pubDate>Tue, 13 Oct 2026 09:03:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jan Šmydke, Benjamín Andreides, Simona Dubcová</p><p>A new small and highly accurate Gaussian basis set has been developed for the ab initio description of 2 Li Rydberg excited states up to n = 7 and S, P,...</p><p>DOI: 10.1039/d6cp03005j</p>]]></description>
-</item>
-<item>
-<title>Carbon nanotube-induced magnetic shielding effects on 129 Xe NMR from equivariant neural networks</title>
-<link>https://doi.org/10.1039/d6cp03538h</link>
-<guid isPermaLink="false">10.1039/d6cp03538h</guid>
-<pubDate>Tue, 13 Oct 2026 07:23:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ouail Zakary, Tiia Jacklin, Perttu Lantto</p><p>Equivariant neural networks for molecular dynamics and NMR reveal a nanotube-induced negative 129 Xe chemical shift for xenon in carbon nanotubes, varying non-monotonically with nanotube diameter and depending on temperature and Xe loading.</p><p>DOI: 10.1039/d6cp03538h</p>]]></description>
-</item>
-<item>
-<title>Integrative computational simulations uncover the conformational activation pathway of AKT1 kinase</title>
-<link>https://doi.org/10.1039/d6cp02600a</link>
-<guid isPermaLink="false">10.1039/d6cp02600a</guid>
-<pubDate>Tue, 13 Oct 2026 07:03:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chang Liu, Yichi Zhang, Yanjun Xiang, Shengqiang Chen, Chi Zhang, Zongtao Chai, Dousheng Bai</p><p>Using integrative computational approaches, we characterize the hierarchical conformational transitions enabling AKT1 activation at atomic resolution.</p><p>DOI: 10.1039/d6cp02600a</p>]]></description>
-</item>
-<item>
-<title>Eco-friendly cryolite-type Cs 3 CeI 6 halide: DFT+ U insights into optoelectronic properties and defect-modulated deep-blue emission</title>
-<link>https://doi.org/10.1039/d6cp02849g</link>
-<guid isPermaLink="false">10.1039/d6cp02849g</guid>
-<pubDate>Tue, 13 Oct 2026 06:04:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yuan Yin, Xiaoyao Shen, Yingying Cao, Hua Yang, Yu Wang, Zhongti Sun</p><p>Eco-friendly rare-earth halide luminescent materials have emerged as promising deep-blue emitters, yet intrinsic point defects induce severe quenching, limiting their photoluminescence quantum yield (PLQY).</p><p>DOI: 10.1039/d6cp02849g</p>]]></description>
-</item>
-<item>
-<title>Interplay between exchange kinetics, molecular dynamics and polarisation transfer in SABRE hyperpolarisation</title>
-<link>https://doi.org/10.1039/d6cp03264h</link>
-<guid isPermaLink="false">10.1039/d6cp03264h</guid>
-<pubDate>Tue, 13 Oct 2026 06:04:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nazmul Hossain, Joni Eronen, Vladimir V. Zhivonitko, Juha Vaara, Anu M. Kantola</p><p>Optimising SABRE hyperpolarisation by integrating NMR experiments with quantum chemistry and spin dynamics modelling. Quantifying the impact of exchange dynamics and T 1 relaxation on SABRE polarisation efficiency.</p><p>DOI: 10.1039/d6cp03264h</p>]]></description>
-</item>
-<item>
-<title>Revealing time-regime-dependent defect formation pathways in perovskite single crystals through physics-informed machine learning</title>
-<link>https://doi.org/10.1039/d6cp03410a</link>
-<guid isPermaLink="false">10.1039/d6cp03410a</guid>
-<pubDate>Tue, 13 Oct 2026 06:03:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zimo Liang, Wenlong Dong, Yucheng Yang, Wenzhe Li, Jiandong Fan</p><p>The mechanisms governing defect formation in perovskite single-crystal growth remain elusive due to the complex interplay of kinetic, thermal, and compositional factors, which vary across different growth methods and durations.</p><p>DOI: 10.1039/d6cp03410a</p>]]></description>
-</item>
-<item>
-<title>Resonance energies from complex absorbing potentials: a complex basis function approach in the η → 0 + limit</title>
-<link>https://doi.org/10.1039/d6cp02831d</link>
-<guid isPermaLink="false">10.1039/d6cp02831d</guid>
-<pubDate>Tue, 13 Oct 2026 06:03:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Deepak Kumar, Hrishikesh Rajbongshi, Ashish Kumar Gupta</p><p>The eigenfunctions obtained at high CAP strength parameter ( η ) are used as complex basis functions, and resonance energies are calculated in the limit of η → 0 + .</p><p>DOI: 10.1039/d6cp02831d</p>]]></description>
-</item>
-<item>
-<title>Precise separation and photoluminescence enhancement of hydrophilic ultrasmall CdTe nanoparticles</title>
-<link>https://doi.org/10.1039/d6cp03037h</link>
-<guid isPermaLink="false">10.1039/d6cp03037h</guid>
-<pubDate>Tue, 13 Oct 2026 02:43:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ryo Takahata, Masaki Saruyama, Seiji Yamazoe, Toshiharu Teranishi</p><p>PAGE-separated hydrophilic ultrasmall CdTe nanoparticles reveal optical characteristics bridging nanoclusters and nanoparticles, with size-dependent photoluminescence behaviour.</p><p>DOI: 10.1039/d6cp03037h</p>]]></description>
-</item>
-<item>
-<title>Thermal rectification by nanoscale design: overcoming bulk limitations</title>
-<link>https://doi.org/10.1039/d6cp02578a</link>
-<guid isPermaLink="false">10.1039/d6cp02578a</guid>
-<pubDate>Tue, 13 Oct 2026 02:23:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wei-chao Wang, Zi-qi Lin, Shuo-Wang Yang, Jin-Cheng Zheng, Hui-Qiong Wang</p><p>Boosting thermal rectification from bulk (∼1.044) to nanoscale Si–diamond junctions (1.913) via phonon–boundary scattering.</p><p>DOI: 10.1039/d6cp02578a</p>]]></description>
 </item>
 </channel></rss>
