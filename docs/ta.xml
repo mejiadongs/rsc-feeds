@@ -3,7 +3,49 @@
 <title>RSC - Journal of Materials Chemistry A</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/ta</link>
 <description>RSC - Journal of Materials Chemistry A (via Crossref)</description>
-<lastBuildDate>Thu, 29 Oct 2026 05:58:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 13:17:01 +0000</lastBuildDate>
+<item>
+<title>A mechanism-sensitive evaluation framework for perovskite electrodes: from physical descriptors to exsolution thermodynamic performance index</title>
+<link>https://doi.org/10.1039/d6ta04422k</link>
+<guid isPermaLink="false">10.1039/d6ta04422k</guid>
+<pubDate>Thu, 29 Oct 2026 11:14:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiachen Ji, Shuodong Mi, Cheng Bao</p><p>Machine learning and DFT reveal distinct exsolution pathways and enable rapid screening of perovskite electrodes.</p><p>DOI: 10.1039/d6ta04422k</p>]]></description>
+</item>
+<item>
+<title>Balancing Proton Transport and Ion Selectivity through Imidazolium-Mediated Ionic Microenvironment Engineering in Fluorinated Polybenzimidazole Membranes</title>
+<link>https://doi.org/10.1039/d6ta07566e</link>
+<guid isPermaLink="false">10.1039/d6ta07566e</guid>
+<pubDate>Thu, 29 Oct 2026 10:03:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Min Zhou, Yaxin Cai, Yangyang Jia, Longlong Sun, Benfa Chu, Chunli Song, Zhongbiao Zhang, Wei Qian, Lifang Hu</p><p>Polymer electrolyte membranes for energy conversion and storage face a persistent trade-off between efficient proton transport, ion selectivity, and membrane stability. Here, we develop an ionic microenvironment regulation strategy by...</p><p>DOI: 10.1039/d6ta07566e</p>]]></description>
+</item>
+<item>
+<title>Surface redox regulation of commercial NiO x by aqueous ammonia for durable inverted perovskite solar cells</title>
+<link>https://doi.org/10.1039/d6ta05855h</link>
+<guid isPermaLink="false">10.1039/d6ta05855h</guid>
+<pubDate>Thu, 29 Oct 2026 09:56:30 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yu Jiang, Kuina Yuan, Xisheng Zhang, Fanyue Kong, Jiawei Wang, Jiaqi Du, Yongqi Yin, Yusuke Yamauchi</p><p>Aqueous-ammonia pretreatment creates a more Ni 2+ -rich surface on commercial NiO x . The resulting inverted perovskite solar cells show improved efficiency and thermal and ambient storage stability.</p><p>DOI: 10.1039/d6ta05855h</p>]]></description>
+</item>
+<item>
+<title>Intercalation of Iron Sulfide into Graphite for Highperformance Sodium Storage</title>
+<link>https://doi.org/10.1039/d6ta04988e</link>
+<guid isPermaLink="false">10.1039/d6ta04988e</guid>
+<pubDate>Thu, 29 Oct 2026 08:43:53 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Bo Yin, Boshi Cheng, Haiqiang Ma, Hongqiang Xu, Jie Sun, Yongbo Kuang, Haiyong He</p><p>Graphite is rarely used as the anode of sodium ion batteries (SIBs) due to its low sodium ion storage capacity, while graphene oxide (GO), a derivative of graphite, has been...</p><p>DOI: 10.1039/d6ta04988e</p>]]></description>
+</item>
+<item>
+<title>Bimetallic Copper–Cobalt Phosphide Nanoflowers on Ti3C2Tx MXene sheets for high-energy-density aqueous hybrid supercapacitors: Integrating DFT calculations with experimental validation</title>
+<link>https://doi.org/10.1039/d6ta05184g</link>
+<guid isPermaLink="false">10.1039/d6ta05184g</guid>
+<pubDate>Thu, 29 Oct 2026 07:23:36 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Soude Karimi, Sadegh Karimi, Maryam Farrokhnia, Mohammad Javad Dianat, Esmail Tammari</p><p>Aqueous hybrid supercapacitors (AHSCs) are widely recognized as promising energy storage systems owing to their high power density, rapid rate capability, and long-term cycling durability. Despite these advantages, their relatively...</p><p>DOI: 10.1039/d6ta05184g</p>]]></description>
+</item>
+<item>
+<title>Structure-Dynamics Correlations in Ionic Liquid-Based Solid Electrolytes Explored by NMR Spectroscopy</title>
+<link>https://doi.org/10.1039/d6ta07722f</link>
+<guid isPermaLink="false">10.1039/d6ta07722f</guid>
+<pubDate>Thu, 29 Oct 2026 07:03:49 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nicole Abdou, Maria Enrica Di Pietro, Franca Castiglione, Lars Evenäs, Andrea Mele, Anna Martinelli</p><p>Ionic liquids incorporated into solid polymer matrices offer a promising approach for developing mechanically stable electrolytes while maintaining favorable ion-transport properties. Here, ion dynamics and molecular organization are investigated in...</p><p>DOI: 10.1039/d6ta07722f</p>]]></description>
+</item>
 <item>
 <title>Bias-Induced Self-Reconstruction of Metal-Imidazole-Vanadate Frameworks for Enhanced Alkaline Hydrogen Evolution</title>
 <link>https://doi.org/10.1039/d6ta07416b</link>
@@ -817,11 +859,11 @@
 <description><![CDATA[<p><b>Authors:</b> Kai ang Su, Xie Fei, Haocun Guan, Xiaoqian Su, Saihua Jiang, Congling Shi, Xiaodong Qian</p><p>Solid-state sodium metal batteries with high energy density are promising candidates for next-generation energy storage systems. Their bottleneck lies in the solid electrolytes, which must ensure flawless solid-solid contact and...</p><p>DOI: 10.1039/d6ta06891j</p>]]></description>
 </item>
 <item>
-<title>Defect-Free Low-Fluorine MXenes (Nb2CTx/V2CTx) via Time-Optimized HF Etching: Achieving Superior Conductivity and Ultrahigh Capacitance for Supercapacitors</title>
+<title>Defect-free low-fluorine MXenes (Nb 2 CT x /V 2 CT x ) via time-optimized HF etching: achieving superior conductivity and ultrahigh capacitance for supercapacitors</title>
 <link>https://doi.org/10.1039/d6ta05373d</link>
 <guid isPermaLink="false">10.1039/d6ta05373d</guid>
 <pubDate>Mon, 19 Oct 2026 14:44:20 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bin Deng, Mingyue Gao, Donglong Bai, Ao Huang, Yun Zhao, Chuyi Xie, Jianguang Xu, Chi Chen, W Yao</p><p>MXenes hold exceptional promise for supercapacitors owing to their high conductivity and 2D layered structure. However, the unavoidable fluorine terminations and structural defects in MXenes synthesized via conventional hydrofluoric acid...</p><p>DOI: 10.1039/d6ta05373d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Bin Deng, Mingyue Gao, Donglong Bai, Ao Huang, Yun Zhao, Chuyi Xie, Jianguang Xu, Chi Chen, Wei Yao</p><p>A time-optimized HF etching strategy yields few-layer MXene nanosheets with suppressed defects and minimized fluorine. The Nb 2 CT x exhibits ultrahigh conductivity (5530 S m −1 ) and volumetric capacitance (1989.57 F cm −3 at 2 mV s −1 ).</p><p>DOI: 10.1039/d6ta05373d</p>]]></description>
 </item>
 <item>
 <title>Bottom-up carbon material synthesis from Ni-porphyrin with thermally polymerizable functional groups: influence of carbon supports and application as CO 2 RR electrocatalysts</title>
