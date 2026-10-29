@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 28 Oct 2026 22:41:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:58:19 +0000</lastBuildDate>
 <item>
 <title>PocketBagger: generalizable pocket druggability prediction via positive-unlabeled learning</title>
 <link>https://doi.org/10.1039/d6dd00147e</link>
@@ -185,33 +185,5 @@
 <guid isPermaLink="false">10.1039/d6dd00439c</guid>
 <pubDate>Thu, 15 Oct 2026 11:43:18 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Giulia Giugliano, Rhyan Barrett, Edoardo Jun Mattioli, Alessia Marconi, Matteo Di Giosia, Francesco Zerbetto, Giulia Greco, Eleonora Turrini, Matteo Calvaresi, Julia Westermayr</p><p>X-MACE predicts key excited-state properties with near quantum-mechanical accuracy at low computational cost, enabling rapid screening of molecular libraries. Its best candidate was validated in vitro for ROS generation and enhanced phototoxicity.</p><p>DOI: 10.1039/d6dd00439c</p>]]></description>
-</item>
-<item>
-<title>Back cover</title>
-<link>https://doi.org/10.1039/d6dd90053d</link>
-<guid isPermaLink="false">10.1039/d6dd90053d</guid>
-<pubDate>Wed, 14 Oct 2026 18:04:27 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90053d</p>]]></description>
-</item>
-<item>
-<title>Front cover</title>
-<link>https://doi.org/10.1039/d6dd90050j</link>
-<guid isPermaLink="false">10.1039/d6dd90050j</guid>
-<pubDate>Wed, 14 Oct 2026 18:02:46 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90050j</p>]]></description>
-</item>
-<item>
-<title>Inside front cover</title>
-<link>https://doi.org/10.1039/d6dd90051h</link>
-<guid isPermaLink="false">10.1039/d6dd90051h</guid>
-<pubDate>Wed, 14 Oct 2026 18:02:24 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90051h</p>]]></description>
-</item>
-<item>
-<title>Contents list</title>
-<link>https://doi.org/10.1039/d6dd90052f</link>
-<guid isPermaLink="false">10.1039/d6dd90052f</guid>
-<pubDate>Wed, 14 Oct 2026 18:02:02 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90052f</p>]]></description>
 </item>
 </channel></rss>
