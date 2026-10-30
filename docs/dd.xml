@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 30 Oct 2026 13:09:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:28:03 +0000</lastBuildDate>
+<item>
+<title>Prediction of aluminium distributions in zeolites using basin-hopping and machine learning potentials</title>
+<link>https://doi.org/10.1039/d6dd00356g</link>
+<guid isPermaLink="false">10.1039/d6dd00356g</guid>
+<pubDate>Fri, 30 Oct 2026 15:02:23 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Oscar Bengtsson, Daniel Hewitt, Indranil Saha, Misbah Sarwar, Nicola Collis, Andreas Erlebach, Lukáš Grajciar, Christopher J. Heard, Ben Slater</p><p>We present a new method to predict the structures of aluminosilicate zeolites using an accurate neural network potential and a custom basin-hopping method and demonstrate it's utility on Chabazite, Mordenite and zeolite RHO.</p><p>DOI: 10.1039/d6dd00356g</p>]]></description>
+</item>
 <item>
 <title>PocketBagger: generalizable pocket druggability prediction via positive-unlabeled learning</title>
 <link>https://doi.org/10.1039/d6dd00147e</link>
