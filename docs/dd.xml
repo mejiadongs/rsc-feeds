@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 29 Oct 2026 22:50:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:59:38 +0000</lastBuildDate>
 <item>
 <title>PocketBagger: generalizable pocket druggability prediction via positive-unlabeled learning</title>
 <link>https://doi.org/10.1039/d6dd00147e</link>
@@ -164,26 +164,5 @@
 <guid isPermaLink="false">10.1039/d6dd00213g</guid>
 <pubDate>Fri, 16 Oct 2026 14:03:17 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Ye Buehler, Sacha Javor, Jean-Louis Reymond</p><p>Generative AI sampled 12 billion GDB-20 molecules, revealing an sp 3 -rich, 3D-shaped and natural product-like chemical space with potential synthetic accessibility, drug-likeness, toxicity-filter compliance and broad bioactive scaffold coverage.</p><p>DOI: 10.1039/d6dd00213g</p>]]></description>
-</item>
-<item>
-<title>Biologically-driven generative chemistry: using biological data to guide de novo drug design</title>
-<link>https://doi.org/10.1039/d6dd00413j</link>
-<guid isPermaLink="false">10.1039/d6dd00413j</guid>
-<pubDate>Thu, 15 Oct 2026 20:03:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Philip John Harrison, Rocío Mercado</p><p>Biological data can guide molecular generation beyond conventional chemistry-centred objectives. We review progress across four biological modalities and highlight the need for more rigorous validation.</p><p>DOI: 10.1039/d6dd00413j</p>]]></description>
-</item>
-<item>
-<title>How to harness machine learning to make chemical kinetic models more predictive</title>
-<link>https://doi.org/10.1039/d6dd00426a</link>
-<guid isPermaLink="false">10.1039/d6dd00426a</guid>
-<pubDate>Thu, 15 Oct 2026 13:43:05 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jakob C. Dahl, Klavs F. Jensen</p><p>A perspective on how machine-learning practices, such as held-out tests, multi-model comparison, and uncertainty propagation, could make kinetic models for solution-phase catalysis more predictive.</p><p>DOI: 10.1039/d6dd00426a</p>]]></description>
-</item>
-<item>
-<title>Machine learning-driven discovery of novel photosensitizers for cancer therapy</title>
-<link>https://doi.org/10.1039/d6dd00439c</link>
-<guid isPermaLink="false">10.1039/d6dd00439c</guid>
-<pubDate>Thu, 15 Oct 2026 11:43:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Giulia Giugliano, Rhyan Barrett, Edoardo Jun Mattioli, Alessia Marconi, Matteo Di Giosia, Francesco Zerbetto, Giulia Greco, Eleonora Turrini, Matteo Calvaresi, Julia Westermayr</p><p>X-MACE predicts key excited-state properties with near quantum-mechanical accuracy at low computational cost, enabling rapid screening of molecular libraries. Its best candidate was validated in vitro for ROS generation and enhanced phototoxicity.</p><p>DOI: 10.1039/d6dd00439c</p>]]></description>
 </item>
 </channel></rss>

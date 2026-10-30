@@ -3,7 +3,21 @@
 <title>RSC - Journal of Materials Chemistry A</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/ta</link>
 <description>RSC - Journal of Materials Chemistry A (via Crossref)</description>
-<lastBuildDate>Thu, 29 Oct 2026 22:50:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:59:20 +0000</lastBuildDate>
+<item>
+<title>Beyond Static Catalysts: Dynamic Interfaces for Adaptive Energy Conversion</title>
+<link>https://doi.org/10.1039/d6ta07971g</link>
+<guid isPermaLink="false">10.1039/d6ta07971g</guid>
+<pubDate>Fri, 30 Oct 2026 01:23:19 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wen Meng, Hongrui Bi, Changcai Chen, Jieyong Xu, Jian Huang, Huawen Hu</p><p>Catalytic interfaces in energy-conversion systems are rarely static under operating conditions. Applied potentials, reactive intermediates, electrolyte environments, chemical potentials, and transport fluxes can continuously reshape atomic structures, electronic states, adsorption...</p><p>DOI: 10.1039/d6ta07971g</p>]]></description>
+</item>
+<item>
+<title>Coordination polymer-derived ion-conductive electrolyte for a gas-fed photofuel cell</title>
+<link>https://doi.org/10.1039/d6ta05966j</link>
+<guid isPermaLink="false">10.1039/d6ta05966j</guid>
+<pubDate>Thu, 29 Oct 2026 22:43:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yuji Namiki, Hiroyasu Tabe, Karnjana Atthawilai, Takeshi Watanabe, Kanokwan Kongpatpanich, Satoshi Horike</p><p>We developed a coordination polymer (CP)-derived, photostable, ion-conductive membrane electrolyte as a material platform for gas-fed photofuel cells. The CP precursor serves as a chemically transformable and mechanically processable medium,...</p><p>DOI: 10.1039/d6ta05966j</p>]]></description>
+</item>
 <item>
 <title>Carbon-Confined CoZn Catalytic Architecture for Efficient Aerobic Oxidation of Biomass-Derived 5-Hydroxymethylfurfural to 2,5-Furandicarboxylic Acid</title>
 <link>https://doi.org/10.1039/d6ta07470g</link>
@@ -436,14 +450,14 @@
 <link>https://doi.org/10.1039/d6ta06641k</link>
 <guid isPermaLink="false">10.1039/d6ta06641k</guid>
 <pubDate>Mon, 26 Oct 2026 13:43:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiao Han, Fei Zhao, Fanpeng Meng, Libo Wang, Jinsheng Zhao, Guoxin Sun, Shuchao Qin</p><p>Designing highly efficient organic semiconductor photocatalysts for photocatalytic hydrogen production remains a major challenge. In this study, we report the development of polymer heterojunction (PHJ) photocatalysts composed of two linear...</p><p>DOI: 10.1039/d6ta06641k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xiao Han, Fei Zhao, Fanpeng Meng, Libo Wang, Jinsheng Zhao, Guoxin Sun, Shuchao Qin</p><p>Two D–A linear conjugated polymers form S-scheme heterojunctions via solvent-assisted ultrasonic exfoliation. N-LCP1/LCP2 with NMP treatment improves the H 2 evolution rate due to enhanced wettability, dispersibility and light absorption.</p><p>DOI: 10.1039/d6ta06641k</p>]]></description>
 </item>
 <item>
 <title>HER catalyst discovery via a machine-learning-based cascade classifier</title>
 <link>https://doi.org/10.1039/d6ta07156b</link>
 <guid isPermaLink="false">10.1039/d6ta07156b</guid>
 <pubDate>Mon, 26 Oct 2026 13:03:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiaxiang Wu, Shengen Lian, Xiran Zhang, Mingzhe Chi, Xiangyu Zhu, Fang Wu, Erjun Kan, Cheng Zhan</p><p>Machine learning models trained on adsorption energies are widely used for predicting catalyst activity, yet they often suffer from poor cross-material generalization and limited interpretability, achieving high accuracy only on...</p><p>DOI: 10.1039/d6ta07156b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jiaxiang Wu, Shengen Lian, Xiran Zhang, Mingzhe Chi, Xiangyu Zhu, Fang Wu, Erjun Kan, Cheng Zhan</p><p>Machine learning models trained on adsorption energies are used for predicting catalyst activity, yet they often generalize poorly across materials and lack interpretability, achieving high accuracy only on training-like datasets.</p><p>DOI: 10.1039/d6ta07156b</p>]]></description>
 </item>
 <item>
 <title>Spatially confined bimetallic sulfide interface engineering strategy synergistically promotes rapid and stable sodium-ion storage</title>
@@ -1032,47 +1046,5 @@
 <guid isPermaLink="false">10.1039/d6ta07869a</guid>
 <pubDate>Fri, 16 Oct 2026 00:23:21 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Jae Hak Kim, Joonhee Ma, Soo Young Kim</p><p>Single-atom catalyst design through active-site, local coordination, and support engineering enables electrochemical CO 2 reduction across concentrated CO 2 , dilute CO 2 , and capture-derived (bi)carbonate feeds.</p><p>DOI: 10.1039/d6ta07869a</p>]]></description>
-</item>
-<item>
-<title>Cu-doping-driven texture and transport anisotropy engineering in n-type Bi 2 Te 3 -based thermoelectrics</title>
-<link>https://doi.org/10.1039/d6ta07457j</link>
-<guid isPermaLink="false">10.1039/d6ta07457j</guid>
-<pubDate>Thu, 15 Oct 2026 23:43:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shengqiang Cui, Jie Zheng, Ruiheng Li, Jubo Tang, Shuangyuan Li, Ran Ang</p><p>Cu doping in Te-rich n-type Bi 2 Te 2.9 Se 0.3 synergistically regulates carrier transport and enhances texture, achieving a peak in-plane zT of ∼1.02 at 350 K and a maximum conversion efficiency of 5.1% at Δ T = 197 K.</p><p>DOI: 10.1039/d6ta07457j</p>]]></description>
-</item>
-<item>
-<title>Highly-efficient and rapidly-fabricated dye-sensitized solar cells through molecular design of the Cu-complex hole-transport material</title>
-<link>https://doi.org/10.1039/d6ta07596g</link>
-<guid isPermaLink="false">10.1039/d6ta07596g</guid>
-<pubDate>Thu, 15 Oct 2026 16:03:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Meiyi Chen, Yue Hu, Neil Robertson</p><p>Ligand steric engineering controls hole-transport material morphology and enables rapid and simple fabrication of efficient solid-state DSSCs.</p><p>DOI: 10.1039/d6ta07596g</p>]]></description>
-</item>
-<item>
-<title>Identifying deep hole traps as the origin of reduced carrier separation in Sb-alloyed Cs 2 AgBiBr 6 double perovskites</title>
-<link>https://doi.org/10.1039/d6ta04613d</link>
-<guid isPermaLink="false">10.1039/d6ta04613d</guid>
-<pubDate>Thu, 15 Oct 2026 11:13:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dan Kaplun, Boris Biniaminov, Joanna Dehnel, Michelle Sykes Akerman, Ido Zemer, Igal Levine</p><p>Modulated and time-resolved surface photovoltage spectroscopy of Cs 2 Ag(Sb x Bi 1− x )Br 6 films reveals that incorporation of Sb atoms introduces deep defect levels that trap holes and localize excitons, severely reducing the charge separation efficiency.</p><p>DOI: 10.1039/d6ta04613d</p>]]></description>
-</item>
-<item>
-<title>DFT-assisted multiscale descriptor analysis of gas adsorption behavior on rare-earth-doped SnO 2</title>
-<link>https://doi.org/10.1039/d6ta07449a</link>
-<guid isPermaLink="false">10.1039/d6ta07449a</guid>
-<pubDate>Thu, 15 Oct 2026 07:55:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yufei Li, Mingyang Shi, Tao Wu, Tao Gao</p><p>Density functional theory (DFT) calculations combined with machine learning (ML) were employed to predict gas adsorption on rare-earth-doped SnO 2 (Ln-SnO 2 ). Key descriptors and sensing properties were systematically revealed.</p><p>DOI: 10.1039/d6ta07449a</p>]]></description>
-</item>
-<item>
-<title>Flexoelectric modulation of photovoltaic performance in two-dimensional CuInP 2 S 6 : enhanced shift current, carrier separation, and power conversion efficiency</title>
-<link>https://doi.org/10.1039/d6ta06229f</link>
-<guid isPermaLink="false">10.1039/d6ta06229f</guid>
-<pubDate>Thu, 15 Oct 2026 06:03:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bolun Zhang, Dongliang Jia, Hongtao Yan, Xinming Guo, Dan Tan</p><p>Two-dimensional ferroelectrics hold exceptional promise for photovoltaic energy conversion owing to their intrinsic bulk photovoltaic effect, yet effective strategies for continuously tuning their photovoltaic performance remain limited.</p><p>DOI: 10.1039/d6ta06229f</p>]]></description>
-</item>
-<item>
-<title>Modulation of the structural and photophysical properties of 2D-RP perovskites with nitrogenous-heteroaromatic molecules</title>
-<link>https://doi.org/10.1039/d6ta06639a</link>
-<guid isPermaLink="false">10.1039/d6ta06639a</guid>
-<pubDate>Thu, 15 Oct 2026 03:03:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Soumi Dutta, Biplove Kumar, Priyanka Dubey, Mustafa Maqbool, Neeladri Das, Manas Kumar Sarangi</p><p>Nitrogenous functional groups in additive molecules control the Lewis acid–base and non-covalent interactions of 2D Ruddlesden–Popper perovskites (PEPB and PEPI), influencing their post-synthetic crystallinity and optoelectronic properties.</p><p>DOI: 10.1039/d6ta06639a</p>]]></description>
 </item>
 </channel></rss>
