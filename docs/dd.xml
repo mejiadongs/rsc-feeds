@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 30 Oct 2026 22:28:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:55:30 +0000</lastBuildDate>
 <item>
 <title>Prediction of aluminium distributions in zeolites using basin-hopping and machine learning potentials</title>
 <link>https://doi.org/10.1039/d6dd00356g</link>
@@ -150,26 +150,5 @@
 <guid isPermaLink="false">10.1039/d6dd00271d</guid>
 <pubDate>Sat, 17 Oct 2026 02:43:28 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Shaoxin Huang, Junlin Dong, Chenyang Wu, Han Lin, Shiyu Wang, Haijian Li, Yinzhen Chen, Horst Vogel, Huawei Zhang, Shuguang Yuan</p><p>UniDTI integrates multi-modal, multi-scale drug and protein representations with an established bidirectional intention fusion operator and applies the resulting model to DTI prediction and MOR-focused virtual screening with experimental follow-up.</p><p>DOI: 10.1039/d6dd00271d</p>]]></description>
-</item>
-<item>
-<title>Bridging the experimental last mile: digitizing laboratory know-how for AI-assisted support with safe refusal</title>
-<link>https://doi.org/10.1039/d6dd00505e</link>
-<guid isPermaLink="false">10.1039/d6dd00505e</guid>
-<pubDate>Fri, 16 Oct 2026 23:23:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Akira Miura, Yuki Sasahara, Momoka Demura, Yuji Masubuchi, Tetsuya Asai, Chikahiko Mitsui</p><p>First-person lab video, structured by a multimodal model, becomes an instructor-verified manual. AI then supports students with grounded answers or safe refusal.</p><p>DOI: 10.1039/d6dd00505e</p>]]></description>
-</item>
-<item>
-<title>Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems</title>
-<link>https://doi.org/10.1039/d6dd00494f</link>
-<guid isPermaLink="false">10.1039/d6dd00494f</guid>
-<pubDate>Fri, 16 Oct 2026 15:03:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Seenivasan Hariharan, Kareljan Schoutens, Sachin Kinge, Lucas Visscher</p><p>Multiscale modeling of complex chemical systems requires algorithms that operate coherently across electronic, atomistic, mesoscopic, and continuum scales. While quantum algorithms have been proposed for each regime, no systematic framework...</p><p>DOI: 10.1039/d6dd00494f</p>]]></description>
-</item>
-<item>
-<title>Sampling a trillion-sized GDB-20 database of drug-like molecules by generative artificial intelligence</title>
-<link>https://doi.org/10.1039/d6dd00213g</link>
-<guid isPermaLink="false">10.1039/d6dd00213g</guid>
-<pubDate>Fri, 16 Oct 2026 14:03:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ye Buehler, Sacha Javor, Jean-Louis Reymond</p><p>Generative AI sampled 12 billion GDB-20 molecules, revealing an sp 3 -rich, 3D-shaped and natural product-like chemical space with potential synthetic accessibility, drug-likeness, toxicity-filter compliance and broad bioactive scaffold coverage.</p><p>DOI: 10.1039/d6dd00213g</p>]]></description>
 </item>
 </channel></rss>
