@@ -3,7 +3,7 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sat, 31 Oct 2026 12:45:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 21:42:46 +0000</lastBuildDate>
 <item>
 <title>[SC] Orthogonal elemental readout for integrated profiling of metallodrug–protein interactions and protein regulation</title>
 <link>https://doi.org/10.1039/d6sc06939h</link>
@@ -936,18 +936,18 @@
 <description><![CDATA[<p><b>Authors:</b> Jinchi Zheng, Zixiang Zhao, Zizhao Ding, Jihua Yang, Chao Jiang</p><p>A shark-skin-inspired biomimetic multifunctional composite film integrating breathability, moisture permeability, and electromagnetic interference shielding was developed, providing a useful reference for multifunctional wearable materials.</p><p>DOI: 10.1039/d6ta07298d</p>]]></description>
 </item>
 <item>
-<title>[MH] Accelerated Intraporous Blood Flow in Directional Sponges Amplifies Coagulation Factor Activation for Rapid Hemostasis</title>
-<link>https://doi.org/10.1039/d6mh01715k</link>
-<guid isPermaLink="false">10.1039/d6mh01715k</guid>
-<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Rapid blood uptake is essential for porous hemostats, yet fast intraporous transport can hinder clot stabilization by dispersing coagulation components before a stable clot forms. Here, we show that directional...</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
-</item>
-<item>
 <title>[MH] Monolithic flexible all-SnSe thermoelectric generators with co-sintered p-n junctions for efficient low-grade energy harvesting</title>
 <link>https://doi.org/10.1039/d6mh02154a</link>
 <guid isPermaLink="false">10.1039/d6mh02154a</guid>
 <pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yu Tian, Changzhen Zhang, Shibo Liu, Dongrui Liu, Sining Wang, Bingchao Qin, Li-Dong Zhao</p><p>Flexible thermoelectric generators (f-TEGs) are promising power supplies for wearable and self-powered systems, but their practical output is limited by insufficient temperature gradient, high interficial resistance, and poor conformal adaptability...</p><p>DOI: 10.1039/d6mh02154a</p>]]></description>
+</item>
+<item>
+<title>[MH] Accelerated Intraporous Blood Flow in Directional Sponges Amplifies Coagulation Factor Activation for Rapid Hemostasis</title>
+<link>https://doi.org/10.1039/d6mh01715k</link>
+<guid isPermaLink="false">10.1039/d6mh01715k</guid>
+<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Rapid blood uptake is essential for porous hemostats, yet fast intraporous transport can hinder clot stabilization by dispersing coagulation components before a stable clot forms. Here, we show that directional...</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
 </item>
 <item>
 <title>[DD] Simulation of Radiation Chemistry by a One-Shot Hybrid Continuum / Monte Carlo Method</title>
