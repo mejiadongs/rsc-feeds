@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 02 Nov 2026 06:24:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 21:47:09 +0000</lastBuildDate>
+<item>
+<title>LLM Jaggedness Influences Scientific Creativity</title>
+<link>https://doi.org/10.1039/d6dd00408c</link>
+<guid isPermaLink="false">10.1039/d6dd00408c</guid>
+<pubDate>Mon, 02 Nov 2026 17:43:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Shray Mathur, Jorge Anibal Boscoboinik, Esther H. R. Tsai, Kevin G. Yager</p><p>As artificial intelligence advances, models are not improving uniformly. Instead, progress unfolds in a jagged fashion, with capabilities growing unevenly across tasks, domains, and model scales. In this work, we...</p><p>DOI: 10.1039/d6dd00408c</p>]]></description>
+</item>
+<item>
+<title>Machine learning-guided design rules for lipid nanoparticles to prioritize nucleic acid delivery</title>
+<link>https://doi.org/10.1039/d6dd00738d</link>
+<guid isPermaLink="false">10.1039/d6dd00738d</guid>
+<pubDate>Mon, 02 Nov 2026 08:34:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Gaurav Kumar, Arezoo M. Ardekani</p><p>Hierarchical machine learning distills high-dimensional lipid nanoparticle data into compact physicochemical descriptors and interpretable SAR rules. High-ranking rules retain enrichment in independent in vitro and retrospective in vivo analyses.</p><p>DOI: 10.1039/d6dd00738d</p>]]></description>
+</item>
 <item>
 <title>Prediction of aluminium distributions in zeolites using basin-hopping and machine learning potentials</title>
 <link>https://doi.org/10.1039/d6dd00356g</link>
@@ -26,11 +40,18 @@
 <description><![CDATA[<p><b>Authors:</b> Charlie Perkins, Marcus Webb, Frederick Currell</p><p>Understanding the spatio-temporal evolution of radiolytic species created by high-energy electrons in water underpins key applications from radiotherapy and nuclear safety to environmental processing and electron microscopy. Here, using the...</p><p>DOI: 10.1039/d6dd00003g</p>]]></description>
 </item>
 <item>
+<title>ML and AI for density functional theory: different priorities for Kohn-Sham and orbital-free DFT, for electronic and nuclear DFT</title>
+<link>https://doi.org/10.1039/d6dd00454g</link>
+<guid isPermaLink="false">10.1039/d6dd00454g</guid>
+<pubDate>Wed, 28 Oct 2026 03:23:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xin-Hui Wu, Sergei Manzhos</p><p>We overview similarities and, importantly, differences in computational bottlenecks and accuracy requirements that can be addressed with machine learning (ML) and artificial intelligence (AI) techniques in electronic and nuclear DFT....</p><p>DOI: 10.1039/d6dd00454g</p>]]></description>
+</item>
+<item>
 <title>Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control</title>
 <link>https://doi.org/10.1039/d6dd00706f</link>
 <guid isPermaLink="false">10.1039/d6dd00706f</guid>
 <pubDate>Wed, 28 Oct 2026 03:03:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Liu, Boris Slautin, Ching-Che Lin, Jaegyu Kim, Lane W. Martin, Sergei V. Kalinin</p><p>Automated experimentation is most effective when the observables, available actions, and objective are defined before the experiment starts, as is the case for Bayesian optimization. However, in many exploratory experiments,...</p><p>DOI: 10.1039/d6dd00706f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yu Liu, Boris Slautin, Ching-Che Lin, Jaegyu Kim, Lane W. Martin, Sergei V. Kalinin</p><p>SPARC uses two persistent memory files to transfer human knowledge, review proposed microscope experiments, and validate new findings against controls before updating the experimental record.</p><p>DOI: 10.1039/d6dd00706f</p>]]></description>
 </item>
 <item>
 <title>MatGPT: Transformer-Based Generation of Inorganic Materials with Targeted Properties</title>
@@ -45,6 +66,13 @@
 <guid isPermaLink="false">10.1039/d6dd00676k</guid>
 <pubDate>Tue, 27 Oct 2026 12:06:14 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Miguel Gallegos, José Manuel Guevara-Vela, Alexandre Tkatchenko</p><p>Chemical machine learning has achieved remarkable predictive performance by leveraging increasingly large quantum-chemical datasets. Yet, the local quantum in- formation underlying molecular behavior remains largely unexplored at scale, limiting the...</p><p>DOI: 10.1039/d6dd00676k</p>]]></description>
+</item>
+<item>
+<title>ApprOxiMate: A Lightweight Composition-Only Framework for Mixed Oxidation State Estimation</title>
+<link>https://doi.org/10.1039/d6dd00291a</link>
+<guid isPermaLink="false">10.1039/d6dd00291a</guid>
+<pubDate>Tue, 27 Oct 2026 11:43:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Fay Adel Abu Al Timen, Thomas Edward Ashton</p><p>Accurate assignment of oxidation states in multicomponent inorganic systems remains a significant challenge for high-throughput materials discovery, where existing methods are computationally intensive. We introduce ApprOxiMate, a deterministic, composition-only algorithm...</p><p>DOI: 10.1039/d6dd00291a</p>]]></description>
 </item>
 <item>
 <title>Thickness from Color by Inverting the Physics: Self-Calibrating Differentiable Thin-Film Optics for Region-Level 2D-Material Thickness Estimation</title>
@@ -96,11 +124,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yunkai Sun, Adwaith Ravichandran, Hassan Harb, Rajeev S. Assary, Brian J. Ingram, Zhenzhen Yang</p><p>Snapshot of the core contents discussed in this work. Detailed benchmarking data and results are available in Zenodo codespace.</p><p>DOI: 10.1039/d6dd00466k</p>]]></description>
 </item>
 <item>
-<title>LM2KM: Feature extraction from pretrained protein and molecular language models combining with quantum mechanics (QM) features for KM predictions</title>
+<title>LM2KM: feature extraction from pretrained protein and molecular language models combined with quantum mechanics (QM) features for K M predictions</title>
 <link>https://doi.org/10.1039/d6dd00139d</link>
 <guid isPermaLink="false">10.1039/d6dd00139d</guid>
 <pubDate>Tue, 20 Oct 2026 12:03:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jingchen Zhai, Lianjin Cai, Taoyu Niu, Lei Xie, Junmei Wang</p><p>The Michaelis constant (KM) is a key parameter for characterizing enzyme–substrate interactions and plays an essential role in enzyme kinetics modeling and physiologically based pharmacokinetic (PBPK) applications. However, experimental determination...</p><p>DOI: 10.1039/d6dd00139d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jingchen Zhai, Lianjin Cai, Taoyu Niu, Lei Xie, Junmei Wang</p><p>The Michaelis constant ( K M ) is a key parameter for characterizing enzyme-substrate interactions and plays an essential role in enzyme kinetics modeling and physiologically based pharmacokinetic (PBPK) applications.</p><p>DOI: 10.1039/d6dd00139d</p>]]></description>
 </item>
 <item>
 <title>NIMO: A Software Platform for Closed-Loop Materials Exploration with Diverse AI Algorithms</title>
