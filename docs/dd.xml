@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Sun, 01 Nov 2026 22:10:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 06:24:12 +0000</lastBuildDate>
 <item>
 <title>Prediction of aluminium distributions in zeolites using basin-hopping and machine learning potentials</title>
 <link>https://doi.org/10.1039/d6dd00356g</link>
@@ -26,13 +26,6 @@
 <description><![CDATA[<p><b>Authors:</b> Charlie Perkins, Marcus Webb, Frederick Currell</p><p>Understanding the spatio-temporal evolution of radiolytic species created by high-energy electrons in water underpins key applications from radiotherapy and nuclear safety to environmental processing and electron microscopy. Here, using the...</p><p>DOI: 10.1039/d6dd00003g</p>]]></description>
 </item>
 <item>
-<title>ML and AI for density functional theory: different priorities for Kohn-Sham and orbital-free DFT, for electronic and nuclear DFT</title>
-<link>https://doi.org/10.1039/d6dd00454g</link>
-<guid isPermaLink="false">10.1039/d6dd00454g</guid>
-<pubDate>Wed, 28 Oct 2026 03:23:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xin-Hui Wu, Sergei Manzhos</p><p>We overview similarities and, importantly, differences in computational bottlenecks and accuracy requirements that can be addressed with machine learning (ML) and artificial intelligence (AI) techniques in electronic and nuclear DFT....</p><p>DOI: 10.1039/d6dd00454g</p>]]></description>
-</item>
-<item>
 <title>Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control</title>
 <link>https://doi.org/10.1039/d6dd00706f</link>
 <guid isPermaLink="false">10.1039/d6dd00706f</guid>
@@ -52,13 +45,6 @@
 <guid isPermaLink="false">10.1039/d6dd00676k</guid>
 <pubDate>Tue, 27 Oct 2026 12:06:14 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Miguel Gallegos, José Manuel Guevara-Vela, Alexandre Tkatchenko</p><p>Chemical machine learning has achieved remarkable predictive performance by leveraging increasingly large quantum-chemical datasets. Yet, the local quantum in- formation underlying molecular behavior remains largely unexplored at scale, limiting the...</p><p>DOI: 10.1039/d6dd00676k</p>]]></description>
-</item>
-<item>
-<title>ApprOxiMate: A Lightweight Composition-Only Framework for Mixed Oxidation State Estimation</title>
-<link>https://doi.org/10.1039/d6dd00291a</link>
-<guid isPermaLink="false">10.1039/d6dd00291a</guid>
-<pubDate>Tue, 27 Oct 2026 11:43:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Fay Adel Abu Al Timen, Thomas Edward Ashton</p><p>Accurate assignment of oxidation states in multicomponent inorganic systems remains a significant challenge for high-throughput materials discovery, where existing methods are computationally intensive. We introduce ApprOxiMate, a deterministic, composition-only algorithm...</p><p>DOI: 10.1039/d6dd00291a</p>]]></description>
 </item>
 <item>
 <title>Thickness from Color by Inverting the Physics: Self-Calibrating Differentiable Thin-Film Optics for Region-Level 2D-Material Thickness Estimation</title>

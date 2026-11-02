@@ -3,7 +3,7 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sun, 01 Nov 2026 22:10:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 06:24:23 +0000</lastBuildDate>
 <item>
 <title>[SC] Orthogonal elemental readout for integrated profiling of metallodrug–protein interactions and protein regulation</title>
 <link>https://doi.org/10.1039/d6sc06939h</link>
@@ -936,18 +936,18 @@
 <description><![CDATA[<p><b>Authors:</b> Jinchi Zheng, Zixiang Zhao, Zizhao Ding, Jihua Yang, Chao Jiang</p><p>A shark-skin-inspired biomimetic multifunctional composite film integrating breathability, moisture permeability, and electromagnetic interference shielding was developed, providing a useful reference for multifunctional wearable materials.</p><p>DOI: 10.1039/d6ta07298d</p>]]></description>
 </item>
 <item>
-<title>[MH] Accelerated Intraporous Blood Flow in Directional Sponges Amplifies Coagulation Factor Activation for Rapid Hemostasis</title>
-<link>https://doi.org/10.1039/d6mh01715k</link>
-<guid isPermaLink="false">10.1039/d6mh01715k</guid>
-<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Rapid blood uptake is essential for porous hemostats, yet fast intraporous transport can hinder clot stabilization by dispersing coagulation components before a stable clot forms. Here, we show that directional...</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
-</item>
-<item>
 <title>[MH] Monolithic flexible all-SnSe thermoelectric generators with co-sintered p-n junctions for efficient low-grade energy harvesting</title>
 <link>https://doi.org/10.1039/d6mh02154a</link>
 <guid isPermaLink="false">10.1039/d6mh02154a</guid>
 <pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yu Tian, Changzhen Zhang, Shibo Liu, Dongrui Liu, Sining Wang, Bingchao Qin, Li-Dong Zhao</p><p>Flexible thermoelectric generators (f-TEGs) are promising power supplies for wearable and self-powered systems, but their practical output is limited by insufficient temperature gradient, high interficial resistance, and poor conformal adaptability...</p><p>DOI: 10.1039/d6mh02154a</p>]]></description>
+</item>
+<item>
+<title>[MH] Accelerated Intraporous Blood Flow in Directional Sponges Amplifies Coagulation Factor Activation for Rapid Hemostasis</title>
+<link>https://doi.org/10.1039/d6mh01715k</link>
+<guid isPermaLink="false">10.1039/d6mh01715k</guid>
+<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Rapid blood uptake is essential for porous hemostats, yet fast intraporous transport can hinder clot stabilization by dispersing coagulation components before a stable clot forms. Here, we show that directional...</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
 </item>
 <item>
 <title>[DD] Simulation of Radiation Chemistry by a One-Shot Hybrid Continuum / Monte Carlo Method</title>
@@ -1123,13 +1123,6 @@
 <guid isPermaLink="false">10.1039/d6cc05560e</guid>
 <pubDate>Wed, 28 Oct 2026 03:43:22 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Jasmita Bhoi, Satyabrata Das, Upal Pramanick, Moumita Majumdar</p><p>Cooperativity between two main-group elements or between a main-group element and a transition metal centre has achieved significant feats over the last decade; a feature widely known in metalloenzymes and...</p><p>DOI: 10.1039/d6cc05560e</p>]]></description>
-</item>
-<item>
-<title>[DD] ML and AI for density functional theory: different priorities for Kohn-Sham and orbital-free DFT, for electronic and nuclear DFT</title>
-<link>https://doi.org/10.1039/d6dd00454g</link>
-<guid isPermaLink="false">10.1039/d6dd00454g</guid>
-<pubDate>Wed, 28 Oct 2026 03:23:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xin-Hui Wu, Sergei Manzhos</p><p>We overview similarities and, importantly, differences in computational bottlenecks and accuracy requirements that can be addressed with machine learning (ML) and artificial intelligence (AI) techniques in electronic and nuclear DFT....</p><p>DOI: 10.1039/d6dd00454g</p>]]></description>
 </item>
 <item>
 <title>[DD] Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control</title>
@@ -1424,13 +1417,6 @@
 <guid isPermaLink="false">10.1039/d6ta04752a</guid>
 <pubDate>Tue, 27 Oct 2026 11:44:08 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Fu-Jie Zhao, Lei Xian, Bo Li, Benyu Zheng, Lan-Lan Ma, Ling-Bin Kong</p><p>Among halide solid electrolytes, Li2ZrCl6 has attracted much attention due to its low cost and high oxidation stability. However, its room temperature ionic conductivity is relatively low, which limits its...</p><p>DOI: 10.1039/d6ta04752a</p>]]></description>
-</item>
-<item>
-<title>[DD] ApprOxiMate: A Lightweight Composition-Only Framework for Mixed Oxidation State Estimation</title>
-<link>https://doi.org/10.1039/d6dd00291a</link>
-<guid isPermaLink="false">10.1039/d6dd00291a</guid>
-<pubDate>Tue, 27 Oct 2026 11:43:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Fay Adel Abu Al Timen, Thomas Edward Ashton</p><p>Accurate assignment of oxidation states in multicomponent inorganic systems remains a significant challenge for high-throughput materials discovery, where existing methods are computationally intensive. We introduce ApprOxiMate, a deterministic, composition-only algorithm...</p><p>DOI: 10.1039/d6dd00291a</p>]]></description>
 </item>
 <item>
 <title>[CC] Rh(III)-Catalyzed Regio/Stereoselective Divergent Cascade Annulations of Hydrazones and Alkynylphosponates: Access to Oxaphospholene Fused Derivatives</title>
