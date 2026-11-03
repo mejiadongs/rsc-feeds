@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 03 Nov 2026 06:57:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 19:35:49 +0000</lastBuildDate>
+<item>
+<title>Where Foundation Machine-Learning Potentials Fail for Iron-Sulfide Defect Kinetics: Failure Modes, Pre-Flight Checks, and a DFT Benchmark of Vacancy-Anchored Hydrogen Migration in Pyrite, Marcasite, Mackinawite, and Greigite</title>
+<link>https://doi.org/10.1039/d6dd00359a</link>
+<guid isPermaLink="false">10.1039/d6dd00359a</guid>
+<pubDate>Tue, 03 Nov 2026 11:48:30 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Igor N. Morozov</p><p>Foundation machine-learning interatomic potentials (MLIPs) offer inexpensive migration-barrier calculations, but their reliability for hydrogen defects in magnetic iron sulfides remains uncertain. We establish plane-wave DFT references at PBE, U =...</p><p>DOI: 10.1039/d6dd00359a</p>]]></description>
+</item>
 <item>
 <title>LLM Jaggedness Influences Scientific Creativity</title>
 <link>https://doi.org/10.1039/d6dd00408c</link>
@@ -54,11 +61,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yu Liu, Boris Slautin, Ching-Che Lin, Jaegyu Kim, Lane W. Martin, Sergei V. Kalinin</p><p>SPARC uses two persistent memory files to transfer human knowledge, review proposed microscope experiments, and validate new findings against controls before updating the experimental record.</p><p>DOI: 10.1039/d6dd00706f</p>]]></description>
 </item>
 <item>
-<title>MatGPT: Transformer-Based Generation of Inorganic Materials with Targeted Properties</title>
+<title>MatGPT: transformer-based generation of inorganic materials with targeted properties</title>
 <link>https://doi.org/10.1039/d6dd00311g</link>
 <guid isPermaLink="false">10.1039/d6dd00311g</guid>
 <pubDate>Tue, 27 Oct 2026 18:23:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Harsha  Satya Vardhan Vasamsetti, Pradeep Kumar Pal, Masahiro Ehara, U. Deva Priyakumar</p><p>Functional materials with tailored properties are essential for advancements in crucial areas such as energy storage and semiconductor technologies. Despite progress in generative models, producing materials for specific target properties...</p><p>DOI: 10.1039/d6dd00311g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Harsha Satya Vardhan Vasamsetti, Pradeep Kumar Pal, Masahiro Ehara, U. Deva Priyakumar</p><p>MatGPT, a decoder-only transformer, generates inorganic crystals as SLICES strings. Property tokens scaled by the requested values steer generation toward target formation energy, band gap, bulk modulus and crystal system.</p><p>DOI: 10.1039/d6dd00311g</p>]]></description>
 </item>
 <item>
 <title>IQARIS: An Atlas of Interacting Quantum Atoms across Chemical Space</title>
