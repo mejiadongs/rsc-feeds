@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 02 Nov 2026 21:47:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 06:57:55 +0000</lastBuildDate>
 <item>
 <title>LLM Jaggedness Influences Scientific Creativity</title>
 <link>https://doi.org/10.1039/d6dd00408c</link>
@@ -129,33 +129,5 @@
 <guid isPermaLink="false">10.1039/d6dd00139d</guid>
 <pubDate>Tue, 20 Oct 2026 12:03:14 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Jingchen Zhai, Lianjin Cai, Taoyu Niu, Lei Xie, Junmei Wang</p><p>The Michaelis constant ( K M ) is a key parameter for characterizing enzyme-substrate interactions and plays an essential role in enzyme kinetics modeling and physiologically based pharmacokinetic (PBPK) applications.</p><p>DOI: 10.1039/d6dd00139d</p>]]></description>
-</item>
-<item>
-<title>NIMO: A Software Platform for Closed-Loop Materials Exploration with Diverse AI Algorithms</title>
-<link>https://doi.org/10.1039/d6dd00371k</link>
-<guid isPermaLink="false">10.1039/d6dd00371k</guid>
-<pubDate>Mon, 19 Oct 2026 22:03:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ryo Tamura, Naruki Yoshikawa, Koji Tsuda, Shoichi Matsuda</p><p>Self-driving laboratories (SDLs), where artificial intelligence proposes subsequent experiments and robotic systems execute them, are rapidly becoming an important approach to autonomous materials exploration. A practical challenge lies in connecting...</p><p>DOI: 10.1039/d6dd00371k</p>]]></description>
-</item>
-<item>
-<title>RxnMol: synthesis-aware molecular generation via reaction-driven global chemical space search</title>
-<link>https://doi.org/10.1039/d6dd00325g</link>
-<guid isPermaLink="false">10.1039/d6dd00325g</guid>
-<pubDate>Mon, 19 Oct 2026 13:23:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Islambek Ashyrmamatov, Umit V. Ucak, Juyong Lee</p><p>RxnMol couples global chemical space search with sequential forward-reaction prediction to optimize molecular properties while constructing proposed synthetic routes from purchasable building blocks.</p><p>DOI: 10.1039/d6dd00325g</p>]]></description>
-</item>
-<item>
-<title>Benchmarking machine learning for therapeutic deep eutectic solvent screening: dataset construction, cross-source generalization failure, and applicability-boundary analysis</title>
-<link>https://doi.org/10.1039/d6dd00521g</link>
-<guid isPermaLink="false">10.1039/d6dd00521g</guid>
-<pubDate>Mon, 19 Oct 2026 08:32:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Junxiao Zhu, Shiyi Wang, Ziming Liang, Liang Qin, Chengxiao Wang, Deyun Ma, Lin Chen</p><p>Across a 621-record therapeutic deep eutectic solvent (THEDES) dataset, random CV (AUROC 0.954) overstated cross-source transfer (0.553). Frozen blind and prospective tests support applicability-aware local triage, not autonomous prediction.</p><p>DOI: 10.1039/d6dd00521g</p>]]></description>
-</item>
-<item>
-<title>SCOPE: a chemically-aware workflow automation software for molecules and molecular crystals</title>
-<link>https://doi.org/10.1039/d6dd00236f</link>
-<guid isPermaLink="false">10.1039/d6dd00236f</guid>
-<pubDate>Mon, 19 Oct 2026 07:02:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sergi Vela, Manel Serrano</p><p>SCOPE connects chemically aware molecular representations with automated QC workflows, HPC execution, and data analysis, enabling reproducible end-to-end studies of molecules and molecular crystals.</p><p>DOI: 10.1039/d6dd00236f</p>]]></description>
 </item>
 </channel></rss>
