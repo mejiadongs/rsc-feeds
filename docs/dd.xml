@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 03 Nov 2026 19:35:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 06:39:59 +0000</lastBuildDate>
 <item>
 <title>Where Foundation Machine-Learning Potentials Fail for Iron-Sulfide Defect Kinetics: Failure Modes, Pre-Flight Checks, and a DFT Benchmark of Vacancy-Anchored Hydrogen Migration in Pyrite, Marcasite, Mackinawite, and Greigite</title>
 <link>https://doi.org/10.1039/d6dd00359a</link>
@@ -122,19 +122,5 @@
 <guid isPermaLink="false">10.1039/d6dd00638h</guid>
 <pubDate>Wed, 21 Oct 2026 01:43:55 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Sergei V. Kalinin, Yu Liu, Boris Slautin, Sheryl L. Sanchez, Kamyar Barakati, Ioannis Sgouralis, Hector Santos-Villalobos, Gerd Duscher, Charles Cao, Mahshid Ahmadi</p><p>Coupled sample and instrument twins predict possible outcomes of candidate measurements. The planner uses these predictions to select the next measurement; observations update the twins.</p><p>DOI: 10.1039/d6dd00638h</p>]]></description>
-</item>
-<item>
-<title>An autonomous agentic query framework with MCP tools and modernized NIST SRD-46 for accelerating aqueous speciation analysis</title>
-<link>https://doi.org/10.1039/d6dd00466k</link>
-<guid isPermaLink="false">10.1039/d6dd00466k</guid>
-<pubDate>Tue, 20 Oct 2026 14:52:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yunkai Sun, Adwaith Ravichandran, Hassan Harb, Rajeev S. Assary, Brian J. Ingram, Zhenzhen Yang</p><p>Snapshot of the core contents discussed in this work. Detailed benchmarking data and results are available in Zenodo codespace.</p><p>DOI: 10.1039/d6dd00466k</p>]]></description>
-</item>
-<item>
-<title>LM2KM: feature extraction from pretrained protein and molecular language models combined with quantum mechanics (QM) features for K M predictions</title>
-<link>https://doi.org/10.1039/d6dd00139d</link>
-<guid isPermaLink="false">10.1039/d6dd00139d</guid>
-<pubDate>Tue, 20 Oct 2026 12:03:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jingchen Zhai, Lianjin Cai, Taoyu Niu, Lei Xie, Junmei Wang</p><p>The Michaelis constant ( K M ) is a key parameter for characterizing enzyme-substrate interactions and plays an essential role in enzyme kinetics modeling and physiologically based pharmacokinetic (PBPK) applications.</p><p>DOI: 10.1039/d6dd00139d</p>]]></description>
 </item>
 </channel></rss>

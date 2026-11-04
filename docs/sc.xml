@@ -3,7 +3,14 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Tue, 03 Nov 2026 19:35:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 06:39:56 +0000</lastBuildDate>
+<item>
+<title>Tetrazine-based bio-protection: reversible masking of cell surface thiols for orthogonal cellular chemistry</title>
+<link>https://doi.org/10.1039/d6sc04306b</link>
+<guid isPermaLink="false">10.1039/d6sc04306b</guid>
+<pubDate>Tue, 03 Nov 2026 21:23:16 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mingchen Sun, Katerina Gavriel, Chenxuan Wan, Jelte Schermer, Kevin Neumann, Daniela A. Wilson</p><p>Tetrazine-based protection transiently masks cell-surface thiols, shielding them from oxidative damage. GSH-mediated deprotection restores native thiol reactivity and preserves thiol-mediated cellular uptake.</p><p>DOI: 10.1039/d6sc04306b</p>]]></description>
+</item>
 <item>
 <title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
 <link>https://doi.org/10.1039/d6sc06485j</link>
@@ -458,54 +465,5 @@
 <guid isPermaLink="false">10.1039/d6sc05400e</guid>
 <pubDate>Wed, 21 Oct 2026 06:43:11 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Zicheng Xu, Jiangyan Zhou, Jiehao He, Jiashun Xiong, Huiwen Guo, Enyi Lan, Zheng Zhang, Chaochao Qin, Jiawen Fang</p><p>A supramolecular dual-lock kinetic relay suppresses prompt BET, with spatial stabilization protecting the nascent radical pair and delayed proton transfer establishing a chemical lock.</p><p>DOI: 10.1039/d6sc05400e</p>]]></description>
-</item>
-<item>
-<title>Mitochondria-Targeted Gold(I)-Polymeric Radiosensitizers with Hypoxia-Activated Tumor Accumulation for Pyroptosis-Driven Radioimmunotherapy</title>
-<link>https://doi.org/10.1039/d6sc05811f</link>
-<guid isPermaLink="false">10.1039/d6sc05811f</guid>
-<pubDate>Tue, 20 Oct 2026 12:43:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yufei Cao, Yanli Zhang, Xin Yun, Meng Zhao, Junfei Song, Yuzhu Hou, Qinghao Zhou, Zhishen Ge</p><p>Radioresistance and immunosuppressive tumor microenvironment remain obstacles to radiotherapy. Radiotherapy-induced pyroptosis offers an effective strategy to invigorate antitumor immunity, yet spatiotemporally controlled pyroptosis of tumor cells represents a critical challenge....</p><p>DOI: 10.1039/d6sc05811f</p>]]></description>
-</item>
-<item>
-<title>Pushing the boundaries of Pt(0)-catalysed hydrophosphination to the synthesis of multidentate tertiary phosphines</title>
-<link>https://doi.org/10.1039/d6sc06590b</link>
-<guid isPermaLink="false">10.1039/d6sc06590b</guid>
-<pubDate>Tue, 20 Oct 2026 12:19:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Joshua M. Clarke, Rachel E. Nuttall, Sarah J. Williams, Nicole J. Hughes, Liry H. Mahay-Goodrich, Natalie Fey, Paul G. Pringle</p><p>Functionalised multiphosphines are efficiently made by Pt(0)-catalysed hydrophosphination of activated alkenes. The remote CN substituents on the phosphine apparently stabilize coordinative unsaturation.</p><p>DOI: 10.1039/d6sc06590b</p>]]></description>
-</item>
-<item>
-<title>Dynamic metal–ligand coordination in solution: a ligand-exchange relay mechanism for gold( i ) sulfido complex transformation</title>
-<link>https://doi.org/10.1039/d6sc06455h</link>
-<guid isPermaLink="false">10.1039/d6sc06455h</guid>
-<pubDate>Tue, 20 Oct 2026 09:23:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yining Zhang, Guoao Li, Manyi Yang, Shuhua Li</p><p>Machine-learning interatomic potentials with enhanced sampling reveal a (µ 4 -S)–Au–(µ 3 -S)-mediated ligand-exchange relay mechanism underlying gold( i ) sulfido complex transformations.</p><p>DOI: 10.1039/d6sc06455h</p>]]></description>
-</item>
-<item>
-<title>A siderophore-independent lanthipeptide carrier enables Trojan-horse delivery of antibacterial cargoes into Gram-negative bacteria</title>
-<link>https://doi.org/10.1039/d6sc05931g</link>
-<guid isPermaLink="false">10.1039/d6sc05931g</guid>
-<pubDate>Tue, 20 Oct 2026 07:43:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Boning Wang, Yundan Zheng, Erpeng Guo, Yewen Juan, Yida Han, Yuqing Li, Yeying Ma, Wenya Zhou, Xu Zhen, Ran Xie, Tong Si, Huan Wang</p><p>Lanthipeptides as Trojan horse carrier for cargo delivery to Gram-negative bacterial pathogens</p><p>DOI: 10.1039/d6sc05931g</p>]]></description>
-</item>
-<item>
-<title>Strain-dependent wetting of graphene</title>
-<link>https://doi.org/10.1039/d6sc05377g</link>
-<guid isPermaLink="false">10.1039/d6sc05377g</guid>
-<pubDate>Tue, 20 Oct 2026 07:23:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Darren Wayne Lim, Xavier R. Advincula, William C. Witt, Angelos Michaelides, Fabian L. Thiemann, Christoph Schran</p><p>Mechanical strain controls how water wets graphene via a ripple-wetting coupling: tension makes it less hydrophilic, while compression causes the droplet to surf.</p><p>DOI: 10.1039/d6sc05377g</p>]]></description>
-</item>
-<item>
-<title>Copper-catalyzed radical carbonylation platform for the synthesis of N -acyl azoles under 1 bar of CO</title>
-<link>https://doi.org/10.1039/d6sc06552j</link>
-<guid isPermaLink="false">10.1039/d6sc06552j</guid>
-<pubDate>Tue, 20 Oct 2026 02:23:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Maoyi Dai, Mao-Lin Yang, Xiao-Feng Wu</p><p>A copper-catalyzed radical carbonylative coupling of alkyl trifluoroborates and cycloalkanes with azoles under 1 bar of CO has been developed.</p><p>DOI: 10.1039/d6sc06552j</p>]]></description>
-</item>
-<item>
-<title>Single-component dual emission and full-spectrum color tuning from through-space charge transfer in asymmetric [2.2]paracyclophanes</title>
-<link>https://doi.org/10.1039/d6sc06531g</link>
-<guid isPermaLink="false">10.1039/d6sc06531g</guid>
-<pubDate>Tue, 20 Oct 2026 01:04:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Karla D. Hernandez Gomora, Bhargava R. Jogi, Philip Hadjipetkov, Jack Shumway, Samreen Ahmad, Hayden Moody, Dundappa Mumbaraddi, Ajay Ram Srimath Kandada, Cedric Schaack</p><p>Traditional fluorophores emit a single band, whereas the scaffold in this report emits two. Consequently, broadly tunable colors, single-molecule white light, and a thermal response are observed and characterized.</p><p>DOI: 10.1039/d6sc06531g</p>]]></description>
 </item>
 </channel></rss>

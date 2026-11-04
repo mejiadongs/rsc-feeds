@@ -3,7 +3,21 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Tue, 03 Nov 2026 19:35:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 06:39:54 +0000</lastBuildDate>
+<item>
+<title>Sliding-Ferroelectricity-Controlled Layer Anomalous Hall Effect in Bilayer MnSb2Te4</title>
+<link>https://doi.org/10.1039/d6cp03136f</link>
+<guid isPermaLink="false">10.1039/d6cp03136f</guid>
+<pubDate>Wed, 04 Nov 2026 02:23:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xingjuan Zhao, Xun Lu, Luyan Li, Yangyang Feng</p><p>The layer anomalous Hall effect (LAHE), arising from the coupling of Berry curvature with layer degree of freedom, holds great potential for the applications in next-generation information technologies. However, its...</p><p>DOI: 10.1039/d6cp03136f</p>]]></description>
+</item>
+<item>
+<title>Insights into plasma-based N 2 fixation: clarifying the pressure dependence of microwave air plasma reactor performance</title>
+<link>https://doi.org/10.1039/d6cp01802e</link>
+<guid isPermaLink="false">10.1039/d6cp01802e</guid>
+<pubDate>Tue, 03 Nov 2026 21:34:18 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ashley Hughes, Qinghao Shen, Jonas Gans, Omar Biondo, Alex van de Steeg, Waldo Bongers, Xin Tu, Gerard van Rooij, M. C. M. van de Sanden</p><p>The measurement scheme superimposed on the plasma images with the impact of pressure on plasma shape and ex situ performance of a microwave plasma reactor for the production of NO x .</p><p>DOI: 10.1039/d6cp01802e</p>]]></description>
+</item>
 <item>
 <title>Modelling pressure and solvation effects in intermolecular charge-transfer excitations</title>
 <link>https://doi.org/10.1039/d6cp03075k</link>
@@ -166,18 +180,18 @@
 <description><![CDATA[<p><b>Authors:</b> Sujata Nandi, Nandini Ananth</p><p>Hybrid semiclassical (SC) approaches offer an efficient route to simulations of nonadiabatic dynamics by selectively quantizing key degrees of freedom, retaining the accuracy of quantum-limit SC methods at a reduced computational cost.</p><p>DOI: 10.1039/d6cp02579j</p>]]></description>
 </item>
 <item>
-<title>Quasichemical Short-Range Order in High-Entropy Reciprocal Melts: Li, Na, K || F, Cl</title>
-<link>https://doi.org/10.1039/d6cp03168d</link>
-<guid isPermaLink="false">10.1039/d6cp03168d</guid>
-<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dmitry Zakiryanov, Nickolay Konstantinovich Tkachev</p><p>We present a combined molecular dynamics and analytical study of quasichemical short-range order and entropy decomposition in the high-entropy reciprocal quaternary melt LiF–NaF–KF–LiCl–NaCl–KCl (equimolar composition ) at 900 K. Using...</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
-</item>
-<item>
 <title>Machine Learning Potential Simulations Reveal Coupled Thermodynamic and Kinetic Control of C 2 H 6 /C 2 H 4 Retention in a Prototypical Ultramicroporous MOF</title>
 <link>https://doi.org/10.1039/d6cp03227c</link>
 <guid isPermaLink="false">10.1039/d6cp03227c</guid>
 <pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>The separation of ethane from ethylene is important in the petrochemical industry but remains highly energy-intensive. How adsorption-site stability and diffusion mechanisms jointly govern C 2 H 6 /C 2 H 4 selectivity in ultramicroporous metalorganic frameworks...</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
+</item>
+<item>
+<title>Quasichemical Short-Range Order in High-Entropy Reciprocal Melts: Li, Na, K || F, Cl</title>
+<link>https://doi.org/10.1039/d6cp03168d</link>
+<guid isPermaLink="false">10.1039/d6cp03168d</guid>
+<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Dmitry Zakiryanov, Nickolay Konstantinovich Tkachev</p><p>We present a combined molecular dynamics and analytical study of quasichemical short-range order and entropy decomposition in the high-entropy reciprocal quaternary melt LiF–NaF–KF–LiCl–NaCl–KCl (equimolar composition ) at 900 K. Using...</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
 </item>
 <item>
 <title>A mechanism study of efficient photoreduction of CO 2 to CO using Bodipy-derived heavy-atom-free electron donor-acceptor dyads as photosensitizers showing strong absorption of green light</title>
@@ -731,96 +745,5 @@
 <guid isPermaLink="false">10.1039/d6cp03204d</guid>
 <pubDate>Wed, 21 Oct 2026 01:23:38 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Zhong-Xing Zhou, Hong-Xing Zhang, Shi Feng, Yan Zhao, Zhen-Yang Liu, Jun-Bao Huang, Qingchuan Zheng</p><p>DRAGON-3D is a general dual-target drug molecule generation model based on latent-space fusion of 3D electron-density.</p><p>DOI: 10.1039/d6cp03204d</p>]]></description>
-</item>
-<item>
-<title>Anisotropic Electron Inelastic Scattering and Monte Carlo Simulation of Electron Emission from Graphite</title>
-<link>https://doi.org/10.1039/d6cp02976k</link>
-<guid isPermaLink="false">10.1039/d6cp02976k</guid>
-<pubDate>Tue, 20 Oct 2026 23:23:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhenhuan Min, Shifeng Mao, Zejun Ding</p><p>We develop a dielectric-functional formulation of anisotropic electron inelastic scattering and an anisotropic Monte Carlo (MC) model for electron transport in uniaxial materials. Within a tensorial dielectric-response framework, the inelastic...</p><p>DOI: 10.1039/d6cp02976k</p>]]></description>
-</item>
-<item>
-<title>Drastically reducing the cost of the XsTD-DFT family of methods using a minimal auxiliary basis set ( η XsTD-DFT) to efficiently treat ultra large systems</title>
-<link>https://doi.org/10.1039/d6cp02294d</link>
-<guid isPermaLink="false">10.1039/d6cp02294d</guid>
-<pubDate>Tue, 20 Oct 2026 15:33:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Axel Liger, Arya Satisha, Pierre Beaujean, Marc de Wergifosse</p><p>Using a minimal basis set resolution of the identity approximation, η XsTD-DFT accelerates excited-state calculations up to 147× versus TDA with minimal accuracy loss, enabling fast simulations of ultra-large systems like proteins.</p><p>DOI: 10.1039/d6cp02294d</p>]]></description>
-</item>
-<item>
-<title>Lysozyme solvation in monohydric alcohols with low water content: a calorimetric and preferential solvation study</title>
-<link>https://doi.org/10.1039/d6cp01776b</link>
-<guid isPermaLink="false">10.1039/d6cp01776b</guid>
-<pubDate>Tue, 20 Oct 2026 15:23:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Vladimir A. Sirotkin</p><p>This study clarifies how protein macromolecules become solvated in monohydric alcohols with low water content.</p><p>DOI: 10.1039/d6cp01776b</p>]]></description>
-</item>
-<item>
-<title>Giant tunneling magnetoresistance in an MoSe 2 /bilayer CrBr 3 /MoSe 2 two-dimensional spin-filter magnetic tunnel junction</title>
-<link>https://doi.org/10.1039/d6cp03063g</link>
-<guid isPermaLink="false">10.1039/d6cp03063g</guid>
-<pubDate>Tue, 20 Oct 2026 14:49:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jindi Feng, Zhihong Lu, Zhenhua Zhang, Rui Xiong</p><p>The discovery of two-dimensional (2D) layered intrinsic magnets provides a new platform for designing high-efficiency nanoscale magnetic tunnel junctions (MTJs) based on 2D materials.</p><p>DOI: 10.1039/d6cp03063g</p>]]></description>
-</item>
-<item>
-<title>MXene-functionalized SWCNT/polyurethane nanocomposite for flexible thermoelectric module</title>
-<link>https://doi.org/10.1039/d6cp02941h</link>
-<guid isPermaLink="false">10.1039/d6cp02941h</guid>
-<pubDate>Tue, 20 Oct 2026 13:29:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Saurabh Kumar Jha, Priyam Srivastava, Beate Krause, Rani Rohini</p><p>MXene-functionalized with SWCNT embedded in a disulfide-linked polyurethane matrix, which provided oxidation stability, enabling flexible thermoelectric module for wearable energy harvesting.</p><p>DOI: 10.1039/d6cp02941h</p>]]></description>
-</item>
-<item>
-<title>Energy-only construction of a symmetry-adapted quasi-diabatic Hamiltonian for the two lowest states of Na 3</title>
-<link>https://doi.org/10.1039/d6cp02697d</link>
-<guid isPermaLink="false">10.1039/d6cp02697d</guid>
-<pubDate>Tue, 20 Oct 2026 09:43:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Baihui Feng, Yuegu Fang, Jiayu Huang</p><p>A symmetry-adapted two-state quasi-diabatic Hamiltonian for Na 3 is constructed from ab initio adiabatic energies alone, reproducing the D 3h Jahn–Teller conical intersection topology that governs its nonadiabatic dynamics.</p><p>DOI: 10.1039/d6cp02697d</p>]]></description>
-</item>
-<item>
-<title>Aggregation-activated delayed and two-photon fluorescence in a charge-modulated pyridine–acridan luminophore</title>
-<link>https://doi.org/10.1039/d6cp02166b</link>
-<guid isPermaLink="false">10.1039/d6cp02166b</guid>
-<pubDate>Tue, 20 Oct 2026 08:09:54 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rasa Keruckiene, Kaspars Leduskrasts, Ho-Chia Tsai, Mariia Stanitska, Daiana Ospanova, Dmytro Volyniuk, Edgars Suna, Shi-Wei Chu, J. V. Grazulevicius</p><p>Neutral-to-cationic transformation in twisted π-extended PyAcr shows that charge, coupling, and aggregation govern excited-state dynamics. Neutral PyAcr displays aggregation-induced delayed fluorescence and potential as a two-photon bioimaging probe.</p><p>DOI: 10.1039/d6cp02166b</p>]]></description>
-</item>
-<item>
-<title>A non-resonant Kβ valence-to-core X-ray emission approach for fluorine and oxygen differentiation in Zr compounds</title>
-<link>https://doi.org/10.1039/d6cp01440b</link>
-<guid isPermaLink="false">10.1039/d6cp01440b</guid>
-<pubDate>Tue, 20 Oct 2026 08:03:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Christian Heinekamp, C. Tufan Cakir, Ana Guilherme Buzanich, Konstantin Klementiev, Michael Roemelt, Thomas Braun, Franziska Emmerling</p><p>Zr Kβ VtC XES reveals distinct fluorine vs. oxygen coordination signatures, enabling ligand-specific identification beyond conventional X-ray techniques.</p><p>DOI: 10.1039/d6cp01440b</p>]]></description>
-</item>
-<item>
-<title>Differential effects of rattling-like behavior on the thermoelectric transport properties of KSnX (X = Bi, P) under the influence of lone-pair electrons</title>
-<link>https://doi.org/10.1039/d6cp02491b</link>
-<guid isPermaLink="false">10.1039/d6cp02491b</guid>
-<pubDate>Tue, 20 Oct 2026 07:23:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ran Zhang, Yinchang Zhao, Junping Wang, Jun Ni, Zhenhong Dai</p><p>Lone-pair electrons and rattling-like vibrations dominate lattice thermal transport. This work reveals the separate roles of rattling-like behavior and lone-pair electrons, providing deeper insight into layered Zintl thermoelectrics.</p><p>DOI: 10.1039/d6cp02491b</p>]]></description>
-</item>
-<item>
-<title>Computational screening of FeM@g-C 6 N 6 (M = selected 3d–5d transition metals) diatomic catalysts for selective electrocatalytic nitrogen reduction</title>
-<link>https://doi.org/10.1039/d6cp02439d</link>
-<guid isPermaLink="false">10.1039/d6cp02439d</guid>
-<pubDate>Tue, 20 Oct 2026 06:43:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rongjian Sa, Liangchun Wu, Linfeng Hu, Xintian Chen, Helong Wu, Weiguo Li, Zuju Ma, Yuan Hu</p><p>Descriptor-guided screening of FeM@g-C 6 N 6 diatomic catalysts links selective nitrogen reduction to *NNH formation and metal-to-N 2 back-donation, while adjacent *OH co-adsorption reveals local microenvironment effects on N 2 activation.</p><p>DOI: 10.1039/d6cp02439d</p>]]></description>
-</item>
-<item>
-<title>Does the Si/Al-order in K-feldspars influence their hydration structure?</title>
-<link>https://doi.org/10.1039/d6cp01884j</link>
-<guid isPermaLink="false">10.1039/d6cp01884j</guid>
-<pubDate>Tue, 20 Oct 2026 06:24:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Franziska Sabath, Rasmus V. E. Nilsson, Tobias Dickbreder, Hans-Georg Stammler, Ralf Bechstein, Angelika Kühnle, Bernhard Reischl</p><p>No significant impact of Si/Al-order on hydration layer structure of K-feldspars is observed in AFM experiments, but atomistic MD simulations indicate differences in hydration layer dynamics.</p><p>DOI: 10.1039/d6cp01884j</p>]]></description>
-</item>
-<item>
-<title>Concentration driven capillary motion of liquid droplets inside chemically and topographically heterogeneous nanopores</title>
-<link>https://doi.org/10.1039/d6cp02234k</link>
-<guid isPermaLink="false">10.1039/d6cp02234k</guid>
-<pubDate>Tue, 20 Oct 2026 06:04:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Prasad Baddi, Kaustubh Rane</p><p>We employ molecular dynamics simulations to investigate the capillary motion of liquid droplets within a nanopore featuring topographical and chemical heterogeneity along its longitudinal axis.</p><p>DOI: 10.1039/d6cp02234k</p>]]></description>
-</item>
-<item>
-<title>Electronic structure engineering of dual-atom catalysts to regulate N 2 adsorption geometry for enhanced nitrogen reduction</title>
-<link>https://doi.org/10.1039/d6cp03490j</link>
-<guid isPermaLink="false">10.1039/d6cp03490j</guid>
-<pubDate>Tue, 20 Oct 2026 00:03:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mingyang Ren, Bingling He, Song Ye, Mengyin Liu, Shasha Li, Yongchun Li, Mengli Zhao, Peng Lv, Huan Li, Zhansheng Lu</p><p>Dual-atom synergy-tuned electronic structure to regulate N 2 adsorption configuration, induce PDS switching, and establish volcano descriptors.</p><p>DOI: 10.1039/d6cp03490j</p>]]></description>
 </item>
 </channel></rss>
