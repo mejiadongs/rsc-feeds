@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 04 Nov 2026 19:52:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 06:59:14 +0000</lastBuildDate>
 <item>
 <title>Big reaction datasets for AI model training</title>
 <link>https://doi.org/10.1039/d6dd00433d</link>
@@ -101,33 +101,5 @@
 <guid isPermaLink="false">10.1039/d6dd00404k</guid>
 <pubDate>Mon, 26 Oct 2026 16:20:18 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Jannis Born, Carlo Baldassari, Doriela Grabocka, Antonio Cardinale, Oliver Schilter, Alessandro Castrogiovanni, Artem Leonov, Filip Skogh, Jeeven Singh, Yaoyao Xiong, John Evans, Thomas Fleming, Teodoro Laino, Matteo Manica</p><p>Combining AI and self-driving laboratories unlocks closed-loop molecular discovery by automation across all stages of the Design-Make-Test-Analyze (DMTA) cycle.</p><p>DOI: 10.1039/d6dd00404k</p>]]></description>
-</item>
-<item>
-<title>Graph neural network-assisted expansion of an experimental structural database of organic macrocycles and cages</title>
-<link>https://doi.org/10.1039/d6dd00394j</link>
-<guid isPermaLink="false">10.1039/d6dd00394j</guid>
-<pubDate>Wed, 21 Oct 2026 13:23:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhirui Lai, Siyuan Yang, Lifeng Ding, Ming Liu</p><p>We developed a GNN-based workflow to identify macrocycles and cages across the Cambridge Structural Database. This approach expanded the former Macrocycles and Cages Database to 26 860 entries, including 12 257 items missed by rule-based searches.</p><p>DOI: 10.1039/d6dd00394j</p>]]></description>
-</item>
-<item>
-<title>MetaPLI: retrieval-augmented in-context regression over protein–ligand structures for absolute binding affinity prediction</title>
-<link>https://doi.org/10.1039/d6dd00444j</link>
-<guid isPermaLink="false">10.1039/d6dd00444j</guid>
-<pubDate>Wed, 21 Oct 2026 13:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ziyun Qiao, Jintao Zhu, Yibo Li, Juan Xie, Jin Xie, Yu Li, Weilin Zhang, Jianfeng Pei, Luhua Lai</p><p>MetaPLI predicts binding affinity from complex structures and a few activity measurements. New assay results update the retrieved context, guiding subsequent prediction and compound selection in a lead optimization loop without retraining.</p><p>DOI: 10.1039/d6dd00444j</p>]]></description>
-</item>
-<item>
-<title>CyRxnOpt: generalized reaction optimization interface for autonomous laboratories and benchmarking</title>
-<link>https://doi.org/10.1039/d6dd00180g</link>
-<guid isPermaLink="false">10.1039/d6dd00180g</guid>
-<pubDate>Wed, 21 Oct 2026 06:03:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zachery Crandall, Dulitha P. Kulathunga, Lun An, Jie Zhang, Austin J. Thompson, Tyler B. Hall, Hailey M. Bates, Long Qi, Theresa L. Windus</p><p>CyRxnOpt provides autonomous laboratories and benchmarking frameworks a single interface to access diverse optimization algorithms. Its versatility is demonstrated through benchmarking on both analytical functions and experimental datasets.</p><p>DOI: 10.1039/d6dd00180g</p>]]></description>
-</item>
-<item>
-<title>Dual digital twins for experimental planning: from imaging and characterization to self-driving laboratories and manufacturing</title>
-<link>https://doi.org/10.1039/d6dd00638h</link>
-<guid isPermaLink="false">10.1039/d6dd00638h</guid>
-<pubDate>Wed, 21 Oct 2026 01:43:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sergei V. Kalinin, Yu Liu, Boris Slautin, Sheryl L. Sanchez, Kamyar Barakati, Ioannis Sgouralis, Hector Santos-Villalobos, Gerd Duscher, Charles Cao, Mahshid Ahmadi</p><p>Coupled sample and instrument twins predict possible outcomes of candidate measurements. The planner uses these predictions to select the next measurement; observations update the twins.</p><p>DOI: 10.1039/d6dd00638h</p>]]></description>
 </item>
 </channel></rss>
