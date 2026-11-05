@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 05 Nov 2026 06:59:14 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 20:04:39 +0000</lastBuildDate>
+<item>
+<title>An integrated pipeline for preprocessing and machine learning optimization in Raman spectroscopy</title>
+<link>https://doi.org/10.1039/d6dd00314a</link>
+<guid isPermaLink="false">10.1039/d6dd00314a</guid>
+<pubDate>Thu, 05 Nov 2026 13:56:16 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Simone Innocente, Katarzyna Komolibus, Stefan Andersson-Engels, Rekha Gautam, Andrea Visentin</p><p>The Raman pipeline jointly optimizes spectral preprocessing and classifier settings in a single search space, from raw spectra to predictions, for objective, reproducible and leakage-aware Raman classification.</p><p>DOI: 10.1039/d6dd00314a</p>]]></description>
+</item>
 <item>
 <title>Big reaction datasets for AI model training</title>
 <link>https://doi.org/10.1039/d6dd00433d</link>
@@ -47,11 +54,11 @@
 <description><![CDATA[<p><b>Authors:</b> Phillip W. Gingrich, Ansuman Biswas, Ioan L. Mica, Kevin M. Brammer, Zhigang Shu, David S. Maxwell, Kaitlyn P. Russell, Bissan Al-Lazikani</p><p>PocketBagger learns from experimentally observed drug-like ligand-binding pockets while treating all other pockets as unlabeled, enabling generalizable druggability prediction without unreliable negative labels.</p><p>DOI: 10.1039/d6dd00147e</p>]]></description>
 </item>
 <item>
-<title>Simulation of Radiation Chemistry by a One-Shot Hybrid Continuum / Monte Carlo Method</title>
+<title>Simulation of radiation chemistry by a one-shot hybrid continuum/Monte Carlo method</title>
 <link>https://doi.org/10.1039/d6dd00003g</link>
 <guid isPermaLink="false">10.1039/d6dd00003g</guid>
 <pubDate>Wed, 28 Oct 2026 12:03:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Charlie Perkins, Marcus Webb, Frederick Currell</p><p>Understanding the spatio-temporal evolution of radiolytic species created by high-energy electrons in water underpins key applications from radiotherapy and nuclear safety to environmental processing and electron microscopy. Here, using the...</p><p>DOI: 10.1039/d6dd00003g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Charlie Perkins, Marcus Webb, Fred J. Currell</p><p>A hybrid continuum/Monte Carlo method solves radiation chemical kinetics thousands of times faster than competitor methods at unprecedentedly high dose depositions by deterministically evolving stochastically placed reaction packets in time.</p><p>DOI: 10.1039/d6dd00003g</p>]]></description>
 </item>
 <item>
 <title>ML and AI for density functional theory: different priorities for Kohn-Sham and orbital-free DFT, for electronic and nuclear DFT</title>
