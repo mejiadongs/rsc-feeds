@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 06 Nov 2026 06:58:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 19:30:18 +0000</lastBuildDate>
+<item>
+<title>Tox4Chem: Human toxicity and ecotoxicity characterization powered by EosCloud</title>
+<link>https://doi.org/10.1039/d6dd00474a</link>
+<guid isPermaLink="false">10.1039/d6dd00474a</guid>
+<pubDate>Fri, 06 Nov 2026 10:23:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Dimitris G. Mintis, Panagiotis D. Kolokathis, Kerstin von Borries, Andreas Tsoumanis, Georgia Melagraki, Milica Velimirovic, Iseult Lynch, Peter Fantke, Antreas Afantitis</p><p>The characterization of human toxicity and freshwater ecotoxicity impacts of per-and polyfluoroalkyl substances (PFAS) remains challenging in Life Cycle Impact Assessment (LCIA), due to limited PFASspecific data and the practical...</p><p>DOI: 10.1039/d6dd00474a</p>]]></description>
+</item>
+<item>
+<title>Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery</title>
+<link>https://doi.org/10.1039/d6dd00472e</link>
+<guid isPermaLink="false">10.1039/d6dd00472e</guid>
+<pubDate>Fri, 06 Nov 2026 09:04:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Michael Backenköhler, Joschka Groß, Andrea Volkamer</p><p>The success of machine learning (ML) in drug discovery relies on modeling and evaluation strategies that accurately reflect the conditions under which compounds are tested in experimental practice. However, we...</p><p>DOI: 10.1039/d6dd00472e</p>]]></description>
+</item>
 <item>
 <title>An integrated pipeline for preprocessing and machine learning optimization in Raman spectroscopy</title>
 <link>https://doi.org/10.1039/d6dd00314a</link>
