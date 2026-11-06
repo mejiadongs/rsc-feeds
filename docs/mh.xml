@@ -3,7 +3,7 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Thu, 05 Nov 2026 20:04:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:58:09 +0000</lastBuildDate>
 <item>
 <title>Hydrophobic aromatic acrylamide copolymerization-induced in situ bicontinuous networks for ultra-robust and impact-resistant eutectogels</title>
 <link>https://doi.org/10.1039/d6mh01917j</link>
@@ -103,18 +103,18 @@
 <description><![CDATA[<p><b>Authors:</b> Marcos Luginieski, Bruno Bassi Millan Torres, Bianca de Andrade Feitosa, Henrique Frulani de Paula Barbosa, Björn Lüssem, Gregório Couto Faria</p><p>The antiambipolar current–voltage characteristics of OECTs are analytically modeled by considering a two-step redox process and the trade-off between mobile single charges and immobile double charges.</p><p>DOI: 10.1039/d6mh01595f</p>]]></description>
 </item>
 <item>
-<title>Monolithic flexible all-SnSe thermoelectric generators with co-sintered p-n junctions for efficient low-grade energy harvesting</title>
-<link>https://doi.org/10.1039/d6mh02154a</link>
-<guid isPermaLink="false">10.1039/d6mh02154a</guid>
-<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Tian, Changzhen Zhang, Shibo Liu, Dongrui Liu, Sining Wang, Bingchao Qin, Li-Dong Zhao</p><p>Flexible thermoelectric generators (f-TEGs) are promising power supplies for wearable and self-powered systems, but their practical output is limited by insufficient temperature gradient, high interficial resistance, and poor conformal adaptability...</p><p>DOI: 10.1039/d6mh02154a</p>]]></description>
-</item>
-<item>
 <title>Accelerated intraporous blood flow in directional sponges amplifies coagulation factor activation for rapid hemostasis</title>
 <link>https://doi.org/10.1039/d6mh01715k</link>
 <guid isPermaLink="false">10.1039/d6mh01715k</guid>
 <pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Controlled acceleration of blood flow within micrometer-scale directional channels in a porous hemostatic sponge amplifies coagulation factor activation at the molecular level, enabling effective in vivo hemostasis.</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
+</item>
+<item>
+<title>Monolithic flexible all-SnSe thermoelectric generators with co-sintered p-n junctions for efficient low-grade energy harvesting</title>
+<link>https://doi.org/10.1039/d6mh02154a</link>
+<guid isPermaLink="false">10.1039/d6mh02154a</guid>
+<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yu Tian, Changzhen Zhang, Shibo Liu, Dongrui Liu, Sining Wang, Bingchao Qin, Li-Dong Zhao</p><p>Flexible thermoelectric generators (f-TEGs) are promising power supplies for wearable and self-powered systems, but their practical output is limited by insufficient temperature gradient, high interficial resistance, and poor conformal adaptability...</p><p>DOI: 10.1039/d6mh02154a</p>]]></description>
 </item>
 <item>
 <title>High-current-density solid-state lithium metal batteries through interface engineering</title>
@@ -178,19 +178,5 @@
 <guid isPermaLink="false">10.1039/d6mh01475e</guid>
 <pubDate>Fri, 23 Oct 2026 10:03:13 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yu Shu, Naihua Miao, Shangbin Wu, Jing Yu, Siyu Han, Jichuan Dai, Linggang Zhu, Jian Zhou, Zhimei Sun</p><p>Electric fields switch ferrovalley junctions between single-valley and overall-valley contacts, while strain engineering reverses valley polarization.</p><p>DOI: 10.1039/d6mh01475e</p>]]></description>
-</item>
-<item>
-<title>ICE-CAP: ice crystal engineering for cryogel architecture programming. Modulation of material properties with ice-binding polymers</title>
-<link>https://doi.org/10.1039/d6mh01950a</link>
-<guid isPermaLink="false">10.1039/d6mh01950a</guid>
-<pubDate>Thu, 22 Oct 2026 09:38:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Cigdem Buse Oral, Libby J. Marshall, Dave J. Adams, Matthew I. Gibson</p><p>A bio-inspired strategy is introduced to programme ice crystal templates growth during cryogel formation, enabling precise control over material properties without changing the polymer components.</p><p>DOI: 10.1039/d6mh01950a</p>]]></description>
-</item>
-<item>
-<title>Photovoltage-regulated interfacial carrier delivery enables deep nitrate reduction and bias-free paired conversion</title>
-<link>https://doi.org/10.1039/d6mh01638c</link>
-<guid isPermaLink="false">10.1039/d6mh01638c</guid>
-<pubDate>Thu, 22 Oct 2026 08:51:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiguang Li, Xiangyu Guo, Siye Huang, Guoan Wu, Yoshitaro Nose, Shigeru Ikeda, Kang Wang, Feng Jiang</p><p>Engineering the buried CBS/buffer junction suppresses NO 2 − accumulation and promotes NH 4 + formation, while providing sufficient photoelectrochemical driving force for paired conversion without external bias.</p><p>DOI: 10.1039/d6mh01638c</p>]]></description>
 </item>
 </channel></rss>

@@ -3,7 +3,14 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Thu, 05 Nov 2026 20:04:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:58:17 +0000</lastBuildDate>
+<item>
+<title>Decoupled Electro-Biosynthesis of High-Value Bioproducts from CO2 and N2</title>
+<link>https://doi.org/10.1039/d6sc05584b</link>
+<guid isPermaLink="false">10.1039/d6sc05584b</guid>
+<pubDate>Fri, 06 Nov 2026 01:44:35 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Qianzi Hou, Yizhou Dai, Chenyue Zhang, Zixi Gao, Shuqi Guo, Chengbo Li, Tingting Zheng, Xiaohan Huang, Chuan Xia, Qiang Fei</p><p>The conversion of atmospheric carbon dioxide (CO2) and nitrogen (N2) into high-value bioproducts offers a promising pathway for sustainable chemistry, food, and material production. However, existing approaches remain constrained by...</p><p>DOI: 10.1039/d6sc05584b</p>]]></description>
+</item>
 <item>
 <title>Pressure-Driven Activation of Semi-core p -Orbitals in Rb and Cs via Crystal-Field Splitting</title>
 <link>https://doi.org/10.1039/d6sc06544a</link>
@@ -89,18 +96,18 @@
 <description><![CDATA[<p><b>Authors:</b> Mingchen Sun, Katerina Gavriel, Chenxuan Wan, Jelte Schermer, Kevin Neumann, Daniela A. Wilson</p><p>Tetrazine-based protection transiently masks cell-surface thiols, shielding them from oxidative damage. GSH-mediated deprotection restores native thiol reactivity and preserves thiol-mediated cellular uptake.</p><p>DOI: 10.1039/d6sc04306b</p>]]></description>
 </item>
 <item>
-<title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
-<link>https://doi.org/10.1039/d6sc06485j</link>
-<guid isPermaLink="false">10.1039/d6sc06485j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>Scanning tunnelling microscopy (STM) provides real space access to molecular and atomic structures, but autonomous operation remains constrained by the need for expert decisions in parameter optimization, image assessment, data...</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
-</item>
-<item>
 <title>Metal-Ligand orbital mixing mediates spin-phonon coupling in Group VI tetraaryl molecular color centers</title>
 <link>https://doi.org/10.1039/d6sc06308j</link>
 <guid isPermaLink="false">10.1039/d6sc06308j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Park, Dane Johnson, Mark C. Hersam, Danna Freedman, James Rondinelli</p><p>Understanding the microscopic mechanisms governing spin-phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times. Here, we present a...</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
+</item>
+<item>
+<title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
+<link>https://doi.org/10.1039/d6sc06485j</link>
+<guid isPermaLink="false">10.1039/d6sc06485j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>Scanning tunnelling microscopy (STM) provides real space access to molecular and atomic structures, but autonomous operation remains constrained by the need for expert decisions in parameter optimization, image assessment, data...</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
 </item>
 <item>
 <title>Electronic Excitation Pathway Engineering through p-Orbital Hybridization in Wide-Bandgap Na4Fe3(PO4)2P2O7 Cathode for Extreme-Condition Sodium Storage</title>
@@ -437,40 +444,5 @@
 <guid isPermaLink="false">10.1039/d6sc04444a</guid>
 <pubDate>Fri, 23 Oct 2026 06:04:17 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yuanyuan Zhang, Meihong Peng, Pufeihong Xia, Yile Liu, Xing-Hua Xia, Yi-Ge Zhou</p><p>An array-addressed scanning electrochemical cell microscopy (SECCM) platform enables targeted, dual-marker electrochemical profiling of E-cad and N-cad on predefined individual A549 cells during epithelial-mesenchymal transition (EMT).</p><p>DOI: 10.1039/d6sc04444a</p>]]></description>
-</item>
-<item>
-<title>Microscale high-throughput screening-assisted discovery of a photo/copper dual catalytic system for benzylic C(sp 2 )–C(sp 3 ) Suzuki–Miyaura coupling: data mining and mechanistic insights</title>
-<link>https://doi.org/10.1039/d6sc05841h</link>
-<guid isPermaLink="false">10.1039/d6sc05841h</guid>
-<pubDate>Thu, 22 Oct 2026 14:03:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Fujun Li, Yun Zou, Hongge Zhao, Peihao Cheng, Shuyang Liu, Yiming Xu, Jiayi Gao, Yunhe Jin, Shengyang Tao</p><p>Microscale high-throughput screening enables a mild Cu/photoredox benzylic C(sp 3 )–C(sp 2 ) Suzuki–Miyaura coupling. Quantitative modeling distinguishes visually apparent trends from reproducible predictive relationships.</p><p>DOI: 10.1039/d6sc05841h</p>]]></description>
-</item>
-<item>
-<title>Low-affinity exchangeable probes for super-resolution and long-term fluorescence imaging</title>
-<link>https://doi.org/10.1039/d6sc05417j</link>
-<guid isPermaLink="false">10.1039/d6sc05417j</guid>
-<pubDate>Thu, 22 Oct 2026 11:29:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Andrey S. Klymchenko, Remi Pelletier, Pascal Didier</p><p>Low-affinity fluorescence labelling can overcome the limitations of conventional labelling based on covalent bonds. Owing to the rapid probe exchange, it enables virtually unlimited recording time and ON/OFF switching for super-resolution imaging.</p><p>DOI: 10.1039/d6sc05417j</p>]]></description>
-</item>
-<item>
-<title>Heme sequestration and signaling in molecular condensates</title>
-<link>https://doi.org/10.1039/d6sc06692e</link>
-<guid isPermaLink="false">10.1039/d6sc06692e</guid>
-<pubDate>Thu, 22 Oct 2026 09:06:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ananya Mishra, Andrea E. Gallio, Emma L. Raven, Avinash J. Patil, Stephen Mann</p><p>Uptake of free heme into molecularly crowded coacervate microdroplets activates encapsulated sensor proteins and provides a step to heme regulation, signaling and biomolecular computation in synthetic/living condensate networks.</p><p>DOI: 10.1039/d6sc06692e</p>]]></description>
-</item>
-<item>
-<title>Anion-specific fluorescence enhancement via counterion modulation in biphenyl-based porous cage salts</title>
-<link>https://doi.org/10.1039/d6sc06722k</link>
-<guid isPermaLink="false">10.1039/d6sc06722k</guid>
-<pubDate>Thu, 22 Oct 2026 09:02:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rachel M. Sabatino, Merissa N. Morey, Alex Lovstedt, Eric D. Bloch</p><p>Exchanging triflate for alternative anions enhances fluorescence in porous biphenyl-based zirconium cages.</p><p>DOI: 10.1039/d6sc06722k</p>]]></description>
-</item>
-<item>
-<title>Microwave-irradiated ultrafast synthesis of NiSnPdPtRh high-entropy alloy nanorods for high-efficiency electrocatalytic hydrogen evolution reaction</title>
-<link>https://doi.org/10.1039/d6sc06688g</link>
-<guid isPermaLink="false">10.1039/d6sc06688g</guid>
-<pubDate>Thu, 22 Oct 2026 06:43:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yuan Fang, Siyuan Lai, Mairui Long, Keying Xing, Yanfang Wu, Junli Ren, Zhan Zhang, Wei Keat Ng, Tao Huang, Xiongwu Kang</p><p>NiSnPdPtRh high-entropy alloy nanorods (HEA NRs) are rapidly synthesized in 180 s via microwave irradiation. After carbon-supported heat treatment, the as-prepared NiSnPdPtRh@C NRs display exceptional HER performance and electrochemical durability.</p><p>DOI: 10.1039/d6sc06688g</p>]]></description>
 </item>
 </channel></rss>

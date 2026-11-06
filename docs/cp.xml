@@ -3,7 +3,7 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Thu, 05 Nov 2026 20:04:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:58:15 +0000</lastBuildDate>
 <item>
 <title>Data-Driven Structure-Spectrum Mapping of a Heterogeneous miRNA Ensemble</title>
 <link>https://doi.org/10.1039/d6cp02631a</link>
@@ -313,18 +313,18 @@
 <description><![CDATA[<p><b>Authors:</b> Sujata Nandi, Nandini Ananth</p><p>Hybrid semiclassical (SC) approaches offer an efficient route to simulations of nonadiabatic dynamics by selectively quantizing key degrees of freedom, retaining the accuracy of quantum-limit SC methods at a reduced computational cost.</p><p>DOI: 10.1039/d6cp02579j</p>]]></description>
 </item>
 <item>
-<title>Quasichemical Short-Range Order in High-Entropy Reciprocal Melts: Li, Na, K || F, Cl</title>
-<link>https://doi.org/10.1039/d6cp03168d</link>
-<guid isPermaLink="false">10.1039/d6cp03168d</guid>
-<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dmitry Zakiryanov, Nickolay Konstantinovich Tkachev</p><p>We present a combined molecular dynamics and analytical study of quasichemical short-range order and entropy decomposition in the high-entropy reciprocal quaternary melt LiF–NaF–KF–LiCl–NaCl–KCl (equimolar composition ) at 900 K. Using...</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
-</item>
-<item>
 <title>Machine Learning Potential Simulations Reveal Coupled Thermodynamic and Kinetic Control of C 2 H 6 /C 2 H 4 Retention in a Prototypical Ultramicroporous MOF</title>
 <link>https://doi.org/10.1039/d6cp03227c</link>
 <guid isPermaLink="false">10.1039/d6cp03227c</guid>
 <pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>The separation of ethane from ethylene is important in the petrochemical industry but remains highly energy-intensive. How adsorption-site stability and diffusion mechanisms jointly govern C 2 H 6 /C 2 H 4 selectivity in ultramicroporous metalorganic frameworks...</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
+</item>
+<item>
+<title>Quasichemical Short-Range Order in High-Entropy Reciprocal Melts: Li, Na, K || F, Cl</title>
+<link>https://doi.org/10.1039/d6cp03168d</link>
+<guid isPermaLink="false">10.1039/d6cp03168d</guid>
+<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Dmitry Zakiryanov, Nickolay Konstantinovich Tkachev</p><p>We present a combined molecular dynamics and analytical study of quasichemical short-range order and entropy decomposition in the high-entropy reciprocal quaternary melt LiF–NaF–KF–LiCl–NaCl–KCl (equimolar composition ) at 900 K. Using...</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
 </item>
 <item>
 <title>A mechanism study of efficient photoreduction of CO 2 to CO using Bodipy-derived heavy-atom-free electron donor-acceptor dyads as photosensitizers showing strong absorption of green light</title>
@@ -689,75 +689,5 @@
 <guid isPermaLink="false">10.1039/d6cp03199d</guid>
 <pubDate>Fri, 23 Oct 2026 01:23:23 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Qingya Wang, Shuliang Wu, Liangliang Tao, Xiaoping Zou, Zhichun Wu, Yaozu Qin, Linfei Qui</p><p>In-situ characterization of chromium (Cr) redox kinetics in heterogeneous mine tailing is often limited by spectral overlaps and matrix-dependent signal interference. While machine learning provides a tool for spectral deconvolution,...</p><p>DOI: 10.1039/d6cp03199d</p>]]></description>
-</item>
-<item>
-<title>Sequential structural changes in the monomeric LOV histidine kinase EL346 revealed by transient infrared spectroscopy</title>
-<link>https://doi.org/10.1039/d6cp03453e</link>
-<guid isPermaLink="false">10.1039/d6cp03453e</guid>
-<pubDate>Thu, 22 Oct 2026 17:28:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Philipp Janke, Raoul E. Herzog, Philipp J. Heckmeier, Peter Hamm</p><p>Transient infrared spectroscopy of the LOV histidine kinase EL346 reveals microsecond-to-millisecond structure changes upon blue-light activation. Signal transduction proceeds through a central α-helical linker in a sequence of kinetic steps.</p><p>DOI: 10.1039/d6cp03453e</p>]]></description>
-</item>
-<item>
-<title>Probing electronic structure of chiral and achiral unsaturated hydrocarbons at the carbon edge</title>
-<link>https://doi.org/10.1039/d6cp03527b</link>
-<guid isPermaLink="false">10.1039/d6cp03527b</guid>
-<pubDate>Thu, 22 Oct 2026 14:03:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> George Baffour Pipim, Madhubani Mukherjee, Anna I. Krylov</p><p>Carbon K-edge simulations show how chiralization activates dark transitions and redistributes intensities. Signed XCD features reveal electronic structure hidden within congested XAS bands.</p><p>DOI: 10.1039/d6cp03527b</p>]]></description>
-</item>
-<item>
-<title>Mismatch between density- and energy-optimal one-electron reduced density matrices in finite basis sets</title>
-<link>https://doi.org/10.1039/d6cp03554j</link>
-<guid isPermaLink="false">10.1039/d6cp03554j</guid>
-<pubDate>Thu, 22 Oct 2026 13:03:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Georgii N. Sizov, Viktor N. Staroverov</p><p>Reduced density matrices reconstructed by fitting electron densities can yield poor energies by introducing weakly occupied but energetically costly oscillatory natural orbitals.</p><p>DOI: 10.1039/d6cp03554j</p>]]></description>
-</item>
-<item>
-<title>Spin Hall effect in organic semiconductors</title>
-<link>https://doi.org/10.1039/d6cp03650c</link>
-<guid isPermaLink="false">10.1039/d6cp03650c</guid>
-<pubDate>Thu, 22 Oct 2026 11:09:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiaobei Zhang, Guichao Hu</p><p>This review presents recent experimental and theoretical progress on the spin Hall effect (SHE) in organic semiconductors. A new mechanism for a sizable SHE through skew scattering off lattice distortion was reported.</p><p>DOI: 10.1039/d6cp03650c</p>]]></description>
-</item>
-<item>
-<title>Alchemical free energy methods for solubility of O 2 , N 2 and CO 2 in perfluorocarbons</title>
-<link>https://doi.org/10.1039/d6cp01558a</link>
-<guid isPermaLink="false">10.1039/d6cp01558a</guid>
-<pubDate>Thu, 22 Oct 2026 09:26:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Isaac J. Spackman, Haden Cavalli, Steven P. Nixon, Jacob D. States, Shubham Vyas</p><p>Solubility of gases in liquids is governed by a complex interplay of electrostatic interactions, entropy, and molecular polarizability.</p><p>DOI: 10.1039/d6cp01558a</p>]]></description>
-</item>
-<item>
-<title>Quantitative infrared analysis to investigate the short-range order of lithium bismuth borate glasses along the orthoborate tie line</title>
-<link>https://doi.org/10.1039/d5cp04770f</link>
-<guid isPermaLink="false">10.1039/d5cp04770f</guid>
-<pubDate>Thu, 22 Oct 2026 07:03:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Christos P. E. Varsamis, Brian Topper, Elizabeth M. Tsekrekas</p><p>The infrared absorption coefficient spectra of glasses with composition (75 − 1.5 x )Li 2 O– x Bi 2 O 3 –(25 + 0.5 x )B 2 O 3 were utilized for quantification of the short-range order structure of the borate species.</p><p>DOI: 10.1039/d5cp04770f</p>]]></description>
-</item>
-<item>
-<title>Infrared spectroscopic and theoretical characterization of hemibond stability in microhydrated [H 2 O–X] + (X = Kr and Xe) radical cation clusters</title>
-<link>https://doi.org/10.1039/d6cp03474h</link>
-<guid isPermaLink="false">10.1039/d6cp03474h</guid>
-<pubDate>Thu, 22 Oct 2026 06:43:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tatsuki Hosoda, Asuka Fujii</p><p>Hemibonded [H 2 O–X] + (X = Kr and Xe) clusters respond differently to microhydration. The hemibond in [H 2 O–Kr] + is disrupted, whereas that in [H 2 O–Xe] + remains intact.</p><p>DOI: 10.1039/d6cp03474h</p>]]></description>
-</item>
-<item>
-<title>Unraveling the synergistic potential of naringenin as an Aβ fibrillation inhibitor with metal chelating and antioxidant properties</title>
-<link>https://doi.org/10.1039/d6cp01611a</link>
-<guid isPermaLink="false">10.1039/d6cp01611a</guid>
-<pubDate>Thu, 22 Oct 2026 06:03:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Opinder Kaur Mankoo, Nitesh Priyadarshi, Prit Pal Singh, Bhupesh Goyal, Nitin Kumar Singhal, Deepti Goyal</p><p>The study highlights the potential of Naringenin (NAR) as a multifunctional ligand, targeting Aβ/Cu 2+ −Aβ fibrillation and oxidative stress. Furthermore, NAR-mediated destabilization of LS-shaped Aβ 42 protofibril was illuminated using MD simulations.</p><p>DOI: 10.1039/d6cp01611a</p>]]></description>
-</item>
-<item>
-<title>Deciphering Interphase Formation from TFSI-Analog Anions on Calcium Metal Anode: Insights from DFT and AIMD Simulations</title>
-<link>https://doi.org/10.1039/d6cp03055f</link>
-<guid isPermaLink="false">10.1039/d6cp03055f</guid>
-<pubDate>Thu, 22 Oct 2026 06:03:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Abhiruchi Sharma, Puneet Gupta</p><p>Calcium-ion batteries (CIBs) offer immense potential for high energy density storage, yet the spontaneous formation of a calcium-ion-impermeable passivation layer at the calcium metal anode remains a critical bottleneck. Conventional...</p><p>DOI: 10.1039/d6cp03055f</p>]]></description>
-</item>
-<item>
-<title>Molecular-packing-controlled crystalline-state fluorescence in symmetrical adamantane-substituted dithiomaleimides</title>
-<link>https://doi.org/10.1039/d6cp03236b</link>
-<guid isPermaLink="false">10.1039/d6cp03236b</guid>
-<pubDate>Thu, 22 Oct 2026 01:04:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ryosuke Morita, Yuto Hirayama, Akitaka Ito, Katsuki Osaki, Rika Ochi</p><p>Symmetrical adamantane-substituted dithiomaleimides are non-emissive in solution but exhibit distinct crystalline-state fluorescence. Different chromophore packing underlies their fluorescence properties.</p><p>DOI: 10.1039/d6cp03236b</p>]]></description>
 </item>
 </channel></rss>
