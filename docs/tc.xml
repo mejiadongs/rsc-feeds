@@ -3,7 +3,14 @@
 <title>RSC - Journal of Materials Chemistry C</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/tc</link>
 <description>RSC - Journal of Materials Chemistry C (via Crossref)</description>
-<lastBuildDate>Fri, 06 Nov 2026 19:30:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 06:11:26 +0000</lastBuildDate>
+<item>
+<title>Influence of Donor Regioisomerism on Structural Evolution during Electrochemical Doping in NDI-Based Donor-Acceptor Copolymers: A combined DFT and molecular dynamics study</title>
+<link>https://doi.org/10.1039/d6tc02741e</link>
+<guid isPermaLink="false">10.1039/d6tc02741e</guid>
+<pubDate>Fri, 06 Nov 2026 21:23:43 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Swathi Suneesh, Sushri Soumya, Igor V Zozoulenko, Sarbani Ghosh, Mohit Garg</p><p>Subtle variations in the donor structure can significantly affect the (opto)electronic and morphological properties of NDI-based organic mixed ionic-electronic conductors (OMIECs) in organic electrochemical transistors (OECT) applications. Herein, we have...</p><p>DOI: 10.1039/d6tc02741e</p>]]></description>
+</item>
 <item>
 <title>Optical Gap Tuning in Vapor-Deposited Lead-Free Cs3Bi2-xSbₓI9 Perovskite-Inspired Thin Films through Bi/Sb Alloying</title>
 <link>https://doi.org/10.1039/d6tc02477g</link>
@@ -479,19 +486,5 @@
 <guid isPermaLink="false">10.1039/d6tc01982j</guid>
 <pubDate>Sun, 25 Oct 2026 01:04:17 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Xiaoxi Zhang, Zehui Xiong, Wenjing Hu, Jiajun Jiang, Xiaotong Su, Lingrui Tong, Wenjie Wang, Geming Fu, Lin Peng, Tingting Shi, Xiaolin Liu, Jia Lin</p><p>Machine-learning screening of compositional space formed by experimentally synthesizable elements identified 16 stable, highly luminescent blue emitters, highlighting antimony's key role and device potential.</p><p>DOI: 10.1039/d6tc01982j</p>]]></description>
-</item>
-<item>
-<title>Calcination-free persistent luminescence in solvothermally synthesized Pr 3+ -doped Ba,CaTiO 3 nanoparticles</title>
-<link>https://doi.org/10.1039/d6tc02565j</link>
-<guid isPermaLink="false">10.1039/d6tc02565j</guid>
-<pubDate>Fri, 23 Oct 2026 15:03:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> York Estewin Serge-Correales, Ana Clara de Souza Fonseca Costa, Marco Aurelio Teodoro da Silva, Lauro June Queiroz Maia, Antonio Claudio Tedesco, Rogéria Rocha Gonçalves</p><p>Calcination-free Pr 3+ -doped Ba,CaTiO 3 nanoparticles exhibit persistent red luminescence. Tailoring the Ca/Ba ratio optimizes defect chemistry and charge trapping, enabling long-lasting emission under mild synthesis conditions.</p><p>DOI: 10.1039/d6tc02565j</p>]]></description>
-</item>
-<item>
-<title>High-stability layered-phase Cs 3 Sb 2 I 9 lead-free perovskite memristors for image processing and neuromorphic computing</title>
-<link>https://doi.org/10.1039/d6tc02735k</link>
-<guid isPermaLink="false">10.1039/d6tc02735k</guid>
-<pubDate>Fri, 23 Oct 2026 10:23:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jian Liu, Xuanji Li, Junjun Ouyang, Chuanfu Liu, Xiaolong Zhou, Mingzhi Zhang, Hongqiang Xie, Jianqiang Luo, Ke Wang</p><p>A 5 × 5 W/Cs 3 Sb 2 I 9 /ITO memristor array demonstrates reliable writing and erasing of letter patterns via SET/RESET operations, enabling reconfigurable image display.</p><p>DOI: 10.1039/d6tc02735k</p>]]></description>
 </item>
 </channel></rss>

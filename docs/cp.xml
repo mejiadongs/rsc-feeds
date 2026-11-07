@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Fri, 06 Nov 2026 19:30:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 06:11:31 +0000</lastBuildDate>
+<item>
+<title>Modeling the Interfacial Curvature Effect of Electrode Roughness in Ionic Capacitive Pressure Sensing under Intimate Contact</title>
+<link>https://doi.org/10.1039/d6cp03748h</link>
+<guid isPermaLink="false">10.1039/d6cp03748h</guid>
+<pubDate>Sat, 07 Nov 2026 02:24:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wei Zeng, Ruohong Yin, Qinji He, Aoxiang Liang, Bo Li, Yi Xiong, Sakil Mahmud</p><p>Capacitive pressure sensors commonly exploit surface roughness to increase contact area and enhance sensitivity; however, the role of electrode roughness after intimate electrode–dielectric contact is established remains poorly understood. Here,...</p><p>DOI: 10.1039/d6cp03748h</p>]]></description>
+</item>
 <item>
 <title>From probability redistribution to vibrational spectra: a vibrational-FELDS study of liquid water</title>
 <link>https://doi.org/10.1039/d6cp03071h</link>
@@ -355,18 +362,18 @@
 <description><![CDATA[<p><b>Authors:</b> Sujata Nandi, Nandini Ananth</p><p>Hybrid semiclassical (SC) approaches offer an efficient route to simulations of nonadiabatic dynamics by selectively quantizing key degrees of freedom, retaining the accuracy of quantum-limit SC methods at a reduced computational cost.</p><p>DOI: 10.1039/d6cp02579j</p>]]></description>
 </item>
 <item>
-<title>Machine Learning Potential Simulations Reveal Coupled Thermodynamic and Kinetic Control of C 2 H 6 /C 2 H 4 Retention in a Prototypical Ultramicroporous MOF</title>
-<link>https://doi.org/10.1039/d6cp03227c</link>
-<guid isPermaLink="false">10.1039/d6cp03227c</guid>
-<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>The separation of ethane from ethylene is important in the petrochemical industry but remains highly energy-intensive. How adsorption-site stability and diffusion mechanisms jointly govern C 2 H 6 /C 2 H 4 selectivity in ultramicroporous metalorganic frameworks...</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
-</item>
-<item>
 <title>Quasichemical Short-Range Order in High-Entropy Reciprocal Melts: Li, Na, K || F, Cl</title>
 <link>https://doi.org/10.1039/d6cp03168d</link>
 <guid isPermaLink="false">10.1039/d6cp03168d</guid>
 <pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Dmitry Zakiryanov, Nickolay Konstantinovich Tkachev</p><p>We present a combined molecular dynamics and analytical study of quasichemical short-range order and entropy decomposition in the high-entropy reciprocal quaternary melt LiF–NaF–KF–LiCl–NaCl–KCl (equimolar composition ) at 900 K. Using...</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
+</item>
+<item>
+<title>Machine Learning Potential Simulations Reveal Coupled Thermodynamic and Kinetic Control of C 2 H 6 /C 2 H 4 Retention in a Prototypical Ultramicroporous MOF</title>
+<link>https://doi.org/10.1039/d6cp03227c</link>
+<guid isPermaLink="false">10.1039/d6cp03227c</guid>
+<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>The separation of ethane from ethylene is important in the petrochemical industry but remains highly energy-intensive. How adsorption-site stability and diffusion mechanisms jointly govern C 2 H 6 /C 2 H 4 selectivity in ultramicroporous metalorganic frameworks...</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
 </item>
 <item>
 <title>A mechanism study of efficient photoreduction of CO 2 to CO using Bodipy-derived heavy-atom-free electron donor-acceptor dyads as photosensitizers showing strong absorption of green light</title>
@@ -703,33 +710,5 @@
 <guid isPermaLink="false">10.1039/d6cp02999j</guid>
 <pubDate>Mon, 26 Oct 2026 07:23:22 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> David Simeone, Thibaut Herin, Pascal Bouniol, Stéphane Poyet, Tulio Honorio, Sophie Le Caër</p><p>A fractional diffusion model describes delayed H 2 release from irradiated portlandite, with a subdiffusive exponent consistent with atomistic simulations.</p><p>DOI: 10.1039/d6cp02999j</p>]]></description>
-</item>
-<item>
-<title>Identifying ideal solvents through evaluating mass transport channels at local three-phase interfaces of Pt/C catalysts: MD simulations</title>
-<link>https://doi.org/10.1039/d6cp03392j</link>
-<guid isPermaLink="false">10.1039/d6cp03392j</guid>
-<pubDate>Fri, 23 Oct 2026 14:23:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qiong Xiang, Shangkun Jiang, Na Yang, Zhenyang Xie, Li Li, Zidong Wei</p><p>Schematic diagram of the molecular mechanism by which solvents regulate the aggregation morphology of Nafion ionomers on the Pt surface and oxygen transport channels.</p><p>DOI: 10.1039/d6cp03392j</p>]]></description>
-</item>
-<item>
-<title>Mechanistic insights into the weakly temperature-dependent thermal conductivity of La 2 Zr 2 O 7 crystals through quartic anharmonic renormalization</title>
-<link>https://doi.org/10.1039/d6cp02757a</link>
-<guid isPermaLink="false">10.1039/d6cp02757a</guid>
-<pubDate>Fri, 23 Oct 2026 09:53:51 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Junwei Che, Guoliang Ren, Xuezhi Wang, Jiajun Linghu, Shengli Zhang</p><p>Finite-temperature anharmonic renormalization stabilizes particle-like phonon transport in La 2 Zr 2 O 7 crystals while suppressing coherent transport, revealing the microscopic origin of its weakly temperature-dependent thermal conductivity.</p><p>DOI: 10.1039/d6cp02757a</p>]]></description>
-</item>
-<item>
-<title>Size Effect on Reaction Kinetic Parameters and Microscopic Regulation Mechanism of DAAF Nanoparticles by ReaxFF-lg-opt Molecular Dynamics Simulations</title>
-<link>https://doi.org/10.1039/d6cp02582j</link>
-<guid isPermaLink="false">10.1039/d6cp02582j</guid>
-<pubDate>Fri, 23 Oct 2026 09:43:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ruoqian Zhou, Zhiqiang Qiao, Xiaona HUANG, Guangcheng Yang</p><p>Size-dependent chemical reaction kinetic parameters are critical for elucidating the thermal decomposition mechanisms of nano-energetic materials and provide fundamental kinetic references for energetic material modeling. However, the evolution laws governing...</p><p>DOI: 10.1039/d6cp02582j</p>]]></description>
-</item>
-<item>
-<title>Resolving Heterogeneous Chromium Redox Kinetics in Complex Matrices via Physics-Informed XRF and Vis-NIR Spectrometry</title>
-<link>https://doi.org/10.1039/d6cp03199d</link>
-<guid isPermaLink="false">10.1039/d6cp03199d</guid>
-<pubDate>Fri, 23 Oct 2026 01:23:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qingya Wang, Shuliang Wu, Liangliang Tao, Xiaoping Zou, Zhichun Wu, Yaozu Qin, Linfei Qui</p><p>In-situ characterization of chromium (Cr) redox kinetics in heterogeneous mine tailing is often limited by spectral overlaps and matrix-dependent signal interference. While machine learning provides a tool for spectral deconvolution,...</p><p>DOI: 10.1039/d6cp03199d</p>]]></description>
 </item>
 </channel></rss>
