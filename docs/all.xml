@@ -3,7 +3,7 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sun, 08 Nov 2026 06:16:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 13:40:52 +0000</lastBuildDate>
 <item>
 <title>[TC] Remote magnetothermal actuation in magnetic polymer composites: from matrix softening to network liquefaction</title>
 <link>https://doi.org/10.1039/d6tc02176j</link>
@@ -1349,18 +1349,18 @@
 <description><![CDATA[<p><b>Authors:</b> Piyumi Kodithuwakku, Christian Samundsett, Stephane Armand, Gabriel Bartholazzi, Daniel H. Macdonald, Lachlan E. Black</p><p>The influence of boron doping for ALD ZnO:B films within SiO x /ZnO:B/Al 2 O 3 electron-selective passivating contact stacks on c-Si is explored. Passivation and contact performance are correlated with structural, electrical and optical properties.</p><p>DOI: 10.1039/d6ta08045f</p>]]></description>
 </item>
 <item>
-<title>[SC] Metal-Ligand orbital mixing mediates spin-phonon coupling in Group VI tetraaryl molecular color centers</title>
-<link>https://doi.org/10.1039/d6sc06308j</link>
-<guid isPermaLink="false">10.1039/d6sc06308j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Park, Dane Johnson, Mark C. Hersam, Danna Freedman, James Rondinelli</p><p>Understanding the microscopic mechanisms governing spin-phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times. Here, we present a...</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
-</item>
-<item>
 <title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
 <link>https://doi.org/10.1039/d6sc06485j</link>
 <guid isPermaLink="false">10.1039/d6sc06485j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>Scanning tunnelling microscopy (STM) provides real space access to molecular and atomic structures, but autonomous operation remains constrained by the need for expert decisions in parameter optimization, image assessment, data...</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
+</item>
+<item>
+<title>[SC] Metal-Ligand orbital mixing mediates spin-phonon coupling in Group VI tetraaryl molecular color centers</title>
+<link>https://doi.org/10.1039/d6sc06308j</link>
+<guid isPermaLink="false">10.1039/d6sc06308j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Park, Dane Johnson, Mark C. Hersam, Danna Freedman, James Rondinelli</p><p>Understanding the microscopic mechanisms governing spin-phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times. Here, we present a...</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
 </item>
 <item>
 <title>[CP] Modelling pressure and solvation effects in intermolecular charge-transfer excitations</title>
