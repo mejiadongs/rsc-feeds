@@ -3,7 +3,7 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sat, 07 Nov 2026 21:58:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 06:16:41 +0000</lastBuildDate>
 <item>
 <title>[TC] Remote magnetothermal actuation in magnetic polymer composites: from matrix softening to network liquefaction</title>
 <link>https://doi.org/10.1039/d6tc02176j</link>
@@ -1349,18 +1349,18 @@
 <description><![CDATA[<p><b>Authors:</b> Piyumi Kodithuwakku, Christian Samundsett, Stephane Armand, Gabriel Bartholazzi, Daniel H. Macdonald, Lachlan E. Black</p><p>The influence of boron doping for ALD ZnO:B films within SiO x /ZnO:B/Al 2 O 3 electron-selective passivating contact stacks on c-Si is explored. Passivation and contact performance are correlated with structural, electrical and optical properties.</p><p>DOI: 10.1039/d6ta08045f</p>]]></description>
 </item>
 <item>
-<title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
-<link>https://doi.org/10.1039/d6sc06485j</link>
-<guid isPermaLink="false">10.1039/d6sc06485j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>Scanning tunnelling microscopy (STM) provides real space access to molecular and atomic structures, but autonomous operation remains constrained by the need for expert decisions in parameter optimization, image assessment, data...</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
-</item>
-<item>
 <title>[SC] Metal-Ligand orbital mixing mediates spin-phonon coupling in Group VI tetraaryl molecular color centers</title>
 <link>https://doi.org/10.1039/d6sc06308j</link>
 <guid isPermaLink="false">10.1039/d6sc06308j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Park, Dane Johnson, Mark C. Hersam, Danna Freedman, James Rondinelli</p><p>Understanding the microscopic mechanisms governing spin-phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times. Here, we present a...</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
+</item>
+<item>
+<title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
+<link>https://doi.org/10.1039/d6sc06485j</link>
+<guid isPermaLink="false">10.1039/d6sc06485j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>Scanning tunnelling microscopy (STM) provides real space access to molecular and atomic structures, but autonomous operation remains constrained by the need for expert decisions in parameter optimization, image assessment, data...</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
 </item>
 <item>
 <title>[CP] Modelling pressure and solvation effects in intermolecular charge-transfer excitations</title>
@@ -1643,18 +1643,18 @@
 <description><![CDATA[<p><b>Authors:</b> Manish Neupane, Jiayue Hu, Jiachun Wu, Wenhu Wang, Yaqing Guo, Christopher T. Nelson, Hsin-Yun Chao, Yuqing Meng, Chenchi Gong, Xiahua Zhong, Qiangu Yan, Jinwu Wang, Bo Li, Kai He, Zhiyong Cai, Yizhi Xiang, Ling Liu, Yingchao Yang</p><p>MOFs are converted into octahedral metal@carbon core/shell hybrids that preserve the parent framework. The conductive carbon shell enables Joule-heating catalytic NH 3 decomposition at low temperatures.</p><p>DOI: 10.1039/d6nr04094b</p>]]></description>
 </item>
 <item>
-<title>[CC] Site-Selective Palladium-Catalyzed Alkenylation of Tyrosine-Containing Peptides with Quinones</title>
-<link>https://doi.org/10.1039/d6cc06630e</link>
-<guid isPermaLink="false">10.1039/d6cc06630e</guid>
-<pubDate>Tue, 03 Nov 2026 11:03:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qinyu Lu, Jingying Zhang, Haoran Si, Xue Li, Xinyu Fu, Jian Tang</p><p>A palladium-catalyzed C-H alkenylation for the site-selective modification of tyrosine-containing peptides with quinones was reported. The transformation exploits the endogenous phenolic hydroxyl group of tyrosine as both a native directing...</p><p>DOI: 10.1039/d6cc06630e</p>]]></description>
-</item>
-<item>
 <title>[CC] Synthesis and Reactivity of Low-Valent, High-Spin 2:1 Bisphosphine-Iron Complexes</title>
 <link>https://doi.org/10.1039/d6cc06766b</link>
 <guid isPermaLink="false">10.1039/d6cc06766b</guid>
 <pubDate>Tue, 03 Nov 2026 11:03:26 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Egor Kokin, Shih-Chieh Kao, Michael L. Neidig</p><p>Herein we report the synthesis and characterisation of the first high-spin 2:1 bisphosphine-Fe(I) (S = 3/2) and Fe(0) (S = 1) complexes supported by 1,2-bis(dicyclohexylphosphino)ethane (dcype). Their fate under catalytic...</p><p>DOI: 10.1039/d6cc06766b</p>]]></description>
+</item>
+<item>
+<title>[CC] Site-Selective Palladium-Catalyzed Alkenylation of Tyrosine-Containing Peptides with Quinones</title>
+<link>https://doi.org/10.1039/d6cc06630e</link>
+<guid isPermaLink="false">10.1039/d6cc06630e</guid>
+<pubDate>Tue, 03 Nov 2026 11:03:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Qinyu Lu, Jingying Zhang, Haoran Si, Xue Li, Xinyu Fu, Jian Tang</p><p>A palladium-catalyzed C-H alkenylation for the site-selective modification of tyrosine-containing peptides with quinones was reported. The transformation exploits the endogenous phenolic hydroxyl group of tyrosine as both a native directing...</p><p>DOI: 10.1039/d6cc06630e</p>]]></description>
 </item>
 <item>
 <title>[EE] Fibrous Membrane-Based Hydrogel Smart Glazing with Both Static and Dynamic Light Management</title>
@@ -1874,18 +1874,18 @@
 <description><![CDATA[<p><b>Authors:</b> Xiaoyue Zhang, Hyeonji Rha, Yuanzhi Zhang, Ming Gao, Jaewon Kim, Wenjing Zheng, Yesim Bakan, Jingtian Chi, Yueyuan Cai, Xingang Wang, Chengqin Wang, Jie Wang, Bin Yue, Zhi Chen, Jong Seung Kim, Meng Qiu</p><p>Sensitive and multiplexed visualization of endogenous RNA in living cells remains challenging because of insufficient signal amplification, background activation, and interference between parallel readout pathways, particularly for low-abundance regulatory RNAs....</p><p>DOI: 10.1039/d6sc07431f</p>]]></description>
 </item>
 <item>
-<title>[TA] Decoupling the Chemical and Physical Effects of Crosslinking in Starch/Chitosan-Derived Hard Carbon for High-Performance Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta07451k</link>
-<guid isPermaLink="false">10.1039/d6ta07451k</guid>
-<pubDate>Tue, 03 Nov 2026 07:04:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Guang Zeng, Zhenqing Wei, Xinquan Shen, Fangjie Nie, Yaqing Bai, Zhaoyong Chen, huamin hu, Junfei Duan</p><p>The molecular engineering of biomass-derived hard carbons via crosslinking has garnered significant interest for sodium-ion battery anodes, yet the intrinsic contributions of crosslinking-specifically, the chemical effects of covalent bond formation...</p><p>DOI: 10.1039/d6ta07451k</p>]]></description>
-</item>
-<item>
 <title>[TA] Mechanically Reinforced Trabecular Ni-Fe-Mo Ternary MOF Architecture for Ultra-Stable Water Splitting at 2000 mA cm-2</title>
 <link>https://doi.org/10.1039/d6ta06426d</link>
 <guid isPermaLink="false">10.1039/d6ta06426d</guid>
 <pubDate>Tue, 03 Nov 2026 07:04:11 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Ruiming Zheng, Usman Khan, Agasthiyaraj Lakshmanan, Mohan Xin, Adeela Nairan, An-jian Lu, Yuxia Gu, Andrei Khlobystov, Junkuo Gao</p><p>The scalable green hydrogen production by electrochemical water splitting is still hindered by the sluggish kinetics of the anodic oxygen evolution reaction (OER) and the mechanically intrinsic vulnerability of conventional...</p><p>DOI: 10.1039/d6ta06426d</p>]]></description>
+</item>
+<item>
+<title>[TA] Decoupling the Chemical and Physical Effects of Crosslinking in Starch/Chitosan-Derived Hard Carbon for High-Performance Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta07451k</link>
+<guid isPermaLink="false">10.1039/d6ta07451k</guid>
+<pubDate>Tue, 03 Nov 2026 07:04:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Guang Zeng, Zhenqing Wei, Xinquan Shen, Fangjie Nie, Yaqing Bai, Zhaoyong Chen, huamin hu, Junfei Duan</p><p>The molecular engineering of biomass-derived hard carbons via crosslinking has garnered significant interest for sodium-ion battery anodes, yet the intrinsic contributions of crosslinking-specifically, the chemical effects of covalent bond formation...</p><p>DOI: 10.1039/d6ta07451k</p>]]></description>
 </item>
 <item>
 <title>[CC] Solvent-Free Epoxide Carbonation: How Medium Effects Override Halide Nucleophilicity</title>
@@ -4875,54 +4875,5 @@
 <guid isPermaLink="false">10.1039/d6tc01982j</guid>
 <pubDate>Sun, 25 Oct 2026 01:04:17 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Xiaoxi Zhang, Zehui Xiong, Wenjing Hu, Jiajun Jiang, Xiaotong Su, Lingrui Tong, Wenjie Wang, Geming Fu, Lin Peng, Tingting Shi, Xiaolin Liu, Jia Lin</p><p>Machine-learning screening of compositional space formed by experimentally synthesizable elements identified 16 stable, highly luminescent blue emitters, highlighting antimony's key role and device potential.</p><p>DOI: 10.1039/d6tc01982j</p>]]></description>
-</item>
-<item>
-<title>[MH] Manifold Learning and Clustering of Spatially Resolved High-Dimensional Raman Spectra for Surface Heterogeneity Analysis of Polymer Solid-State Electrolytes</title>
-<link>https://doi.org/10.1039/d6mh01835a</link>
-<guid isPermaLink="false">10.1039/d6mh01835a</guid>
-<pubDate>Sat, 24 Oct 2026 13:03:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Andre Adam, Wenda Wu, Chanho Kim, Xianglin Li, Nian Liu, Guang Yang</p><p>Here, we introduce a novel computational framework for analyzing spatially resolve spectral imaging on the basis of manifold learning technique coupled with a clustering algorithm. Numerous Raman spectra collected from...</p><p>DOI: 10.1039/d6mh01835a</p>]]></description>
-</item>
-<item>
-<title>[CC] Unconventional pathways towards ethanol and methanol formation from CO 2 electroreduction on unconventional hcp-Cu</title>
-<link>https://doi.org/10.1039/d6cc05161h</link>
-<guid isPermaLink="false">10.1039/d6cc05161h</guid>
-<pubDate>Sat, 24 Oct 2026 12:03:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Richard W. B. Lim, Patrick T. Yu, Mikhail V. Polynski, Yihai Dong, Haoyuan Feng, Zhan Hong Goh, Sergey M. Kozlov</p><p>Analysis of the CO 2 RR mechanism over fcc and hcp-Cu nanoparticles shows that methanol formation is challenged by high formate stability, CO* accumulation and facile C–C coupling, whereas ethanol is formed on hcp-Cu via an uncommon OC–CHO species.</p><p>DOI: 10.1039/d6cc05161h</p>]]></description>
-</item>
-<item>
-<title>[NR] Effect of KH550 modification on SiC dispersion, pore structure, and thermal insulation in PVA/colloidal silica composite aerogels</title>
-<link>https://doi.org/10.1039/d6nr03048c</link>
-<guid isPermaLink="false">10.1039/d6nr03048c</guid>
-<pubDate>Sat, 24 Oct 2026 07:23:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Danfeng Du, Qinglong Li, Lulu Qiao, Zexin Liu, Zewei Hao</p><p>Thermal runaway in lithium-ion batteries has created a growing demand for lightweight thermal-barrier materials that combine low thermal conductivity, flame retardancy, and mechanical stability.</p><p>DOI: 10.1039/d6nr03048c</p>]]></description>
-</item>
-<item>
-<title>[NR] Activation‑Encapsulation Strategy Enables Closed‑Pore Modulation of Hard Carbon toward High Plateau Capacity for Sodium‑Ion Batteries</title>
-<link>https://doi.org/10.1039/d6nr02814d</link>
-<guid isPermaLink="false">10.1039/d6nr02814d</guid>
-<pubDate>Sat, 24 Oct 2026 03:03:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ke Yang, Lishen Ai, Zongbin Zhao, Yuhui Li, Xuzhen Wang, Jieshan Qiu</p><p>The closed-pore structure has been identified as a critical factor influencing the low-voltage plateau capacity of hard carbon anodes in sodium-ion batteries. However, the acquisition of closed pore structures generally...</p><p>DOI: 10.1039/d6nr02814d</p>]]></description>
-</item>
-<item>
-<title>[TA] In situ constructed ultralight gradient RGO/CNF aerogel in honeycomb for ultra-broadband microwave absorption composites</title>
-<link>https://doi.org/10.1039/d6ta05760h</link>
-<guid isPermaLink="false">10.1039/d6ta05760h</guid>
-<pubDate>Sat, 24 Oct 2026 02:43:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Haoyu Zhao, Rongting Guan, Feng Chen</p><p>Gradient RGO/CNF aerogel/aramid honeycomb composite exploits synergistic polarization-conductive loss and gradient impedance regulation, achieving 2.6–18 GHz absorption at 20 mm thickness for lightweight load-bearing aviation stealth absorbers.</p><p>DOI: 10.1039/d6ta05760h</p>]]></description>
-</item>
-<item>
-<title>[CC] Halogen-bond/hydrogen-bond donor hybrid catalysts for carbon dioxide fixation</title>
-<link>https://doi.org/10.1039/d6cc05104a</link>
-<guid isPermaLink="false">10.1039/d6cc05104a</guid>
-<pubDate>Sat, 24 Oct 2026 02:23:48 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yuki Chiba, Ryosuke Gosho, Shota Michii, Momoko Yamaoka, Yuta Murai, Hiroki Takegoshi, Kana Sakurai, Yusuke Yoshigoe, Masahiro Anada, Shunsuke Sueki, Ryosuke Haraguchi</p><p>Hydroxymethyl-functionalized iodotriazolium halides were developed as highly active catalysts for the cycloaddition of carbon dioxide to epoxides.</p><p>DOI: 10.1039/d6cc05104a</p>]]></description>
-</item>
-<item>
-<title>[MH] Advances in direct ink writing of silicone rubbers: toward high-fidelity architectures and multifunctional integration</title>
-<link>https://doi.org/10.1039/d6mh01548d</link>
-<guid isPermaLink="false">10.1039/d6mh01548d</guid>
-<pubDate>Sat, 24 Oct 2026 00:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiang Li, Qiong Wu, Shanhui Diao, Guochen Xu, Li Shi, Xianwei Meng</p><p>Direct ink writing enables high-fidelity and multifunctional silicone architectures. This review links ink rheology, stabilization strategies, material organization, and device design to guide future silicone DIW systems.</p><p>DOI: 10.1039/d6mh01548d</p>]]></description>
 </item>
 </channel></rss>
