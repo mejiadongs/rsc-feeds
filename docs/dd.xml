@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 09 Nov 2026 06:49:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 22:29:37 +0000</lastBuildDate>
+<item>
+<title>Data-Driven Investigation of Push–Pull π+/π− Interactions in Squaramide Catalysis</title>
+<link>https://doi.org/10.1039/d6dd00678g</link>
+<guid isPermaLink="false">10.1039/d6dd00678g</guid>
+<pubDate>Mon, 09 Nov 2026 21:03:38 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Javier Cruz-Oliver, David Dalmau, Juan V. Alegre-Requena</p><p>Secondary aromatic π interactions can complement primary hydrogen bonding and base activation to fine-tune enantioselectivity in organocatalysis. In a reported squaramide-catalyzed Henry reaction, we identified a push-pull π+/π− (PPππ) interaction...</p><p>DOI: 10.1039/d6dd00678g</p>]]></description>
+</item>
+<item>
+<title>Single-cell foundation models in perturbation prediction: progress, pitfalls and moving forward</title>
+<link>https://doi.org/10.1039/d6dd00209a</link>
+<guid isPermaLink="false">10.1039/d6dd00209a</guid>
+<pubDate>Mon, 09 Nov 2026 14:00:03 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Victor Curean, Steven D. Brown, Manas Mahale, Ioana Berindan-Neagoe, Srijit Seal, Kristof Z. Szalay, Daniel V. Veres, Andreas Bender</p><p>We critically review single-cell foundation models applied for perturbation effect prediction, examining how various factors impact downstream performance and applicability.</p><p>DOI: 10.1039/d6dd00209a</p>]]></description>
+</item>
 <item>
 <title>Tox4Chem: Human toxicity and ecotoxicity characterization powered by EosCloud</title>
 <link>https://doi.org/10.1039/d6dd00474a</link>
@@ -40,11 +54,11 @@
 <description><![CDATA[<p><b>Authors:</b> Igor N. Morozov</p><p>Foundation machine-learning interatomic potentials (MLIPs) offer inexpensive migration-barrier calculations, but their reliability for hydrogen defects in magnetic iron sulfides remains uncertain. We establish plane-wave DFT references at PBE, U =...</p><p>DOI: 10.1039/d6dd00359a</p>]]></description>
 </item>
 <item>
-<title>LLM Jaggedness Influences Scientific Creativity</title>
+<title>LLM jaggedness influences scientific creativity</title>
 <link>https://doi.org/10.1039/d6dd00408c</link>
 <guid isPermaLink="false">10.1039/d6dd00408c</guid>
 <pubDate>Mon, 02 Nov 2026 17:43:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shray Mathur, Jorge Anibal Boscoboinik, Esther H. R. Tsai, Kevin G. Yager</p><p>As artificial intelligence advances, models are not improving uniformly. Instead, progress unfolds in a jagged fashion, with capabilities growing unevenly across tasks, domains, and model scales. In this work, we...</p><p>DOI: 10.1039/d6dd00408c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shray Mathur, J. Anibal Boscoboinik, Esther H. R. Tsai, Kevin G. Yager</p><p>SciAidanBench counts the novel, coherent ideas LLMs generate for open-ended science questions. Models show jagged, complementary strengths, and meta -model ensembles that exploit this jaggedness outperform the best single model.</p><p>DOI: 10.1039/d6dd00408c</p>]]></description>
 </item>
 <item>
 <title>Machine learning-guided design rules for lipid nanoparticles to prioritize nucleic acid delivery</title>
