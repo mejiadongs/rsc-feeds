@@ -3,7 +3,14 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Mon, 09 Nov 2026 22:29:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 07:28:52 +0000</lastBuildDate>
+<item>
+<title>Near-infrared optoelectronic synapses based on Yb3+/Er3+ doped two-dimensional BiOI nanosheets for neuromorphic computing</title>
+<link>https://doi.org/10.1039/d6mh01778a</link>
+<guid isPermaLink="false">10.1039/d6mh01778a</guid>
+<pubDate>Tue, 10 Nov 2026 00:43:35 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mei Li, Yifei Zhao, Yujie Liu, Yan Xie, Xiao Chen, Qiongfen Yang, Jianhua Hao, Wenjing Jie</p><p>Optoelectronic memristors have attracted considerable attention owing to their ability to utilize both electrical and optical stimulations for information computing and memory. However, most optoelectronic memristors are sensitive to ultraviolet...</p><p>DOI: 10.1039/d6mh01778a</p>]]></description>
+</item>
 <item>
 <title>Confined Polymerized Anion Exchange Membranes with Multi-Cation Side Chains for Water Electrolysis and Sensing</title>
 <link>https://doi.org/10.1039/d6mh01814a</link>
@@ -117,13 +124,6 @@
 <description><![CDATA[<p><b>Authors:</b> Marcos Luginieski, Bruno Bassi Millan Torres, Bianca de Andrade Feitosa, Henrique Frulani de Paula Barbosa, Björn Lüssem, Gregório Couto Faria</p><p>The antiambipolar current–voltage characteristics of OECTs are analytically modeled by considering a two-step redox process and the trade-off between mobile single charges and immobile double charges.</p><p>DOI: 10.1039/d6mh01595f</p>]]></description>
 </item>
 <item>
-<title>Accelerated intraporous blood flow in directional sponges amplifies coagulation factor activation for rapid hemostasis</title>
-<link>https://doi.org/10.1039/d6mh01715k</link>
-<guid isPermaLink="false">10.1039/d6mh01715k</guid>
-<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Controlled acceleration of blood flow within micrometer-scale directional channels in a porous hemostatic sponge amplifies coagulation factor activation at the molecular level, enabling effective in vivo hemostasis.</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
-</item>
-<item>
 <title>Monolithic flexible all-SnSe thermoelectric generators with co-sintered p–n junctions for efficient low-grade energy harvesting</title>
 <link>https://doi.org/10.1039/d6mh02154a</link>
 <guid isPermaLink="false">10.1039/d6mh02154a</guid>
@@ -131,17 +131,10 @@
 <description><![CDATA[<p><b>Authors:</b> Yu Tian, Changzhen Zhang, Shibo Liu, Dongrui Liu, Sining Wang, Bingchao Qin, Li-Dong Zhao</p><p>Monolithic flexible all-SnSe thermoelectric generators enable efficient low-grade heat harvesting through low-resistance semiconductor junctions.</p><p>DOI: 10.1039/d6mh02154a</p>]]></description>
 </item>
 <item>
-<title>High-current-density solid-state lithium metal batteries through interface engineering</title>
-<link>https://doi.org/10.1039/d6mh01375a</link>
-<guid isPermaLink="false">10.1039/d6mh01375a</guid>
-<pubDate>Mon, 26 Oct 2026 15:17:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Akuil M. Saju, Max Ivers, Rajan Jose, Chun-Chen Yang, Venkataraman Thangadurai</p><p>The rapid evolution of solid-state battery technology has emphasised the importance of interface engineering to overcome key limitations, including poor interfacial contact, lithium dendrite formation, and unstable electrode–electrolyte interfaces.</p><p>DOI: 10.1039/d6mh01375a</p>]]></description>
-</item>
-<item>
-<title>Sheath-core microporous polyamide 6 fibers via in situ foaming and bicomponent melt spinning for thermal insulation</title>
-<link>https://doi.org/10.1039/d6mh01535b</link>
-<guid isPermaLink="false">10.1039/d6mh01535b</guid>
-<pubDate>Mon, 26 Oct 2026 07:04:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ying Zhu, Xin Zhang, Xubin Wang, Longfeng Zhang, Jiajun He, Yongqi Ji, Yucong Wei, Xueli Wang, Ruchao Yuan, Jianyong Yu, Faxue Li</p><p>An in situ foaming and bicomponent melt spinning method is proposed for the continuous preparation of sheath-core microporous polyamide 6 fibers. This design endows the fibers with lightweight, thermal insulation, and mechanical robustness.</p><p>DOI: 10.1039/d6mh01535b</p>]]></description>
+<title>Accelerated intraporous blood flow in directional sponges amplifies coagulation factor activation for rapid hemostasis</title>
+<link>https://doi.org/10.1039/d6mh01715k</link>
+<guid isPermaLink="false">10.1039/d6mh01715k</guid>
+<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Controlled acceleration of blood flow within micrometer-scale directional channels in a porous hemostatic sponge amplifies coagulation factor activation at the molecular level, enabling effective in vivo hemostasis.</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
 </item>
 </channel></rss>

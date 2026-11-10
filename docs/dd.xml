@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 09 Nov 2026 22:29:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 07:29:27 +0000</lastBuildDate>
 <item>
 <title>Data-Driven Investigation of Push–Pull π+/π− Interactions in Squaramide Catalysis</title>
 <link>https://doi.org/10.1039/d6dd00678g</link>
@@ -129,12 +129,5 @@
 <guid isPermaLink="false">10.1039/d6dd00623j</guid>
 <pubDate>Tue, 27 Oct 2026 04:03:41 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Benjamin Petrie</p><p>Estimating the thickness of exfoliated two-dimensional flakes from optical micrographs is foundational to 2D-material fabrication. Current learning systems use thin-film optics only offline, to generate training data for networks that...</p><p>DOI: 10.1039/d6dd00623j</p>]]></description>
-</item>
-<item>
-<title>Toward full-cycle automation of closed-loop molecular discovery – a case study on JAK targets</title>
-<link>https://doi.org/10.1039/d6dd00404k</link>
-<guid isPermaLink="false">10.1039/d6dd00404k</guid>
-<pubDate>Mon, 26 Oct 2026 16:20:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jannis Born, Carlo Baldassari, Doriela Grabocka, Antonio Cardinale, Oliver Schilter, Alessandro Castrogiovanni, Artem Leonov, Filip Skogh, Jeeven Singh, Yaoyao Xiong, John Evans, Thomas Fleming, Teodoro Laino, Matteo Manica</p><p>Combining AI and self-driving laboratories unlocks closed-loop molecular discovery by automation across all stages of the Design-Make-Test-Analyze (DMTA) cycle.</p><p>DOI: 10.1039/d6dd00404k</p>]]></description>
 </item>
 </channel></rss>

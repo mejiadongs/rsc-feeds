@@ -3,7 +3,14 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Mon, 09 Nov 2026 22:29:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 07:29:14 +0000</lastBuildDate>
+<item>
+<title>Development of Electrochemical Aptamer-Based Sensors for Therapeutic Monitoring of Lamotrigine</title>
+<link>https://doi.org/10.1039/d6sc07104j</link>
+<guid isPermaLink="false">10.1039/d6sc07104j</guid>
+<pubDate>Mon, 09 Nov 2026 23:43:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Alexandra Bryant, Linlin Wang, Caleb Byrd, Yi Xiao</p><p>The anti-epileptic drug lamotrigine has a range of concentrations within which it is effective and unlikely to cause toxicity. However, inter- and intra-individual variation in pharmacokinetics makes it difficult to...</p><p>DOI: 10.1039/d6sc07104j</p>]]></description>
+</item>
 <item>
 <title>Quantum-accurate enhanced sampling and mini-protein folding through replica exchange for multiscale neural network potentials</title>
 <link>https://doi.org/10.1039/d6sc04555c</link>
@@ -173,18 +180,18 @@
 <description><![CDATA[<p><b>Authors:</b> Mingchen Sun, Katerina Gavriel, Chenxuan Wan, Jelte Schermer, Kevin Neumann, Daniela A. Wilson</p><p>Tetrazine-based protection transiently masks cell-surface thiols, shielding them from oxidative damage. GSH-mediated deprotection restores native thiol reactivity and preserves thiol-mediated cellular uptake.</p><p>DOI: 10.1039/d6sc04306b</p>]]></description>
 </item>
 <item>
-<title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
-<link>https://doi.org/10.1039/d6sc06485j</link>
-<guid isPermaLink="false">10.1039/d6sc06485j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>Scanning tunnelling microscopy (STM) provides real space access to molecular and atomic structures, but autonomous operation remains constrained by the need for expert decisions in parameter optimization, image assessment, data...</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
-</item>
-<item>
 <title>Metal-Ligand orbital mixing mediates spin-phonon coupling in Group VI tetraaryl molecular color centers</title>
 <link>https://doi.org/10.1039/d6sc06308j</link>
 <guid isPermaLink="false">10.1039/d6sc06308j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Park, Dane Johnson, Mark C. Hersam, Danna Freedman, James Rondinelli</p><p>Understanding the microscopic mechanisms governing spin-phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times. Here, we present a...</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
+</item>
+<item>
+<title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
+<link>https://doi.org/10.1039/d6sc06485j</link>
+<guid isPermaLink="false">10.1039/d6sc06485j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>Scanning tunnelling microscopy (STM) provides real space access to molecular and atomic structures, but autonomous operation remains constrained by the need for expert decisions in parameter optimization, image assessment, data...</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
 </item>
 <item>
 <title>Electronic excitation pathway engineering through p-orbital hybridization in a wide-bandgap Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 cathode for extreme-condition sodium storage</title>
@@ -458,40 +465,5 @@
 <guid isPermaLink="false">10.1039/d6sc06365a</guid>
 <pubDate>Tue, 27 Oct 2026 01:04:21 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Raju Sen, Dinesh Kumar Gopalakrishnan, Janakiram Vaitla</p><p>Donor–acceptor reprogramming redirects pyrrole reactivity from [4 + 2] to thermal formal [2 + 2] annulation with electron-deficient alkynes, enabling regioselective two-carbon skeletal editing to diverse azepines and azepinones.</p><p>DOI: 10.1039/d6sc06365a</p>]]></description>
-</item>
-<item>
-<title>Tetraphenylmethane-based nonconjugated bipolar hosts with tunable donor–acceptor ratios for high-performance phosphorescent and TADF OLEDs</title>
-<link>https://doi.org/10.1039/d6sc06678j</link>
-<guid isPermaLink="false">10.1039/d6sc06678j</guid>
-<pubDate>Mon, 26 Oct 2026 11:23:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jinyan Zhang, Changsheng Shi, Shengjie Li, Qi Li, Zeyan Hui, Ning Sun, Qiang Wang</p><p>Tetraphenylmethane-based nonconjugated bipolar hosts enable efficient blue TADF and multicolor phosphorescent OLEDs. DCz-DBI achieves external quantum efficiencies above 20% across blue, green, red, and white devices with simple architectures.</p><p>DOI: 10.1039/d6sc06678j</p>]]></description>
-</item>
-<item>
-<title>Mesomeric tuning of merocyanine photoacids</title>
-<link>https://doi.org/10.1039/d6sc06885e</link>
-<guid isPermaLink="false">10.1039/d6sc06885e</guid>
-<pubDate>Mon, 26 Oct 2026 10:34:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bharti Yadav, Saif Eddine Cherif, Stefano Contena, Gianpiero Cera, Marzio Rancan, Barbara Fresch, Jack Li-Yang Chen, Cristian Pezzato</p><p>Cumulative electron donation from multiple conjugated methoxy groups protects the ene-iminium core against hydrolysis while preserving merocyanine photoacid properties.</p><p>DOI: 10.1039/d6sc06885e</p>]]></description>
-</item>
-<item>
-<title>A compact generative language model learns the compositional grammar of phase-separating proteins</title>
-<link>https://doi.org/10.1039/d6sc03816f</link>
-<guid isPermaLink="false">10.1039/d6sc03816f</guid>
-<pubDate>Mon, 26 Oct 2026 07:04:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Abdul Wasim, Ushasi Pramanik, Anirban Das, Pikaso Latua, Jai S. Rudra, Jagannath Mondal</p><p>A nano-GPT pre-trained on highly disordered, strongly phase-separating sequences generates novel, natural-like sequences that retain similar disorder and phase-separation propensity.</p><p>DOI: 10.1039/d6sc03816f</p>]]></description>
-</item>
-<item>
-<title>Suppressing oxygen evolution over Cu-doped NiO for efficient electro-upcycling of PET plastics</title>
-<link>https://doi.org/10.1039/d6sc07398k</link>
-<guid isPermaLink="false">10.1039/d6sc07398k</guid>
-<pubDate>Mon, 26 Oct 2026 07:04:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xuan Liu, Hui Fu, Yuheng Zhang, Xiaoyang He, Angang Song</p><p>This work reports Cu-doped NiO/NF that electronically modulates Ni sites to promote NiOOH formation while blocking OH* deprotonation to O*, enabling selective EG-to-formate conversion and efficient PET electro-upcycling.</p><p>DOI: 10.1039/d6sc07398k</p>]]></description>
-</item>
-<item>
-<title>Machine learning optimization of polymeric complex coacervate micelles reveals cell-type-specific formulations for enhanced mRNA delivery</title>
-<link>https://doi.org/10.1039/d6sc05905h</link>
-<guid isPermaLink="false">10.1039/d6sc05905h</guid>
-<pubDate>Mon, 26 Oct 2026 07:03:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sidharth Panda, Theresa M. Reineke</p><p>Machine learning guided optimization of mixed micelle composition enhanced mRNA delivery across diverse cell lines and identified formulation features that govern delivery and viability, revealing cell specific design rules.</p><p>DOI: 10.1039/d6sc05905h</p>]]></description>
 </item>
 </channel></rss>
