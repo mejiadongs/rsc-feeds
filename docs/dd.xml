@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 10 Nov 2026 07:29:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 19:50:51 +0000</lastBuildDate>
+<item>
+<title>CSP5: Large-scale Neural Chemical Shift Prediction from 2.5 Million Experimental NMR Spectra</title>
+<link>https://doi.org/10.1039/d6dd00524a</link>
+<guid isPermaLink="false">10.1039/d6dd00524a</guid>
+<pubDate>Tue, 10 Nov 2026 10:44:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> J. Benji Rowlands, Richard James Lewis, Peter Howe, Jonathan Goodman</p><p>Accurate nuclear magnetic resonance (NMR) chemical shift prediction remains limited by the small size and narrow chemical diversity of atom-assigned training datasets. Here, we address that bottleneck by leveraging the...</p><p>DOI: 10.1039/d6dd00524a</p>]]></description>
+</item>
+<item>
+<title>A Diffusion Framework for Geometrically Valid and Practically Viable 3D Molecular Generation</title>
+<link>https://doi.org/10.1039/d6dd00456c</link>
+<guid isPermaLink="false">10.1039/d6dd00456c</guid>
+<pubDate>Tue, 10 Nov 2026 09:23:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Thanapat Worakul, Clemence Corminboeuf</p><p>By operating on full Cartesian geometries, three-dimensional (3D) molecular generative models offer direct control over the spatial arrangements dictating molecular properties. Yet generating structures that are both geometrically valid (reasonable...</p><p>DOI: 10.1039/d6dd00456c</p>]]></description>
+</item>
 <item>
 <title>Data-Driven Investigation of Push–Pull π+/π− Interactions in Squaramide Catalysis</title>
 <link>https://doi.org/10.1039/d6dd00678g</link>
