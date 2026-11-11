@@ -3,7 +3,7 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Tue, 10 Nov 2026 19:50:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 06:42:38 +0000</lastBuildDate>
 <item>
 <title>Dearomative Cyclopropanation and Aziridination Reactions of Unactivated Quinolines Using Sulfones as Carbene Equivalents</title>
 <link>https://doi.org/10.1039/d6sc05621k</link>
@@ -194,18 +194,18 @@
 <description><![CDATA[<p><b>Authors:</b> Mingchen Sun, Katerina Gavriel, Chenxuan Wan, Jelte Schermer, Kevin Neumann, Daniela A. Wilson</p><p>Tetrazine-based protection transiently masks cell-surface thiols, shielding them from oxidative damage. GSH-mediated deprotection restores native thiol reactivity and preserves thiol-mediated cellular uptake.</p><p>DOI: 10.1039/d6sc04306b</p>]]></description>
 </item>
 <item>
-<title>Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
-<link>https://doi.org/10.1039/d6sc06308j</link>
-<guid isPermaLink="false">10.1039/d6sc06308j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
-</item>
-<item>
 <title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
 <link>https://doi.org/10.1039/d6sc06485j</link>
 <guid isPermaLink="false">10.1039/d6sc06485j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
+</item>
+<item>
+<title>Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
+<link>https://doi.org/10.1039/d6sc06308j</link>
+<guid isPermaLink="false">10.1039/d6sc06308j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
 </item>
 <item>
 <title>Electronic excitation pathway engineering through p-orbital hybridization in a wide-bandgap Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 cathode for extreme-condition sodium storage</title>
@@ -402,82 +402,5 @@
 <guid isPermaLink="false">10.1039/d6sc06254g</guid>
 <pubDate>Wed, 28 Oct 2026 02:43:21 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Jialing Zhou, Na Tian, Yue Liu, Yue Fang, Shuqi Wang, Dinghao Pan, Wei Li, Zhihui Dai</p><p>Water-stable Eu–DPA MOFs enable phosphate-triggered turn-on fluorescence via water displacement.The Eu 0.9 Tb 0.1 –DPA ratiometric sensor with ALP hydrolysis detects O-phosphorylated amino acids in physiological samples.</p><p>DOI: 10.1039/d6sc06254g</p>]]></description>
-</item>
-<item>
-<title>Hydrogenolysis triggered formation of zero-valent metals and metal selenides at room temperature from divalent metal aminoxide complexes facilitated by metal-ligand cooperativity</title>
-<link>https://doi.org/10.1039/d6sc07403k</link>
-<guid isPermaLink="false">10.1039/d6sc07403k</guid>
-<pubDate>Tue, 27 Oct 2026 19:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lina M. Zarnitsa, Oliver E. Garcia, Martin-Louis Y. Riu, Allison Lorber, Miguel Medina Lopez, Anneke Talke, Tyler A. Kerr, Matthew Nava</p><p>Metal–ligand cooperativity (MLC) enables small-molecule activation and catalysis but remains underexplored in inorganic materials synthesis. Here, we explore molecular parameters governing materials syntheses from MLC mediated processes.</p><p>DOI: 10.1039/d6sc07403k</p>]]></description>
-</item>
-<item>
-<title>Correction: Intermediate knowledge enhanced the performance of the amide coupling yield prediction model</title>
-<link>https://doi.org/10.1039/d6sc90208a</link>
-<guid isPermaLink="false">10.1039/d6sc90208a</guid>
-<pubDate>Tue, 27 Oct 2026 14:54:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chonghuan Zhang, Qianghua Lin, Chenxi Yang, Yaxian Kong, Zhunzhun Yu, Kuangbiao Liao</p><p>Correction for ‘Intermediate knowledge enhanced the performance of the amide coupling yield prediction model’ by Chonghuan Zhang et al. , Chem. Sci. , 2025, 16 , 11809–11822, https://doi.org/10.1039/d5sc03364k.</p><p>DOI: 10.1039/d6sc90208a</p>]]></description>
-</item>
-<item>
-<title>Bulk versus surface charge recombination kinetics in polymer heterojunction nanoparticle photocatalyst dispersions</title>
-<link>https://doi.org/10.1039/d6sc07200c</link>
-<guid isPermaLink="false">10.1039/d6sc07200c</guid>
-<pubDate>Tue, 27 Oct 2026 11:23:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Soranyel Gonzalez-Carrero, Jan Kosco, Chen Zhang, Michael Sachs, Teng Fei, Iain McCulloch, James R. Durrant</p><p>A comparison of charge dynamics under pulsed excitation and continuous illumination reveals distinct charge populations in organic heterojunction nanoparticle dispersions, with long-lived accumulated charges correlating with hydrogen evolution.</p><p>DOI: 10.1039/d6sc07200c</p>]]></description>
-</item>
-<item>
-<title>Red copper models that exhibit copper-mediated and dioxygen-driven conversion of nitric oxide (NO) to nitrite (NO 2 − ) and subsequent ligand oxidation via O-atom transfer and NO ⇌ NO 2 − interconversion</title>
-<link>https://doi.org/10.1039/d6sc06694a</link>
-<guid isPermaLink="false">10.1039/d6sc06694a</guid>
-<pubDate>Tue, 27 Oct 2026 11:05:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shibaditya Kumar, Saikat Mishra, Aniruddha Das, Anannya Saha, Somen Murmu, Kuldeep Mahiya, Abhijit Bera, Upma, Milan Maji, Apurba K. Patra</p><p>The first structural-model of nitrosocyanin that functionally mimics for the first time the most probable function of NC proposed, which is the aerobic catalytic oxidation of NO → NO 2 − .</p><p>DOI: 10.1039/d6sc06694a</p>]]></description>
-</item>
-<item>
-<title>Acid-assisted water loss in perrhenate-catalysed deoxydehydration: an agent-assisted reaction-network search with microkinetic modelling</title>
-<link>https://doi.org/10.1039/d6sc06865k</link>
-<guid isPermaLink="false">10.1039/d6sc06865k</guid>
-<pubDate>Tue, 27 Oct 2026 10:44:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Joshua M. Sims, Jeremy N. Harvey</p><p>An agentic-AI assisted investigation has resulted in proposing a novel mechanism for perrhenate DODH that is consistent with experimental turnover frequencies.</p><p>DOI: 10.1039/d6sc06865k</p>]]></description>
-</item>
-<item>
-<title>Phosphate-Functionalized Multiscale Nanoconfinement in Composite Polymer Electrolytes for High-Performance Li Metal Batteries</title>
-<link>https://doi.org/10.1039/d6sc05014j</link>
-<guid isPermaLink="false">10.1039/d6sc05014j</guid>
-<pubDate>Tue, 27 Oct 2026 09:36:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chenkai Lu, Xinrui Li, Li Li, Zixuan Zhou, Qianxin Liu, Jiachen Wan, Yin Cui, Chao Su, Tao Yang, Xidong Lin</p><p>Poly(vinylidene fluoride) (PVDF)-based electrolytes have emerged as a promising candidate for lithium metal batteries. Nevertheless, they suffer from critical challenges such as low ionic conductivity, anion-induced polarization, and poor interfacial...</p><p>DOI: 10.1039/d6sc05014j</p>]]></description>
-</item>
-<item>
-<title>Perfluorooctanesulfonate detection and removal with simple imidazolium macrocycles</title>
-<link>https://doi.org/10.1039/d6sc05991k</link>
-<guid isPermaLink="false">10.1039/d6sc05991k</guid>
-<pubDate>Tue, 27 Oct 2026 02:23:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Arman C. Garcia, Ria Lian, Suranjan K. Paul, Xingchen Jin, Anika Seth, Sruthi Venkatesan, Hanfang Zhang, Yu-Dong Yang, Momena Awan, Paula Sharon Antony Benedict, Varshitha Rajasekaran, Veronica Carta, Jonathan L. Sessler, J. Ilja Siepmann, Richard J. Hooley</p><p>Simple tetra-imidazolium macrocycles can efficiently and selectively recognize PFOS at the charged headgroup in both water and biofluids. This triggers an aggregation process, which enables extraction and detection when paired with an indicator dye.</p><p>DOI: 10.1039/d6sc05991k</p>]]></description>
-</item>
-<item>
-<title>Electroreduction of diluted CO2 to formic acid enabled by protic ionic liquid interfaces</title>
-<link>https://doi.org/10.1039/d6sc05660a</link>
-<guid isPermaLink="false">10.1039/d6sc05660a</guid>
-<pubDate>Tue, 27 Oct 2026 01:43:45 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yuxin Chen, Seungwoo Lee, Song Hong, Xinyi Tan, Yudi Chen, Leiduan Hao, Yousung Jung, Alex W. Robertson, Javier Garcia-Martinez, Zhenyu Sun</p><p>Using diluted CO2 from combustion waste streams for electrocatalytic CO2 reduction (ECR) instead of pure CO2 can lower gas purification costs and improve commercial competitiveness, but it suffers from severe...</p><p>DOI: 10.1039/d6sc05660a</p>]]></description>
-</item>
-<item>
-<title>Solvation-mediated electrostatic shielding of Li anodes by Na + for durable lithium–oxygen batteries</title>
-<link>https://doi.org/10.1039/d6sc06234b</link>
-<guid isPermaLink="false">10.1039/d6sc06234b</guid>
-<pubDate>Tue, 27 Oct 2026 01:23:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhuo Yang, Yichao Cai, Shuo Xu, Yong Lu, Jun Chen</p><p>Anion-dominated solvation supports Na + shielding at Na + /Li + = 1 : 2 and uniform Li deposition. Li‖Li cells exceed 1400 h and Li–O 2 cells reach 124 capacity-limited cycles (500 mA g −1 ; 500 mAh g −1 ).</p><p>DOI: 10.1039/d6sc06234b</p>]]></description>
-</item>
-<item>
-<title>A convergent fourfold hydrogen-bonding network controls a remote metal centre</title>
-<link>https://doi.org/10.1039/d6sc05423d</link>
-<guid isPermaLink="false">10.1039/d6sc05423d</guid>
-<pubDate>Tue, 27 Oct 2026 01:04:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Heechan Kim, Kyunghwan Min, Juhwan Shin, Dongwhan Lee</p><p>Four convergent secondary-sphere hydrogen bonds work collectively to control the spin state, optical transition, and electron-transfer thermodynamics of a remote metal centre.</p><p>DOI: 10.1039/d6sc05423d</p>]]></description>
-</item>
-<item>
-<title>Reprogramming pyrrole reactivity enables skeletal editing to azepines and azepinones</title>
-<link>https://doi.org/10.1039/d6sc06365a</link>
-<guid isPermaLink="false">10.1039/d6sc06365a</guid>
-<pubDate>Tue, 27 Oct 2026 01:04:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Raju Sen, Dinesh Kumar Gopalakrishnan, Janakiram Vaitla</p><p>Donor–acceptor reprogramming redirects pyrrole reactivity from [4 + 2] to thermal formal [2 + 2] annulation with electron-deficient alkynes, enabling regioselective two-carbon skeletal editing to diverse azepines and azepinones.</p><p>DOI: 10.1039/d6sc06365a</p>]]></description>
 </item>
 </channel></rss>

@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 10 Nov 2026 19:50:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 06:42:44 +0000</lastBuildDate>
+<item>
+<title>CHAMP and AMPToxPred: A Machine-Readable Dataset of Antimicrobial Peptides and Deep Learning-Based toxicity Prediction</title>
+<link>https://doi.org/10.1039/d6dd00506c</link>
+<guid isPermaLink="false">10.1039/d6dd00506c</guid>
+<pubDate>Wed, 11 Nov 2026 02:43:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zeqi Zhang, Hantian Fang, Yunxiao Shi, Yaxin Fan, Shan Bian, Jinlei Bian, Jing Zhang, Min Xu, Xiao Yang, Cong Ma</p><p>Antimicrobial peptides (AMPs) are promising therapeutic agents, yet their clinical translation is frequently hindered by toxicity concerns. Current toxicity prediction methods are hampered by fragmented data sources, inconsistent annotation standards,...</p><p>DOI: 10.1039/d6dd00506c</p>]]></description>
+</item>
 <item>
 <title>CSP5: Large-scale Neural Chemical Shift Prediction from 2.5 Million Experimental NMR Spectra</title>
 <link>https://doi.org/10.1039/d6dd00524a</link>
@@ -115,33 +122,5 @@
 <guid isPermaLink="false">10.1039/d6dd00706f</guid>
 <pubDate>Wed, 28 Oct 2026 03:03:06 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yu Liu, Boris Slautin, Ching-Che Lin, Jaegyu Kim, Lane W. Martin, Sergei V. Kalinin</p><p>SPARC uses two persistent memory files to transfer human knowledge, review proposed microscope experiments, and validate new findings against controls before updating the experimental record.</p><p>DOI: 10.1039/d6dd00706f</p>]]></description>
-</item>
-<item>
-<title>MatGPT: transformer-based generation of inorganic materials with targeted properties</title>
-<link>https://doi.org/10.1039/d6dd00311g</link>
-<guid isPermaLink="false">10.1039/d6dd00311g</guid>
-<pubDate>Tue, 27 Oct 2026 18:23:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Harsha Satya Vardhan Vasamsetti, Pradeep Kumar Pal, Masahiro Ehara, U. Deva Priyakumar</p><p>MatGPT, a decoder-only transformer, generates inorganic crystals as SLICES strings. Property tokens scaled by the requested values steer generation toward target formation energy, band gap, bulk modulus and crystal system.</p><p>DOI: 10.1039/d6dd00311g</p>]]></description>
-</item>
-<item>
-<title>IQARIS: An Atlas of Interacting Quantum Atoms across Chemical Space</title>
-<link>https://doi.org/10.1039/d6dd00676k</link>
-<guid isPermaLink="false">10.1039/d6dd00676k</guid>
-<pubDate>Tue, 27 Oct 2026 12:06:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Miguel Gallegos, José Manuel Guevara-Vela, Alexandre Tkatchenko</p><p>Chemical machine learning has achieved remarkable predictive performance by leveraging increasingly large quantum-chemical datasets. Yet, the local quantum in- formation underlying molecular behavior remains largely unexplored at scale, limiting the...</p><p>DOI: 10.1039/d6dd00676k</p>]]></description>
-</item>
-<item>
-<title>ApprOxiMate: A Lightweight Composition-Only Framework for Mixed Oxidation State Estimation</title>
-<link>https://doi.org/10.1039/d6dd00291a</link>
-<guid isPermaLink="false">10.1039/d6dd00291a</guid>
-<pubDate>Tue, 27 Oct 2026 11:43:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Fay Adel Abu Al Timen, Thomas Edward Ashton</p><p>Accurate assignment of oxidation states in multicomponent inorganic systems remains a significant challenge for high-throughput materials discovery, where existing methods are computationally intensive. We introduce ApprOxiMate, a deterministic, composition-only algorithm...</p><p>DOI: 10.1039/d6dd00291a</p>]]></description>
-</item>
-<item>
-<title>Thickness from Color by Inverting the Physics: Self-Calibrating Differentiable Thin-Film Optics for Region-Level 2D-Material Thickness Estimation</title>
-<link>https://doi.org/10.1039/d6dd00623j</link>
-<guid isPermaLink="false">10.1039/d6dd00623j</guid>
-<pubDate>Tue, 27 Oct 2026 04:03:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Benjamin Petrie</p><p>Estimating the thickness of exfoliated two-dimensional flakes from optical micrographs is foundational to 2D-material fabrication. Current learning systems use thin-film optics only offline, to generate training data for networks that...</p><p>DOI: 10.1039/d6dd00623j</p>]]></description>
 </item>
 </channel></rss>

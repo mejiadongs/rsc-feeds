@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Tue, 10 Nov 2026 19:50:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 06:42:35 +0000</lastBuildDate>
+<item>
+<title>Characterizing ligand-mediated conformational dynamics and state transitions of KRAS-G12C through machine learning and molecular dynamics simulations</title>
+<link>https://doi.org/10.1039/d6cp03730e</link>
+<guid isPermaLink="false">10.1039/d6cp03730e</guid>
+<pubDate>Tue, 10 Nov 2026 22:31:36 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Gopal Hema, Kandhan Palanisamy, Muthuramalingam Prakash</p><p>An integrated computational pipeline accelerates ligand discovery against KRAS by rapidly prioritizing and validating potent binders, supporting efficient identification of candidates for targeted drug development.</p><p>DOI: 10.1039/d6cp03730e</p>]]></description>
+</item>
 <item>
 <title>Self-Consistent Optical, Thermal, and Morphological Modeling of Gold Nanorod Reshaping under Nanosecond Laser Irradiation</title>
 <link>https://doi.org/10.1039/d6cp03771b</link>
@@ -544,18 +551,18 @@
 <description><![CDATA[<p><b>Authors:</b> Sujata Nandi, Nandini Ananth</p><p>Hybrid semiclassical (SC) approaches offer an efficient route to simulations of nonadiabatic dynamics by selectively quantizing key degrees of freedom, retaining the accuracy of quantum-limit SC methods at a reduced computational cost.</p><p>DOI: 10.1039/d6cp02579j</p>]]></description>
 </item>
 <item>
-<title>Machine learning potential simulations reveal coupled thermodynamic and kinetic control of C 2 H 6 /C 2 H 4 retention in a prototypical ultramicroporous MOF</title>
-<link>https://doi.org/10.1039/d6cp03227c</link>
-<guid isPermaLink="false">10.1039/d6cp03227c</guid>
-<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>MLP-driven OPES and long-timescale MD simulations reveal two-step, high-barrier migration of C 2 H 6 versus single-step, lower-barrier migration of C 2 H 4 in Cu(Qc) 2 , highlighting a substantial kinetic contribution to preferential C 2 H 6 retention.</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
-</item>
-<item>
 <title>Quasichemical short-range order in high-entropy reciprocal melts: Li, Na, K‖F, Cl</title>
 <link>https://doi.org/10.1039/d6cp03168d</link>
 <guid isPermaLink="false">10.1039/d6cp03168d</guid>
 <pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Dmitry O. Zakiryanov, Nikolay K. Tkachev</p><p>Machine-learning molecular dynamics and charged hard-sphere modeling reveal how strong ionic preferences compete with ideal mixing behavior, quantifying the individual structural and chemical contributions to high-entropy melt systems.</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
+</item>
+<item>
+<title>Machine learning potential simulations reveal coupled thermodynamic and kinetic control of C 2 H 6 /C 2 H 4 retention in a prototypical ultramicroporous MOF</title>
+<link>https://doi.org/10.1039/d6cp03227c</link>
+<guid isPermaLink="false">10.1039/d6cp03227c</guid>
+<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>MLP-driven OPES and long-timescale MD simulations reveal two-step, high-barrier migration of C 2 H 6 versus single-step, lower-barrier migration of C 2 H 4 in Cu(Qc) 2 , highlighting a substantial kinetic contribution to preferential C 2 H 6 retention.</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
 </item>
 <item>
 <title>A mechanism study of efficient photoreduction of CO 2 to CO using Bodipy-derived heavy-atom-free electron donor-acceptor dyads as photosensitizers showing strong absorption of green light</title>
@@ -738,89 +745,5 @@
 <guid isPermaLink="false">10.1039/d6cp03052a</guid>
 <pubDate>Wed, 28 Oct 2026 01:05:42 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Kyeong Su Min, Jae Woo Park</p><p>Orbital entanglement is a promising diagnostic tool for quantifying electron-correlation effects in the orbital basis. We have implemented entanglement calculations using the adaptive sampling configuration interaction (ASCI) method, deterministic selected...</p><p>DOI: 10.1039/d6cp03052a</p>]]></description>
-</item>
-<item>
-<title>Halogen engineering of 4-aminoantipyrine amide derivatives for the corrosion protection of mild steel: experimental and DFT insights</title>
-<link>https://doi.org/10.1039/d6cp03224a</link>
-<guid isPermaLink="false">10.1039/d6cp03224a</guid>
-<pubDate>Tue, 27 Oct 2026 15:40:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Adil Afaq, Muhammad Aamir, Shahid Aziz, Simon Woodward, Muhammad Haroon, Zaroon Sajid, Hamad F. Alharbi, Nabeel H. Alharthi, Qamar Wali</p><p>Twelve halogenated 4-aminoantipyrine amides inhibit mild steel corrosion in 1 M HCl (up to 96% inhibition efficiency at 1 mM) through predominantly physisorbed Langmuir films; halogen type, position and chain length tune their performance.</p><p>DOI: 10.1039/d6cp03224a</p>]]></description>
-</item>
-<item>
-<title>Quantum chemical studies of the infrared spectra of OCN − in water and icy matrices and their astrophysical implications</title>
-<link>https://doi.org/10.1039/d6cp03141b</link>
-<guid isPermaLink="false">10.1039/d6cp03141b</guid>
-<pubDate>Tue, 27 Oct 2026 14:57:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rebecca Tomann, Partha P. Bera, Duncan V. Mifsud, Michel Nuevo, Xinchuan Huang, Scott A. Sandford, Martin Head-Gordon</p><p>Hydrogen bonding and vibrational coupling strongly influence the OCN − asymmetric stretch in water and ice, supporting its assignment to the interstellar 4.62 µm 'XCN' feature without requiring an explicit counter ion.</p><p>DOI: 10.1039/d6cp03141b</p>]]></description>
-</item>
-<item>
-<title>DFT-based study of the Al 12 N 12 nanocage for sensing and capturing perfluorinated greenhouse gases</title>
-<link>https://doi.org/10.1039/d6cp03133a</link>
-<guid isPermaLink="false">10.1039/d6cp03133a</guid>
-<pubDate>Tue, 27 Oct 2026 11:41:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Syed Muhammad Ali Shah, Muhammad Usama Raza, Muhammad Waqas, Humaira Zulfiqar, Ijaz Ali</p><p>Density functional theory (DFT) was used to study the adsorption of environmentally harmful perfluorocarbon greenhouse gases (PFCs) CF 4 , C 2 F 6 and C 3 F 8 on clean and Mn-doped Al 12 N 12 nanocages.</p><p>DOI: 10.1039/d6cp03133a</p>]]></description>
-</item>
-<item>
-<title>Enantiomeric excess measurements in non-volatile biomolecules using laser-based desorption photoelectron circular dichroism</title>
-<link>https://doi.org/10.1039/d6cp03319a</link>
-<guid isPermaLink="false">10.1039/d6cp03319a</guid>
-<pubDate>Tue, 27 Oct 2026 11:02:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chris Sparling, Lewis Ireland, Ross Anderson, Dave Townsend</p><p>We demonstrate laser-based desorption photoelectron circular dichroism for quantitative enantiomeric excess measurements. Using tryptophan, we distinguish samples of differing chiral purity, paving the way for more sensitive chiral analysis.</p><p>DOI: 10.1039/d6cp03319a</p>]]></description>
-</item>
-<item>
-<title>Oscillatory dynamics driven by nonreciprocal cross-transport</title>
-<link>https://doi.org/10.1039/d6cp03293a</link>
-<guid isPermaLink="false">10.1039/d6cp03293a</guid>
-<pubDate>Tue, 27 Oct 2026 09:37:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Marcello A. Budroni</p><p>Nonreciprocal cross-coupling provides a formal mechanism for damped spatiotemporal compositional oscillations even without chemical reactions.</p><p>DOI: 10.1039/d6cp03293a</p>]]></description>
-</item>
-<item>
-<title>Perspectives on theoretical tools for studying molecular anions</title>
-<link>https://doi.org/10.1039/d6cp03873e</link>
-<guid isPermaLink="false">10.1039/d6cp03873e</guid>
-<pubDate>Tue, 27 Oct 2026 09:07:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jack Simons</p><p>Highest occupied molecular orbital of ethylene and eight lowest virtual orbitals. Where does an attached electron go?</p><p>DOI: 10.1039/d6cp03873e</p>]]></description>
-</item>
-<item>
-<title>A mesoporous electrode strategy for probing ions at the electrode–electrolyte interface using in situ X-ray absorption spectroscopy</title>
-<link>https://doi.org/10.1039/d6cp01946c</link>
-<guid isPermaLink="false">10.1039/d6cp01946c</guid>
-<pubDate>Tue, 27 Oct 2026 09:03:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jan Sebastian Dominic Rodriguez, Alfred Larsson, Nipon Deka, Rianne Jorritsma, Hassan Javed, Kees Kolmeijer, Ajsa Cuprija, Wanli Liu, Nicole Barber, Adam M. Squires, Detre Teschner, Aliakbar Ghafari, Cheng-Hao Chuang, Rik V. Mom</p><p>Electrolyte ions at the interface critically influence electrocatalysis, yet their direct, quantitative detection during operating conditions remains challenging due to dominant bulk electrolyte signals.</p><p>DOI: 10.1039/d6cp01946c</p>]]></description>
-</item>
-<item>
-<title>Argon coordination to the 3d transition-metal monohalides: a systematic study of σ-acceptor accessibility in Ar–MX (M = Sc–Cu; X = F, Cl, Br)</title>
-<link>https://doi.org/10.1039/d6cp03531k</link>
-<guid isPermaLink="false">10.1039/d6cp03531k</guid>
-<pubDate>Tue, 27 Oct 2026 09:03:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Akane Yano, Ryuto Kambara, Lihao Qu, Takuro Tsutsumi, Yuriko Ono, Tetsuya Taketsugu</p><p>In the 3d monohalides MX, Ar coordinates to the metal only when the 4s or 3d z 2 component of its σ-acceptor manifold is largely vacant; MnX, FeF and FeCl, with both components occupied, bind no Ar.</p><p>DOI: 10.1039/d6cp03531k</p>]]></description>
-</item>
-<item>
-<title>A termolecular reaction theory for gas-phase nucleation in and near the collision limit based on long-range intermolecular forces</title>
-<link>https://doi.org/10.1039/d6cp03642b</link>
-<guid isPermaLink="false">10.1039/d6cp03642b</guid>
-<pubDate>Tue, 27 Oct 2026 08:52:20 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Wang, Arnab Choudhury, Felix Graber, Ruth Signorell, Jesús Pérez-Ríos</p><p>The birth of a new phase is usually described thermodynamically, but in the gas phase it begins as chemistry.</p><p>DOI: 10.1039/d6cp03642b</p>]]></description>
-</item>
-<item>
-<title>Nuclear Fukui functions and Marcus reorganization: from vertical force response to diabatic work</title>
-<link>https://doi.org/10.1039/d6cp03760g</link>
-<guid isPermaLink="false">10.1039/d6cp03760g</guid>
-<pubDate>Tue, 27 Oct 2026 02:43:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Eduardo E. Chamorro, Elizabeth Rincón</p><p>Finite work of the adjacent-state nuclear Fukui field connects conceptual DFT with Marcus inner-sphere reorganization; mode-resolved compliance identifies when soft, anharmonic coordinates invalidate local harmonic estimates.</p><p>DOI: 10.1039/d6cp03760g</p>]]></description>
-</item>
-<item>
-<title>Interactions and potential applications of cyclo[18]carbon: a theoretical review</title>
-<link>https://doi.org/10.1039/d6cp02065h</link>
-<guid isPermaLink="false">10.1039/d6cp02065h</guid>
-<pubDate>Tue, 27 Oct 2026 02:03:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zeyu Liu, Shikai Chen, Xiaohui Chen, Wenwen Zhao, Yang Wu, Jiaojiao Wang, Xia Wang, Xiufen Yan, Rui Zhu, Tian Lu</p><p>Cyclo[18]carbon (C18) exhibits physical adsorption and chemical bonding with small species, carbon materials, and macrocycles. This review outlines theoretical advances on C18 interactions, potential applications, and prospects and challenges.</p><p>DOI: 10.1039/d6cp02065h</p>]]></description>
-</item>
-<item>
-<title>Partial substitution induced symmetry breaking in GaSe monolayers for enhanced thermoelectric performance</title>
-<link>https://doi.org/10.1039/d6cp02048h</link>
-<guid isPermaLink="false">10.1039/d6cp02048h</guid>
-<pubDate>Tue, 27 Oct 2026 01:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shivani Vinod, Tanu Choudhary, Raju K. Biswas</p><p>Rashba spin-splitting in GaSe 0.5 Te 0.5 and Ga 0.7 Tl 0.3 Se 0.5 Te 0.5 alloys simultaneously boosts carrier mobility ( µ ) and suppresses lattice thermal conductivity ( κ lat ), enabling enhanced thermoelectric performance ( η ) across a wide temperature range.</p><p>DOI: 10.1039/d6cp02048h</p>]]></description>
 </item>
 </channel></rss>
