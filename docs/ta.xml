@@ -3,7 +3,35 @@
 <title>RSC - Journal of Materials Chemistry A</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/ta</link>
 <description>RSC - Journal of Materials Chemistry A (via Crossref)</description>
-<lastBuildDate>Wed, 11 Nov 2026 06:42:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 19:42:18 +0000</lastBuildDate>
+<item>
+<title>From Single-Source Precursor Design to Built-in Electric Field Engineering: Unlocking High-Rate Lithium Storage in SnS2 / Expanded Graphite Anodes</title>
+<link>https://doi.org/10.1039/d6ta07926a</link>
+<guid isPermaLink="false">10.1039/d6ta07926a</guid>
+<pubDate>Wed, 11 Nov 2026 17:23:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Rahul Singh, Amaljith P, Manish Kumar Mohanta, Umasharan Sahu, Bhagavatula L.V. Prasad, Puru Jena, Hema Sundara S. Ramakrishna Matte</p><p>The rational design of single-source precursors (SSPs) offers an attractive route to the controlled, phase-pure synthesis of SnS2. However, most tin-based SSPs use organotin compounds and amine-containing solvents, raising environmental...</p><p>DOI: 10.1039/d6ta07926a</p>]]></description>
+</item>
+<item>
+<title>Biomass-derived chitosan as a loading-density-tunable scaffold for excited-state branching and cocatalyst-free photocatalytic hydrogen evolution of a platinum porphyrin</title>
+<link>https://doi.org/10.1039/d6ta07314j</link>
+<guid isPermaLink="false">10.1039/d6ta07314j</guid>
+<pubDate>Wed, 11 Nov 2026 15:54:40 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kushal Mohan Gowda, Yasuko Osakada, Mamoru Fujitsuka, Can Liu, Satoru Takakusagi, Hiroshi Uji-i, Vasudevanpillai Biju, Yuta Takano</p><p>Tuning platinum porphyrin loading on chitosan shifts photochemical activity from singlet oxygen generation toward enhanced cocatalyst-free H 2 evolution in water (72.7 mmol g −1 h −1 ; AQY 0.4% at 405 nm).</p><p>DOI: 10.1039/d6ta07314j</p>]]></description>
+</item>
+<item>
+<title>Flexible and Photothermal Wood-Based Triboelectric Nanogenerators for Self-Powered Sensing in Smart Facilities Management</title>
+<link>https://doi.org/10.1039/d6ta06494a</link>
+<guid isPermaLink="false">10.1039/d6ta06494a</guid>
+<pubDate>Wed, 11 Nov 2026 09:44:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Min Wang, Peiyao He, Shilei Li, Dong Lv, Zhihang Liu, Xiaojun Li, Jingqiu Wang, Likun Gao, Zhiqun Lin</p><p>Owing to their facile processability, unique porous structure, and favorable chemical composition, wood-based triboelectric nanogenerators (TENGs) hold great promise for mechanical energy harvesting and self-powered sensing, especially in smart facilities....</p><p>DOI: 10.1039/d6ta06494a</p>]]></description>
+</item>
+<item>
+<title>Enhanced Nitrate Electroreduction to Ammonia via An Active Hydrogen Pump Gated by Hydrogen-Bonding Network</title>
+<link>https://doi.org/10.1039/d6ta07581a</link>
+<guid isPermaLink="false">10.1039/d6ta07581a</guid>
+<pubDate>Wed, 11 Nov 2026 09:43:53 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yuzhong Fang, Hansong Zhang, Ziwei Zhao, Xiangxiang Cheng, Wan Zhang, Yong-Ho Ra, Zhong-Jie Jiang, Yongjie Wang</p><p>Electrocatalytic nitrate-to-ammonia (NO3- → NH3) conversion offers a green route for nitrate valorization, but its efficiency is severely limited by slow hydrogenation kinetics arising from insufficient active hydrogen (*H) supply....</p><p>DOI: 10.1039/d6ta07581a</p>]]></description>
+</item>
 <item>
 <title>Interfacial In-N orbital hybridization-induced p-band center shift: modulation of intermediate activation and adsorption for enhanced red-light-driven redox catalysis in crystalline carbon nitride/indium sulfide</title>
 <link>https://doi.org/10.1039/d6ta07939c</link>
@@ -152,11 +180,11 @@
 <description><![CDATA[<p><b>Authors:</b> Simone Piccinin, Che-an CL Lin, Huu Duc Luong, Ryoma Sasaki, Kei Kubota, Stefano Fabris, Shinichi Komaba, Yoshitaka Tateyama</p><p>As the most common anode material for Na-ion batteries, hard carbon has been the subject of extensive research aimed at unraveling its storage mechanisms and structure-property correlations. In this work,...</p><p>DOI: 10.1039/d6ta08107j</p>]]></description>
 </item>
 <item>
-<title>HydroBERT-MTL: Deep Semantic Representation of Incomplete Tabular Data for Hydrogen Uptake Prediction</title>
+<title>HydroBERT-MTL: deep semantic representation of incomplete tabular data for hydrogen uptake prediction</title>
 <link>https://doi.org/10.1039/d6ta07972e</link>
 <guid isPermaLink="false">10.1039/d6ta07972e</guid>
 <pubDate>Mon, 09 Nov 2026 13:23:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rui Luo, Ziliang Zhang, guoxiao xu, Hongli Li, Xiangbo Lin, Rulong Liu, Jinghua Liu, Xinwei Dong</p><p>Predicting hydrogen uptake in porous carbons is critical for adsorbent screening, yet literature datasets frequently lack complete pore-structure descriptors. We introduce HydroBERT-MTL, a missingness-aware text-tabular multi-task framework that overcomes this...</p><p>DOI: 10.1039/d6ta07972e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Rui Luo, Ziliang Zhang, Guoxiao Xu, Hongli Li, Xiangbo Lin, Rulong Liu, Jinghua Liu, Xinwei Dong</p><p>HydroBERT-MTL integrates SciBERT-based semantic encoding with mask-aware numerical learning to deliver accurate and robust hydrogen-uptake prediction from literature-derived porous-carbon datasets with missing structural descriptors.</p><p>DOI: 10.1039/d6ta07972e</p>]]></description>
 </item>
 <item>
 <title>Research progress on potassium-based solid-state batteries</title>
@@ -327,11 +355,11 @@
 <description><![CDATA[<p><b>Authors:</b> Kyu Hong Lee, Gyuri Youk, San Moon, Jungdon Suk, Do Youb Kim, Sang-Young Lee, Se-Hee Kim</p><p>Lithium-sulfur (Li-S) batteries offer high theoretical energy density but suffer from interfacial instability arising from non-uniform Li deposition and lithium polysulfide (LiPS) migration. Heterogeneous Li⁺ flux at the Li-metal surface...</p><p>DOI: 10.1039/d6ta07037j</p>]]></description>
 </item>
 <item>
-<title>Synergistic Interlayer Engineering and Phase Modulation of V−doped MoS2/rGO Composites for High-performance Aqueous Zn−ion Batteries</title>
+<title>Synergistic interlayer engineering and phase modulation of V-doped MoS 2 /rGO composites for high-performance aqueous Zn-ion batteries</title>
 <link>https://doi.org/10.1039/d6ta07897d</link>
 <guid isPermaLink="false">10.1039/d6ta07897d</guid>
 <pubDate>Fri, 06 Nov 2026 03:23:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jing Zhang, Jian Wang, Jianyi Qin, Jiangbin Liu, Jiawei Wang, Zhuo Wang, Bin Zhao</p><p>Despite the significant promise of MoS2 as cathode materials for aqueous zinc-ion batteries (AZIBs), its commercial viability is severely impeded by intrinsic poor conductivity and rapid capacity degradation during cycling....</p><p>DOI: 10.1039/d6ta07897d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Jing Zhang, Jian Wang, Jianyi Qin, Jiangbin Liu, Jiawei Wang, Zhuo Wang, Bin Zhao</p><p>By employing interlayer engineering and phase modulation, V–MoS 2 /rGO with expanded spacing and abundant 1T phase was synthesized. This structural synergy accelerates charge transfer kinetics and improves zinc-ion storage.</p><p>DOI: 10.1039/d6ta07897d</p>]]></description>
 </item>
 <item>
 <title>Switchable Photo/Dark Modes Catalysis Enabled by Single-Metal Immobilized-Covalent Organic Frameworks for NAD+/Nitrobenzene Reduction, Oxidative Cyclization, and Suzuki-Miyaura Coupling</title>
