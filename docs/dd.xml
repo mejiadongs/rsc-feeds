@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 11 Nov 2026 19:42:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 07:23:23 +0000</lastBuildDate>
 <item>
 <title>Back cover</title>
 <link>https://doi.org/10.1039/d6dd90058e</link>
@@ -129,33 +129,5 @@
 <guid isPermaLink="false">10.1039/d6dd00356g</guid>
 <pubDate>Fri, 30 Oct 2026 15:02:23 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Oscar Bengtsson, Daniel Hewitt, Indranil Saha, Misbah Sarwar, Nicola Collis, Andreas Erlebach, Lukáš Grajciar, Christopher J. Heard, Ben Slater</p><p>We present a new method to predict the structures of aluminosilicate zeolites using an accurate neural network potential and a custom basin-hopping method and demonstrate it's utility on Chabazite, Mordenite and zeolite RHO.</p><p>DOI: 10.1039/d6dd00356g</p>]]></description>
-</item>
-<item>
-<title>PocketBagger: generalizable pocket druggability prediction via positive-unlabeled learning</title>
-<link>https://doi.org/10.1039/d6dd00147e</link>
-<guid isPermaLink="false">10.1039/d6dd00147e</guid>
-<pubDate>Wed, 28 Oct 2026 15:59:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Phillip W. Gingrich, Ansuman Biswas, Ioan L. Mica, Kevin M. Brammer, Zhigang Shu, David S. Maxwell, Kaitlyn P. Russell, Bissan Al-Lazikani</p><p>PocketBagger learns from experimentally observed drug-like ligand-binding pockets while treating all other pockets as unlabeled, enabling generalizable druggability prediction without unreliable negative labels.</p><p>DOI: 10.1039/d6dd00147e</p>]]></description>
-</item>
-<item>
-<title>Simulation of radiation chemistry by a one-shot hybrid continuum/Monte Carlo method</title>
-<link>https://doi.org/10.1039/d6dd00003g</link>
-<guid isPermaLink="false">10.1039/d6dd00003g</guid>
-<pubDate>Wed, 28 Oct 2026 12:03:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Charlie Perkins, Marcus Webb, Fred J. Currell</p><p>A hybrid continuum/Monte Carlo method solves radiation chemical kinetics thousands of times faster than competitor methods at unprecedentedly high dose depositions by deterministically evolving stochastically placed reaction packets in time.</p><p>DOI: 10.1039/d6dd00003g</p>]]></description>
-</item>
-<item>
-<title>ML and AI for density functional theory: different priorities for Kohn-Sham and orbital-free DFT, for electronic and nuclear DFT</title>
-<link>https://doi.org/10.1039/d6dd00454g</link>
-<guid isPermaLink="false">10.1039/d6dd00454g</guid>
-<pubDate>Wed, 28 Oct 2026 03:23:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xin-Hui Wu, Sergei Manzhos</p><p>We overview similarities and, importantly, differences in computational bottlenecks and accuracy requirements that can be addressed with machine learning (ML) and artificial intelligence (AI) techniques in electronic and nuclear DFT....</p><p>DOI: 10.1039/d6dd00454g</p>]]></description>
-</item>
-<item>
-<title>Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control</title>
-<link>https://doi.org/10.1039/d6dd00706f</link>
-<guid isPermaLink="false">10.1039/d6dd00706f</guid>
-<pubDate>Wed, 28 Oct 2026 03:03:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Liu, Boris Slautin, Ching-Che Lin, Jaegyu Kim, Lane W. Martin, Sergei V. Kalinin</p><p>SPARC uses two persistent memory files to transfer human knowledge, review proposed microscope experiments, and validate new findings against controls before updating the experimental record.</p><p>DOI: 10.1039/d6dd00706f</p>]]></description>
 </item>
 </channel></rss>

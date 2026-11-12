@@ -3,7 +3,7 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Wed, 11 Nov 2026 19:42:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 07:23:18 +0000</lastBuildDate>
 <item>
 <title>Understanding the carbon cycle via molecular dynamics simulations of carbonate solutions under extreme conditions in Earth's upper mantle</title>
 <link>https://doi.org/10.1039/d6cp02471h</link>
@@ -523,11 +523,11 @@
 <description><![CDATA[<p><b>Authors:</b> Wendurina Bao, Shuxian Hu</p><p>Rare-earth-based magnetic materials play important roles in permanent magnets, magnetic storage, and spintronic devices. However, the rapid discovery of new ferromagnetic binary rare-earth compounds that simultaneously exhibit strong magnetic anisotropy...</p><p>DOI: 10.1039/d6cp03201j</p>]]></description>
 </item>
 <item>
-<title>ABEEM-ESHB: An in situ hydrogen-bond estimation model for dynamic monitoring of sulfur-containing amino acid–damaged base interactions</title>
+<title>ABEEM-ESHB: an in situ hydrogen-bond estimation model for dynamic monitoring of sulfur-containing amino acid–damaged base interactions</title>
 <link>https://doi.org/10.1039/d6cp02752k</link>
 <guid isPermaLink="false">10.1039/d6cp02752k</guid>
 <pubDate>Tue, 03 Nov 2026 09:23:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xin-Yue Miao, Zi-Zhen Jin, Tong-Tong Men, Wei Sun, Cui Liu, Zhong-Zhi Yang</p><p>Hydrogen bonds between active residues of repair enzymes and damaged bases are critical for recognition. Simulating polarization effects and interactions in biological systems remains a challenge in force field development....</p><p>DOI: 10.1039/d6cp02752k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xin-Yue Miao, Zi-Zhen Jin, Tong-Tong Men, Wei Sun, Cui Liu, Zhong-Zhi Yang</p><p>ABEEM-ESHB partitions molecules into atomic, σ/π-bond, and lone–pair sites. During MD, it tracks the Cys253–8-oxo-G S–H⋯O hydrogen bond and its energy in real time. Scheme 2 is optimal, and MD H-bond energy nears 0 kcal mol −1 at 2.74 Å.</p><p>DOI: 10.1039/d6cp02752k</p>]]></description>
 </item>
 <item>
 <title>Unlocking the ideal ohmic contacts in MoSi 2 N 4 via MSene electrodes</title>
@@ -635,18 +635,18 @@
 <description><![CDATA[<p><b>Authors:</b> Sujata Nandi, Nandini Ananth</p><p>Hybrid semiclassical (SC) approaches offer an efficient route to simulations of nonadiabatic dynamics by selectively quantizing key degrees of freedom, retaining the accuracy of quantum-limit SC methods at a reduced computational cost.</p><p>DOI: 10.1039/d6cp02579j</p>]]></description>
 </item>
 <item>
-<title>Quasichemical short-range order in high-entropy reciprocal melts: Li, Na, K‖F, Cl</title>
-<link>https://doi.org/10.1039/d6cp03168d</link>
-<guid isPermaLink="false">10.1039/d6cp03168d</guid>
-<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dmitry O. Zakiryanov, Nikolay K. Tkachev</p><p>Machine-learning molecular dynamics and charged hard-sphere modeling reveal how strong ionic preferences compete with ideal mixing behavior, quantifying the individual structural and chemical contributions to high-entropy melt systems.</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
-</item>
-<item>
 <title>Machine learning potential simulations reveal coupled thermodynamic and kinetic control of C 2 H 6 /C 2 H 4 retention in a prototypical ultramicroporous MOF</title>
 <link>https://doi.org/10.1039/d6cp03227c</link>
 <guid isPermaLink="false">10.1039/d6cp03227c</guid>
 <pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>MLP-driven OPES and long-timescale MD simulations reveal two-step, high-barrier migration of C 2 H 6 versus single-step, lower-barrier migration of C 2 H 4 in Cu(Qc) 2 , highlighting a substantial kinetic contribution to preferential C 2 H 6 retention.</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
+</item>
+<item>
+<title>Quasichemical short-range order in high-entropy reciprocal melts: Li, Na, K‖F, Cl</title>
+<link>https://doi.org/10.1039/d6cp03168d</link>
+<guid isPermaLink="false">10.1039/d6cp03168d</guid>
+<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Dmitry O. Zakiryanov, Nikolay K. Tkachev</p><p>Machine-learning molecular dynamics and charged hard-sphere modeling reveal how strong ionic preferences compete with ideal mixing behavior, quantifying the individual structural and chemical contributions to high-entropy melt systems.</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
 </item>
 <item>
 <title>A mechanism study of efficient photoreduction of CO 2 to CO using BODIPY-derived heavy-atom-free electron donor–acceptor dyads as photosensitizers showing strong absorption of green light</title>
@@ -740,11 +740,11 @@
 <description><![CDATA[<p><b>Authors:</b> Tam Mai, Tien V. Pham, Loc T. Nguyen, Long H. Nguyen, Trang Nguyen, Lam Kim Huynh</p><p>The present investigation reports a detailed mechanism and kinetics of the 3-pentanone + OH bimolecular reaction (T = 250 – 2000 K) and the isomerization/decomposition of 3-pentanone radicals in a...</p><p>DOI: 10.1039/d6cp01986b</p>]]></description>
 </item>
 <item>
-<title>Measuring vapour-liquid equilibria (VLE) using benchtop NMR</title>
+<title>Measuring vapour–liquid equilibria (VLE) using benchtop NMR</title>
 <link>https://doi.org/10.1039/d6cp03344j</link>
 <guid isPermaLink="false">10.1039/d6cp03344j</guid>
 <pubDate>Thu, 29 Oct 2026 21:43:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Isanthi Liyanage, Reuben Bowen, Richard M Hartshorn, Daniel J Holland</p><p>Vapour-liquid equilibria data are essential in the design of chemical processes. Existing measurement techniques require relatively large quantities of material, making them challenging to apply to new processes for expensive...</p><p>DOI: 10.1039/d6cp03344j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Isanthi R. Liyanage, Reuben Bowen, Richard M. Hartshorn, Daniel J. Holland</p><p>Benchtop 1 H NMR spectroscopy enables quantitative VLE measurements at near-ambient pressure by separately analysing the liquid and vapour phases to determine equilibrium compositions and pressures.</p><p>DOI: 10.1039/d6cp03344j</p>]]></description>
 </item>
 <item>
 <title>Two ground states of heme: spin-forbidden equilibrium</title>
@@ -766,68 +766,5 @@
 <guid isPermaLink="false">10.1039/d6cp03070j</guid>
 <pubDate>Thu, 29 Oct 2026 09:50:58 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Perttu Hilla</p><p>Beyond the two-site model: xenon finds new homes in cryptophane aggregates.</p><p>DOI: 10.1039/d6cp03070j</p>]]></description>
-</item>
-<item>
-<title>Decoupling charge transfer and spin in CO 2 activation: spin-selective frontier orbital control in doped Al 12 X − superatomic clusters</title>
-<link>https://doi.org/10.1039/d6cp03232j</link>
-<guid isPermaLink="false">10.1039/d6cp03232j</guid>
-<pubDate>Wed, 28 Oct 2026 21:23:44 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Katarína Šulková, Andrej Hurajt, Martin Šulka</p><p>Endohedral and exohedral doping create distinct pathways for CO 2 activation that converge on a common principle: chemisorption is controlled by the ability of the spin-polarized frontier electronic structure to reorganize upon adsorption.</p><p>DOI: 10.1039/d6cp03232j</p>]]></description>
-</item>
-<item>
-<title>Decoding transient X-ray absorption spectra of acetylacetone with multireference algebraic diagrammatic construction theory</title>
-<link>https://doi.org/10.1039/d6cp03118h</link>
-<guid isPermaLink="false">10.1039/d6cp03118h</guid>
-<pubDate>Wed, 28 Oct 2026 16:15:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bennett W. Clark, Donna H. Odhiambo, Haden Dickerson, Alexander Yu. Sokolov</p><p>Multireference simulations of AcAc time-resolved X-ray absorption spectrum reveal transient signatures of proton transfer and excited-state relaxation.</p><p>DOI: 10.1039/d6cp03118h</p>]]></description>
-</item>
-<item>
-<title>Fluorescence quenching of l -histidine-protected copper nanoclusters by closed-shell heavy metal ions</title>
-<link>https://doi.org/10.1039/d6cp02940j</link>
-<guid isPermaLink="false">10.1039/d6cp02940j</guid>
-<pubDate>Wed, 28 Oct 2026 12:43:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> J. S. Anjali Devi, M. Anjana, Sudhakaran Sudheesh</p><p>l -His–CuNCs exhibit ion-selective fluorescence response towards closed-shell heavy metal ions (Pb 2+ , Cd 2+ , Zn 2+ , and Ag + ), with Pb 2+ triggering remarkable amplified quenching via synergistic static-dynamic pathways followed by the heavy atom effect.</p><p>DOI: 10.1039/d6cp02940j</p>]]></description>
-</item>
-<item>
-<title>Inside front cover</title>
-<link>https://doi.org/10.1039/d6cp90200f</link>
-<guid isPermaLink="false">10.1039/d6cp90200f</guid>
-<pubDate>Wed, 28 Oct 2026 11:41:11 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cp90200f</p>]]></description>
-</item>
-<item>
-<title>Front cover</title>
-<link>https://doi.org/10.1039/d6cp90199a</link>
-<guid isPermaLink="false">10.1039/d6cp90199a</guid>
-<pubDate>Wed, 28 Oct 2026 11:41:01 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cp90199a</p>]]></description>
-</item>
-<item>
-<title>Contents list</title>
-<link>https://doi.org/10.1039/d6cp90201d</link>
-<guid isPermaLink="false">10.1039/d6cp90201d</guid>
-<pubDate>Wed, 28 Oct 2026 11:40:09 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cp90201d</p>]]></description>
-</item>
-<item>
-<title>Back cover</title>
-<link>https://doi.org/10.1039/d6cp90202b</link>
-<guid isPermaLink="false">10.1039/d6cp90202b</guid>
-<pubDate>Wed, 28 Oct 2026 11:30:32 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cp90202b</p>]]></description>
-</item>
-<item>
-<title>Quantum dynamics study of H + collisions with CO at moderate collision energy ( E c.m. = 28.96 eV): vibrationally inelastic and charge transfer processes</title>
-<link>https://doi.org/10.1039/d6cp01050d</link>
-<guid isPermaLink="false">10.1039/d6cp01050d</guid>
-<pubDate>Wed, 28 Oct 2026 08:43:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> V. C. Saheer, Deboki Reja, Sanjay Kumar</p><p>Investigation of charge-transfer dynamics in H + + CO collisions using a multistate quantum scattering approach, highlighting the sensitivity to the diabatization procedure and the resulting topology of the interaction potentials.</p><p>DOI: 10.1039/d6cp01050d</p>]]></description>
-</item>
-<item>
-<title>Orbital entanglement based on the adaptive sampling configuration interaction (ASCI) method</title>
-<link>https://doi.org/10.1039/d6cp03052a</link>
-<guid isPermaLink="false">10.1039/d6cp03052a</guid>
-<pubDate>Wed, 28 Oct 2026 01:05:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kyeong Su Min, Jae Woo Park</p><p>We implement orbital entanglement calculations using adaptive sampling configuration interaction (ASCI), a deterministic selected CI method, and demonstrate their applicability to various chemical systems.</p><p>DOI: 10.1039/d6cp03052a</p>]]></description>
 </item>
 </channel></rss>

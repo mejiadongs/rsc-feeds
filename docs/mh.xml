@@ -3,7 +3,14 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Wed, 11 Nov 2026 19:42:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 07:23:14 +0000</lastBuildDate>
+<item>
+<title>High-Performance Gyroid Structure Generation via Data-Driven Local Thickness Tuning</title>
+<link>https://doi.org/10.1039/d6mh01312k</link>
+<guid isPermaLink="false">10.1039/d6mh01312k</guid>
+<pubDate>Thu, 12 Nov 2026 01:23:54 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiyoung Jung, Yuna Yoo, Keenan Millikan, Tarah Sullivan Suiter, Timothy Knight, Chris Sullivan, Grace Gu</p><p>Sheet-based triply periodic minimal surfaces (TPMS), particularly gyroid structures, are widely utilized in lightweight engineering due to their high specific stiffness and geometric continuity. However, most existing designs rely on...</p><p>DOI: 10.1039/d6mh01312k</p>]]></description>
+</item>
 <item>
 <title>Rufigallol-based 2D metal–organic frameworks as bifunctional electrocatalysts for rechargeable Zn–air batteries</title>
 <link>https://doi.org/10.1039/d6mh02124g</link>
@@ -171,26 +178,5 @@
 <guid isPermaLink="false">10.1039/d6mh01967f</guid>
 <pubDate>Thu, 29 Oct 2026 18:43:09 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Abhishek Kumar Yadav, ManojKumar Jujam, Sagar Nehe, Sonali Kukreja, Srinivas Dharavath, Jean’ne M. Shreeve</p><p>Carbon–carbon (C–C) bonded azoles represent an important and rapidly expanding class of nitrogen-rich heterocyclic compounds with significant relevance to energetic and functional materials.</p><p>DOI: 10.1039/d6mh01967f</p>]]></description>
-</item>
-<item>
-<title>A unified analytical model for antiambipolar transport in organic mixed ionic-electronic transistors</title>
-<link>https://doi.org/10.1039/d6mh01595f</link>
-<guid isPermaLink="false">10.1039/d6mh01595f</guid>
-<pubDate>Wed, 28 Oct 2026 15:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Marcos Luginieski, Bruno Bassi Millan Torres, Bianca de Andrade Feitosa, Henrique Frulani de Paula Barbosa, Björn Lüssem, Gregório Couto Faria</p><p>The antiambipolar current–voltage characteristics of OECTs are analytically modeled by considering a two-step redox process and the trade-off between mobile single charges and immobile double charges.</p><p>DOI: 10.1039/d6mh01595f</p>]]></description>
-</item>
-<item>
-<title>Monolithic flexible all-SnSe thermoelectric generators with co-sintered p–n junctions for efficient low-grade energy harvesting</title>
-<link>https://doi.org/10.1039/d6mh02154a</link>
-<guid isPermaLink="false">10.1039/d6mh02154a</guid>
-<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Tian, Changzhen Zhang, Shibo Liu, Dongrui Liu, Sining Wang, Bingchao Qin, Li-Dong Zhao</p><p>Monolithic flexible all-SnSe thermoelectric generators enable efficient low-grade heat harvesting through low-resistance semiconductor junctions.</p><p>DOI: 10.1039/d6mh02154a</p>]]></description>
-</item>
-<item>
-<title>Accelerated intraporous blood flow in directional sponges amplifies coagulation factor activation for rapid hemostasis</title>
-<link>https://doi.org/10.1039/d6mh01715k</link>
-<guid isPermaLink="false">10.1039/d6mh01715k</guid>
-<pubDate>Wed, 28 Oct 2026 12:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiahui Liu, Zifan Zheng, Zehuan Li, Wenjie Fu, Xuanke Huang, Weiling He, Liqiong Liao, Qianming Lin</p><p>Controlled acceleration of blood flow within micrometer-scale directional channels in a porous hemostatic sponge amplifies coagulation factor activation at the molecular level, enabling effective in vivo hemostasis.</p><p>DOI: 10.1039/d6mh01715k</p>]]></description>
 </item>
 </channel></rss>

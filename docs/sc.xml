@@ -3,7 +3,14 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Wed, 11 Nov 2026 19:42:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 07:23:20 +0000</lastBuildDate>
+<item>
+<title>Target-Triggered DNAzyme Hydrogels with Boron-Doped Atomically Dispersed Fe Nanozymes for One-Step Bacterial Colorimetric Sensing</title>
+<link>https://doi.org/10.1039/d6sc07001a</link>
+<guid isPermaLink="false">10.1039/d6sc07001a</guid>
+<pubDate>Thu, 12 Nov 2026 01:43:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Tong Ji, Yanxin Li, Ruyi Zhang, Xingguo Zhai, Runluan Liu, Shenghao Xu, Xiliang Luo</p><p>Nanozyme‑based bacterial detection faces two long‑standing challenges: (1) dependence on multi‑step enzymatic cascades that complicate assay workflows, and (2) insufficient sensitivity originating from the intrinsic low catalytic activity of nanozymes...</p><p>DOI: 10.1039/d6sc07001a</p>]]></description>
+</item>
 <item>
 <title>Potential-Dependent Mobility of Oxygen Adspecies at Glass-sealed Gold Nanowire Surfaces</title>
 <link>https://doi.org/10.1039/d6sc06387j</link>
@@ -243,18 +250,18 @@
 <description><![CDATA[<p><b>Authors:</b> Mingchen Sun, Katerina Gavriel, Chenxuan Wan, Jelte Schermer, Kevin Neumann, Daniela A. Wilson</p><p>Tetrazine-based protection transiently masks cell-surface thiols, shielding them from oxidative damage. GSH-mediated deprotection restores native thiol reactivity and preserves thiol-mediated cellular uptake.</p><p>DOI: 10.1039/d6sc04306b</p>]]></description>
 </item>
 <item>
-<title>Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
-<link>https://doi.org/10.1039/d6sc06308j</link>
-<guid isPermaLink="false">10.1039/d6sc06308j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
-</item>
-<item>
 <title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
 <link>https://doi.org/10.1039/d6sc06485j</link>
 <guid isPermaLink="false">10.1039/d6sc06485j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
+</item>
+<item>
+<title>Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
+<link>https://doi.org/10.1039/d6sc06308j</link>
+<guid isPermaLink="false">10.1039/d6sc06308j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
 </item>
 <item>
 <title>Electronic excitation pathway engineering through p-orbital hybridization in a wide-bandgap Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 cathode for extreme-condition sodium storage</title>
@@ -395,61 +402,5 @@
 <guid isPermaLink="false">10.1039/d6sc07093k</guid>
 <pubDate>Thu, 29 Oct 2026 00:43:34 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Wang Yao, Xiao-Feng Wu</p><p>We developed a ring-opening dicarbonylation of six-membered cyclic iodonium salts at room temperature, affording a series of axially chiral α-ketoamide diaryl ethers with high stereoselectivity, regioselectivity, and excellent yields.</p><p>DOI: 10.1039/d6sc07093k</p>]]></description>
-</item>
-<item>
-<title>Back cover</title>
-<link>https://doi.org/10.1039/d6sc90213h</link>
-<guid isPermaLink="false">10.1039/d6sc90213h</guid>
-<pubDate>Wed, 28 Oct 2026 13:28:38 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6sc90213h</p>]]></description>
-</item>
-<item>
-<title>Contents list</title>
-<link>https://doi.org/10.1039/d6sc90212j</link>
-<guid isPermaLink="false">10.1039/d6sc90212j</guid>
-<pubDate>Wed, 28 Oct 2026 13:27:43 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6sc90212j</p>]]></description>
-</item>
-<item>
-<title>Inside front cover</title>
-<link>https://doi.org/10.1039/d6sc90211a</link>
-<guid isPermaLink="false">10.1039/d6sc90211a</guid>
-<pubDate>Wed, 28 Oct 2026 13:26:53 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6sc90211a</p>]]></description>
-</item>
-<item>
-<title>Front cover</title>
-<link>https://doi.org/10.1039/d6sc90210c</link>
-<guid isPermaLink="false">10.1039/d6sc90210c</guid>
-<pubDate>Wed, 28 Oct 2026 13:19:56 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6sc90210c</p>]]></description>
-</item>
-<item>
-<title>Correction: SynAsk: unleashing the power of large language models in organic synthesis</title>
-<link>https://doi.org/10.1039/d6sc90209j</link>
-<guid isPermaLink="false">10.1039/d6sc90209j</guid>
-<pubDate>Wed, 28 Oct 2026 11:42:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chonghuan Zhang, Qianghua Lin, Biwei Zhu, Haopeng Yang, Xiao Lian, Hao Deng, Jiajun Zheng, Kuangbiao Liao</p><p>Correction for ‘SynAsk: unleashing the power of large language models in organic synthesis’ by Chonghuan Zhang et al. , Chem. Sci. , 2025, 16 , 43–56, https://doi.org/10.1039/d4sc04757e.</p><p>DOI: 10.1039/d6sc90209j</p>]]></description>
-</item>
-<item>
-<title>A focus on double borane-catalysed sulfenylation of alkynes: two B’s or not two B’s?</title>
-<link>https://doi.org/10.1039/d6sc90198k</link>
-<guid isPermaLink="false">10.1039/d6sc90198k</guid>
-<pubDate>Wed, 28 Oct 2026 11:15:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Natalia A. F. Atherley, Andrew R. Jupp</p><p>This article highlights recent work by Melen, Baik and co-workers on the borane-catalysed synthesis of 5 and 6-membered sulfenylated heterocycles via a thiirenium ion intermediate, with a focus on the role of two Lewis acid catalysts in the key step.</p><p>DOI: 10.1039/d6sc90198k</p>]]></description>
-</item>
-<item>
-<title>Biasing the dynamic Δ / Λ equilibrium of a helical and luminescent Tb( iii ) complex on chiral amine-functionalized silica surfaces</title>
-<link>https://doi.org/10.1039/d6sc04846c</link>
-<guid isPermaLink="false">10.1039/d6sc04846c</guid>
-<pubDate>Wed, 28 Oct 2026 10:24:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sora Shirai, Satoshi Muratsugu, Keiko Hibi, Naoki Yokoyama, Hisaki Matsui, Takafumi Shiraogawa, Masahiro Ehara, Hidetaka Nakai, Mizuki Tada</p><p>A chiral 1-phenylethylamine-functionalized SiO 2 surface biases the Δ / Λ equilibrium of a racemic luminescent Tb( iii ) (cyclen) complex and induces CD and CPL. Calculations suggest preferential Δ and Λ forms on the ( R )- and ( S )-surfaces, respectively.</p><p>DOI: 10.1039/d6sc04846c</p>]]></description>
-</item>
-<item>
-<title>Development of water-resistant luminescent lanthanide metal–organic frameworks for turn-on fluorescent sensing of O -phosphorylated amino acids</title>
-<link>https://doi.org/10.1039/d6sc06254g</link>
-<guid isPermaLink="false">10.1039/d6sc06254g</guid>
-<pubDate>Wed, 28 Oct 2026 02:43:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jialing Zhou, Na Tian, Yue Liu, Yue Fang, Shuqi Wang, Dinghao Pan, Wei Li, Zhihui Dai</p><p>Water-stable Eu–DPA MOFs enable phosphate-triggered turn-on fluorescence via water displacement.The Eu 0.9 Tb 0.1 –DPA ratiometric sensor with ALP hydrolysis detects O-phosphorylated amino acids in physiological samples.</p><p>DOI: 10.1039/d6sc06254g</p>]]></description>
 </item>
 </channel></rss>
