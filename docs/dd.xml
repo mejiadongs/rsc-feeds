@@ -3,7 +3,35 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 12 Nov 2026 07:23:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 20:05:17 +0000</lastBuildDate>
+<item>
+<title>Q-Twin: a digital twin beamline for molecular scattering and coherent dynamics</title>
+<link>https://doi.org/10.1039/d6dd00457a</link>
+<guid isPermaLink="false">10.1039/d6dd00457a</guid>
+<pubDate>Thu, 12 Nov 2026 18:01:36 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Guang Chen, Xiao-Min Lin, Suresh Narayanan, Subramanian K. R. S. Sankaranarayanan</p><p>Q-Twin: a digital twin beamline for molecular scattering and coherent dynamics that bridges molecular simulations and experimental scattering.</p><p>DOI: 10.1039/d6dd00457a</p>]]></description>
+</item>
+<item>
+<title>Feynman-Kac-Flow: Inference Steering of Conditional Flow Matching to an Energy-Tilted Posterior</title>
+<link>https://doi.org/10.1039/d6dd00258g</link>
+<guid isPermaLink="false">10.1039/d6dd00258g</guid>
+<pubDate>Thu, 12 Nov 2026 09:32:55 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Konstantin Mark, Leonard Galustian, Maximilian Peter-Paul Kovar, Esther Heid</p><p>Conditional Flow Matching (CFM) represents a fast and high-quality approach to generative modelling, but methods for steering CFM during inference toward energy- or reward-tilted distributions remain underdeveloped. For diffusion models,...</p><p>DOI: 10.1039/d6dd00258g</p>]]></description>
+</item>
+<item>
+<title>Beyond performance: selecting fit-for-purpose large language models for materials research</title>
+<link>https://doi.org/10.1039/d6dd00679e</link>
+<guid isPermaLink="false">10.1039/d6dd00679e</guid>
+<pubDate>Thu, 12 Nov 2026 07:43:49 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kangming Li, Syeda Kinza Fatima</p><p>Large language models are increasingly used in materials science and chemistry, but selecting a suitable model requires more than comparing task performance. Scientific usefulness also requires valid, repeatable responses at...</p><p>DOI: 10.1039/d6dd00679e</p>]]></description>
+</item>
+<item>
+<title>Closed-loop robotic optimization of ligand, base, and solvent for the selective mono-functionalization of a symmetric dibromofluorene via Suzuki-Miyaura coupling</title>
+<link>https://doi.org/10.1039/d6dd00634e</link>
+<guid isPermaLink="false">10.1039/d6dd00634e</guid>
+<pubDate>Thu, 12 Nov 2026 07:24:03 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hayaka Akitsu, Yuuya Nagata, Seiji Akiyama, Ryo Tamura, Wataru Matsuoka, Satoshi Maeda, Koji Tsuda</p><p>Closed-loop reaction optimization has been developed extensively for continuous and mixed variables, whereas fully robotic campaigns in which every optimized variable is a discrete chemical choice remain less common. Here...</p><p>DOI: 10.1039/d6dd00634e</p>]]></description>
+</item>
 <item>
 <title>Back cover</title>
 <link>https://doi.org/10.1039/d6dd90058e</link>

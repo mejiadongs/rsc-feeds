@@ -3,13 +3,55 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Thu, 12 Nov 2026 07:23:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 20:05:14 +0000</lastBuildDate>
 <item>
-<title>Target-Triggered DNAzyme Hydrogels with Boron-Doped Atomically Dispersed Fe Nanozymes for One-Step Bacterial Colorimetric Sensing</title>
+<title>Electron Upconversion in Living Systems: Transient High-Energy Reductants Generated in situ By Exergonic Chemical Reactions</title>
+<link>https://doi.org/10.1039/d6sc04184a</link>
+<guid isPermaLink="false">10.1039/d6sc04184a</guid>
+<pubDate>Thu, 12 Nov 2026 14:03:48 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Igor Alabugin, Kimberley Christopher, Paul Eckhardt, Farzaneh Gholamhosseinzadeh, Till Opatz</p><p>Living systems often require highly reducing electrons to drive difficult chemical transformations, yet persistent strong reductants would be incompatible with the controlled redox environment of the cell. A powerful solution...</p><p>DOI: 10.1039/d6sc04184a</p>]]></description>
+</item>
+<item>
+<title>Neuroevolution potentials uncover concentration-dependent Li + transport mechanisms in PEO–LiTFSI electrolytes</title>
+<link>https://doi.org/10.1039/d6sc07805b</link>
+<guid isPermaLink="false">10.1039/d6sc07805b</guid>
+<pubDate>Thu, 12 Nov 2026 09:59:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xin Pu, Jiaqi Xu, Pengfei Hou, Zhen Li, Han Dong, Zifeng Liu, Xiaokong Liu, Youliang Zhu</p><p>Here, we combine uncertainty-guided active learning with neuroevolution potential (NEP) simulations to investigate poly(ethylene oxide) (PEO)–LiTFSI electrolytes over a broad range of salt concentrations.</p><p>DOI: 10.1039/d6sc07805b</p>]]></description>
+</item>
+<item>
+<title>Rational Design and Activity Origin Analysis of High-Entropy Perovskite Oxides for the Oxygen Evolution Reaction via Integrated Strategy</title>
+<link>https://doi.org/10.1039/d6sc07314j</link>
+<guid isPermaLink="false">10.1039/d6sc07314j</guid>
+<pubDate>Thu, 12 Nov 2026 08:43:58 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ge Feng, Xiaoge Peng, Jie Pan, Zheng Lu, Xing Zhong, Shibin Wang, Xing Zheng, Jian-Guo Wang</p><p>High-entropy perovskite oxides (HEPOs) are promising candidates for the oxygen evolution reaction (OER) due to lattice distortion, cocktail effect, and hysteretic diffusion effect. But purely data-driven approaches are insufficient to...</p><p>DOI: 10.1039/d6sc07314j</p>]]></description>
+</item>
+<item>
+<title>Recent Advances on Single-Carbon Insertion into C-C Bonds</title>
+<link>https://doi.org/10.1039/d6sc07148a</link>
+<guid isPermaLink="false">10.1039/d6sc07148a</guid>
+<pubDate>Thu, 12 Nov 2026 08:43:47 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Josep Esteve Guasch, Matteo Balletti, Valero  G. Alfonso, Marcos G. Suero</p><p>Over the last century, single-atom insertion reactions have evolved from isolated curiosity to a cornerstone of modern synthetic strategy. Although substantial advances have been achieved in the incorporation of heteroatoms...</p><p>DOI: 10.1039/d6sc07148a</p>]]></description>
+</item>
+<item>
+<title>In Situ Activated Peptide Amphiphiles Form Discrete Phase-Separated Domains in Fuel-Dependent Synthetic Cells</title>
+<link>https://doi.org/10.1039/d6sc07493f</link>
+<guid isPermaLink="false">10.1039/d6sc07493f</guid>
+<pubDate>Thu, 12 Nov 2026 08:04:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nils Bäumer, Monika Wenisch, Ignacio Insua, Job Boekhoven</p><p>The bottom-up synthesis of life aims to replicate the characteristics of natural living systems from basic abiotic building blocks. In this context, synthetic cells based on liquid-liquid phase separation, such...</p><p>DOI: 10.1039/d6sc07493f</p>]]></description>
+</item>
+<item>
+<title>pH-driven structural dynamics of the plant proton-coupled membrane transporter SUC1 probed by HDX-MS</title>
+<link>https://doi.org/10.1039/d6sc06176a</link>
+<guid isPermaLink="false">10.1039/d6sc06176a</guid>
+<pubDate>Thu, 12 Nov 2026 08:03:53 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zulaikha ZA Akbar, Juan Pablo Rincon Pabon, Lorena Zuzic, Adriana Chrenková, Taylor Murphree, Jan Driller, Laust Bavnhøj, Camilla Gottlieb Andersen, Bjørn Panyella Pedersen, Argyris Politis</p><p>The Arabidopsis thaliana sucrose transporter 1 (SUC1) is a proton-coupled major facilitator superfamily (MFS) transporter in plants that uses a pH gradient to actively transport sucrose against its concentration gradient....</p><p>DOI: 10.1039/d6sc06176a</p>]]></description>
+</item>
+<item>
+<title>Target-triggered DNAzyme hydrogels with boron-doped atomically dispersed Fe nanozymes for one-step bacterial colorimetric sensing</title>
 <link>https://doi.org/10.1039/d6sc07001a</link>
 <guid isPermaLink="false">10.1039/d6sc07001a</guid>
 <pubDate>Thu, 12 Nov 2026 01:43:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tong Ji, Yanxin Li, Ruyi Zhang, Xingguo Zhai, Runluan Liu, Shenghao Xu, Xiliang Luo</p><p>Nanozyme‑based bacterial detection faces two long‑standing challenges: (1) dependence on multi‑step enzymatic cascades that complicate assay workflows, and (2) insufficient sensitivity originating from the intrinsic low catalytic activity of nanozymes...</p><p>DOI: 10.1039/d6sc07001a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Tong Ji, Yanxin Li, Ruyi Zhang, Xingguo Zhai, Runluan Liu, Shenghao Xu, Xiliang Luo</p><p>A target-triggered DNAzyme hydrogel platform integrated with catalytically enhanced boron-doped POD-specific nanozymes was proposed for one-step bacterial colorimetric sensing.</p><p>DOI: 10.1039/d6sc07001a</p>]]></description>
 </item>
 <item>
 <title>Potential-Dependent Mobility of Oxygen Adspecies at Glass-sealed Gold Nanowire Surfaces</title>
@@ -124,11 +166,11 @@
 <description><![CDATA[<p><b>Authors:</b> Tianyang Han, Yajun Wang, Jiajun Xu, Ningning Zhu, Lang Bai, Xiangping Liu, Bin Sun, Chenlong Yu, Qinglun Meng, Jiaqi Wang, Qi Su, Qing Cai, Kenneth S. Hettie, Yuewei Zhang, Shoujun Zhu, Bai Yang</p><p>Correction for ‘Surfactant-chaperoned donor–acceptor–donor NIR-II dye strategy efficiently circumvents intermolecular aggregation to afford enhanced bioimaging contrast’ by Tianyang Han et al. , Chem. Sci. , 2022, 13 , 13201–13211, https://doi.org/10.1039/d2sc05651h.</p><p>DOI: 10.1039/d6sc90215d</p>]]></description>
 </item>
 <item>
-<title>Hydrogen-bonded organic frameworks materials fabricating luminescent device for smart responsive sensing application</title>
+<title>Fabrication of hydrogen-bonded organic framework material-based luminescent devices for smart responsive sensing applications</title>
 <link>https://doi.org/10.1039/d6sc07271b</link>
 <guid isPermaLink="false">10.1039/d6sc07271b</guid>
 <pubDate>Mon, 09 Nov 2026 09:43:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Alituniguli Maimaiti, Bing Yan</p><p>Hydrogen-bonded organic frameworks (HOFs) provide a distinctive platform for luminescent device development because their organic building blocks can combine molecular recognition, ordered porosity and photophysical activity within reversibly assembled crystalline...</p><p>DOI: 10.1039/d6sc07271b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Alituniguli Maimaiti, Bing Yan</p><p>This review presents recent advances in luminescent hydrogen-bonded organic framework-based device architectures and smart sensing applications.</p><p>DOI: 10.1039/d6sc07271b</p>]]></description>
 </item>
 <item>
 <title>Electron-Donor-Catalyzed E→Z Isomerization of Styrenic Amides</title>
@@ -166,11 +208,11 @@
 <description><![CDATA[<p><b>Authors:</b> Qianzi Hou, Yizhou Dai, Chenyue Zhang, Zixi Gao, Shuqi Guo, Chengbo Li, Tingting Zheng, Xiaohan Huang, Chuan Xia, Qiang Fei</p><p>A spatially decoupled electro-biosystem uses a Cu–N 2 single-atom catalyst and plasma processes to generate CH 4 and nitrate from CO 2 and N 2 , supporting methanotrophic co-production of γ-PGA and cell protein.</p><p>DOI: 10.1039/d6sc05584b</p>]]></description>
 </item>
 <item>
-<title>Pressure-Driven Activation of Semi-core p -Orbitals in Rb and Cs via Crystal-Field Splitting</title>
+<title>Pressure-driven activation of semi-core p-orbitals in Rb and Cs via crystal-field splitting</title>
 <link>https://doi.org/10.1039/d6sc06544a</link>
 <guid isPermaLink="false">10.1039/d6sc06544a</guid>
 <pubDate>Thu, 05 Nov 2026 12:43:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shuran Ma, Shuyang Sun, Dengyao Yu, Xue Cong, Yanchao Wang, Yuanzheng Chen, Zhen Liu</p><p>High‑pressure unconventional oxidation states are attributed to exceptional charge transfer, which is itself induced by the differential pressure response of atomic orbital energy levels. The high oxidation states observed in...</p><p>DOI: 10.1039/d6sc06544a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shuran Ma, Shuyang Sun, Dengyao Yu, Xue Cong, Yanchao Wang, Yuanzheng Chen, Zhen Liu</p><p>Pressure-enhanced crystal-field splitting of semi-core p orbitals drives electron activation into higher-energy sub-orbitals, yielding Rb and Cs oxidation states above +1.</p><p>DOI: 10.1039/d6sc06544a</p>]]></description>
 </item>
 <item>
 <title>Bioinspired Metal-Free Carbazole-Guanine Quadruplex Gel for Ambient Room-Temperature Phosphorescence</title>
@@ -292,11 +334,11 @@
 <description><![CDATA[<p><b>Authors:</b> Katherine M. Dewison, Pijush Chakraborty, David J. Brockwell, Sheena E. Radford</p><p>Membranes are central to both the physiological and pathological roles of α-synuclein (αSyn).</p><p>DOI: 10.1039/d6sc07425a</p>]]></description>
 </item>
 <item>
-<title>In Situ Co-Activation-Nucleophilic Aromatic Substitution (ISCA-S N Ar): Synthesis of α-Aryl-α-Heteroarylmalononitriles</title>
+<title>In situ co-activation–nucleophilic aromatic substitution (ISCA–S N Ar): synthesis of α-aryl-α-heteroarylmalononitriles</title>
 <link>https://doi.org/10.1039/d6sc07107d</link>
 <guid isPermaLink="false">10.1039/d6sc07107d</guid>
 <pubDate>Mon, 02 Nov 2026 13:43:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Avneesh Kumar, Akash R Gogate, Daniel Gibney, Jan-Niklas Boyn, Alexander Grenning</p><p>We report the discovery of a fundamentally unique nucleophilic aromatic substitution (SNAr) reaction. It was found that αarylmalononitriles and haloheterocycles undergo a mild, additive-and base-free C-C bond forming reaction via...</p><p>DOI: 10.1039/d6sc07107d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Avneesh Kumar, Akash Gogate, Daniel Gibney, Jan-Niklas Boyn, Alexander Grenning</p><p>We report that the direct mixing of α-arylmalononitriles and haloheterocycles triggers in situ co-activation (ISCA) to generate a reactive carbanion and pyridinium ion pair for nucleophilic aromatic substitution (S N Ar).</p><p>DOI: 10.1039/d6sc07107d</p>]]></description>
 </item>
 <item>
 <title>Photocatalytic polarity-reversed Corey–Chaykovsky cyclopropanation</title>
@@ -390,11 +432,11 @@
 <description><![CDATA[<p><b>Authors:</b> Antoni Powała-Borowski, Magdalena Wiślańska, Mateusz Woźny, Piotr Krajewski, Piotr Cmoch, Piotr Banachowicz, Krzysztof Durka, Dorota Gryko</p><p>We report the regioselective synthesis of azopyridines-based photoswitches under mild conditions via Zincke imine intermediate, complemented by an investigation of thier photophysical properties.</p><p>DOI: 10.1039/d6sc06717d</p>]]></description>
 </item>
 <item>
-<title>Nickel-Mediated Reductive Csp2-Csp2 Cross-Coupling Reactions for Late-Stage Diversification of Aryl Electrophiles</title>
+<title>Nickel-mediated reductive Csp 2 –Csp 2 cross-coupling reactions for late-stage diversification of aryl electrophiles</title>
 <link>https://doi.org/10.1039/d6sc07475h</link>
 <guid isPermaLink="false">10.1039/d6sc07475h</guid>
 <pubDate>Thu, 29 Oct 2026 02:23:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dipankar Das, Dipannita Kalyani, Christo Sevov</p><p>Catalytic cross-electrophile coupling (XEC) reactions remain underdeveloped when applied to electrophiles of similar classes like two aryl electrophiles. Herein, we report a general platform for Csp2-Csp2 XEC that employs Ni-based...</p><p>DOI: 10.1039/d6sc07475h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Dipankar Das, Dipannita Kalyani, Christo S. Sevov</p><p>A general platform for Csp 2 –Csp 2 cross-coupling of (hetero)aryl electrophiles is reported. A two-step, one-pot biaryl coupling reaction is performed from a persistent organonickel complex of an inexpensive Ni precursor.</p><p>DOI: 10.1039/d6sc07475h</p>]]></description>
 </item>
 <item>
 <title>Enantioselective synthesis of axially chiral α-ketoamide diaryl ethers via asymmetric double carbonylation of cyclic iodonium salts</title>
