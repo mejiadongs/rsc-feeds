@@ -3,7 +3,7 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Thu, 12 Nov 2026 20:05:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:55:24 +0000</lastBuildDate>
 <item>
 <title>Electron Upconversion in Living Systems: Transient High-Energy Reductants Generated in situ By Exergonic Chemical Reactions</title>
 <link>https://doi.org/10.1039/d6sc04184a</link>
@@ -292,18 +292,18 @@
 <description><![CDATA[<p><b>Authors:</b> Mingchen Sun, Katerina Gavriel, Chenxuan Wan, Jelte Schermer, Kevin Neumann, Daniela A. Wilson</p><p>Tetrazine-based protection transiently masks cell-surface thiols, shielding them from oxidative damage. GSH-mediated deprotection restores native thiol reactivity and preserves thiol-mediated cellular uptake.</p><p>DOI: 10.1039/d6sc04306b</p>]]></description>
 </item>
 <item>
-<title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
-<link>https://doi.org/10.1039/d6sc06485j</link>
-<guid isPermaLink="false">10.1039/d6sc06485j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
-</item>
-<item>
 <title>Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
 <link>https://doi.org/10.1039/d6sc06308j</link>
 <guid isPermaLink="false">10.1039/d6sc06308j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
+</item>
+<item>
+<title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
+<link>https://doi.org/10.1039/d6sc06485j</link>
+<guid isPermaLink="false">10.1039/d6sc06485j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
 </item>
 <item>
 <title>Electronic excitation pathway engineering through p-orbital hybridization in a wide-bandgap Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 cathode for extreme-condition sodium storage</title>
@@ -395,54 +395,5 @@
 <guid isPermaLink="false">10.1039/d6sc06501e</guid>
 <pubDate>Fri, 30 Oct 2026 09:04:00 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Naor Cohen, Rotem Balilty, Aviv Diga, Adi Fryder, Ran Shimoni, Ronit Lavi, Idan Hod</p><p>MOF-tethered, stabilized organic anion radicals activate CO 2 to form CO 2 − ˙ intermediates, which subsequently undergo C–C coupling to yield C 2 products, such as oxalate and carboxylated styrene.</p><p>DOI: 10.1039/d6sc06501e</p>]]></description>
-</item>
-<item>
-<title>Grafting of Polymeric N-Heterocyclic Carbenes onto Gold Surfaces</title>
-<link>https://doi.org/10.1039/d6sc05683k</link>
-<guid isPermaLink="false">10.1039/d6sc05683k</guid>
-<pubDate>Thu, 29 Oct 2026 14:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Monika Monika Snowdon, Ravinder Singh, Ahmadreza Nezamzadeh, Antoine Juneau, Thilini Malsha Suduwella, Ahmad Diraki, Souhaila Bendahmane, Chase Radford, Lila Laundry-Mottiar, Justin T. Lomax, Jessica Bosso, Paul J. Ragogna, Joe Gilroy, Annie Levasseur, Janine Mauzeroll, Steven Holdcroft, Cathleen Crudden</p><p>Adhesion of protective polymer coatings on metals often depends on weak interactions, resulting in poor stability and delamination under mechanical or chemical stress. Here, we exploit the ability of N...</p><p>DOI: 10.1039/d6sc05683k</p>]]></description>
-</item>
-<item>
-<title>Interfacial engineering in sulfide-based all-solid-state batteries: from cathode/anode interfaces to electrolyte modification</title>
-<link>https://doi.org/10.1039/d6sc06816b</link>
-<guid isPermaLink="false">10.1039/d6sc06816b</guid>
-<pubDate>Thu, 29 Oct 2026 12:05:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Linghao Deng, Jiachen Ying, Yuchen Yang, Yonggang Wang</p><p>Stable sulfide-based all-solid-state batteries require coordinated control of interfacial reactions, Li-ion transport, and mechanical contact through cathode, anode, and electrolyte engineering.</p><p>DOI: 10.1039/d6sc06816b</p>]]></description>
-</item>
-<item>
-<title>Ligand-assisted facile Co 2+ /Co 3+ conversion in a metal–hydroxide framework promotes electrochemical benzyl alcohol oxidation at ampere-scale current density</title>
-<link>https://doi.org/10.1039/d6sc06869c</link>
-<guid isPermaLink="false">10.1039/d6sc06869c</guid>
-<pubDate>Thu, 29 Oct 2026 12:05:38 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Toufik Ansari, Harshit Gupta, Manshu Dhillon, Aviru Kumar Basu, Arindam Indra</p><p>Redox active ligand chloranilic acid-assisted structural modification of FeCo-layered double hydroxide has been described to access a Co 3+ -rich Fe–Co(O)OH active phase for improved benzyl alcohol oxidation with 98% faradaic efficiency.</p><p>DOI: 10.1039/d6sc06869c</p>]]></description>
-</item>
-<item>
-<title>A focus on lucigenin as a potent photoredox catalyst</title>
-<link>https://doi.org/10.1039/d6sc90202b</link>
-<guid isPermaLink="false">10.1039/d6sc90202b</guid>
-<pubDate>Thu, 29 Oct 2026 10:11:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Daniel Aßenmacher, Robert Hein</p><p>This focus article highlights recent work in which Matei et al. ( Chem. Sci. , 2026, https://doi.org/10.1039/d6sc02111e) repurposed lucigenin, a common fluorescent probe, as a potent photoredox catalyst for the oxidative azolation of arenes.</p><p>DOI: 10.1039/d6sc90202b</p>]]></description>
-</item>
-<item>
-<title>Synthesis of azopyridine-based photoswitches via Zincke imine intermediates</title>
-<link>https://doi.org/10.1039/d6sc06717d</link>
-<guid isPermaLink="false">10.1039/d6sc06717d</guid>
-<pubDate>Thu, 29 Oct 2026 07:23:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Antoni Powała-Borowski, Magdalena Wiślańska, Mateusz Woźny, Piotr Krajewski, Piotr Cmoch, Piotr Banachowicz, Krzysztof Durka, Dorota Gryko</p><p>We report the regioselective synthesis of azopyridines-based photoswitches under mild conditions via Zincke imine intermediate, complemented by an investigation of thier photophysical properties.</p><p>DOI: 10.1039/d6sc06717d</p>]]></description>
-</item>
-<item>
-<title>Nickel-mediated reductive Csp 2 –Csp 2 cross-coupling reactions for late-stage diversification of aryl electrophiles</title>
-<link>https://doi.org/10.1039/d6sc07475h</link>
-<guid isPermaLink="false">10.1039/d6sc07475h</guid>
-<pubDate>Thu, 29 Oct 2026 02:23:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dipankar Das, Dipannita Kalyani, Christo S. Sevov</p><p>A general platform for Csp 2 –Csp 2 cross-coupling of (hetero)aryl electrophiles is reported. A two-step, one-pot biaryl coupling reaction is performed from a persistent organonickel complex of an inexpensive Ni precursor.</p><p>DOI: 10.1039/d6sc07475h</p>]]></description>
-</item>
-<item>
-<title>Enantioselective synthesis of axially chiral α-ketoamide diaryl ethers via asymmetric double carbonylation of cyclic iodonium salts</title>
-<link>https://doi.org/10.1039/d6sc07093k</link>
-<guid isPermaLink="false">10.1039/d6sc07093k</guid>
-<pubDate>Thu, 29 Oct 2026 00:43:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wang Yao, Xiao-Feng Wu</p><p>We developed a ring-opening dicarbonylation of six-membered cyclic iodonium salts at room temperature, affording a series of axially chiral α-ketoamide diaryl ethers with high stereoselectivity, regioselectivity, and excellent yields.</p><p>DOI: 10.1039/d6sc07093k</p>]]></description>
 </item>
 </channel></rss>

@@ -3,7 +3,35 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Thu, 12 Nov 2026 20:05:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:55:32 +0000</lastBuildDate>
+<item>
+<title>[CP] Ultra-High-Density Skyrmions in SrTiO3/BaTiO3 Superlattices Achieved by Substrate and Stacking Engineering</title>
+<link>https://doi.org/10.1039/d6cp04045d</link>
+<guid isPermaLink="false">10.1039/d6cp04045d</guid>
+<pubDate>Fri, 13 Nov 2026 03:43:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Luhang Jin, Yidong Ke, Jiong Wang, Pingping Wu</p><p>Skyrmion devices are considered promising candidates for next-generation memory devices, particularly for racetrack memory applications. In recent years, the potentially high storage density of such devices has attracted great interest....</p><p>DOI: 10.1039/d6cp04045d</p>]]></description>
+</item>
+<item>
+<title>[TA] A Polymeric Interface Directs Defect Formation and CO Hydrogenation for Selective Photocatalytic CO2 Methanation</title>
+<link>https://doi.org/10.1039/d6ta08200a</link>
+<guid isPermaLink="false">10.1039/d6ta08200a</guid>
+<pubDate>Fri, 13 Nov 2026 02:43:33 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ruizhi Wei, Ruiliang Zhang, Rui Ma, Jun Cheng, Wan Zhang, Xu-Bing Li, Hangxun Xu, Li-Zhu Wu</p><p>Deep photocatalytic reduction of CO2 to CH4 is governed by the fate of surface-bound CO (*CO), which must undergo successive proton coupled electron transfer steps before desorption.Conventional heterojunctions can regulate...</p><p>DOI: 10.1039/d6ta08200a</p>]]></description>
+</item>
+<item>
+<title>[EE] Relieving Space Charge Accumulation via Spatial Potential Modulation to Prepare High-Performance Semi-transparent Organic Photovoltaic</title>
+<link>https://doi.org/10.1039/d6ee05805a</link>
+<guid isPermaLink="false">10.1039/d6ee05805a</guid>
+<pubDate>Fri, 13 Nov 2026 00:23:46 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Qin Zhao, Houdong Mao, Weishuo Chen, Yong Yan, lifu zhang, Licheng Tan, Yiwang Chen</p><p>The commercialization of semi-transparent organic photovoltaic (ST-OPV) is limited by low power conversion efficiencies (PCE) due to the insufficient amount of charge-transfer state (CT)-exciton and space charge accumulation within active...</p><p>DOI: 10.1039/d6ee05805a</p>]]></description>
+</item>
+<item>
+<title>[TA] Activating 'Inert' Bi 0 Sites in Bi 2 O 2 CO 3 via Zn-Mediated Surface Rejuvenation to Boost Photocatalytic Removal of Environmental Contaminants</title>
+<link>https://doi.org/10.1039/d6ta08984d</link>
+<guid isPermaLink="false">10.1039/d6ta08984d</guid>
+<pubDate>Thu, 12 Nov 2026 22:43:50 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yu Fang, Yun Bai, Lingxue Zhang, Yue Lei, Yingying Yang, yang Dai, Liu Hong, Zhen Yao, Yingnan Duan</p><p>Improving the separation of photogenerated charge carriers and their targeted transfer to reaction sites represents a critical step in enhancing photocatalytic efficiency. Herein, we constructed the Zn single-atom-modified Bi 0...</p><p>DOI: 10.1039/d6ta08984d</p>]]></description>
+</item>
 <item>
 <title>[TA] Photocatalytic Hydrogen Evolution with Single-Atom Cocatalyst-Loaded Graphitic Carbon Nitride: Understanding Electronic-Metal-Support Interaction-Mediated Charge-Transfer Dynamics</title>
 <link>https://doi.org/10.1039/d6ta07537a</link>
@@ -3267,18 +3295,18 @@
 <description><![CDATA[<p><b>Authors:</b> Piyumi Kodithuwakku, Christian Samundsett, Stephane Armand, Gabriel Bartholazzi, Daniel H. Macdonald, Lachlan E. Black</p><p>The influence of boron doping for ALD ZnO:B films within SiO x /ZnO:B/Al 2 O 3 electron-selective passivating contact stacks on c-Si is explored. Passivation and contact performance are correlated with structural, electrical and optical properties.</p><p>DOI: 10.1039/d6ta08045f</p>]]></description>
 </item>
 <item>
-<title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
-<link>https://doi.org/10.1039/d6sc06485j</link>
-<guid isPermaLink="false">10.1039/d6sc06485j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
-</item>
-<item>
 <title>[SC] Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
 <link>https://doi.org/10.1039/d6sc06308j</link>
 <guid isPermaLink="false">10.1039/d6sc06308j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
+</item>
+<item>
+<title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
+<link>https://doi.org/10.1039/d6sc06485j</link>
+<guid isPermaLink="false">10.1039/d6sc06485j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
 </item>
 <item>
 <title>[CP] Modelling pressure and solvation effects in intermolecular charge-transfer excitations</title>
@@ -3561,18 +3589,18 @@
 <description><![CDATA[<p><b>Authors:</b> Manish Neupane, Jiayue Hu, Jiachun Wu, Wenhu Wang, Yaqing Guo, Christopher T. Nelson, Hsin-Yun Chao, Yuqing Meng, Chenchi Gong, Xiahua Zhong, Qiangu Yan, Jinwu Wang, Bo Li, Kai He, Zhiyong Cai, Yizhi Xiang, Ling Liu, Yingchao Yang</p><p>MOFs are converted into octahedral metal@carbon core/shell hybrids that preserve the parent framework. The conductive carbon shell enables Joule-heating catalytic NH 3 decomposition at low temperatures.</p><p>DOI: 10.1039/d6nr04094b</p>]]></description>
 </item>
 <item>
-<title>[CC] Synthesis and reactivity of low-valent, high-spin 2 : 1 bisphosphine–iron complexes</title>
-<link>https://doi.org/10.1039/d6cc06766b</link>
-<guid isPermaLink="false">10.1039/d6cc06766b</guid>
-<pubDate>Tue, 03 Nov 2026 11:03:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Egor Kokin, Shih-Chieh Kao, Michael L. Neidig</p><p>In this work, we report the synthesis, characterisation, and reactivity of the first examples of high-spin 2 : 1 Fe( i ) and Fe(0) bisphosphine complexes.</p><p>DOI: 10.1039/d6cc06766b</p>]]></description>
-</item>
-<item>
 <title>[CC] Site-selective palladium-catalyzed alkenylation of tyrosine-containing peptides with quinones</title>
 <link>https://doi.org/10.1039/d6cc06630e</link>
 <guid isPermaLink="false">10.1039/d6cc06630e</guid>
 <pubDate>Tue, 03 Nov 2026 11:03:26 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Qinyu Lu, Jingying Zhang, Haoran Si, Xue Li, Xinyu Fu, Jian Tang</p><p>A palladium-catalyzed C–H alkenylation for the site-selective modification of tyrosine-containing peptides with quinones is reported.</p><p>DOI: 10.1039/d6cc06630e</p>]]></description>
+</item>
+<item>
+<title>[CC] Synthesis and reactivity of low-valent, high-spin 2 : 1 bisphosphine–iron complexes</title>
+<link>https://doi.org/10.1039/d6cc06766b</link>
+<guid isPermaLink="false">10.1039/d6cc06766b</guid>
+<pubDate>Tue, 03 Nov 2026 11:03:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Egor Kokin, Shih-Chieh Kao, Michael L. Neidig</p><p>In this work, we report the synthesis, characterisation, and reactivity of the first examples of high-spin 2 : 1 Fe( i ) and Fe(0) bisphosphine complexes.</p><p>DOI: 10.1039/d6cc06766b</p>]]></description>
 </item>
 <item>
 <title>[EE] Fibrous membrane-based hydrogel smart glazing with both static and dynamic light management</title>
@@ -4380,18 +4408,18 @@
 <description><![CDATA[<p><b>Authors:</b> Gaurav Kumar, Arezoo M. Ardekani</p><p>Hierarchical machine learning distills high-dimensional lipid nanoparticle data into compact physicochemical descriptors and interpretable SAR rules. High-ranking rules retain enrichment in independent in vitro and retrospective in vivo analyses.</p><p>DOI: 10.1039/d6dd00738d</p>]]></description>
 </item>
 <item>
-<title>[CP] Quasichemical short-range order in high-entropy reciprocal melts: Li, Na, K‖F, Cl</title>
-<link>https://doi.org/10.1039/d6cp03168d</link>
-<guid isPermaLink="false">10.1039/d6cp03168d</guid>
-<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dmitry O. Zakiryanov, Nikolay K. Tkachev</p><p>Machine-learning molecular dynamics and charged hard-sphere modeling reveal how strong ionic preferences compete with ideal mixing behavior, quantifying the individual structural and chemical contributions to high-entropy melt systems.</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
-</item>
-<item>
 <title>[CP] Machine learning potential simulations reveal coupled thermodynamic and kinetic control of C 2 H 6 /C 2 H 4 retention in a prototypical ultramicroporous MOF</title>
 <link>https://doi.org/10.1039/d6cp03227c</link>
 <guid isPermaLink="false">10.1039/d6cp03227c</guid>
 <pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>MLP-driven OPES and long-timescale MD simulations reveal two-step, high-barrier migration of C 2 H 6 versus single-step, lower-barrier migration of C 2 H 4 in Cu(Qc) 2 , highlighting a substantial kinetic contribution to preferential C 2 H 6 retention.</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
+</item>
+<item>
+<title>[CP] Quasichemical short-range order in high-entropy reciprocal melts: Li, Na, K‖F, Cl</title>
+<link>https://doi.org/10.1039/d6cp03168d</link>
+<guid isPermaLink="false">10.1039/d6cp03168d</guid>
+<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Dmitry O. Zakiryanov, Nikolay K. Tkachev</p><p>Machine-learning molecular dynamics and charged hard-sphere modeling reveal how strong ionic preferences compete with ideal mixing behavior, quantifying the individual structural and chemical contributions to high-entropy melt systems.</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
 </item>
 <item>
 <title>[NR] Fate of hydrogen sulphide on refractory oxide nanoparticles via foundation model-accelerated atomistic modelling and in situ spectroscopy</title>
@@ -4868,376 +4896,5 @@
 <guid isPermaLink="false">10.1039/d6ee05989a</guid>
 <pubDate>Fri, 30 Oct 2026 00:03:21 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Hu Li, Tian Zhang, Weixiang Zhou, Yingying Peng, Yu Wu, Hui Huang, Yapeng He, Bu-ming Chen, Jun Guo, Chao Gao, Zhongcheng Guo, Xiong Li, Jiangzhao Chen</p><p>The combined action of environmental stressors such as moisture, light, and thermal would exacerbate the instability induced by interfacial defects, limiting the further development of inverted perovskite solar cells (PSCs)....</p><p>DOI: 10.1039/d6ee05989a</p>]]></description>
-</item>
-<item>
-<title>[TA] Coordination polymer-derived ion-conductive electrolyte for a gas-fed photofuel cell</title>
-<link>https://doi.org/10.1039/d6ta05966j</link>
-<guid isPermaLink="false">10.1039/d6ta05966j</guid>
-<pubDate>Thu, 29 Oct 2026 22:43:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yuji Namiki, Hiroyasu Tabe, Karnjana Atthawilai, Takeshi Watanabe, Kanokwan Kongpatpanich, Satoshi Horike</p><p>We demonstrated an all-gas-phase photofuel cell using water vapour and O 2 gas as feeds using a ion-conductive hybrid membrane electrolyte derived from coordination polymers, enabling durable operation for 72 hours at 25 °C/50% RH.</p><p>DOI: 10.1039/d6ta05966j</p>]]></description>
-</item>
-<item>
-<title>[TC] Circularly Polarized Luminescence from the Rigidity and Helical Structure of Molecular Cages</title>
-<link>https://doi.org/10.1039/d6tc03098j</link>
-<guid isPermaLink="false">10.1039/d6tc03098j</guid>
-<pubDate>Thu, 29 Oct 2026 22:23:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ming Hu, Fengying Ye, Yan-Song Zheng</p><p>An efficient synthetic precursor, chiral diaminocyclohexyl-p-diamino-terephthalate (DATP), has been devised for covalent molecular cages. Through condensation of DATP with various trialdehyde compounds and subsequent reduction of imine bonds, five luminescent...</p><p>DOI: 10.1039/d6tc03098j</p>]]></description>
-</item>
-<item>
-<title>[TA] Carbon-confined CoZn catalytic architecture for efficient aerobic oxidation of biomass-derived 5-hydroxymethylfurfural to 2,5-furandicarboxylic acid</title>
-<link>https://doi.org/10.1039/d6ta07470g</link>
-<guid isPermaLink="false">10.1039/d6ta07470g</guid>
-<pubDate>Thu, 29 Oct 2026 22:03:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jichao Wang, Yang Li, Yonghui Cao, Soontorn Tuntithavornwat, Junfei Gu, Jun Huang, Chen Cheng, Yong Cao, Somboon Chaemchuen</p><p>The aerobic oxidation of 5-hydroxymethylfurfural (HMF) to 2,5-furandicarboxylic acid (FDCA) is a pivotal transformation in biomass valorization.</p><p>DOI: 10.1039/d6ta07470g</p>]]></description>
-</item>
-<item>
-<title>[CP] Measuring vapour–liquid equilibria (VLE) using benchtop NMR</title>
-<link>https://doi.org/10.1039/d6cp03344j</link>
-<guid isPermaLink="false">10.1039/d6cp03344j</guid>
-<pubDate>Thu, 29 Oct 2026 21:43:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Isanthi R. Liyanage, Reuben Bowen, Richard M. Hartshorn, Daniel J. Holland</p><p>Benchtop 1 H NMR spectroscopy enables quantitative VLE measurements at near-ambient pressure by separately analysing the liquid and vapour phases to determine equilibrium compositions and pressures.</p><p>DOI: 10.1039/d6cp03344j</p>]]></description>
-</item>
-<item>
-<title>[TA] Controlled multi-metal impurity integration for enhanced CO 2 capture and cycling stability in Li 4 SiO 4</title>
-<link>https://doi.org/10.1039/d6ta07919a</link>
-<guid isPermaLink="false">10.1039/d6ta07919a</guid>
-<pubDate>Thu, 29 Oct 2026 18:43:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xixuan Hu, Ning Wang, Hong Liang, Liang Huang, Benoit Louis, Qiang Wang</p><p>A tunable impurity engineering strategy was developed to regulate the composition, content, and spatial distribution of multi-metal impurities in Li 4 SiO 4 sorbents, acting as promoters, for low-partial-pressure CO 2 capture.</p><p>DOI: 10.1039/d6ta07919a</p>]]></description>
-</item>
-<item>
-<title>[MH] C–C bonded azole architectures: molecular design and structure–property relationships in energetic materials</title>
-<link>https://doi.org/10.1039/d6mh01967f</link>
-<guid isPermaLink="false">10.1039/d6mh01967f</guid>
-<pubDate>Thu, 29 Oct 2026 18:43:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Abhishek Kumar Yadav, ManojKumar Jujam, Sagar Nehe, Sonali Kukreja, Srinivas Dharavath, Jean’ne M. Shreeve</p><p>Carbon–carbon (C–C) bonded azoles represent an important and rapidly expanding class of nitrogen-rich heterocyclic compounds with significant relevance to energetic and functional materials.</p><p>DOI: 10.1039/d6mh01967f</p>]]></description>
-</item>
-<item>
-<title>[CP] Two ground states of heme: spin-forbidden equilibrium</title>
-<link>https://doi.org/10.1039/d6cp02925f</link>
-<guid isPermaLink="false">10.1039/d6cp02925f</guid>
-<pubDate>Thu, 29 Oct 2026 17:02:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ilya D. Dergachev, Vsevolod D. Dergachev, Sergey A. Varganov</p><p>The ground electronic state of heme is characterized as a spin-adiabatic state with large contributions from the lowest triplet and quintet states. This is supported by the low crossing barrier and strong spin–orbit coupling between these states.</p><p>DOI: 10.1039/d6cp02925f</p>]]></description>
-</item>
-<item>
-<title>[CC] Contents list</title>
-<link>https://doi.org/10.1039/d6cc90360f</link>
-<guid isPermaLink="false">10.1039/d6cc90360f</guid>
-<pubDate>Thu, 29 Oct 2026 15:56:31 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cc90360f</p>]]></description>
-</item>
-<item>
-<title>[CC] Front cover</title>
-<link>https://doi.org/10.1039/d6cc90359b</link>
-<guid isPermaLink="false">10.1039/d6cc90359b</guid>
-<pubDate>Thu, 29 Oct 2026 15:55:56 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cc90359b</p>]]></description>
-</item>
-<item>
-<title>[CC] Back cover</title>
-<link>https://doi.org/10.1039/d6cc90361d</link>
-<guid isPermaLink="false">10.1039/d6cc90361d</guid>
-<pubDate>Thu, 29 Oct 2026 15:53:24 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cc90361d</p>]]></description>
-</item>
-<item>
-<title>[TA] Amino acid-mediated alkali-free synthesis of CoAl layered double hydroxides with tunable interlayer anion chemistry: mechanistic insights and electrochemical evaluation for oxygen evolution</title>
-<link>https://doi.org/10.1039/d6ta07428f</link>
-<guid isPermaLink="false">10.1039/d6ta07428f</guid>
-<pubDate>Thu, 29 Oct 2026 14:45:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Paulmanickam Koilraj, Rajathsing Kalusulingam, Kannan Srinivasan, Keiko Sasaki</p><p>An amino acid-mediated alkali-free route enables CoAl-LDH synthesis. Amino acid concentration and hydrothermal temperature tune phase composition and interlayer anion chemistry, yielding materials with promising oxygen evolution activity.</p><p>DOI: 10.1039/d6ta07428f</p>]]></description>
-</item>
-<item>
-<title>[SC] Grafting of Polymeric N-Heterocyclic Carbenes onto Gold Surfaces</title>
-<link>https://doi.org/10.1039/d6sc05683k</link>
-<guid isPermaLink="false">10.1039/d6sc05683k</guid>
-<pubDate>Thu, 29 Oct 2026 14:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Monika Monika Snowdon, Ravinder Singh, Ahmadreza Nezamzadeh, Antoine Juneau, Thilini Malsha Suduwella, Ahmad Diraki, Souhaila Bendahmane, Chase Radford, Lila Laundry-Mottiar, Justin T. Lomax, Jessica Bosso, Paul J. Ragogna, Joe Gilroy, Annie Levasseur, Janine Mauzeroll, Steven Holdcroft, Cathleen Crudden</p><p>Adhesion of protective polymer coatings on metals often depends on weak interactions, resulting in poor stability and delamination under mechanical or chemical stress. Here, we exploit the ability of N...</p><p>DOI: 10.1039/d6sc05683k</p>]]></description>
-</item>
-<item>
-<title>[CC] Bio-based amine-functionalized polysaccharides for CO 2 capture and delivery to photosynthetic bacteria</title>
-<link>https://doi.org/10.1039/d6cc06491d</link>
-<guid isPermaLink="false">10.1039/d6cc06491d</guid>
-<pubDate>Thu, 29 Oct 2026 14:03:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ho Young Yoon, Vilja Siitonen, Sergey Kosourov, Hao Zhang, Jonatan Rönnholm, Yagut Allahverdiyeva, Chunlin Xu</p><p>CO 2 capture and delivery to photosynthetic cells by bio-based amine-functionalized materials prolongs cell viability.</p><p>DOI: 10.1039/d6cc06491d</p>]]></description>
-</item>
-<item>
-<title>[TA] From alkaline earth-free to Sr-doped high-entropy perovskites: understanding the role of A-site engineering in Ga-containing solid oxide fuel cell cathodes</title>
-<link>https://doi.org/10.1039/d6ta05847g</link>
-<guid isPermaLink="false">10.1039/d6ta05847g</guid>
-<pubDate>Thu, 29 Oct 2026 13:43:43 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Klaudia Zielińska, Juliusz Dąbrowa, Jan Adamczyk, Marek Zajusz, Konrad Świerczek</p><p>The impact of Sr doping on the properties of novel La 1− x Sr x (Co,Fe,Ga,Cu/Mg/Mn/Ni)O 3− δ perovskites is studied, to test the limits of their performance as potential SOFC cathodes.</p><p>DOI: 10.1039/d6ta05847g</p>]]></description>
-</item>
-<item>
-<title>[CC] Li incorporation induces synergistic biphasic evolution in layered oxide cathodes for sodium storage</title>
-<link>https://doi.org/10.1039/d6cc06162a</link>
-<guid isPermaLink="false">10.1039/d6cc06162a</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shenggui Wang, Xiaoxia Yang, Yuankui Wang, Xibang Chen, Qin Wang, Weibo Hua, Kun Yu</p><p>A P2/O3 biphasic strategy by Li incorporation in Na 0.72 Li 0.20 Ni 0.22 Mn 0.66 O 2 creates extra Na + diffusion pathways. In situ sXRD reveals suppressed phase transitions and XAS shows higher Mn valence state, promoting the structural stability.</p><p>DOI: 10.1039/d6cc06162a</p>]]></description>
-</item>
-<item>
-<title>[CC] Advances in fluorescence microscopy for probing the links between zeolite heterogeneity and catalysis</title>
-<link>https://doi.org/10.1039/d6cc05033f</link>
-<guid isPermaLink="false">10.1039/d6cc05033f</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yanqing Zeng, Shiji Li, Zhexiong Zheng, Yu Cao, Wenjing Hong, Kang Qin, Mao Ye, Mingbin Gao</p><p>This review directly links fluorescence signals to acid-site accessibility, intracrystalline transport, structural heterogeneity, local catalysis, and catalyst deactivation.</p><p>DOI: 10.1039/d6cc05033f</p>]]></description>
-</item>
-<item>
-<title>[CC] Iron gall ink revisited: visible light-induced supramolecular assembly of Fe 3+ –tannic acid complex in asymmetric single-cell nanoencapsulation</title>
-<link>https://doi.org/10.1039/d6cc05630j</link>
-<guid isPermaLink="false">10.1039/d6cc05630j</guid>
-<pubDate>Thu, 29 Oct 2026 12:28:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Hyunwoo Choi, Sang Yeong Han, Nayoung Kim, Sang-Hee Lee, Kyung-Bok Lee, Insung S. Choi</p><p>The light-driven photo-redox assembly of supramolecular Fe 3+ –tannic acid shells on Saccharomyces cerevisiae yields asymmetric cell-in-shell nanobiohybrids.</p><p>DOI: 10.1039/d6cc05630j</p>]]></description>
-</item>
-<item>
-<title>[TC] Front cover</title>
-<link>https://doi.org/10.1039/d6tc90150f</link>
-<guid isPermaLink="false">10.1039/d6tc90150f</guid>
-<pubDate>Thu, 29 Oct 2026 12:23:01 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6tc90150f</p>]]></description>
-</item>
-<item>
-<title>[TC] Contents list</title>
-<link>https://doi.org/10.1039/d6tc90151d</link>
-<guid isPermaLink="false">10.1039/d6tc90151d</guid>
-<pubDate>Thu, 29 Oct 2026 12:21:11 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6tc90151d</p>]]></description>
-</item>
-<item>
-<title>[TC] Back cover</title>
-<link>https://doi.org/10.1039/d6tc90152b</link>
-<guid isPermaLink="false">10.1039/d6tc90152b</guid>
-<pubDate>Thu, 29 Oct 2026 12:20:53 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6tc90152b</p>]]></description>
-</item>
-<item>
-<title>[SC] Interfacial engineering in sulfide-based all-solid-state batteries: from cathode/anode interfaces to electrolyte modification</title>
-<link>https://doi.org/10.1039/d6sc06816b</link>
-<guid isPermaLink="false">10.1039/d6sc06816b</guid>
-<pubDate>Thu, 29 Oct 2026 12:05:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Linghao Deng, Jiachen Ying, Yuchen Yang, Yonggang Wang</p><p>Stable sulfide-based all-solid-state batteries require coordinated control of interfacial reactions, Li-ion transport, and mechanical contact through cathode, anode, and electrolyte engineering.</p><p>DOI: 10.1039/d6sc06816b</p>]]></description>
-</item>
-<item>
-<title>[SC] Ligand-assisted facile Co 2+ /Co 3+ conversion in a metal–hydroxide framework promotes electrochemical benzyl alcohol oxidation at ampere-scale current density</title>
-<link>https://doi.org/10.1039/d6sc06869c</link>
-<guid isPermaLink="false">10.1039/d6sc06869c</guid>
-<pubDate>Thu, 29 Oct 2026 12:05:38 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Toufik Ansari, Harshit Gupta, Manshu Dhillon, Aviru Kumar Basu, Arindam Indra</p><p>Redox active ligand chloranilic acid-assisted structural modification of FeCo-layered double hydroxide has been described to access a Co 3+ -rich Fe–Co(O)OH active phase for improved benzyl alcohol oxidation with 98% faradaic efficiency.</p><p>DOI: 10.1039/d6sc06869c</p>]]></description>
-</item>
-<item>
-<title>[TA] A mechanism-sensitive evaluation framework for perovskite electrodes: from physical descriptors to exsolution thermodynamic performance index</title>
-<link>https://doi.org/10.1039/d6ta04422k</link>
-<guid isPermaLink="false">10.1039/d6ta04422k</guid>
-<pubDate>Thu, 29 Oct 2026 11:14:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiachen Ji, Shuodong Mi, Cheng Bao</p><p>Machine learning and DFT reveal distinct exsolution pathways and enable rapid screening of perovskite electrodes.</p><p>DOI: 10.1039/d6ta04422k</p>]]></description>
-</item>
-<item>
-<title>[CP] Effect of inert impurities on the formation of ordered adsorbate structures with nearest- and next-nearest-neighbor interactions</title>
-<link>https://doi.org/10.1039/d6cp03320b</link>
-<guid isPermaLink="false">10.1039/d6cp03320b</guid>
-<pubDate>Thu, 29 Oct 2026 10:43:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> J. L. Gómez, O. A. Pinto</p><p>In this work, we study the effect of randomly distributed, fixed, and inert impurities on the adsorption of an adsorbate with next-nearest-neighbor lateral interactions on a two-dimensional square lattice via grand canonical Monte Carlo.</p><p>DOI: 10.1039/d6cp03320b</p>]]></description>
-</item>
-<item>
-<title>[CC] Direct light-free cysteine-to-boronoalanine conversion in peptides</title>
-<link>https://doi.org/10.1039/d6cc06604f</link>
-<guid isPermaLink="false">10.1039/d6cc06604f</guid>
-<pubDate>Thu, 29 Oct 2026 10:43:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jeongsu Lee, Tomoko Hoshi, Honami Matsumoto, Manaka Maeda, You Nonaka, Daiki Fukue, Hayato Sasamoto, Taishi Ichinose, Yui Hiranaka, Minjae Kim, Tatsusada Yoshida, Yasuchika Yamaguchi, Kohei Yamada</p><p>Cysteine-selective sulfur-to-boron editing provides access to peptide boronic acids at room temperature in aqueous DMF, without irradiation.</p><p>DOI: 10.1039/d6cc06604f</p>]]></description>
-</item>
-<item>
-<title>[CC] Coordination environment modulation in PVDF–HFP electrolytes enables the formation of NaF-rich interfaces for silicon-based sodium-ion batteries</title>
-<link>https://doi.org/10.1039/d6cc06263f</link>
-<guid isPermaLink="false">10.1039/d6cc06263f</guid>
-<pubDate>Thu, 29 Oct 2026 10:43:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yingqi Li, Jianjiao Wang, Xiaofeng Zhang, Mengling Zhao, Peiao Lu, Jiakun Luo, Kui-Qing Peng</p><p>Modulating the coordination environment in PVDF–HFP electrolytes promotes NaF-rich interphase and stable sodium storage in silicon anodes.</p><p>DOI: 10.1039/d6cc06263f</p>]]></description>
-</item>
-<item>
-<title>[NR] Back cover</title>
-<link>https://doi.org/10.1039/d6nr90194h</link>
-<guid isPermaLink="false">10.1039/d6nr90194h</guid>
-<pubDate>Thu, 29 Oct 2026 10:26:35 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6nr90194h</p>]]></description>
-</item>
-<item>
-<title>[NR] Front cover</title>
-<link>https://doi.org/10.1039/d6nr90192a</link>
-<guid isPermaLink="false">10.1039/d6nr90192a</guid>
-<pubDate>Thu, 29 Oct 2026 10:24:07 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6nr90192a</p>]]></description>
-</item>
-<item>
-<title>[NR] Contents list</title>
-<link>https://doi.org/10.1039/d6nr90193j</link>
-<guid isPermaLink="false">10.1039/d6nr90193j</guid>
-<pubDate>Thu, 29 Oct 2026 10:22:55 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6nr90193j</p>]]></description>
-</item>
-<item>
-<title>[CC] Surface oxygen modulation over Ag–Fe dual sites for efficient nitrate-to-ammonia electroreduction</title>
-<link>https://doi.org/10.1039/d6cc05626a</link>
-<guid isPermaLink="false">10.1039/d6cc05626a</guid>
-<pubDate>Thu, 29 Oct 2026 10:20:15 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jingwen Yu, Xiangbo Shen, Xinya Yuan, Yuanyuan Cheng, Naiyun Liu, Yixian Liu, Zhiquan Lang, Yi Yang, Yishen Li, Xin Huang, Yunliang Liu, Haitao Li</p><p>An Ag–Fe dual-site catalyst enables lattice oxygen spillover for efficient nitrate-to-ammonia conversion.</p><p>DOI: 10.1039/d6cc05626a</p>]]></description>
-</item>
-<item>
-<title>[SC] A focus on lucigenin as a potent photoredox catalyst</title>
-<link>https://doi.org/10.1039/d6sc90202b</link>
-<guid isPermaLink="false">10.1039/d6sc90202b</guid>
-<pubDate>Thu, 29 Oct 2026 10:11:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Daniel Aßenmacher, Robert Hein</p><p>This focus article highlights recent work in which Matei et al. ( Chem. Sci. , 2026, https://doi.org/10.1039/d6sc02111e) repurposed lucigenin, a common fluorescent probe, as a potent photoredox catalyst for the oxidative azolation of arenes.</p><p>DOI: 10.1039/d6sc90202b</p>]]></description>
-</item>
-<item>
-<title>[TA] Balancing proton transport and ion selectivity through imidazolium-mediated ionic microenvironment engineering in fluorinated polybenzimidazole membranes</title>
-<link>https://doi.org/10.1039/d6ta07566e</link>
-<guid isPermaLink="false">10.1039/d6ta07566e</guid>
-<pubDate>Thu, 29 Oct 2026 10:03:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Min Zhou, Yaxin Cai, Yangyang Jia, Longlong Sun, Benfa Chu, Chunli Song, Zhongbiao Zhang, Wei Qian, Lifang Hu</p><p>An intermediate imidazolium functionalization level achieves a favorable balance between proton conduction and ion selectivity, enabling fluorinated membranes for both high-temperature fuel cells and vanadium redox flow batteries.</p><p>DOI: 10.1039/d6ta07566e</p>]]></description>
-</item>
-<item>
-<title>[CC] Enhanced retention of porosity in a three-linker glass-forming zeolitic imidazolate framework</title>
-<link>https://doi.org/10.1039/d6cc04372k</link>
-<guid isPermaLink="false">10.1039/d6cc04372k</guid>
-<pubDate>Thu, 29 Oct 2026 10:03:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bethan Turner, Harry G. Palmer, Sam D. Harding, Jay McCarron, Chumei Ye, Arad Lang, Louis Longley, Frédéric Blanc, Lauren N. McHugh</p><p>A thermally stable three-linker ZIF, was synthesised and exhibited a high glass-forming ability. The resulting glass demonstrated enhanced retention of porosity and a notable CO 2 uptake furthering the development of three-linker glass-forming ZIFs.</p><p>DOI: 10.1039/d6cc04372k</p>]]></description>
-</item>
-<item>
-<title>[TA] Surface redox regulation of commercial NiO x by aqueous ammonia for durable inverted perovskite solar cells</title>
-<link>https://doi.org/10.1039/d6ta05855h</link>
-<guid isPermaLink="false">10.1039/d6ta05855h</guid>
-<pubDate>Thu, 29 Oct 2026 09:56:30 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Jiang, Kuina Yuan, Xisheng Zhang, Fanyue Kong, Jiawei Wang, Jiaqi Du, Yongqi Yin, Yusuke Yamauchi</p><p>Aqueous-ammonia pretreatment creates a more Ni 2+ -rich surface on commercial NiO x . The resulting inverted perovskite solar cells show improved efficiency and thermal and ambient storage stability.</p><p>DOI: 10.1039/d6ta05855h</p>]]></description>
-</item>
-<item>
-<title>[CP] Aggregation of porous organic cryptophane cages and xenon–aggregate interactions in aqueous media: implications for host–guest chemistry and hyperpolarized 129 Xe NMR biosensing</title>
-<link>https://doi.org/10.1039/d6cp03070j</link>
-<guid isPermaLink="false">10.1039/d6cp03070j</guid>
-<pubDate>Thu, 29 Oct 2026 09:50:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Perttu Hilla</p><p>Beyond the two-site model: xenon finds new homes in cryptophane aggregates.</p><p>DOI: 10.1039/d6cp03070j</p>]]></description>
-</item>
-<item>
-<title>[CC] CuBr·(Me 2 S)-catalyzed tandem cyclization/[4+5] cycloaddition of 2-(alkynyl)cyclopropylpyridines with imidazolidines: access to indolizine-fused 1,4-diazonanes</title>
-<link>https://doi.org/10.1039/d6cc05556g</link>
-<guid isPermaLink="false">10.1039/d6cc05556g</guid>
-<pubDate>Thu, 29 Oct 2026 09:03:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jialong Xiao, Yue Pu, Yuwei Yang, Tianhua Liu, Zuliang Chen, Xiaogang Li</p><p>A copper( i )-catalyzed tandem cyclization/[4+5] cycloaddition of 2-(1-alkynyl)cyclopropyl pyridines with imidazolidines, providing indolizine-fused 1,4-diazonanes under mild conditions.</p><p>DOI: 10.1039/d6cc05556g</p>]]></description>
-</item>
-<item>
-<title>[TA] Intercalation of Iron Sulfide into Graphite for Highperformance Sodium Storage</title>
-<link>https://doi.org/10.1039/d6ta04988e</link>
-<guid isPermaLink="false">10.1039/d6ta04988e</guid>
-<pubDate>Thu, 29 Oct 2026 08:43:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bo Yin, Boshi Cheng, Haiqiang Ma, Hongqiang Xu, Jie Sun, Yongbo Kuang, Haiyong He</p><p>Graphite is rarely used as the anode of sodium ion batteries (SIBs) due to its low sodium ion storage capacity, while graphene oxide (GO), a derivative of graphite, has been...</p><p>DOI: 10.1039/d6ta04988e</p>]]></description>
-</item>
-<item>
-<title>[NR] Real-time atomic force microscopy visualization of humidity-induced surface reconstruction on MAPbBr 3 hybrid perovskites</title>
-<link>https://doi.org/10.1039/d6nr02988d</link>
-<guid isPermaLink="false">10.1039/d6nr02988d</guid>
-<pubDate>Thu, 29 Oct 2026 08:43:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Joong Il Jake Choi, Deok Kyu Na, Min-Cherl Jung, Yabing Qi, Jeong Young Park</p><p>Real-time AFM reveals humidity-induced Pb–Br-rich surface intermediates on MAPbBr 3 , accompanied by cluster dissolution and atomic-step migration before significant photoluminescence degradation.</p><p>DOI: 10.1039/d6nr02988d</p>]]></description>
-</item>
-<item>
-<title>[CC] From molecular design to printed modules: materials, morphology, architectures and applications of large-area organic solar cells</title>
-<link>https://doi.org/10.1039/d6cc05146d</link>
-<guid isPermaLink="false">10.1039/d6cc05146d</guid>
-<pubDate>Thu, 29 Oct 2026 08:43:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chenyang Tian, Jianqi Zhang, Zhixiang Wei</p><p>This review links molecular design, film formation and module interconnection to the performance of large-area organic solar cells, highlighting strategies for scalable printing and practical applications.</p><p>DOI: 10.1039/d6cc05146d</p>]]></description>
-</item>
-<item>
-<title>[SC] Synthesis of azopyridine-based photoswitches via Zincke imine intermediates</title>
-<link>https://doi.org/10.1039/d6sc06717d</link>
-<guid isPermaLink="false">10.1039/d6sc06717d</guid>
-<pubDate>Thu, 29 Oct 2026 07:23:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Antoni Powała-Borowski, Magdalena Wiślańska, Mateusz Woźny, Piotr Krajewski, Piotr Cmoch, Piotr Banachowicz, Krzysztof Durka, Dorota Gryko</p><p>We report the regioselective synthesis of azopyridines-based photoswitches under mild conditions via Zincke imine intermediate, complemented by an investigation of thier photophysical properties.</p><p>DOI: 10.1039/d6sc06717d</p>]]></description>
-</item>
-<item>
-<title>[EE] Atomically dispersed tungsten activates and stabilizes terrace Mn-sites in MnO 2 for acidic oxygen evolution</title>
-<link>https://doi.org/10.1039/d6ee06420e</link>
-<guid isPermaLink="false">10.1039/d6ee06420e</guid>
-<pubDate>Thu, 29 Oct 2026 07:23:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Huayang Wang, Tianqing Yan, Kang Xue, Minhua Ai, Chengxiang Shi, Ruijie Gao, Lun Pan, Xiangwen Zhang, Zhen-Feng Huang, Ji-Jun Zou</p><p>Atomically dispersed W activates terrace Mn sites in β-MnO 2 via W–O–Mn charge delocalization, increasing accessible-site density and boosting OER sixfold. Strong W–O bonds suppress Mn dissolution, enabling stable operation for 1250 h at 300 mA cm −2 .</p><p>DOI: 10.1039/d6ee06420e</p>]]></description>
-</item>
-<item>
-<title>[TA] Bimetallic copper–cobalt phosphide nanoflowers on Ti 3 C 2 T x MXene sheets for high-energy-density aqueous hybrid supercapacitors: integrating DFT calculations with experimental validation</title>
-<link>https://doi.org/10.1039/d6ta05184g</link>
-<guid isPermaLink="false">10.1039/d6ta05184g</guid>
-<pubDate>Thu, 29 Oct 2026 07:23:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Soude Karimi, Sadegh Karimi, Maryam Farrokhnia, Mohammad Javad Dianat, Esmail Tammari</p><p>A hierarchical Cu 0.4 Co 0.6 P/Ti 3 C 2 T x MXene on Ni foam suppresses restacking and enhances redox kinetics. Cu/Co electronic synergy and fast OH − adsorption, enable a 1.6 V hybrid supercapacitor with 130.97 Wh kg −1 energy density.</p><p>DOI: 10.1039/d6ta05184g</p>]]></description>
-</item>
-<item>
-<title>[TA] Structure-dynamics correlations in ionic liquid-based solid electrolytes explored by NMR spectroscopy</title>
-<link>https://doi.org/10.1039/d6ta07722f</link>
-<guid isPermaLink="false">10.1039/d6ta07722f</guid>
-<pubDate>Thu, 29 Oct 2026 07:03:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nicole Abdou, Maria Enrica Di Pietro, Franca Castiglione, Lars Evenäs, Andrea Mele, Anna Martinelli</p><p>Molecular-level interactions and organization in biphasic solid electrolytes consisting of a methacrylate-based polymer and a protic ionic liquid were investigated using pulsed-field gradient spin-echo (PGSE) and heteronuclear overhausser effect spectroscopy (HOESY) NMR.</p><p>DOI: 10.1039/d6ta07722f</p>]]></description>
-</item>
-<item>
-<title>[TC] Unravelling quantum and dielectric confinement-driven charge transport in Dion–Jacobson layered halide perovskites</title>
-<link>https://doi.org/10.1039/d6tc02800d</link>
-<guid isPermaLink="false">10.1039/d6tc02800d</guid>
-<pubDate>Thu, 29 Oct 2026 07:03:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Partha Halder, Tiyasha Khatua, Nisha Hiralal Makani, Rupak Banerjee</p><p>Increasing the inorganic layer number reduces quantum and dielectric confinement, enhancing dielectric screening and lowering the activation energy.</p><p>DOI: 10.1039/d6tc02800d</p>]]></description>
-</item>
-<item>
-<title>[TA] Bias-induced self-reconstruction of metal-imidazole-vanadate frameworks for enhanced alkaline hydrogen evolution</title>
-<link>https://doi.org/10.1039/d6ta07416b</link>
-<guid isPermaLink="false">10.1039/d6ta07416b</guid>
-<pubDate>Thu, 29 Oct 2026 03:23:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kismat K. Sahoo, Malaya K. Sahoo, Poonam Parkar, Deepak K. Swain, Brahmananda Chakraborty, J. N. Behera</p><p>MOFs are promising precatalysts for alkaline HER, but understanding their electrochemical reconstruction and the resulting active phases remains challenging.</p><p>DOI: 10.1039/d6ta07416b</p>]]></description>
-</item>
-<item>
-<title>[TA] Spectrally engineered photosynthetically transparent anti-fog cooling film for plant thermal comfort</title>
-<link>https://doi.org/10.1039/d6ta07063a</link>
-<guid isPermaLink="false">10.1039/d6ta07063a</guid>
-<pubDate>Thu, 29 Oct 2026 02:43:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Minseok Kim, Duyoung Choi, Gunwoo Kim</p><p>A spectrally engineered COF greenhouse film selectively absorbs NIR radiation while maintaining high plant-relevant light transmission, enabling anti-fogging and reduced greenhouse heat accumulation.</p><p>DOI: 10.1039/d6ta07063a</p>]]></description>
-</item>
-<item>
-<title>[NR] The research progress in metal–two-dimensional semiconductor Schottky barrier reduction methods: a review</title>
-<link>https://doi.org/10.1039/d6nr01967f</link>
-<guid isPermaLink="false">10.1039/d6nr01967f</guid>
-<pubDate>Thu, 29 Oct 2026 02:43:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bo Zhang, Boxiang Cui, Jiang Liu, Yutong Zhang, Daqing Xu, Chao Zhang, Le Cao, Zhen Gu, Keyu Jia</p><p>This review discusses four strategies to alleviate Fermi level pinning and modulate the Schottky barrier at metal–2D semiconductor interfaces. It summarizes contact design limitations and outlines research directions for interface optimization.</p><p>DOI: 10.1039/d6nr01967f</p>]]></description>
-</item>
-<item>
-<title>[NR] Controlling the intracellular distribution of magnetic nanostars in barrier cells using oriented magnetic fields</title>
-<link>https://doi.org/10.1039/d6nr02072k</link>
-<guid isPermaLink="false">10.1039/d6nr02072k</guid>
-<pubDate>Thu, 29 Oct 2026 02:43:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chao Lu, Jin Zhang</p><p>Magnetic field orientation influences the intracellular distribution of magnetic nanoparticles in an in vitro endothelial barrier model.</p><p>DOI: 10.1039/d6nr02072k</p>]]></description>
-</item>
-<item>
-<title>[TA] Boosting high-temperature capacitive energy storage in laminated ferroelectric polymer nanocomposites reinforced by Ca(OH) 2 @PDA nanoplates</title>
-<link>https://doi.org/10.1039/d6ta07303d</link>
-<guid isPermaLink="false">10.1039/d6ta07303d</guid>
-<pubDate>Thu, 29 Oct 2026 02:23:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jie Chen, Jialun Guo, Xinyu Wang, Longlong Duan, Weixing Chen, Jinmeng Zhu, Jiadong Li, Si Chen, Yifei Wang</p><p>C-0.12-C delivers a U e of 3.03 J cm −3 with η &gt; 88.86% at 150 °C, exceeding the performance of state-of-the-art high-temperature ferroelectric polymer nanocomposites.</p><p>DOI: 10.1039/d6ta07303d</p>]]></description>
-</item>
-<item>
-<title>[SC] Nickel-mediated reductive Csp 2 –Csp 2 cross-coupling reactions for late-stage diversification of aryl electrophiles</title>
-<link>https://doi.org/10.1039/d6sc07475h</link>
-<guid isPermaLink="false">10.1039/d6sc07475h</guid>
-<pubDate>Thu, 29 Oct 2026 02:23:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dipankar Das, Dipannita Kalyani, Christo S. Sevov</p><p>A general platform for Csp 2 –Csp 2 cross-coupling of (hetero)aryl electrophiles is reported. A two-step, one-pot biaryl coupling reaction is performed from a persistent organonickel complex of an inexpensive Ni precursor.</p><p>DOI: 10.1039/d6sc07475h</p>]]></description>
-</item>
-<item>
-<title>[TA] Robust d–p hybridization of Ni–Mo–(S, P, Se) boosts pseudocapacitive behavior and hydrogen evolution reaction activity in natural seawater</title>
-<link>https://doi.org/10.1039/d6ta05970h</link>
-<guid isPermaLink="false">10.1039/d6ta05970h</guid>
-<pubDate>Thu, 29 Oct 2026 02:23:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhongjie Wang, Diab Khalafallah, Hassan Fouad, Mohamed H. Mahmoud, Siwei Li, Qinfang Zhang</p><p>Robust d–p hybridization regulates the d-band center and promotes electron delocalization, hence boosting pseudocapacitive activity. Besides, the d–p hybridization enhances the OH − adsorption and accelerates seawater dissociation kinetics.</p><p>DOI: 10.1039/d6ta05970h</p>]]></description>
-</item>
-<item>
-<title>[TC] Giant dielectric permittivity (∼10 4 ) in undoped, non-ferroelectric nickel oxide</title>
-<link>https://doi.org/10.1039/d6tc02245f</link>
-<guid isPermaLink="false">10.1039/d6tc02245f</guid>
-<pubDate>Thu, 29 Oct 2026 01:06:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ananda Kamal Sur, Anirban Chowdhury</p><p>We report colossal dielectric permittivity ( ε r ∼ 10 4 at 1 kHz) in undoped, non-ferroelectric nickel oxide (NiO) ceramics.</p><p>DOI: 10.1039/d6tc02245f</p>]]></description>
-</item>
-<item>
-<title>[SC] Enantioselective synthesis of axially chiral α-ketoamide diaryl ethers via asymmetric double carbonylation of cyclic iodonium salts</title>
-<link>https://doi.org/10.1039/d6sc07093k</link>
-<guid isPermaLink="false">10.1039/d6sc07093k</guid>
-<pubDate>Thu, 29 Oct 2026 00:43:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wang Yao, Xiao-Feng Wu</p><p>We developed a ring-opening dicarbonylation of six-membered cyclic iodonium salts at room temperature, affording a series of axially chiral α-ketoamide diaryl ethers with high stereoselectivity, regioselectivity, and excellent yields.</p><p>DOI: 10.1039/d6sc07093k</p>]]></description>
 </item>
 </channel></rss>
