@@ -3,7 +3,63 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Fri, 13 Nov 2026 06:55:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 19:50:45 +0000</lastBuildDate>
+<item>
+<title>Recent Developments and Perspectives in Variational Quantum Eigensolvers for Molecular Electronic Structure: Methods, Tradeoffs, and Benchmarking</title>
+<link>https://doi.org/10.1039/d6cp02633h</link>
+<guid isPermaLink="false">10.1039/d6cp02633h</guid>
+<pubDate>Fri, 13 Nov 2026 16:23:16 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Taylor Harville, Rishu Khurana, Vitor F Grizzi, Cong Liu</p><p>The variational quantum eigensolver (VQE) is a hybrid quantum-classical algorithm designed for noisy intermediate-scale quantum (NISQ) hardware to estimate eigenvalues of many-body Hamiltonians. Unlike fully quantum approaches such as quantum...</p><p>DOI: 10.1039/d6cp02633h</p>]]></description>
+</item>
+<item>
+<title>Substituent Effects on BODIPY Photostability: Insights into Electron-Donating/Withdrawing Effects on the 1 O 2 -Mediated Degradation Mechanism</title>
+<link>https://doi.org/10.1039/d6cp00284f</link>
+<guid isPermaLink="false">10.1039/d6cp00284f</guid>
+<pubDate>Fri, 13 Nov 2026 15:03:33 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Shaojie Liu, Liang Sun, Yudong Liu, Jinlong Zhang, Baozhu Tian</p><p>BODIPY dyes exhibit narrow, tunable emission bands and high quantum yields, yet their poor photostability limits practical applications. Herein, six 2,6-disubstituted BODIPY dyes (B1-B6) were synthesized to elucidate how substituent...</p><p>DOI: 10.1039/d6cp00284f</p>]]></description>
+</item>
+<item>
+<title>Computational Energetics of DNA G-Quadruplexes: Testing the Transfer of Physical Conclusions</title>
+<link>https://doi.org/10.1039/d6cp03920k</link>
+<guid isPermaLink="false">10.1039/d6cp03920k</guid>
+<pubDate>Fri, 13 Nov 2026 14:44:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yevgen Yurenko</p><p>Computational studies of DNA G-quadruplexes report different energetic and structural quantities. Conclusions from one model or molecular context are often used for another. I examine selected comparisons to ask which...</p><p>DOI: 10.1039/d6cp03920k</p>]]></description>
+</item>
+<item>
+<title>Modeling IR Spectral Signatures of Solvated Single-Stranded DNA: Linking C=O Stretching Vibrations to Conformational Dynamics</title>
+<link>https://doi.org/10.1039/d6cp02614a</link>
+<guid isPermaLink="false">10.1039/d6cp02614a</guid>
+<pubDate>Fri, 13 Nov 2026 14:43:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Cedrix J. Dongmo Foumthuim, Giovanni Parolin, Stefano Corni, Laura Zanetti-Polzi</p><p>The carbonyl stretching mode is a widely used signal in the infrared spectroscopy of biomolecules, being highly sensitive to changes in their structural organization, such as secondary structure in peptides...</p><p>DOI: 10.1039/d6cp02614a</p>]]></description>
+</item>
+<item>
+<title>Contribution of Noncovalent Interactions in Ionic Crystal Containing Halonium Cation explored via static and time-evolution methods in the crystalline phase</title>
+<link>https://doi.org/10.1039/d6cp03567a</link>
+<guid isPermaLink="false">10.1039/d6cp03567a</guid>
+<pubDate>Fri, 13 Nov 2026 13:23:19 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mariusz Michalczyk, Jarosław Panek, Aneta Jezierska, Wiktor Zierkiewicz</p><p>Halonium ions are promising candidates for strong and efficient Lewis acids. Recent research has highlighted their applicability in catalysis and as building blocks in supramolecular architectures. In this work, a...</p><p>DOI: 10.1039/d6cp03567a</p>]]></description>
+</item>
+<item>
+<title>Revealing Phase Transition Mechanism of GaAs Nanoparticle via Machine Learning Molecular Dynamics Simulation</title>
+<link>https://doi.org/10.1039/d6cp03351b</link>
+<guid isPermaLink="false">10.1039/d6cp03351b</guid>
+<pubDate>Fri, 13 Nov 2026 10:43:04 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hongbin Zhang, Mengru Huang, Haichao Li, Zijun Meng, Senze Gu, Lina Xu, Hongping Xiao, Guoyong Fang</p><p>Gallium arsenide (GaAs) nanoparticles exhibit size-tunable optoelectronic properties critical for nanoscale devices, yet the atomic-scale mechanisms of their solid-liquid phase transitions under vacuum remain poorly understood. Herein, we revealed the...</p><p>DOI: 10.1039/d6cp03351b</p>]]></description>
+</item>
+<item>
+<title>Intrinsic spin–valley coupling and strain-dependent valley splitting in two-dimensional Janus MoPnX monolayers (Pn = P, As; X = Cl, Br, I)</title>
+<link>https://doi.org/10.1039/d6cp02322c</link>
+<guid isPermaLink="false">10.1039/d6cp02322c</guid>
+<pubDate>Fri, 13 Nov 2026 10:04:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xuchen Guo, Hanwei Li, Mingyu Lv, Wei-Jiang Gong</p><p>First-principles calculations reveal a stable Janus two-dimensional ferrovalley semiconductor with robust magnetism and sizable spontaneous valley polarization, which can be effectively tuned by strain for spin- and valleytronic applications.</p><p>DOI: 10.1039/d6cp02322c</p>]]></description>
+</item>
+<item>
+<title>CrystalInterpen: An Open-Source Web Tool for Interpenetrated Framework Generation</title>
+<link>https://doi.org/10.1039/d6cp03643k</link>
+<guid isPermaLink="false">10.1039/d6cp03643k</guid>
+<pubDate>Fri, 13 Nov 2026 08:03:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Bing Ma, Na Qin, Sheng Zhang, Xiao Wang, Wei Zhou, Xing Lu</p><p>Interpenetration is a common structural feature in metal-organic frameworks (MOFs), covalent organic frameworks (COFs) and hydrogen-bonded organic frameworks (HOFs) that profoundly influences their porosity, mechanical stability and functional properties. However,...</p><p>DOI: 10.1039/d6cp03643k</p>]]></description>
+</item>
 <item>
 <title>Ultra-High-Density Skyrmions in SrTiO3/BaTiO3 Superlattices Achieved by Substrate and Stacking Engineering</title>
 <link>https://doi.org/10.1039/d6cp04045d</link>
@@ -320,11 +376,11 @@
 <description><![CDATA[<p><b>Authors:</b> Nobuhiro Miura</p><p>Vibrational-FELDS links probability distributions, free-energy landscapes, vibrational dynamics, and spectra within a unified framework. Dynamics and observation are treated as distinct components.</p><p>DOI: 10.1039/d6cp03071h</p>]]></description>
 </item>
 <item>
-<title>The SHEF1552 dataset: Fundamental trends and physical insights into halogen, chalcogen, pnictogen and tetrel bonds</title>
+<title>The SHEF1552 dataset: fundamental trends and physical insights into halogen, chalcogen, pnictogen, and tetrel bonds</title>
 <link>https://doi.org/10.1039/d6cp04299f</link>
 <guid isPermaLink="false">10.1039/d6cp04299f</guid>
 <pubDate>Fri, 06 Nov 2026 13:23:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Harry Nash, Lee Brammer, Grant Hill</p><p>The Sigma-Hole Energies and additional Factors (SHEF1552) dataset, a comprehensive collection of 1,552 σ -hole interactions (halogen, chalcogen, pnictogen, and tetrel bonds) is introduced. Each complex, formed by pairing 82...</p><p>DOI: 10.1039/d6cp04299f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Harry W. Nash, Lee Brammer, J. Grant Hill</p><p>The SHEF1552 dataset encompasses 1552 halogen, chalcogen, pnictogen and tetrel complexes. Combining coupled-cluster energetics, SAPT analyses and geometric metrics, it serves as a robust resource for fundamental physical insights.</p><p>DOI: 10.1039/d6cp04299f</p>]]></description>
 </item>
 <item>
 <title>How laser wavelength and polarization shape the molecular Raman response enhanced by capped Ag nanoparticle chains</title>
@@ -593,11 +649,11 @@
 <description><![CDATA[<p><b>Authors:</b> Junjie Chen, Qinyan Rao, Yuda Lin</p><p>This work systematically explores the potential of monolayer GeX (X = Se/Te) as cathode materials for fluoride-ion and chloride-ion batteries.</p><p>DOI: 10.1039/d6cp02787c</p>]]></description>
 </item>
 <item>
-<title>A Benchmark Study of Double-Hybrid Density Functionals for Core Ionization Energies</title>
+<title>A benchmark study of double-hybrid density functionals for core ionization energies</title>
 <link>https://doi.org/10.1039/d6cp03571j</link>
 <guid isPermaLink="false">10.1039/d6cp03571j</guid>
 <pubDate>Mon, 02 Nov 2026 21:23:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ha Quyen Nguyen, Thomas Christian Jagau, Lars Goerigk</p><p>The ∆ self-consistent-field (∆SCF) approach has long been known to provide remarkably accurate core ionization energies. In this work, we present a comprehensive benchmark of the ∆SCF method for K-edge...</p><p>DOI: 10.1039/d6cp03571j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ha Quyen Nguyen, Thomas-C. Jagau, Lars Goerigk</p><p>Range-separated double-hybrid functionals predict core ionization energies with near-experimental accuracy.</p><p>DOI: 10.1039/d6cp03571j</p>]]></description>
 </item>
 <item>
 <title>Electronic structure and spectroscopic properties of astrochemically relevant C n HN isomers</title>
@@ -730,7 +786,7 @@
 <link>https://doi.org/10.1039/d6cp02995g</link>
 <guid isPermaLink="false">10.1039/d6cp02995g</guid>
 <pubDate>Fri, 30 Oct 2026 07:44:10 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Martin Fitzpatrick, David Cheung</p><p>Surfaces, both synthetic and natural, have long been known to influence the aggregation of proteins into supramolecular structures, including amyloid fibrils. Whether a surface promotes or inhibits fibril formation depends...</p><p>DOI: 10.1039/d6cp02995g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Martin Fitzpatrick, David L. Cheung</p><p>The conformation of a model amyloidogenic peptide was found to depend on the size of nanometre scale stripes, with wider stipes promoting conformations that are less favourable towards fibril formation.</p><p>DOI: 10.1039/d6cp02995g</p>]]></description>
 </item>
 <item>
 <title>Roles of oxygen vacancies and the Ni–support interface in CO 2 hydrogenation over Ni/Y-doped BaZrO 3 revealed by experimental and computational studies</title>

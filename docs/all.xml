@@ -3,7 +3,315 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Fri, 13 Nov 2026 06:55:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 19:50:55 +0000</lastBuildDate>
+<item>
+<title>[NR] Intracellular Trafficking Governs Membrane Scaffold Performance in Small Extracellular Vesicle Engineering</title>
+<link>https://doi.org/10.1039/d6nr02768g</link>
+<guid isPermaLink="false">10.1039/d6nr02768g</guid>
+<pubDate>Fri, 13 Nov 2026 18:23:38 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> David Wang, Christopher Olson, Blaine Baker, Pengyang Zhang, Ellie Wangard, Fernanda Mendoza, Danielle Otero, Lissette Weaver, Haseeb Afzali, Keegan Kogl, Seth Madden, Cate Wessels, Aijun Wang, Biao Lu</p><p>Small extracellular vesicles (sEVs) are emerging as versatile platforms for molecular imaging, targeted delivery, and nanotheranostics. Although membrane scaffolds can facilitate cargo loading into sEVs, scaffold selection remains largely empirical,...</p><p>DOI: 10.1039/d6nr02768g</p>]]></description>
+</item>
+<item>
+<title>[CC] Selective xylose upgrading over Pt–NiOOH/Ni in biomass-coupled electrolysis</title>
+<link>https://doi.org/10.1039/d6cc05438b</link>
+<guid isPermaLink="false">10.1039/d6cc05438b</guid>
+<pubDate>Fri, 13 Nov 2026 16:50:22 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xinxing Li, Guanwu Lian, Chuyue Lu, Yucong Huang, Yuchen Lei, Bo Lu, Jiawei Zhao, Kangran Zhao, Yiwen Zhu, Ren Zou, Xinwen Peng, Wei Zhao, Zhongxin Chen</p><p>A Pt–NiOOH/Ni flow cell achieves selective xylose oxidation to oxalic acid (FE: 47.3%) via dual Pt–O and Pt–CO coordination that stabilizes organic intermediates and prevents deep over-oxidation.</p><p>DOI: 10.1039/d6cc05438b</p>]]></description>
+</item>
+<item>
+<title>[CP] Recent Developments and Perspectives in Variational Quantum Eigensolvers for Molecular Electronic Structure: Methods, Tradeoffs, and Benchmarking</title>
+<link>https://doi.org/10.1039/d6cp02633h</link>
+<guid isPermaLink="false">10.1039/d6cp02633h</guid>
+<pubDate>Fri, 13 Nov 2026 16:23:16 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Taylor Harville, Rishu Khurana, Vitor F Grizzi, Cong Liu</p><p>The variational quantum eigensolver (VQE) is a hybrid quantum-classical algorithm designed for noisy intermediate-scale quantum (NISQ) hardware to estimate eigenvalues of many-body Hamiltonians. Unlike fully quantum approaches such as quantum...</p><p>DOI: 10.1039/d6cp02633h</p>]]></description>
+</item>
+<item>
+<title>[CC] Quenching the exciplex quenching in a silica-confined copper(I) complex</title>
+<link>https://doi.org/10.1039/d6cc03741k</link>
+<guid isPermaLink="false">10.1039/d6cc03741k</guid>
+<pubDate>Fri, 13 Nov 2026 16:03:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Leyli Ibrahimli, Federica Melinato, Tyler Haddock, Santhra Krishnan, K. V. Vidhya, Nicolas Oppe, Oceane Baffroy, Lars E. Burmeister, Stéphane Diring, Errol Blart, Clémence Queffelec, Michael Karnahl, Sreeram K Kalpathy, Parasuraman Swaminathan, Lin X Chen, Yann Pellegrin</p><p>We report a silica-confinement strategy that turns on the luminescence of an otherwise non-emissive homoleptic copper(I) complex by suppressing exciplex-mediated quenching pathways. Covalent trapping within SiO2 nanoparticles enhances excited-state emission...</p><p>DOI: 10.1039/d6cc03741k</p>]]></description>
+</item>
+<item>
+<title>[TA] Enhanced Thermoelectric Performance in Alternately Deposited Bi2Te2.7Se0.3/MoSe2 Heterostructures</title>
+<link>https://doi.org/10.1039/d6ta07673d</link>
+<guid isPermaLink="false">10.1039/d6ta07673d</guid>
+<pubDate>Fri, 13 Nov 2026 16:03:24 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yen-Ling Wang, Yi-Ting Wu, Giri Karan, Shin-Syuan Huang, Chun-Hua Chen</p><p>Bi2Te2.7Se0.3 (BTS)/MoSe2 films with different stacking architectures were fabricated by dual-beam pulsed laser deposition to explore the relationship between deposition design and electrical transport. The five-period (BTS:MoSe2)5/(BTS)5 film achieves a...</p><p>DOI: 10.1039/d6ta07673d</p>]]></description>
+</item>
+<item>
+<title>[DD] Coverage-Guided Chemical Space Sampling Using Complementary Molecular Representations</title>
+<link>https://doi.org/10.1039/d6dd00577b</link>
+<guid isPermaLink="false">10.1039/d6dd00577b</guid>
+<pubDate>Fri, 13 Nov 2026 15:43:25 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Danny Serlin, Jamie A Cadge</p><p>The success of data-driven chemistry depends critically on the selection of informative experimental training sets. However, many existing strategies rely on clustering chemical space, despite molecular representations often exhibiting continuous...</p><p>DOI: 10.1039/d6dd00577b</p>]]></description>
+</item>
+<item>
+<title>[TA] Local B-site chemistry controls oxygen-vacancy energetics in Ca–Ce–Ti–Mn perovskites for thermochemical hydrogen production</title>
+<link>https://doi.org/10.1039/d6ta06895b</link>
+<guid isPermaLink="false">10.1039/d6ta06895b</guid>
+<pubDate>Fri, 13 Nov 2026 15:43:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Manish Kumar, Natalia Ali, Matthew David Witman, Shang Zhai, James E Miller, Ivan Ermanoski, Ellen B Stechel, Robert Bruce Wexler</p><p>Two-step thermochemical water splitting driven by concentrated solar heat offers a scalable route to renewable hydrogen, but practical deployment requires oxide materials whose oxygen-vacancy formation energies balance facile reduction with...</p><p>DOI: 10.1039/d6ta06895b</p>]]></description>
+</item>
+<item>
+<title>[NR] Enhancing the Solvent Stability and Electrochemical Transport of Polymer Brushes using a Double-Network Architecture</title>
+<link>https://doi.org/10.1039/d6nr03456j</link>
+<guid isPermaLink="false">10.1039/d6nr03456j</guid>
+<pubDate>Fri, 13 Nov 2026 15:23:21 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mateusz Głowacki-Grzyb, Esli Diepenbroek, Anna Kiełbasa, Szczepan Zapotoczny, Sissi de Beer</p><p>Polyelectrolyte brushes (PE) consist of densely surface-grafted chains, which imparts the surface with stimuli-responsive properties. While this stimuli-responsive behavior enables their use in electrochemical sensing and redox-active interfaces, their stability...</p><p>DOI: 10.1039/d6nr03456j</p>]]></description>
+</item>
+<item>
+<title>[CP] Substituent Effects on BODIPY Photostability: Insights into Electron-Donating/Withdrawing Effects on the 1 O 2 -Mediated Degradation Mechanism</title>
+<link>https://doi.org/10.1039/d6cp00284f</link>
+<guid isPermaLink="false">10.1039/d6cp00284f</guid>
+<pubDate>Fri, 13 Nov 2026 15:03:33 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Shaojie Liu, Liang Sun, Yudong Liu, Jinlong Zhang, Baozhu Tian</p><p>BODIPY dyes exhibit narrow, tunable emission bands and high quantum yields, yet their poor photostability limits practical applications. Herein, six 2,6-disubstituted BODIPY dyes (B1-B6) were synthesized to elucidate how substituent...</p><p>DOI: 10.1039/d6cp00284f</p>]]></description>
+</item>
+<item>
+<title>[CP] Computational Energetics of DNA G-Quadruplexes: Testing the Transfer of Physical Conclusions</title>
+<link>https://doi.org/10.1039/d6cp03920k</link>
+<guid isPermaLink="false">10.1039/d6cp03920k</guid>
+<pubDate>Fri, 13 Nov 2026 14:44:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yevgen Yurenko</p><p>Computational studies of DNA G-quadruplexes report different energetic and structural quantities. Conclusions from one model or molecular context are often used for another. I examine selected comparisons to ask which...</p><p>DOI: 10.1039/d6cp03920k</p>]]></description>
+</item>
+<item>
+<title>[NR] Fluorescence Lifetime–Intensity Distribution (FLID): A two-dimensional false-colour mapping approach for probing blinking mechanisms in single nanocrystals</title>
+<link>https://doi.org/10.1039/d6nr03275c</link>
+<guid isPermaLink="false">10.1039/d6nr03275c</guid>
+<pubDate>Fri, 13 Nov 2026 14:44:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mrinal Kanti Panda, Asit Baran Mahato, Subhadip Ghosh</p><p>Photoluminescence (PL) blinking in semiconductor nanocrystals offers a sensitive probe of single-particle charge-carrier dynamics. Although PL-intensity trajectories distinguish emissive, weakly emissive, and nonemissive states, the microscopic pathways behind complex blinking...</p><p>DOI: 10.1039/d6nr03275c</p>]]></description>
+</item>
+<item>
+<title>[CP] Modeling IR Spectral Signatures of Solvated Single-Stranded DNA: Linking C=O Stretching Vibrations to Conformational Dynamics</title>
+<link>https://doi.org/10.1039/d6cp02614a</link>
+<guid isPermaLink="false">10.1039/d6cp02614a</guid>
+<pubDate>Fri, 13 Nov 2026 14:43:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Cedrix J. Dongmo Foumthuim, Giovanni Parolin, Stefano Corni, Laura Zanetti-Polzi</p><p>The carbonyl stretching mode is a widely used signal in the infrared spectroscopy of biomolecules, being highly sensitive to changes in their structural organization, such as secondary structure in peptides...</p><p>DOI: 10.1039/d6cp02614a</p>]]></description>
+</item>
+<item>
+<title>[TA] Dynamic phosphate chemistry promotes hydrogen evolution on copper in weak alkaline media</title>
+<link>https://doi.org/10.1039/d6ta06910j</link>
+<guid isPermaLink="false">10.1039/d6ta06910j</guid>
+<pubDate>Fri, 13 Nov 2026 14:23:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hiroki Komiya, Pengdan He, Yuki Kono, Keisuke Obata, Yasuhiro Sakamoto, Sakino Hiro, Kiho Nishioka, Kazuhiro Takanabe</p><p>Water electrolysis at non-extreme pH broadens the range of usable materials but suffers from kinetic and transport losses.Here, phosphate (Pi) selectively enhances the hydrogen evolution reaction (HER) on Cu-based cathodes...</p><p>DOI: 10.1039/d6ta06910j</p>]]></description>
+</item>
+<item>
+<title>[CC] Bifunctional enzyme@COF nanohybrids as Pickering emulsifiers and biocatalysts for asymmetric synthesis of chiral amines</title>
+<link>https://doi.org/10.1039/d6cc05968f</link>
+<guid isPermaLink="false">10.1039/d6cc05968f</guid>
+<pubDate>Fri, 13 Nov 2026 14:03:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Han-Hui Wang, Fei Li, Dao-Zheng Wang, Yue-Hua Liu, Bing-Jian Yao, Yu-Bin Dong</p><p>A dual-enzyme@COF nanohybrid serves as Pickering emulsifier and biocatalyst for asymmetric reductive amination of ketones, giving up to 99% conversion and 99% ee. It retains 94% activity and 99% ee...</p><p>DOI: 10.1039/d6cc05968f</p>]]></description>
+</item>
+<item>
+<title>[TC] Composition-Driven Structure-Property Correlations, Dielectric, Magnetoelectric, and Electrochemical Responses in BaTiO3-GdFe0.95Mn0.05O3 Multiferroic Composites</title>
+<link>https://doi.org/10.1039/d6tc01376g</link>
+<guid isPermaLink="false">10.1039/d6tc01376g</guid>
+<pubDate>Fri, 13 Nov 2026 14:03:40 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mehroosh Fatema, Mehraj Ud Din Rather, Aref A Qahtan, Ragini Chaturvedi, Mohd Alam, Daud A Ansari, Samanway Mohanta, Nisar Ali, Shahid Husain</p><p>Designing environmentally benign multiferroic materials that combine ferroelectric, magnetic magnetoelectric and electrochemical functionalities is crucial for next-generation sensors, transducers and hybrid energy systems. As BaTiO3 is ferroelectric but not multiferroic,...</p><p>DOI: 10.1039/d6tc01376g</p>]]></description>
+</item>
+<item>
+<title>[TA] Bidentate Chelation and Electrostatic Anchoring via Horizontal Molecular Configuration for 22.14%-Efficient and Stable Inorganic Perovskite Solar Cells</title>
+<link>https://doi.org/10.1039/d6ta08618g</link>
+<guid isPermaLink="false">10.1039/d6ta08618g</guid>
+<pubDate>Fri, 13 Nov 2026 14:03:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xinyi Fan, Zezhang Wang, Nan Li, Minfang Wu, Wenshuo Zhu, Zhiqiang Li, Chengxu Wang, Wanchun Xiang</p><p>The excellent thermal stability and ideal bandgaps of inorganic perovskites render them as promising candidates for tandem photovoltaics. However, abundant defects at perovskite interface induce severe non-radiative recombination and halide...</p><p>DOI: 10.1039/d6ta08618g</p>]]></description>
+</item>
+<item>
+<title>[MH] Topological optimization to construct mechanically compatible calcium phosphate ceramic implants for load-bearing bone repair</title>
+<link>https://doi.org/10.1039/d6mh01346e</link>
+<guid isPermaLink="false">10.1039/d6mh01346e</guid>
+<pubDate>Fri, 13 Nov 2026 13:47:55 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wacili Da, Zemin Hou, Puxin Liu, Haozhe Qiu, Ruitao Hu, Linyun Tan, Keting Liu, Cong Feng, Xiao Yang, Xuening Chen, Yumei Xiao, Shunze Cao, Li Min, Xiangfeng Li, Zhengyong Li, Xiangdong Zhu, Xingdong Zhang</p><p>Topology optimization based on femoral defect mechanics is used to design Ca–P implants featuring spatially graded stochastic porosity.</p><p>DOI: 10.1039/d6mh01346e</p>]]></description>
+</item>
+<item>
+<title>[CP] Contribution of Noncovalent Interactions in Ionic Crystal Containing Halonium Cation explored via static and time-evolution methods in the crystalline phase</title>
+<link>https://doi.org/10.1039/d6cp03567a</link>
+<guid isPermaLink="false">10.1039/d6cp03567a</guid>
+<pubDate>Fri, 13 Nov 2026 13:23:19 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mariusz Michalczyk, Jarosław Panek, Aneta Jezierska, Wiktor Zierkiewicz</p><p>Halonium ions are promising candidates for strong and efficient Lewis acids. Recent research has highlighted their applicability in catalysis and as building blocks in supramolecular architectures. In this work, a...</p><p>DOI: 10.1039/d6cp03567a</p>]]></description>
+</item>
+<item>
+<title>[CC] Fast Microwave Catalytic Synthesis of Bis-hydroxyethyl Terephthalate from Plastic Waste Utilizing Ultrathin 2D Nanosheets</title>
+<link>https://doi.org/10.1039/d6cc06152d</link>
+<guid isPermaLink="false">10.1039/d6cc06152d</guid>
+<pubDate>Fri, 13 Nov 2026 13:23:19 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jinyu Ding, Peijin Du, Feng Chen, Suning Zhang, Wenhai Peng, Qingxia Chen, Dongpo He, Qinyuan Hu, Xingchen Jiao</p><p>Microwave catalytic synthesis of bis-hydroxyethyl terephthalate (BHET) from polyethylene terephthalate (PET) offers a promising approach for plastic waste recycling. Here, we employed the ultra-thin nanosheet as the ideal model to...</p><p>DOI: 10.1039/d6cc06152d</p>]]></description>
+</item>
+<item>
+<title>[TA] Precursor composition engineering of cotton stalks enables synergistic pseudo-graphitic ordering and closed-pore development in hard carbon for sodium storage</title>
+<link>https://doi.org/10.1039/d6ta07452a</link>
+<guid isPermaLink="false">10.1039/d6ta07452a</guid>
+<pubDate>Fri, 13 Nov 2026 13:14:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wei Zhou, Hairu Wang, Kaiyuan Long, Jiexin Wu, Rui Ma, Yafan Zhang, Xiaodong He, Dianzeng Jia, Mengjiao Xu, Lili Ai, Luxiang Wang, Nannan Guo</p><p>Selective precursor etching enables the synergistic development of pseudo-graphitic domains and closed pores in cotton-stalk-derived hard carbon, achieving a 74% low-voltage plateau capacity contribution.</p><p>DOI: 10.1039/d6ta07452a</p>]]></description>
+</item>
+<item>
+<title>[TA] Unveiling the Synergy of Oxygen Vacancies and Built-in Electric Fields in Thermally Induced High-Entropy Heterojunctions for Oxygen Evolution Electrocatalysis</title>
+<link>https://doi.org/10.1039/d6ta07520g</link>
+<guid isPermaLink="false">10.1039/d6ta07520g</guid>
+<pubDate>Fri, 13 Nov 2026 13:03:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wei Li, Xijie Zhang, Yuheng Wang, Fengfeng Yan, Liang Sun, Cheng Yang, Xiaoyang Xu, Xinli Gao, Yanan Zhu, Xin Wang, Mingyue Zhao, Runze Yang, Qian Wang</p><p>Developing high-performance and durable electrocatalysts for the oxygen evolution reaction (OER) remains a significant challenge. Here, we constructed a vertically aligned 2D/2D HEO/MoS 2 -v heterojunction via supercritical CO 2...</p><p>DOI: 10.1039/d6ta07520g</p>]]></description>
+</item>
+<item>
+<title>[EE] Ultrahigh output triboelectric nanogenerators via dual-domain charge bootstrapping strategy</title>
+<link>https://doi.org/10.1039/d6ee06725e</link>
+<guid isPermaLink="false">10.1039/d6ee06725e</guid>
+<pubDate>Fri, 13 Nov 2026 12:42:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yanrui Zhao, Lu Dong, Xinxian Wang, Borui Yang, Xin Guo, Jianlong Wang, Xiaosong Zhang, Hengyu Li, Yang Yu, Zhong Lin Wang, Tinghai Cheng</p><p>This work presents a dual-domain charge bootstrapping (DCB) strategy that decouples charge transport paths to extract energy from two electrostatically coupled charge domains for high charge accumulation and efficient energy utilization.</p><p>DOI: 10.1039/d6ee06725e</p>]]></description>
+</item>
+<item>
+<title>[TA] Stable liquid-phase thiophosphate enables rapid reaction time for Li 6 PS 5 Cl sulfide electrolytes</title>
+<link>https://doi.org/10.1039/d6ta05260f</link>
+<guid isPermaLink="false">10.1039/d6ta05260f</guid>
+<pubDate>Fri, 13 Nov 2026 11:54:36 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zachary Warren, Randy Jalem, Sepideh Rahimisheikh, Joke Hadermann, N. C. Rosero-Navarro</p><p>The liquid-phase synthesis of sulfide solid electrolytes has been hindered by an incomplete understanding of thiophosphate reaction pathways and the transient nature of reactive intermediates.</p><p>DOI: 10.1039/d6ta05260f</p>]]></description>
+</item>
+<item>
+<title>[TC] Dialkyl Side-Chain Length Controls Molecular Orientation, Charge-Transport Balance, and Recombination in Backbone-Identical Polymer Donors for Organic Solar Cells</title>
+<link>https://doi.org/10.1039/d6tc02642g</link>
+<guid isPermaLink="false">10.1039/d6tc02642g</guid>
+<pubDate>Fri, 13 Nov 2026 11:43:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Dongki Lee, Hansol Lee, Hyeongjin Hwang</p><p>Dialkyl side-chain engineering is an effective strategy for tuning molecular packing and charge transport in conjugated polymers, yet in bulk heterojunction solar cells the device outcomes can be counterintuitive because...</p><p>DOI: 10.1039/d6tc02642g</p>]]></description>
+</item>
+<item>
+<title>[CP] Revealing Phase Transition Mechanism of GaAs Nanoparticle via Machine Learning Molecular Dynamics Simulation</title>
+<link>https://doi.org/10.1039/d6cp03351b</link>
+<guid isPermaLink="false">10.1039/d6cp03351b</guid>
+<pubDate>Fri, 13 Nov 2026 10:43:04 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hongbin Zhang, Mengru Huang, Haichao Li, Zijun Meng, Senze Gu, Lina Xu, Hongping Xiao, Guoyong Fang</p><p>Gallium arsenide (GaAs) nanoparticles exhibit size-tunable optoelectronic properties critical for nanoscale devices, yet the atomic-scale mechanisms of their solid-liquid phase transitions under vacuum remain poorly understood. Herein, we revealed the...</p><p>DOI: 10.1039/d6cp03351b</p>]]></description>
+</item>
+<item>
+<title>[CC] Molecular insights into capacitance and charging dynamics of supercapacitors with a conductive MOF electrode and aqueous electrolyte</title>
+<link>https://doi.org/10.1039/d6cc02393b</link>
+<guid isPermaLink="false">10.1039/d6cc02393b</guid>
+<pubDate>Fri, 13 Nov 2026 10:41:23 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Taizheng Wu, Huili Jiang, Situo Cheng, Liang Zeng, Guang Feng</p><p>Through a novel TLM-MD multiscale approach combined with electrochemical characterization on highly-crystalline Ni 3 (HITP) 2 electrodes, this work has achieved high consistency between experiments and simulations in 2D c-MOF aqueous systems.</p><p>DOI: 10.1039/d6cc02393b</p>]]></description>
+</item>
+<item>
+<title>[TA] Optimizing dibenzo-fused cathodes for high-voltage organic dual-ion batteries: a combined DFT-ML approach</title>
+<link>https://doi.org/10.1039/d6ta07497a</link>
+<guid isPermaLink="false">10.1039/d6ta07497a</guid>
+<pubDate>Fri, 13 Nov 2026 10:29:08 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Poulami Paul, Souvik Manna, Sandeep Das, Biswarup Pathak</p><p>Machine learning links electronic structure to electrochemical performance, enabling predictive design of high-voltage organic cathodes for dual-ion batteries and accelerating electrode–electrolyte discovery.</p><p>DOI: 10.1039/d6ta07497a</p>]]></description>
+</item>
+<item>
+<title>[TA] Correction: Enriching vibration-induced triboelectric signal waveform characteristic toward monitoring of calcium carbonate powder-processing equipment</title>
+<link>https://doi.org/10.1039/d6ta90297a</link>
+<guid isPermaLink="false">10.1039/d6ta90297a</guid>
+<pubDate>Fri, 13 Nov 2026 10:21:50 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Peng Li, Yiyang Yuan, Zhenwei Qin, Hedi Zang, Minfeng Pan, Zhenming Chen, Zhanyong Hong, Qinghe Wu, Xinkai Ding</p><p>Correction for ‘Enriching vibration-induced triboelectric signal waveform characteristic toward monitoring of calcium carbonate powder-processing equipment’ by Peng Li et al. , J. Mater. Chem. A , 2026, 14 , 43675–43689, https://doi.org/10.1039/d6ta07859a.</p><p>DOI: 10.1039/d6ta90297a</p>]]></description>
+</item>
+<item>
+<title>[TA] Camel-inspired double-layer MXene/GO phase change composite aerogel with integrated heat absorption, thermal insulation and microwave absorption</title>
+<link>https://doi.org/10.1039/d6ta07319k</link>
+<guid isPermaLink="false">10.1039/d6ta07319k</guid>
+<pubDate>Fri, 13 Nov 2026 10:18:38 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Pan Li, Jing Li, Yanhong Wang, Jiachen Lei, Wei Liao</p><p>A double-layer aerogel architecture integrated heat absorption, thermal insulation, and microwave absorption was fabricated.</p><p>DOI: 10.1039/d6ta07319k</p>]]></description>
+</item>
+<item>
+<title>[CP] Intrinsic spin–valley coupling and strain-dependent valley splitting in two-dimensional Janus MoPnX monolayers (Pn = P, As; X = Cl, Br, I)</title>
+<link>https://doi.org/10.1039/d6cp02322c</link>
+<guid isPermaLink="false">10.1039/d6cp02322c</guid>
+<pubDate>Fri, 13 Nov 2026 10:04:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xuchen Guo, Hanwei Li, Mingyu Lv, Wei-Jiang Gong</p><p>First-principles calculations reveal a stable Janus two-dimensional ferrovalley semiconductor with robust magnetism and sizable spontaneous valley polarization, which can be effectively tuned by strain for spin- and valleytronic applications.</p><p>DOI: 10.1039/d6cp02322c</p>]]></description>
+</item>
+<item>
+<title>[EE] Unlocking the Energy Potential of Lithium: From Rechargeable Batteries to Future Nuclear Technologies</title>
+<link>https://doi.org/10.1039/d6ee03222b</link>
+<guid isPermaLink="false">10.1039/d6ee03222b</guid>
+<pubDate>Fri, 13 Nov 2026 10:03:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yu-Hui Zhu, Yu-Guo Guo, Sen Xin</p><p>Over the past three decades, lithium has revolutionized electrochemical energy storage via the widespread deployment of rechargeable lithium-ion batteries, profoundly reshaping global energy consumption patterns. In this Perspective, we reclaim...</p><p>DOI: 10.1039/d6ee03222b</p>]]></description>
+</item>
+<item>
+<title>[CC] MXene-anchored sulfur-rich polybenzoxazine network for highly efficient Hg 2+ capture</title>
+<link>https://doi.org/10.1039/d6cc05921j</link>
+<guid isPermaLink="false">10.1039/d6cc05921j</guid>
+<pubDate>Fri, 13 Nov 2026 09:50:33 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Soumyasri Nikhilesh Mahapatra, Bimlesh Lochab</p><p>A covalently integrated MXene/sulfur-copolymer hybrid, synthesized via benzoxazine grafting on MXene followed by inverse vulcanization, exhibited high Hg 2+ uptake (254.3 mg g −1 ) and retained ∼96% efficiency after five reuse cycles.</p><p>DOI: 10.1039/d6cc05921j</p>]]></description>
+</item>
+<item>
+<title>[TA] Asymmetric noncoplanar sulfur-bridged FeMn dual-atom electrocatalysts for enhanced oxygen reduction reaction</title>
+<link>https://doi.org/10.1039/d6ta05838h</link>
+<guid isPermaLink="false">10.1039/d6ta05838h</guid>
+<pubDate>Fri, 13 Nov 2026 09:48:10 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Baitao Li, Qingzhuo Li, Jie Shi, Liming Wang</p><p>A sulfur-bridged asymmetric FeMn dual-atom catalyst (FeMn-SNC) with an FeN 3 –S–MnN 3 configuration delivers superior ORR activity and stability beyond Pt/C, and achieves high power density and efficient wastewater treatment in microbial fuel cells.</p><p>DOI: 10.1039/d6ta05838h</p>]]></description>
+</item>
+<item>
+<title>[TC] Efficient orange-red room-temperature phosphorescence from undoped conjugated polymers based on intramolecular-locking phenoselenazine unit</title>
+<link>https://doi.org/10.1039/d6tc03293a</link>
+<guid isPermaLink="false">10.1039/d6tc03293a</guid>
+<pubDate>Fri, 13 Nov 2026 09:02:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zhiqiang Cheng, Shanhui Gao, Xiaofu Wu, Shumeng Wang, Hui Tong, Lixiang Wang</p><p>Purely organic room-temperature phosphorescence (RTP) polymers are highly desirable for their excellent processability and flexibility compared to small molecular crystals. However, undoped RTP polymers with long-wavelength emission still suffer from...</p><p>DOI: 10.1039/d6tc03293a</p>]]></description>
+</item>
+<item>
+<title>[SC] Tailoring metal-organic framework catalysts for exchange reactions within covalent adaptable networks</title>
+<link>https://doi.org/10.1039/d6sc07170h</link>
+<guid isPermaLink="false">10.1039/d6sc07170h</guid>
+<pubDate>Fri, 13 Nov 2026 08:43:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Simon Renner, Roman Korotkov, Johannes Liebhart, Markus Alfreider, Daniel Kiener, Oskar Paris, Christian Slugovc, Sandra Schlögl, Elisabeth Rossegger</p><p>Catalyst immobilisation offers a route to controlling bond exchange in covalent adaptable networks (CANs), yet the interplay between base identity, catalytic activity and network properties remains insufficiently understood. Here, we...</p><p>DOI: 10.1039/d6sc07170h</p>]]></description>
+</item>
+<item>
+<title>[MH] Bioiontronics: the next-generation platform for biotic-abiotic communication</title>
+<link>https://doi.org/10.1039/d6mh00880a</link>
+<guid isPermaLink="false">10.1039/d6mh00880a</guid>
+<pubDate>Fri, 13 Nov 2026 08:23:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jinjie He, Chenyu Lei, Weipeng Chen, Xiang-Yu Kong, Liping Wen</p><p>Bidirectional communication between biological systems and artificial devices is a central goal of bioengineering. However, a fundamental challenge arises from the distinct signal carriers employed by these systems, as artificial...</p><p>DOI: 10.1039/d6mh00880a</p>]]></description>
+</item>
+<item>
+<title>[NR] A low-cost β-Ga2O3 Nanowire Film for Solar-blind Ultraviolet Detection Arrays</title>
+<link>https://doi.org/10.1039/d6nr03543d</link>
+<guid isPermaLink="false">10.1039/d6nr03543d</guid>
+<pubDate>Fri, 13 Nov 2026 08:03:44 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jing-Yang Zhang, Yu Zhang, Zi-Han Wan, Ze-Ning Guo, Bing Wang, Liying Liu, Yang Ding, Ruzhi Wang</p><p>The preparation and application of gallium oxide-based solar-blind photodetector arrays have been extensively reported in recent years. However, nanowire-based gallium oxide photodetectors suffer from costly deposition, complex lithography, and poor...</p><p>DOI: 10.1039/d6nr03543d</p>]]></description>
+</item>
+<item>
+<title>[NR] Old Title: Cascaded 1D-Mn(OH)2@2D-Ni(OH)2 Core-shell Heterostructures with Carbon Soot for Supercapacitors . New Title: Cascaded 1D-Ni(OH)2@2D-Mn(OH)2 Core-shell Heterostructures with Carbon Soot for Supercapacitors</title>
+<link>https://doi.org/10.1039/d6nr02940j</link>
+<guid isPermaLink="false">10.1039/d6nr02940j</guid>
+<pubDate>Fri, 13 Nov 2026 08:03:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Koperun Devi Alagarsamy, Marchuga Banu Abdul, G. Ravikannan, P. Nithiananthi</p><p>Here, we engineer the 1D-Ni(OH)2@2D-Mn(OH)2 core-shell heterostructures to overcome the limitations of single Ni(OH)2, including its low conductivity, instability, and low decomposition overpotential. Apart from exhibiting the synergy of the...</p><p>DOI: 10.1039/d6nr02940j</p>]]></description>
+</item>
+<item>
+<title>[CP] CrystalInterpen: An Open-Source Web Tool for Interpenetrated Framework Generation</title>
+<link>https://doi.org/10.1039/d6cp03643k</link>
+<guid isPermaLink="false">10.1039/d6cp03643k</guid>
+<pubDate>Fri, 13 Nov 2026 08:03:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Bing Ma, Na Qin, Sheng Zhang, Xiao Wang, Wei Zhou, Xing Lu</p><p>Interpenetration is a common structural feature in metal-organic frameworks (MOFs), covalent organic frameworks (COFs) and hydrogen-bonded organic frameworks (HOFs) that profoundly influences their porosity, mechanical stability and functional properties. However,...</p><p>DOI: 10.1039/d6cp03643k</p>]]></description>
+</item>
+<item>
+<title>[SC] Alkali Metal Cations Act as Dynamic Shuttle to Promote CO 2 Capture at the Electrochemical Interface of Nitrogen-Functionalized Au 25 Nanoclusters</title>
+<link>https://doi.org/10.1039/d6sc03670h</link>
+<guid isPermaLink="false">10.1039/d6sc03670h</guid>
+<pubDate>Fri, 13 Nov 2026 07:43:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yuping Chen, Lubing Qin, Xia Zhou, Likai Wang, Zhenghua Tang, Qing Tang</p><p>Overcoming mass transport limitations in electrochemical CO2 reduction is pivotal yet challenging due to the complex interplay between electrode kinetics and interfacial transport. Herein, we bridge this gap by rationally...</p><p>DOI: 10.1039/d6sc03670h</p>]]></description>
+</item>
+<item>
+<title>[CC] Branched Zwitterionic Ligands for Colloidal CsPbBr3 Nanocrystals with Enhanced Durability and Stability</title>
+<link>https://doi.org/10.1039/d6cc05066b</link>
+<guid isPermaLink="false">10.1039/d6cc05066b</guid>
+<pubDate>Fri, 13 Nov 2026 07:23:53 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Chengli Wang, Wenjie Zhang, Junle Zhang, Qian Yin, Xiaomeng Zhang, Zhe Cui, Peng Fu, Minying Liu, Ge Shi, Yajing Chang, Yanjie He, Xinchang Pang</p><p>Conventional linear ligands for CsPbBr₃ nanocrystals suffer from inefficient surface coverage and weak binding. We developed novel branched zwitterionic ligands, marrying steric stabilization of branched architectures with bidentate binding of...</p><p>DOI: 10.1039/d6cc05066b</p>]]></description>
+</item>
+<item>
+<title>[CC] Decoupled Regulation of Heterojunction and Oxygen Vacancy in MoO3/WO3 for Interfacial Charge Transfer-Enhanced SERS</title>
+<link>https://doi.org/10.1039/d6cc05950c</link>
+<guid isPermaLink="false">10.1039/d6cc05950c</guid>
+<pubDate>Fri, 13 Nov 2026 07:04:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Lu Tan, Xiaoming Li, Junjun Ge, Bao-Kang Jin, Jun-Jie Zhu</p><p>This work decouples the respective contributions of heterojunctions and oxygen vacancies in non-precious-metal SERS, revealing how their coupled regulation of electronic structure and photoinduced charge transfer governs SERS enhancement.</p><p>DOI: 10.1039/d6cc05950c</p>]]></description>
+</item>
+<item>
+<title>[TA] Balancing composition and phase stability in High-Entropy Metal Phosphates for proton conduction</title>
+<link>https://doi.org/10.1039/d6ta03303b</link>
+<guid isPermaLink="false">10.1039/d6ta03303b</guid>
+<pubDate>Fri, 13 Nov 2026 07:03:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Alexander Schwab, Stephanos Karafiludis, Biswajit Bhattacharya, Ines Feldmann, Carsten Prinz, Franziska Emmerling, Tomasz Maciej Stawski</p><p>The transition to sustainable energy technologies necessitates the development of proton-conducting electrolytes free from critical raw materials. Transition metal phosphate octahydrates (vivanite and pakhmoskyite analogues) offer a promising structural platform...</p><p>DOI: 10.1039/d6ta03303b</p>]]></description>
+</item>
+<item>
+<title>[CC] Translating Diverse Molecular Recognition Events into a Unified and Amplified Lateral-Flow Readout</title>
+<link>https://doi.org/10.1039/d6cc06845f</link>
+<guid isPermaLink="false">10.1039/d6cc06845f</guid>
+<pubDate>Fri, 13 Nov 2026 07:03:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ziqiang Deng, Min Jiang, Jing Zhou, Jianyu Hu, Rui Liu, Yi Lv</p><p>Lateral-flow assays typically require strip redesign and refabrication when the target-specific recognition chemistry is changed. Herein, we present a nucleic acid transduction strategy that encodes diverse molecular recognition events into...</p><p>DOI: 10.1039/d6cc06845f</p>]]></description>
+</item>
 <item>
 <title>[CP] Ultra-High-Density Skyrmions in SrTiO3/BaTiO3 Superlattices Achieved by Substrate and Stacking Engineering</title>
 <link>https://doi.org/10.1039/d6cp04045d</link>
@@ -1384,11 +1692,11 @@
 <description><![CDATA[<p><b>Authors:</b> Viona Pinto, Ruther T Lewis, Beneesh P. Babu</p><p>Herein, we report an intermolecular olefination of C-H bonds at the expense of four C(sp3)-H bonds catalyzed by Fe(III) salt at room temperature. A carbon-carbon double bond was formed between...</p><p>DOI: 10.1039/d6cc05899j</p>]]></description>
 </item>
 <item>
-<title>[SC] Homoconjugation-Induced Fluorescence Enhancement in C3v-Symmetric Pyrene- and Phenanthrene-Embedded Triptycenes</title>
+<title>[SC] Homoconjugation-induced fluorescence enhancement in C 3v -symmetric pyrene- and phenanthrene-embedded triptycenes</title>
 <link>https://doi.org/10.1039/d6sc07032a</link>
 <guid isPermaLink="false">10.1039/d6sc07032a</guid>
 <pubDate>Tue, 10 Nov 2026 07:23:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Puyi Huang, Yu Watanabe, Mashahiro Yamashina, Shinji Toyota</p><p>π-Extension of triptycene provides an effective strategy for constructing three-dimensional π-conjugated molecules featuring through-space homoconjugation. However, because π-extended triptycenes composed solely of polycyclic aromatic hydrocarbon (PAH) units have rarely been...</p><p>DOI: 10.1039/d6sc07032a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Puyi Huang, Yu Watanabe, Masahiro Yamashina, Shinji Toyota</p><p>Homoconjugative interactions among three pyrene or phenanthrene units in a C 3v -symmetric triptycene framework induce bathochromic shifts in absorption and emission, accompanied by enhanced fluorescence quantum yields.</p><p>DOI: 10.1039/d6sc07032a</p>]]></description>
 </item>
 <item>
 <title>[CC] Interfacial Molecular Engineering of Free-Standing Polyaniline-PVDF Hybrid Electrodes Enables High-Performance Flexible Solid-State Supercapacitors</title>
@@ -1496,11 +1804,11 @@
 <description><![CDATA[<p><b>Authors:</b> Mei Li, Yifei Zhao, Yujie Liu, Yan Xie, Xiao Chen, Qiongfen Yang, Jianhua Hao, Wenjing Jie</p><p>Optoelectronic memristors have attracted considerable attention owing to their ability to utilize both electrical and optical stimulations for information computing and memory. However, most optoelectronic memristors are sensitive to ultraviolet...</p><p>DOI: 10.1039/d6mh01778a</p>]]></description>
 </item>
 <item>
-<title>[SC] Development of Electrochemical Aptamer-Based Sensors for Therapeutic Monitoring of Lamotrigine</title>
+<title>[SC] Development of electrochemical aptamer-based sensors for therapeutic monitoring of lamotrigine</title>
 <link>https://doi.org/10.1039/d6sc07104j</link>
 <guid isPermaLink="false">10.1039/d6sc07104j</guid>
 <pubDate>Mon, 09 Nov 2026 23:43:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Alexandra Bryant, Linlin Wang, Caleb Byrd, Yi Xiao</p><p>The anti-epileptic drug lamotrigine has a range of concentrations within which it is effective and unlikely to cause toxicity. However, inter- and intra-individual variation in pharmacokinetics makes it difficult to...</p><p>DOI: 10.1039/d6sc07104j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Alexandra Bryant, Linlin Wang, Caleb Byrd, Yi Xiao</p><p>Electrochemical aptamer-based sensors enable the quantification of the anti-epileptic drug lamotrigine directly in unprocessed blood, opening avenues towards convenient therapeutic drug monitoring at the point-of-care.</p><p>DOI: 10.1039/d6sc07104j</p>]]></description>
 </item>
 <item>
 <title>[CC] Size controlled synthesis of nickel nanoparticles on carbon nanotubes for improved oxygen evolution catalysis</title>
@@ -1811,11 +2119,11 @@
 <description><![CDATA[<p><b>Authors:</b> Ali Pourian, Mohammad Amin Sarv, Mohammad Babaei, Sina Maghsoudy, Fatemeh Barzegari, Mehran Rezaei, Sajjad Habibzadeh</p><p>Transforming CO 2 into value-added chemicals is essential for reducing dependence on fossil resources and mitigating climate change.</p><p>DOI: 10.1039/d6ta06268g</p>]]></description>
 </item>
 <item>
-<title>[TA] Bridging Transport Properties Across Length Scales via Local Ionic Current Distributions in Solid Electrolytes</title>
+<title>[TA] Bridging transport properties across length scales via local ionic current distributions in solid electrolytes</title>
 <link>https://doi.org/10.1039/d6ta06030g</link>
 <guid isPermaLink="false">10.1039/d6ta06030g</guid>
 <pubDate>Mon, 09 Nov 2026 09:23:45 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mariia Ivonina, Tomofumi Tada</p><p>Predicting ionic transport across length scales remains one of the challenges in the computational design of solid electrolytes. In this work, we introduce a mesoscale data driven strategy to predict...</p><p>DOI: 10.1039/d6ta06030g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Mariia Ivonina, Tomofumi Tada</p><p>Local ionic current statistics of sub-blocks obtained from KMC simulations serve as descriptors for predicting ionic currents in larger YSZ systems without explicit atomistic descriptors.</p><p>DOI: 10.1039/d6ta06030g</p>]]></description>
 </item>
 <item>
 <title>[CP] Experimental and Theoretical Exploration of Photophysics and Photochemistry of meso-(phenoxymethyl)-BODIPY-Based Model Compound</title>
@@ -1825,11 +2133,11 @@
 <description><![CDATA[<p><b>Authors:</b> Sasipreetham Devarakonda, Atanu Bhattacharya, Gowri Sankar Reddipalli, Balakrishna Kolli, Qazi Saifullah, Partha Roy, Suman Das, Manoj P. Rayaroth</p><p>Photoactivated chemotherapy (PACT) enables controlled drug release independent of oxygen, offering advantages over photodynamic therapy. Here, we study a meso-(phenoxymethyl)-substituted BODIPY (m-BODIPY-OPh) as a model photocage. Spectroscopic characterization shows strong...</p><p>DOI: 10.1039/d6cp01495j</p>]]></description>
 </item>
 <item>
-<title>[SC] Electron-Donor-Catalyzed E→Z Isomerization of Styrenic Amides</title>
+<title>[SC] Electron-donor-catalyzed E → Z isomerization of styrenic amides</title>
 <link>https://doi.org/10.1039/d6sc07008f</link>
 <guid isPermaLink="false">10.1039/d6sc07008f</guid>
 <pubDate>Mon, 09 Nov 2026 09:23:39 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiaoxia Zhang, Jianjing Yang, Yue Wang, Lirong Xu, Yongxin Li, Mingming Yu, Wei Wei, Xi Li, Yuan-Ye Jiang, Jiangwei Wen</p><p>The geometric configuration of C=C bonds exerts a dominant influence on the biological activity and physical properties of alkene-bearing molecules. 1-5 Contra-thermodynamic E→Z photoisomerization provides an atom-economical route to valuable Z-alkenes,...</p><p>DOI: 10.1039/d6sc07008f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> XiaoXia Zhang, Jianjing Yang, Yue Wang, Lirong Xu, Yongxin Li, Mingming Yu, Wei Wei, Xi Li, Yuan-Ye Jiang, Jiangwei Wen</p><p>Electron-donor-catalyzed E → Z photoisomerization of styrenic amides mediated by secondary-excitation single-electron transfer for scalable synthesis, stereochemical editing of pharmaceuticals, and the concise construction of H3R antagonists.</p><p>DOI: 10.1039/d6sc07008f</p>]]></description>
 </item>
 <item>
 <title>[CP] Fe–vacancy complexes in KDP: contrasting force partitioning reveals the Fe 3d–O 2p hybridization bottleneck</title>
@@ -1923,11 +2231,11 @@
 <description><![CDATA[<p><b>Authors:</b> Tamal Ballav, Venkataraman Ganesh</p><p>A step-economical dearomative aryne Diels-Alder (ADA) reaction of methylene indanes and benzofulvenes provides diverse dihydroacephenanthrylene-based polycyclic hydrocarbons. ADA adducts undergo divergent Alder-ene arylation or oxidation depending on conditions. Deuterium-labeling and...</p><p>DOI: 10.1039/d6cc05975a</p>]]></description>
 </item>
 <item>
-<title>[CC] Linker-Regulated BODIQU-Based Porous Polymers for Selective Thioether Photooxidation</title>
+<title>[CC] Linker-regulated BODIQU-based porous polymers for selective thioether photooxidation</title>
 <link>https://doi.org/10.1039/d6cc05960k</link>
 <guid isPermaLink="false">10.1039/d6cc05960k</guid>
 <pubDate>Mon, 09 Nov 2026 07:23:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Gege Wang, Yuxuan Liu, Ling Chen, Min Qiao, Xuewan Zhang, Yuxuan Yang, Yuqin Qin, Xiaolin Zhu</p><p>Three BODIQU-based porous polymers with different linkers were developed for selective thioether photooxidation. Py-BODIQU exhibits the highest photocurrent response, lowest charge-transfer resistance, and fastest oxidation of a sulfur mustard simulant....</p><p>DOI: 10.1039/d6cc05960k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Gege Wang, Yuxuan Liu, Ling Chen, Min Qiao, Xuewan Zhang, Yuxuan Yang, Yuqin Qin, Xiaolin Zhu</p><p>Py-BODIQU combines efficient charge transport with concurrent electron- and energy-transfer activation of O 2 , generating O 2 ˙ − and 1 O 2 for rapid and selective oxidation of a sulfur mustard simulant.</p><p>DOI: 10.1039/d6cc05960k</p>]]></description>
 </item>
 <item>
 <title>[CC] Controlled synthesis and hexagonal assemblies of well-defined polyoxazoline- block -polyisocyanides copolymers</title>
@@ -1955,7 +2263,7 @@
 <link>https://doi.org/10.1039/d6tc02176j</link>
 <guid isPermaLink="false">10.1039/d6tc02176j</guid>
 <pubDate>Sat, 07 Nov 2026 15:03:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Valentin Hagemann, Laura Finck, Irene Morales, Nina Ehlert, Florian Klodwig-Kirstein, Henning Menzel, Sebastian Polarz</p><p>In the field of biomedical implants, engineering magnetic hybrid layers capable of remote-controlled structural transitions is central to the development of functional materials facilitating non-invasive extraction. While robust adhesion is...</p><p>DOI: 10.1039/d6tc02176j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Valentin Hagemann, Laura Finck, Irene Morales, Nina Ehlert, Florian Klodwig-Kirstein, Henning Menzel, Sebastian Polarz</p><p>Magnetic nanoheaters activated by alternating magnetic fields generate localized heat to soften or liquefy polymer networks. Demonstrated in hydrogels and PMMA, this enables non-invasive, on-demand control of adhesion in biomedical implants.</p><p>DOI: 10.1039/d6tc02176j</p>]]></description>
 </item>
 <item>
 <title>[TC] Intricacies of Aromaticity in Hetero[8]circulenes and Related Helicenes: Insights from Quantum Chemistry, Spectroscopy and Molecular Conductance Studies</title>
@@ -2098,11 +2406,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yuqing Liu, Jialin Sun, Xiao Li, Le Zhao, Zhen Cao, Jun Zhao</p><p>An advanced machine learning architecture trained on structural instability factor accurately predicts phase stability for equimolar and non-equimolar HEC.</p><p>DOI: 10.1039/d6ta06151f</p>]]></description>
 </item>
 <item>
-<title>[CP] The SHEF1552 dataset: Fundamental trends and physical insights into halogen, chalcogen, pnictogen and tetrel bonds</title>
+<title>[CP] The SHEF1552 dataset: fundamental trends and physical insights into halogen, chalcogen, pnictogen, and tetrel bonds</title>
 <link>https://doi.org/10.1039/d6cp04299f</link>
 <guid isPermaLink="false">10.1039/d6cp04299f</guid>
 <pubDate>Fri, 06 Nov 2026 13:23:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Harry Nash, Lee Brammer, Grant Hill</p><p>The Sigma-Hole Energies and additional Factors (SHEF1552) dataset, a comprehensive collection of 1,552 σ -hole interactions (halogen, chalcogen, pnictogen, and tetrel bonds) is introduced. Each complex, formed by pairing 82...</p><p>DOI: 10.1039/d6cp04299f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Harry W. Nash, Lee Brammer, J. Grant Hill</p><p>The SHEF1552 dataset encompasses 1552 halogen, chalcogen, pnictogen and tetrel complexes. Combining coupled-cluster energetics, SAPT analyses and geometric metrics, it serves as a robust resource for fundamental physical insights.</p><p>DOI: 10.1039/d6cp04299f</p>]]></description>
 </item>
 <item>
 <title>[CP] How laser wavelength and polarization shape the molecular Raman response enhanced by capped Ag nanoparticle chains</title>
@@ -2434,11 +2742,11 @@
 <description><![CDATA[<p><b>Authors:</b> Raj Sah, Rohan Maniar, Michael John Zdilla, Ran Ding, Amuthan Dekshinamoorthy, Saranyan Vijayaraghavan, Eric Borguet, John Perdew</p><p>The discovery of inexpensive transition-metal-based water splitting catalysts is an important goal for a hydrogen economy, and has led to a general consensus that a partially populated metal eg d-electronic...</p><p>DOI: 10.1039/d6ta05390d</p>]]></description>
 </item>
 <item>
-<title>[CC] Nonconjugated Organic Room Temperature Phospho-rescent Materials: Structural Basis, Excited State Dy-namics, and Application Prospects</title>
+<title>[CC] Nonconjugated organic room-temperature phosphorescent materials: structural basis, excited-state dynamics, and application prospects</title>
 <link>https://doi.org/10.1039/d6cc05739j</link>
 <guid isPermaLink="false">10.1039/d6cc05739j</guid>
 <pubDate>Thu, 05 Nov 2026 14:43:24 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tian Wang, Qiang Feng, Jianhua Liu, Qiang Cheng, Zhenjie Zhou, Wang Zuo, Junxi Liao, Sijie Xie, Huimin Xu, Dian Yuan Wang, Jianguo Wang, Huanan Huang</p><p>Constructing room temperature phosphorescent sys-tems from nonconjugated organic materials offers a promising strategy to expand the design space of func-tional soft materials. This approach can enable facile processing, solution compatibility,...</p><p>DOI: 10.1039/d6cc05739j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Tian Wang, Qiang Feng, Jianhua Liu, Qiang Cheng, Zhenjie Zhou, Wang Zuo, Junxi Liao, Sijie Xie, Hui-min Xu, Dianyuan Wang, Jianguo Wang, Huanan Huang</p><p>This review unifies cluster-state mechanisms of nonconjugated room-temperature phosphors in bio-based polymers, synthetic polymers, and molecular crystals, highlighting applications in flexible films, information displays, and smart packaging.</p><p>DOI: 10.1039/d6cc05739j</p>]]></description>
 </item>
 <item>
 <title>[CC] Multi-wavelength activation of coupled ionophores for transmembrane electroneutral ion transport</title>
@@ -2851,7 +3159,7 @@
 <link>https://doi.org/10.1039/d6ta08463j</link>
 <guid isPermaLink="false">10.1039/d6ta08463j</guid>
 <pubDate>Thu, 05 Nov 2026 01:04:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tao Jia, Likang Du, Yijun Zhao, Zuoyu Wang, Fei Wang, Dongmei Zhao</p><p>Solar-driven interfacial water evaporation technology for freshwater production from seawater represents a promising approach to freshwater supply. However, a key challenge lies in the preparation of low-cost and large-area evaporators....</p><p>DOI: 10.1039/d6ta08463j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Likang Du, Yijun Zhao, Zuoyu Wang, Fei Wang, Dongmei Zhao, Tao Jia</p><p>Melanin was extracted from agricultural waste, which was incorporated into a low-cost and area-controllable PVA-GA hydrogel with the assistance of a surfactant to construct an efficient solar evaporator.</p><p>DOI: 10.1039/d6ta08463j</p>]]></description>
 </item>
 <item>
 <title>[TC] Breaking the electro–mechanical–thermal trade-off: robust ultralow- k films via polyimide/covalent organic framework interpenetrating networks</title>
@@ -3295,18 +3603,18 @@
 <description><![CDATA[<p><b>Authors:</b> Piyumi Kodithuwakku, Christian Samundsett, Stephane Armand, Gabriel Bartholazzi, Daniel H. Macdonald, Lachlan E. Black</p><p>The influence of boron doping for ALD ZnO:B films within SiO x /ZnO:B/Al 2 O 3 electron-selective passivating contact stacks on c-Si is explored. Passivation and contact performance are correlated with structural, electrical and optical properties.</p><p>DOI: 10.1039/d6ta08045f</p>]]></description>
 </item>
 <item>
-<title>[SC] Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
-<link>https://doi.org/10.1039/d6sc06308j</link>
-<guid isPermaLink="false">10.1039/d6sc06308j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
-</item>
-<item>
 <title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
 <link>https://doi.org/10.1039/d6sc06485j</link>
 <guid isPermaLink="false">10.1039/d6sc06485j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
+</item>
+<item>
+<title>[SC] Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
+<link>https://doi.org/10.1039/d6sc06308j</link>
+<guid isPermaLink="false">10.1039/d6sc06308j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
 </item>
 <item>
 <title>[CP] Modelling pressure and solvation effects in intermolecular charge-transfer excitations</title>
@@ -3379,11 +3687,11 @@
 <description><![CDATA[<p><b>Authors:</b> Tiancheng Zeng, Pengyu Zeng, Hungchen Tai, Richard de Dear, Matthaios Santamouris, Yingchang You, Xintong Ma, Borong Lin, Kaichen Dong, Shuai Lu</p><p>Passive radiative cooling reduces heat but cannot adapt to cold, causing a winter penalty, whereas temperature-adaptive radiative coatings (TARCs) switch modes seasonally via temperature-triggered emissivity shifts and tunable solar reflectivity.</p><p>DOI: 10.1039/d6ee04639h</p>]]></description>
 </item>
 <item>
-<title>[TC] Molecular Engineering of Boron–Nitrogen–Oxygen/Pyrene Emitters for Deep-Blue Triplet-Triplet Fusion Organic Light-Emitting Diodes</title>
+<title>[TC] Molecular engineering of boron–nitrogen–oxygen/pyrene emitters for deep-blue triplet–triplet fusion organic light-emitting diodes</title>
 <link>https://doi.org/10.1039/d6tc03386e</link>
 <guid isPermaLink="false">10.1039/d6tc03386e</guid>
 <pubDate>Tue, 03 Nov 2026 14:02:54 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yi-Ting Lee, Tagare Jairam, Ya-Lei Hu, Tzu-Ying Yen</p><p>Achieving effective and stable deep-blue organic light-emitting diodes (OLEDs) with a narrow emission band remains challenging because of the need to balance high-energy emission, effective exciton utilization, and operational stability....</p><p>DOI: 10.1039/d6tc03386e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yi-Ting Lee, Tagare Jairam, Ya-Lei Hu, Tzu-Ying Yen</p><p>The BNO-based multiple-resonance emitter CzBNOPyr achieves narrowband deep-blue emission and efficient triplet harvesting, delivering an OLED emission at 456 nm (FWHM: 30 nm) with an EQE of 8.49%.</p><p>DOI: 10.1039/d6tc03386e</p>]]></description>
 </item>
 <item>
 <title>[TA] MOF-based materials for solar-driven interfacial evaporation: from photothermal conversion to water-energy-resource synergistic utilization</title>
@@ -3617,11 +3925,11 @@
 <description><![CDATA[<p><b>Authors:</b> Haiyang Fan, Jiaxin Li, Rui Liu, Wenxiu Yang, Xiao Feng, Bo Wang</p><p>A TPB-centered framework reveals how coupled oxygen, proton, and water transport, together with ionomer-induced interfacial effects, govern PEMFC cathode performance.</p><p>DOI: 10.1039/d6cs00256k</p>]]></description>
 </item>
 <item>
-<title>[NR] Multi-Objective Machine Learning Navigates the Efficiency–Stability Trade-Off in Blue Perovskite Light-Emitting Diodes</title>
+<title>[NR] Multi-objective machine learning navigates the efficiency–stability trade-off in blue perovskite light-emitting diodes</title>
 <link>https://doi.org/10.1039/d6nr02855a</link>
 <guid isPermaLink="false">10.1039/d6nr02855a</guid>
 <pubDate>Tue, 03 Nov 2026 10:04:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Fawad Ali, Shuaiqi He, Peichao Zhu, Nabeel Israr, Puyang Wu, Jiaxin Liang, Jiacheng Lin, hua dong, Jun Xi, Zhaoxin Wu, Fang Yuan</p><p>Blue perovskite light-emitting diodes (PeLEDs) are widely considered to suffer from an efficiency-stability trade‑off that impedes their commercialization for next‑generation displays. To examine this trade‑off quantitatively, we compiled a dataset...</p><p>DOI: 10.1039/d6nr02855a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Fawad Ali, Shuaiqi He, Peichao Zhu, Nabeel Israr, Puyang Wu, Jiaxin Liang, Jiacheng Lin, Hua Dong, Jun Xi, Zhaoxin Wu, Fang Yuan</p><p>An interpretable machine-learning study of 421 blue perovskite LEDs from 256 publications shows that the efficiency–stability trade-off emerges only at the Pareto front, with device and publication context dominating EQE prediction.</p><p>DOI: 10.1039/d6nr02855a</p>]]></description>
 </item>
 <item>
 <title>[CP] Direction-Dependent Quantum Transport Properties of MoS 2 Integrated into Biphenylene Configuration</title>
@@ -3743,11 +4051,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yizhuo Li, Ying Guo, Yuefu Li, Feng Pan, Jing Lu</p><p>First-principles quantum transport simulations reveal the potential of monolayer SnTe FETs for sub-5 nm applications, demonstrating competitive power-delay performance and energy efficiency among emerging two-dimensional semiconductor devices.</p><p>DOI: 10.1039/d6cp02902g</p>]]></description>
 </item>
 <item>
-<title>[TA] Deeper Mediators Demand Deeper HOMOs: Donor-Controlled Mediator Compatibility in Dihydropyrrolo[3,2-b]pyrrole Dye Sensitizers</title>
+<title>[TA] Deeper mediators demand deeper HOMOs: donor-controlled mediator compatibility in dihydropyrrolo[3,2- b ]pyrrole dye sensitizers</title>
 <link>https://doi.org/10.1039/d6ta06614c</link>
 <guid isPermaLink="false">10.1039/d6ta06614c</guid>
 <pubDate>Tue, 03 Nov 2026 08:23:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Hassane Lgaz, Mostafizur Rahaman, Ali Aldalbahi, A. El-khlifi, Han-Seung Lee</p><p>Modern dye-sensitized solar cells reach their highest photovoltages with deep, one-electron redox mediators such as cobalt and copper complexes, but these mediators regenerate only dyes whose HOMO lies deep enough...</p><p>DOI: 10.1039/d6ta06614c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Hassane Lgaz, Abdelilah El-khlifi, Han-seung Lee, Mostafizur Rahaman, Ali Aldalbahi</p><p>Deeper redox mediators demand deeper dye HOMOs: across 13 DHPP sensitizers, only the weaker carbazole donor deepens the HOMO into the iodide window, so reaching cobalt and copper mediators requires donors beyond carbazole.</p><p>DOI: 10.1039/d6ta06614c</p>]]></description>
 </item>
 <item>
 <title>[NR] Temperature-driven morphology regulation of δ-MnO 2 nanofibers and their electrochemical performance in aqueous zinc-ion hybrid capacitors</title>
@@ -3778,11 +4086,11 @@
 <description><![CDATA[<p><b>Authors:</b> Haoqi Liu, Dailin Zhang, Yun Xia, Yi Zhun Zhu, Qian Ding, Lan Yang, Shuzhong He</p><p>A metallacycle–couple–close strategy enables rapid assembly of fused polycyclic frameworks for natural product synthesis.</p><p>DOI: 10.1039/d6cc06108g</p>]]></description>
 </item>
 <item>
-<title>[NR] Chemometrically Validated Discriminative Sensing Strategy Combining Biomolecular Specificity with Data-driven Classification of Aβ 1-40 Fibrils</title>
+<title>[NR] A chemometrically validated discriminative sensing strategy combining biomolecular specificity with data-driven classification of Aβ 1–40 fibrils</title>
 <link>https://doi.org/10.1039/d6nr03146c</link>
 <guid isPermaLink="false">10.1039/d6nr03146c</guid>
 <pubDate>Tue, 03 Nov 2026 07:43:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mrinalini Singh, Priyam Ghosh, Srinivas Rati, Bithiah Grace Jaganathan, Parameswar Krishnan Iyer</p><p>Achieving selective and sensitive early detection of Amyloid-β (Aβ1-40) fibrils, the hallmark of neurodegenerative disease, in the presence of monomers and abundant serum proteins remains a long-standing major challenge for...</p><p>DOI: 10.1039/d6nr03146c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Mrinalini Singh, Priyam Ghosh, Srinivas Rati, Bithiah Grace Jaganathan, Parameswar Krishnan Iyer</p><p>This work combines biomolecule-specific dual-mode spectroscopic sensing, mechanistic validation, and machine-learning-assisted classification for discriminative identification of Aβ 1–40 fibrils, enhancing reliability via orthogonal validation.</p><p>DOI: 10.1039/d6nr03146c</p>]]></description>
 </item>
 <item>
 <title>[CP] Reaction energy and spin density identify a compact physically interpretable descriptor set beyond the Bell–Evans–Polanyi relationship for hydrogen atom transfer</title>
@@ -3813,18 +4121,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yuxi Ma, Yicheng Jiang, Shengli Zhu, Zhenduo Cui, Zhaoyang Li, Shuilin Wu, Wence Xu, Shimin Liu, Yanqin Liang, Hui Jiang</p><p>Rapid laser alloying on commercial nickel mesh scalably forms metallurgically bonded FCC Ni–W electrodes with tunable porosity, enhancing electrolyte transport, water activation, and gas diffusion for fast, durable alkaline HER.</p><p>DOI: 10.1039/d6ta06869c</p>]]></description>
 </item>
 <item>
-<title>[SC] Ultrasensitive Endogenous miRNA Imaging in Live Cells by Allosteric Orthogonal CRISPR Probe</title>
+<title>[SC] Ultrasensitive endogenous miRNA imaging in live cells by an allosteric orthogonal CRISPR probe</title>
 <link>https://doi.org/10.1039/d6sc07431f</link>
 <guid isPermaLink="false">10.1039/d6sc07431f</guid>
 <pubDate>Tue, 03 Nov 2026 07:04:15 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiaoyue Zhang, Hyeonji Rha, Yuanzhi Zhang, Ming Gao, Jaewon Kim, Wenjing Zheng, Yesim Bakan, Jingtian Chi, Yueyuan Cai, Xingang Wang, Chengqin Wang, Jie Wang, Bin Yue, Zhi Chen, Jong Seung Kim, Meng Qiu</p><p>Sensitive and multiplexed visualization of endogenous RNA in living cells remains challenging because of insufficient signal amplification, background activation, and interference between parallel readout pathways, particularly for low-abundance regulatory RNAs....</p><p>DOI: 10.1039/d6sc07431f</p>]]></description>
-</item>
-<item>
-<title>[TA] Mechanically Reinforced Trabecular Ni-Fe-Mo Ternary MOF Architecture for Ultra-Stable Water Splitting at 2000 mA cm-2</title>
-<link>https://doi.org/10.1039/d6ta06426d</link>
-<guid isPermaLink="false">10.1039/d6ta06426d</guid>
-<pubDate>Tue, 03 Nov 2026 07:04:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ruiming Zheng, Usman Khan, Agasthiyaraj Lakshmanan, Mohan Xin, Adeela Nairan, An-jian Lu, Yuxia Gu, Andrei Khlobystov, Junkuo Gao</p><p>The scalable green hydrogen production by electrochemical water splitting is still hindered by the sluggish kinetics of the anodic oxygen evolution reaction (OER) and the mechanically intrinsic vulnerability of conventional...</p><p>DOI: 10.1039/d6ta06426d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xiaoyue Zhang, Hyeonji Rha, Yuanzhi Zhang, Ming Gao, Jaewon Kim, Wenjing Zheng, Yesim Bakan, Jingtian Chi, Yueyuan Cai, Xingang Wang, Chengqin Wang, Jie Wang, Bin Yue, Zhi Chen, Jong Seung Kim, Meng Qiu</p><p>An allosteric orthogonal CRISPR probe integrates independent DNAzyme and Cas12a pathways for sensitive imaging of endogenous miRNAs, distinguishing breast cell types and enabling breast cancer subtype discrimination in tissue sections.</p><p>DOI: 10.1039/d6sc07431f</p>]]></description>
 </item>
 <item>
 <title>[TA] Decoupling the Chemical and Physical Effects of Crosslinking in Starch/Chitosan-Derived Hard Carbon for High-Performance Sodium-Ion Batteries</title>
@@ -3832,6 +4133,13 @@
 <guid isPermaLink="false">10.1039/d6ta07451k</guid>
 <pubDate>Tue, 03 Nov 2026 07:04:11 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Guang Zeng, Zhenqing Wei, Xinquan Shen, Fangjie Nie, Yaqing Bai, Zhaoyong Chen, huamin hu, Junfei Duan</p><p>The molecular engineering of biomass-derived hard carbons via crosslinking has garnered significant interest for sodium-ion battery anodes, yet the intrinsic contributions of crosslinking-specifically, the chemical effects of covalent bond formation...</p><p>DOI: 10.1039/d6ta07451k</p>]]></description>
+</item>
+<item>
+<title>[TA] A mechanically reinforced trabecular Ni–Fe–Mo ternary MOF architecture for ultra-stable water splitting at 2000 mA cm −2</title>
+<link>https://doi.org/10.1039/d6ta06426d</link>
+<guid isPermaLink="false">10.1039/d6ta06426d</guid>
+<pubDate>Tue, 03 Nov 2026 07:04:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ruiming Zheng, Usman Khan, Agasthiyaraj Lakshmanan, Mohan Xin, Adeela Nairan, Anjian Lu, Yuxia Gu, Andrei N. Khlobystov, Junkuo Gao</p><p>Ni 88 Fe 5 Mo 7 -MMOF/NFF combines mechanical robustness with efficient oxygen evolution, achieving an overpotential of 322 mV at 2000 mA cm −2 and sustained operation for ∼400 h.</p><p>DOI: 10.1039/d6ta06426d</p>]]></description>
 </item>
 <item>
 <title>[CC] Solvent-free epoxide carbonation: how medium effects override halide nucleophilicity</title>
@@ -3974,11 +4282,11 @@
 <description><![CDATA[<p><b>Authors:</b> Fabian Schwarz, Hannes Gustafsson, Amber Mace</p><p>How far can configuration entropy explain fast Li + ion diffusion? A hierarchy of models reveal the roles of ion distribution, ion–ion interactions and framework flexibility in ceramic electrolytes.</p><p>DOI: 10.1039/d6ta03661a</p>]]></description>
 </item>
 <item>
-<title>[CP] A Benchmark Study of Double-Hybrid Density Functionals for Core Ionization Energies</title>
+<title>[CP] A benchmark study of double-hybrid density functionals for core ionization energies</title>
 <link>https://doi.org/10.1039/d6cp03571j</link>
 <guid isPermaLink="false">10.1039/d6cp03571j</guid>
 <pubDate>Mon, 02 Nov 2026 21:23:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ha Quyen Nguyen, Thomas Christian Jagau, Lars Goerigk</p><p>The ∆ self-consistent-field (∆SCF) approach has long been known to provide remarkably accurate core ionization energies. In this work, we present a comprehensive benchmark of the ∆SCF method for K-edge...</p><p>DOI: 10.1039/d6cp03571j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ha Quyen Nguyen, Thomas-C. Jagau, Lars Goerigk</p><p>Range-separated double-hybrid functionals predict core ionization energies with near-experimental accuracy.</p><p>DOI: 10.1039/d6cp03571j</p>]]></description>
 </item>
 <item>
 <title>[TA] Beyond the Haber-Bosch Process: Design of Efficient Electrocatalysts for Ammonia Synthesis</title>
@@ -4135,11 +4443,11 @@
 <description><![CDATA[<p><b>Authors:</b> Gang Guo, Xiong Liu, Chengyu Xu, Zheng Zhou, Congsheng Xu</p><p>The band-edge offsets and the migration pathways of photogenerated carriers for SnSe 2 /Ga 2 SeTe heterostructures.</p><p>DOI: 10.1039/d6cp03422e</p>]]></description>
 </item>
 <item>
-<title>[TC] Enhanced Emitting Properties of Fe3+ Doped La2MgTiO6 Phosphors for Near-Infrared Imaging</title>
+<title>[TC] Enhancing the emitting properties of Fe 3+ doped La 2 MgTiO 6 phosphors for near-infrared imaging</title>
 <link>https://doi.org/10.1039/d6tc02761j</link>
 <guid isPermaLink="false">10.1039/d6tc02761j</guid>
 <pubDate>Mon, 02 Nov 2026 14:04:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mengjie Liu, Hao Lin, Lei Wang, Guoqiang Li, Ruolin Guo, Menghao Guo, Xiaolong Zhu, Dianhong Wang, Deqiang Wang, Qilin Cheng, Tao Bo, Huimei Yu, Liangzhu Zhang</p><p>As the core material for near-infrared (NIR) phosphor conversion LEDs (PC-LEDs), Fe3+ doped NIR phosphors have attracted attention for their broad-spectrum emission, non-toxicity, and low cost. However, its relatively low...</p><p>DOI: 10.1039/d6tc02761j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Mengjie Liu, Hao Lin, Lei Wang, Guoqiang Li, Ruolin Guo, Menghao Guo, Xiaolong Zhu, Dianhong Wang, Deqiang Wang, Qilin Cheng, Tao Bo, Huimei Yu, Liangzhu Zhang</p><p>La vacancies were introduced into the highly tunable La 2− x MgTiO 6 :0.01Fe 3+ double perovskite host lattice, increasing emission intensity by 76.83%. The phosphor was applied to near-infrared imaging and plant cultivation.</p><p>DOI: 10.1039/d6tc02761j</p>]]></description>
 </item>
 <item>
 <title>[CP] Explainable machine learning reveals topological control of vacancy energetics in 2D carbon</title>
@@ -4660,11 +4968,11 @@
 <description><![CDATA[<p><b>Authors:</b> Wenjun Lin, Junzhe Guan, Tao Huang, Aishui Yu</p><p>(1) Cation coordination strategy enhances the high-voltage stability of electrolytes. (2) PTFMB-based I GHEs enable compatibility with 5.0 V cathodes.</p><p>DOI: 10.1039/d6ta06576g</p>]]></description>
 </item>
 <item>
-<title>[EE] Light-Responsive Lipoic Acid Strategy for Suppressing Photo-Induced Phase Segregation in Wide-Bandgap Perovskites via Reactive Iodine Species Regulation</title>
+<title>[EE] A light-responsive lipoic acid strategy for suppressing photo-induced phase segregation in wide-bandgap perovskites via reactive iodine species regulation</title>
 <link>https://doi.org/10.1039/d6ee04661d</link>
 <guid isPermaLink="false">10.1039/d6ee04661d</guid>
 <pubDate>Fri, 30 Oct 2026 12:43:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiyue Wang, He Zhu, Kaiqin Xu, Xinyu Yuan, Minghao Wu, Jinling Zhang, Mengyao Guo, Yidan Ren, Shen Li, Na Wang, Wei Chen, Zonghao Liu, Chunyang Zhang, Yanlin Song, Ziqiu Ren</p><p>Wide-bandgap (WBG) perovskite is promising candidate for tandem device, yet its tendency toward light-induced phase segregation poses a critical challenge. To address this challenge, we propose a light-responsive lipoic acid...</p><p>DOI: 10.1039/d6ee04661d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xiyue Wang, He Zhu, Kaiqin Xu, Xinyu Yuan, Minghao Wu, Jinling Zhang, Mengyao Guo, Yidan Ren, Shen Li, Na Wang, Wei Chen, Zonghao Liu, Chunyang Zhang, Yanlin Song, Ziqiu Ren</p><p>This work establishes a dynamic iodine-species regulation strategy for stabilizing WBG perovskites. Besides, the corresponding all-perovskite tandem device attains a PCE of 30.12% (certified at 29.93%).</p><p>DOI: 10.1039/d6ee04661d</p>]]></description>
 </item>
 <item>
 <title>[TC] Intrinsic ferroelectricity and magnetism in a two-dimensional ZnCr 2 Te 4 monolayer with strong magnetoelectric coupling</title>
@@ -4783,7 +5091,7 @@
 <link>https://doi.org/10.1039/d6cp02995g</link>
 <guid isPermaLink="false">10.1039/d6cp02995g</guid>
 <pubDate>Fri, 30 Oct 2026 07:44:10 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Martin Fitzpatrick, David Cheung</p><p>Surfaces, both synthetic and natural, have long been known to influence the aggregation of proteins into supramolecular structures, including amyloid fibrils. Whether a surface promotes or inhibits fibril formation depends...</p><p>DOI: 10.1039/d6cp02995g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Martin Fitzpatrick, David L. Cheung</p><p>The conformation of a model amyloidogenic peptide was found to depend on the size of nanometre scale stripes, with wider stipes promoting conformations that are less favourable towards fibril formation.</p><p>DOI: 10.1039/d6cp02995g</p>]]></description>
 </item>
 <item>
 <title>[CP] Roles of oxygen vacancies and the Ni–support interface in CO 2 hydrogenation over Ni/Y-doped BaZrO 3 revealed by experimental and computational studies</title>
@@ -4884,11 +5192,11 @@
 <description><![CDATA[<p><b>Authors:</b> Tam Mai, Tien V. Pham, Loc T. Nguyen, Long H. Nguyen, Trang Nguyen, Lam Kim Huynh</p><p>The present investigation reports a detailed mechanism and kinetics of the 3-pentanone + OH bimolecular reaction (T = 250 – 2000 K) and the isomerization/decomposition of 3-pentanone radicals in a...</p><p>DOI: 10.1039/d6cp01986b</p>]]></description>
 </item>
 <item>
-<title>[NR] Synergistic Bulk-Interface Engineering with a Carboxyl-Functionalized Pyrazole Additive for Ultralong-life Rechargeable Zinc-Ion Batteries</title>
+<title>[NR] Synergistic bulk-interface engineering with a carboxyl-functionalized pyrazole additive for ultralong-life rechargeable zinc-ion batteries</title>
 <link>https://doi.org/10.1039/d6nr03230c</link>
 <guid isPermaLink="false">10.1039/d6nr03230c</guid>
 <pubDate>Fri, 30 Oct 2026 00:43:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chuanlu Liu, Xilin Jiang, Jinbo Guo, Zhidong Chen, Changhai Liu</p><p>Aqueous zinc-ion batteries (AZIBs) are promising for large-scale energy storage, but their practical application is hindered by dendrite growth, hydrogen evolution, corrosion, and by-product accumulation. Herein, pyrazole (Pz) and pyrazole-3-carboxylic...</p><p>DOI: 10.1039/d6nr03230c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Chuanlu Liu, Xilin Jiang, Jinbo Guo, Zhidong Chen, Changhai Liu</p><p>Pyrazole-3-carboxylic acid (P3ca) synergistically regulates bulk solvation and Zn/electrolyte interfacial chemistry, suppressing water-induced side reactions and enabling uniform Zn deposition for stable aqueous zinc-ion batteries.</p><p>DOI: 10.1039/d6nr03230c</p>]]></description>
 </item>
 <item>
 <title>[EE] Reorienting hydrolysis reaction toughens interface for 27.2% durable perovskite photovoltaics</title>
