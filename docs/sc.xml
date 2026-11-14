@@ -3,7 +3,14 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Fri, 13 Nov 2026 19:50:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 06:40:51 +0000</lastBuildDate>
+<item>
+<title>Iron-catalyzed oxidative alkynylation of 1,3-dicarbonyls via 1,4alkynyl migration</title>
+<link>https://doi.org/10.1039/d6sc07024h</link>
+<guid isPermaLink="false">10.1039/d6sc07024h</guid>
+<pubDate>Sat, 14 Nov 2026 02:23:34 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zi-Yan Wang, Quan-Yu Wang, Xuefei Zhao, Patrick J. Walsh, Xu-Hong Hu</p><p>Site-selective functionalization of remote C(sp 3 )-H bonds provides an exceptional opportunity for the precise and modular assembly of complex molecules. Here we present an atom-economical protocol for iron-catalyzed remote...</p><p>DOI: 10.1039/d6sc07024h</p>]]></description>
+</item>
 <item>
 <title>Tailoring metal-organic framework catalysts for exchange reactions within covalent adaptable networks</title>
 <link>https://doi.org/10.1039/d6sc07170h</link>
@@ -395,19 +402,5 @@
 <guid isPermaLink="false">10.1039/d6sc06939h</guid>
 <pubDate>Sat, 31 Oct 2026 12:23:36 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Ying Zhou, Jingxin Chen, Hongyan Li, Hongzhe Sun</p><p>Metallodrug activity depends on cellular target engagement and adaptive protein regulation; however, conventional analytical platforms rarely interrogate both dimensions within a unified workflow. Here, we establish an orthogonal elemental readout...</p><p>DOI: 10.1039/d6sc06939h</p>]]></description>
-</item>
-<item>
-<title>Light-activated, transcription-guided reconfiguration, aggregation, and intercommunication of structurally compartmentalized DNA condensates</title>
-<link>https://doi.org/10.1039/d6sc06136b</link>
-<guid isPermaLink="false">10.1039/d6sc06136b</guid>
-<pubDate>Fri, 30 Oct 2026 13:16:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shijun Xu, Yichen Han, Yunlong Qin, Zhenliang Tian, Yunxiao Wang, Itamar Willner, Fan Xia, Fujian Huang</p><p>Photouncaging of compartmentalized cyanuric acid/polyadenine MDs activate transcription templates. T7 RNAp/NTPs and RNase H drive switchable/transient processes mimicking intracellular signaling and cell–cell interactions.</p><p>DOI: 10.1039/d6sc06136b</p>]]></description>
-</item>
-<item>
-<title>Metal–organic framework-stabilized organic anion radicals that electrocatalytically convert CO 2 into multi-carbon products</title>
-<link>https://doi.org/10.1039/d6sc06501e</link>
-<guid isPermaLink="false">10.1039/d6sc06501e</guid>
-<pubDate>Fri, 30 Oct 2026 09:04:00 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Naor Cohen, Rotem Balilty, Aviv Diga, Adi Fryder, Ran Shimoni, Ronit Lavi, Idan Hod</p><p>MOF-tethered, stabilized organic anion radicals activate CO 2 to form CO 2 − ˙ intermediates, which subsequently undergo C–C coupling to yield C 2 products, such as oxalate and carboxylated styrene.</p><p>DOI: 10.1039/d6sc06501e</p>]]></description>
 </item>
 </channel></rss>

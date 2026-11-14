@@ -3,7 +3,14 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Fri, 13 Nov 2026 19:50:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 06:40:44 +0000</lastBuildDate>
+<item>
+<title>Coupled electron/Li+ transport and interfacial engineering enabled by a crosslinkable PEDOT:PSS-based binder for silicon anodes</title>
+<link>https://doi.org/10.1039/d6mh01921h</link>
+<guid isPermaLink="false">10.1039/d6mh01921h</guid>
+<pubDate>Sat, 14 Nov 2026 01:23:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Seonghyeon Jung, Jaeyu Kim, Hanbyeol Lee, Siwon Roh, Minseok Jeong, Jieun Jang, Donggyun Kim, Dongha Lee, Byeong-Su Kim, Jeonghun Kim</p><p>Designing polymer binders that simultaneously regulate mechanical stability and electronic/ionic transport remains a critical challenge for high-performance silicon (Si) anodes. Conventional binders often fail to accommodate the large volume expansion...</p><p>DOI: 10.1039/d6mh01921h</p>]]></description>
+</item>
 <item>
 <title>Topological optimization to construct mechanically compatible calcium phosphate ceramic implants for load-bearing bone repair</title>
 <link>https://doi.org/10.1039/d6mh01346e</link>
@@ -178,19 +185,5 @@
 <guid isPermaLink="false">10.1039/d6mh01493c</guid>
 <pubDate>Sat, 31 Oct 2026 00:43:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Qingquan Wang, Chenlin Zhao, Tao Li, Siyu Xiao, Lidong Zhang</p><p>The selective breakdown of ionic coordination bonds allows the sodium alginate hydrogel electrodes to quickly turn from stiff to soft in 7 seconds, making them suitable for minimally invasive brain–computer interfaces.</p><p>DOI: 10.1039/d6mh01493c</p>]]></description>
-</item>
-<item>
-<title>An anion-dominated dual-electrode-compatible cosolvent electrolyte enables the development of dendrite-free, fire-resistant potassium-ion batteries with superior stability</title>
-<link>https://doi.org/10.1039/d6mh02045c</link>
-<guid isPermaLink="false">10.1039/d6mh02045c</guid>
-<pubDate>Fri, 30 Oct 2026 19:24:00 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wenjuan Xu, Yudong Wang, Yuanqing Zhu, Yanpeng Song, Guilong Liu, Xianming Liu, Shaozhou Li, Ziquan Li, Jang-Kyo Kim, Zhen-Dong Huang</p><p>We design an anion-dominated, dual-electrode-compatible, fire-resistant cosolvent electrolyte (CSE) composed of 1.5 M KFSI in TFP/DEE. K|CSE|K 0.5 MnO 2 cells operate steadily up to 4.1 V for 2500 cycles at 1 A g −1 .</p><p>DOI: 10.1039/d6mh02045c</p>]]></description>
-</item>
-<item>
-<title>Dual-modal synaptic operation in a van der Waals heterostructure for emotion-inspired neuromorphic processing</title>
-<link>https://doi.org/10.1039/d6mh01495j</link>
-<guid isPermaLink="false">10.1039/d6mh01495j</guid>
-<pubDate>Fri, 30 Oct 2026 03:23:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Prabana Jetty, Windy Ayu Lestari, Riya Chatterjee, Yerkezhan Amangeldinova, Wonbeom Kim, Kamila Karybayeva, Somnath S. Kundale, Jun Hong Park</p><p>A dual-modal van der Waals stacked GQD/MoS 2 heterostructure artificial synapse integrates dopamine and optical stimuli, enabling emotion-inspired mapping and EEG-inspired temporal analysis for affective computing and human-machine interaction.</p><p>DOI: 10.1039/d6mh01495j</p>]]></description>
 </item>
 </channel></rss>

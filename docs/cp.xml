@@ -3,7 +3,7 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Fri, 13 Nov 2026 19:50:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 06:40:48 +0000</lastBuildDate>
 <item>
 <title>Recent Developments and Perspectives in Variational Quantum Eigensolvers for Molecular Electronic Structure: Methods, Tradeoffs, and Benchmarking</title>
 <link>https://doi.org/10.1039/d6cp02633h</link>
@@ -719,18 +719,18 @@
 <description><![CDATA[<p><b>Authors:</b> Sujata Nandi, Nandini Ananth</p><p>Hybrid semiclassical (SC) approaches offer an efficient route to simulations of nonadiabatic dynamics by selectively quantizing key degrees of freedom, retaining the accuracy of quantum-limit SC methods at a reduced computational cost.</p><p>DOI: 10.1039/d6cp02579j</p>]]></description>
 </item>
 <item>
-<title>Machine learning potential simulations reveal coupled thermodynamic and kinetic control of C 2 H 6 /C 2 H 4 retention in a prototypical ultramicroporous MOF</title>
-<link>https://doi.org/10.1039/d6cp03227c</link>
-<guid isPermaLink="false">10.1039/d6cp03227c</guid>
-<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>MLP-driven OPES and long-timescale MD simulations reveal two-step, high-barrier migration of C 2 H 6 versus single-step, lower-barrier migration of C 2 H 4 in Cu(Qc) 2 , highlighting a substantial kinetic contribution to preferential C 2 H 6 retention.</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
-</item>
-<item>
 <title>Quasichemical short-range order in high-entropy reciprocal melts: Li, Na, K‖F, Cl</title>
 <link>https://doi.org/10.1039/d6cp03168d</link>
 <guid isPermaLink="false">10.1039/d6cp03168d</guid>
 <pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Dmitry O. Zakiryanov, Nikolay K. Tkachev</p><p>Machine-learning molecular dynamics and charged hard-sphere modeling reveal how strong ionic preferences compete with ideal mixing behavior, quantifying the individual structural and chemical contributions to high-entropy melt systems.</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
+</item>
+<item>
+<title>Machine learning potential simulations reveal coupled thermodynamic and kinetic control of C 2 H 6 /C 2 H 4 retention in a prototypical ultramicroporous MOF</title>
+<link>https://doi.org/10.1039/d6cp03227c</link>
+<guid isPermaLink="false">10.1039/d6cp03227c</guid>
+<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>MLP-driven OPES and long-timescale MD simulations reveal two-step, high-barrier migration of C 2 H 6 versus single-step, lower-barrier migration of C 2 H 4 in Cu(Qc) 2 , highlighting a substantial kinetic contribution to preferential C 2 H 6 retention.</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
 </item>
 <item>
 <title>A mechanism study of efficient photoreduction of CO 2 to CO using BODIPY-derived heavy-atom-free electron donor–acceptor dyads as photosensitizers showing strong absorption of green light</title>
@@ -759,68 +759,5 @@
 <guid isPermaLink="false">10.1039/d6cp03636h</guid>
 <pubDate>Sat, 31 Oct 2026 03:03:16 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Manisha Joshi, Rakesh Joshi, Amir Karton</p><p>In porous nanographenes with identical hexavacancies, rim termination reverses the adsorption ranking of small gas species and switches the binding mechanism between dispersion, hydrogen bonding, and charge transfer.</p><p>DOI: 10.1039/d6cp03636h</p>]]></description>
-</item>
-<item>
-<title>Intrinsic mechanism-guided constant-potential density functional theory screening of two-dimensional conjugated metal–organic frameworks for CO 2 electroreduction</title>
-<link>https://doi.org/10.1039/d6cp03749f</link>
-<guid isPermaLink="false">10.1039/d6cp03749f</guid>
-<pubDate>Fri, 30 Oct 2026 11:17:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Denghui Ma, Yue Zhang, Zexing Cao</p><p>Our systematic GC-DFT screening of 24 transition-metal-based two-dimensional conjugated metal–organic frameworks (2D c-MOFs) identifies Ir 3 (HHTC) 2 as a highly active CO 2 reduction electrocatalyst for CH 4 production.</p><p>DOI: 10.1039/d6cp03749f</p>]]></description>
-</item>
-<item>
-<title>Multiscale modeling of radical and vibrational pathways in plasma-assisted ammonia synthesis on Fe(110) and Ni(111)</title>
-<link>https://doi.org/10.1039/d6cp03998g</link>
-<guid isPermaLink="false">10.1039/d6cp03998g</guid>
-<pubDate>Fri, 30 Oct 2026 10:03:00 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Oluwatosin A. Ohiro, Samuel A. Ogunwale, Bryan R. Goldsmith</p><p>First-principles multiscale modeling shows that synergistic reactions of N˙ and H˙ radicals, rather than solely vibrationally excited N 2 , control plasma-assisted ammonia synthesis on Fe and Ni catalysts, explaining their similar ammonia yields.</p><p>DOI: 10.1039/d6cp03998g</p>]]></description>
-</item>
-<item>
-<title>Balancing metal–metal and metal–halogen interactions: a computational study of Au( iii ) and Pt( ii ) double salts</title>
-<link>https://doi.org/10.1039/d6cp03772k</link>
-<guid isPermaLink="false">10.1039/d6cp03772k</guid>
-<pubDate>Fri, 30 Oct 2026 09:23:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Félix Reboiro, Daniel Blasco, M. Elena Olmos, José M. López-de-Luzuriaga, Miguel Monge</p><p>By exploring M(d 8 )⋯M(d 8 ) and M(d 8 )⋯Br interactions in Au( iii )/Pt( ii ) double salts, this study provides fundamental insights into their nature and a computational framework for rational crystal engineering.</p><p>DOI: 10.1039/d6cp03772k</p>]]></description>
-</item>
-<item>
-<title>Effect of surface structure on the adsorption and conformation of an amyloidogenic peptide</title>
-<link>https://doi.org/10.1039/d6cp02995g</link>
-<guid isPermaLink="false">10.1039/d6cp02995g</guid>
-<pubDate>Fri, 30 Oct 2026 07:44:10 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Martin Fitzpatrick, David L. Cheung</p><p>The conformation of a model amyloidogenic peptide was found to depend on the size of nanometre scale stripes, with wider stipes promoting conformations that are less favourable towards fibril formation.</p><p>DOI: 10.1039/d6cp02995g</p>]]></description>
-</item>
-<item>
-<title>Roles of oxygen vacancies and the Ni–support interface in CO 2 hydrogenation over Ni/Y-doped BaZrO 3 revealed by experimental and computational studies</title>
-<link>https://doi.org/10.1039/d6cp03096c</link>
-<guid isPermaLink="false">10.1039/d6cp03096c</guid>
-<pubDate>Fri, 30 Oct 2026 07:44:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tatsuya Joutsuka, Aki Hoshimori, Hiroyuki Yamaura, Masami Mori, Hiromichi Aono, Yoshiteru Itagaki</p><p>Oxygen vacancies and the Ni–BZY interface play complementary roles in CO 2 hydrogenation, while proton transport may contribute to hydrogen transfer.</p><p>DOI: 10.1039/d6cp03096c</p>]]></description>
-</item>
-<item>
-<title>Conformational Gating Governs Regiospecific β-Hydrogen Preorganization in the Biofuel-Producing Fatty Acid Decarboxylase UndA</title>
-<link>https://doi.org/10.1039/d6cp01823h</link>
-<guid isPermaLink="false">10.1039/d6cp01823h</guid>
-<pubDate>Fri, 30 Oct 2026 07:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Simran Nisha, Arunima Choudhury, Subhendu Roy</p><p>UndA is a nonheme diiron enzyme that catalyzes the oxidative decarboxylation of medium-chain fatty acids to generate terminal alkenes, key precursors for renewable hydrocarbon and biofuel production. Despite experimental evidence...</p><p>DOI: 10.1039/d6cp01823h</p>]]></description>
-</item>
-<item>
-<title>Oriented external electric field effect for C–C coupling reaction on graphyne surface</title>
-<link>https://doi.org/10.1039/d6cp02948e</link>
-<guid isPermaLink="false">10.1039/d6cp02948e</guid>
-<pubDate>Fri, 30 Oct 2026 02:03:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Prayag Ranjan Sahu, Klichchupong Dabsamut, Poobodin Mano, Supawadee Namuangruk, Kaito Takahashi</p><p>Electric field perpendicular to the surface enhanced the reactivity of the 2*CO → *OC–CO reaction on graphyne by electron migration to the C–C coupling region. Boron doping to graphyne showed a weaker dependence on the electric field.</p><p>DOI: 10.1039/d6cp02948e</p>]]></description>
-</item>
-<item>
-<title>Enhanced stiffness of nano-kirigami structures enabled by engineering geometric cutting</title>
-<link>https://doi.org/10.1039/d6cp02605b</link>
-<guid isPermaLink="false">10.1039/d6cp02605b</guid>
-<pubDate>Fri, 30 Oct 2026 01:43:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yongyue Zhang, Xiaorong Hong, Haozhe Sun, Yanzhong Wang, Qinghua Liang, Yingying Chen, Meihua Niu, Chongrui Li, Chang-Yin Ji, Jiafang Li</p><p>Honeycomb-inspired cutting enhances the stiffness of ultrathin nano-kirigami structures, offering suspended architectures with an exceptionally high width-to-thickness ratio.</p><p>DOI: 10.1039/d6cp02605b</p>]]></description>
-</item>
-<item>
-<title>Ab Initio Chemical Kinetics for H-atom Abstraction from 3-Pentanone by OH Radicals and Subsequent Thermal Decomposition of 3-Pentanone Radicals</title>
-<link>https://doi.org/10.1039/d6cp01986b</link>
-<guid isPermaLink="false">10.1039/d6cp01986b</guid>
-<pubDate>Fri, 30 Oct 2026 01:03:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tam Mai, Tien V. Pham, Loc T. Nguyen, Long H. Nguyen, Trang Nguyen, Lam Kim Huynh</p><p>The present investigation reports a detailed mechanism and kinetics of the 3-pentanone + OH bimolecular reaction (T = 250 – 2000 K) and the isomerization/decomposition of 3-pentanone radicals in a...</p><p>DOI: 10.1039/d6cp01986b</p>]]></description>
 </item>
 </channel></rss>
