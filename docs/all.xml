@@ -3,7 +3,7 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sat, 14 Nov 2026 18:15:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 22:36:35 +0000</lastBuildDate>
 <item>
 <title>[MH] Inductively Proprioceptive Liquid Crystal Elastomers with Unified Sensing and Actuation</title>
 <link>https://doi.org/10.1039/d6mh01379a</link>
@@ -3652,18 +3652,18 @@
 <description><![CDATA[<p><b>Authors:</b> Piyumi Kodithuwakku, Christian Samundsett, Stephane Armand, Gabriel Bartholazzi, Daniel H. Macdonald, Lachlan E. Black</p><p>The influence of boron doping for ALD ZnO:B films within SiO x /ZnO:B/Al 2 O 3 electron-selective passivating contact stacks on c-Si is explored. Passivation and contact performance are correlated with structural, electrical and optical properties.</p><p>DOI: 10.1039/d6ta08045f</p>]]></description>
 </item>
 <item>
-<title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
-<link>https://doi.org/10.1039/d6sc06485j</link>
-<guid isPermaLink="false">10.1039/d6sc06485j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
-</item>
-<item>
 <title>[SC] Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
 <link>https://doi.org/10.1039/d6sc06308j</link>
 <guid isPermaLink="false">10.1039/d6sc06308j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
+</item>
+<item>
+<title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
+<link>https://doi.org/10.1039/d6sc06485j</link>
+<guid isPermaLink="false">10.1039/d6sc06485j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
 </item>
 <item>
 <title>[CP] Modelling pressure and solvation effects in intermolecular charge-transfer excitations</title>
@@ -4765,18 +4765,18 @@
 <description><![CDATA[<p><b>Authors:</b> Gaurav Kumar, Arezoo M. Ardekani</p><p>Hierarchical machine learning distills high-dimensional lipid nanoparticle data into compact physicochemical descriptors and interpretable SAR rules. High-ranking rules retain enrichment in independent in vitro and retrospective in vivo analyses.</p><p>DOI: 10.1039/d6dd00738d</p>]]></description>
 </item>
 <item>
-<title>[CP] Machine learning potential simulations reveal coupled thermodynamic and kinetic control of C 2 H 6 /C 2 H 4 retention in a prototypical ultramicroporous MOF</title>
-<link>https://doi.org/10.1039/d6cp03227c</link>
-<guid isPermaLink="false">10.1039/d6cp03227c</guid>
-<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>MLP-driven OPES and long-timescale MD simulations reveal two-step, high-barrier migration of C 2 H 6 versus single-step, lower-barrier migration of C 2 H 4 in Cu(Qc) 2 , highlighting a substantial kinetic contribution to preferential C 2 H 6 retention.</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
-</item>
-<item>
 <title>[CP] Quasichemical short-range order in high-entropy reciprocal melts: Li, Na, K‖F, Cl</title>
 <link>https://doi.org/10.1039/d6cp03168d</link>
 <guid isPermaLink="false">10.1039/d6cp03168d</guid>
 <pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Dmitry O. Zakiryanov, Nikolay K. Tkachev</p><p>Machine-learning molecular dynamics and charged hard-sphere modeling reveal how strong ionic preferences compete with ideal mixing behavior, quantifying the individual structural and chemical contributions to high-entropy melt systems.</p><p>DOI: 10.1039/d6cp03168d</p>]]></description>
+</item>
+<item>
+<title>[CP] Machine learning potential simulations reveal coupled thermodynamic and kinetic control of C 2 H 6 /C 2 H 4 retention in a prototypical ultramicroporous MOF</title>
+<link>https://doi.org/10.1039/d6cp03227c</link>
+<guid isPermaLink="false">10.1039/d6cp03227c</guid>
+<pubDate>Mon, 02 Nov 2026 08:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Junying Chen, Shixiang Tang, Mingsong Shi, Xin Wang, Dingguo Xu</p><p>MLP-driven OPES and long-timescale MD simulations reveal two-step, high-barrier migration of C 2 H 6 versus single-step, lower-barrier migration of C 2 H 4 in Cu(Qc) 2 , highlighting a substantial kinetic contribution to preferential C 2 H 6 retention.</p><p>DOI: 10.1039/d6cp03227c</p>]]></description>
 </item>
 <item>
 <title>[NR] Fate of hydrogen sulphide on refractory oxide nanoparticles via foundation model-accelerated atomistic modelling and in situ spectroscopy</title>
