@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Sat, 14 Nov 2026 22:36:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 06:46:28 +0000</lastBuildDate>
+<item>
+<title>Quantum Resource Assay for the Grid-Based Simulation of the Photodynamics of Pyrazine</title>
+<link>https://doi.org/10.1039/d6dd00747c</link>
+<guid isPermaLink="false">10.1039/d6dd00747c</guid>
+<pubDate>Sun, 15 Nov 2026 05:34:21 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xiaoning Feng, Hans Hon Sang Chan, David Tew</p><p>We establish and analyse the performance and resource requirements of an end-to-end fault-tolerant quantum algorithm for computing the absorption spectrum and population dynamics of photoexcited pyrazine. The quantum circuit construction...</p><p>DOI: 10.1039/d6dd00747c</p>]]></description>
+</item>
 <item>
 <title>Coverage-Guided Chemical Space Sampling Using Complementary Molecular Representations</title>
 <link>https://doi.org/10.1039/d6dd00577b</link>
