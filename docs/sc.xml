@@ -3,7 +3,7 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Sun, 15 Nov 2026 18:56:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 06:45:24 +0000</lastBuildDate>
 <item>
 <title>Iron-catalyzed oxidative alkynylation of 1,3-dicarbonyls via 1,4alkynyl migration</title>
 <link>https://doi.org/10.1039/d6sc07024h</link>
@@ -313,18 +313,18 @@
 <description><![CDATA[<p><b>Authors:</b> Mingchen Sun, Katerina Gavriel, Chenxuan Wan, Jelte Schermer, Kevin Neumann, Daniela A. Wilson</p><p>Tetrazine-based protection transiently masks cell-surface thiols, shielding them from oxidative damage. GSH-mediated deprotection restores native thiol reactivity and preserves thiol-mediated cellular uptake.</p><p>DOI: 10.1039/d6sc04306b</p>]]></description>
 </item>
 <item>
-<title>Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
-<link>https://doi.org/10.1039/d6sc06308j</link>
-<guid isPermaLink="false">10.1039/d6sc06308j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
-</item>
-<item>
 <title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
 <link>https://doi.org/10.1039/d6sc06485j</link>
 <guid isPermaLink="false">10.1039/d6sc06485j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
+</item>
+<item>
+<title>Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
+<link>https://doi.org/10.1039/d6sc06308j</link>
+<guid isPermaLink="false">10.1039/d6sc06308j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
 </item>
 <item>
 <title>Electronic excitation pathway engineering through p-orbital hybridization in a wide-bandgap Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 cathode for extreme-condition sodium storage</title>

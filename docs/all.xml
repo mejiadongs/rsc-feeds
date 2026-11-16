@@ -3,7 +3,7 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sun, 15 Nov 2026 18:57:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 06:45:38 +0000</lastBuildDate>
 <item>
 <title>[TA] Nitrogen-Directed Semi-Ionic C-F Bonding Enables LiF-Rich Interphase Formation for Fast-Charging Graphite Anodes</title>
 <link>https://doi.org/10.1039/d6ta06874j</link>
@@ -3680,18 +3680,18 @@
 <description><![CDATA[<p><b>Authors:</b> Piyumi Kodithuwakku, Christian Samundsett, Stephane Armand, Gabriel Bartholazzi, Daniel H. Macdonald, Lachlan E. Black</p><p>The influence of boron doping for ALD ZnO:B films within SiO x /ZnO:B/Al 2 O 3 electron-selective passivating contact stacks on c-Si is explored. Passivation and contact performance are correlated with structural, electrical and optical properties.</p><p>DOI: 10.1039/d6ta08045f</p>]]></description>
 </item>
 <item>
-<title>[SC] Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
-<link>https://doi.org/10.1039/d6sc06308j</link>
-<guid isPermaLink="false">10.1039/d6sc06308j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
-</item>
-<item>
 <title>[SC] A large language model-based autonomous agent for scanning tunnelling microscopy</title>
 <link>https://doi.org/10.1039/d6sc06485j</link>
 <guid isPermaLink="false">10.1039/d6sc06485j</guid>
 <pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
+</item>
+<item>
+<title>[SC] Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
+<link>https://doi.org/10.1039/d6sc06308j</link>
+<guid isPermaLink="false">10.1039/d6sc06308j</guid>
+<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
 </item>
 <item>
 <title>[CP] Modelling pressure and solvation effects in intermolecular charge-transfer excitations</title>
