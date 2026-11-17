@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 17 Nov 2026 08:06:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 21:03:38 +0000</lastBuildDate>
+<item>
+<title>Best practices for the BitBIRCH clustering algorithm</title>
+<link>https://doi.org/10.1039/d6dd00179c</link>
+<guid isPermaLink="false">10.1039/d6dd00179c</guid>
+<pubDate>Tue, 17 Nov 2026 14:03:34 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kenneth López Pérez, Ramon Alain Miranda-Quintana</p><p>BitBIRCH is a novel clustering algorithm that enables the analysis of extremely large molecular libraries; however, its performance can be hindered by an excessive number of singletons or the formation...</p><p>DOI: 10.1039/d6dd00179c</p>]]></description>
+</item>
+<item>
+<title>NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer</title>
+<link>https://doi.org/10.1039/d6dd00705h</link>
+<guid isPermaLink="false">10.1039/d6dd00705h</guid>
+<pubDate>Tue, 17 Nov 2026 10:43:53 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Roxane Axel Jacob, Daniel Rose, Thierry Langer, Johannes Kirchmair</p><p>AI-driven de novo molecular design offers a promising route to accelerate early-stage drug discovery by generating novel ligands directly within target protein binding pockets. We present NEAT-POCKET, a pocket-conditioned extension...</p><p>DOI: 10.1039/d6dd00705h</p>]]></description>
+</item>
 <item>
 <title>A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution</title>
 <link>https://doi.org/10.1039/d6dd00707d</link>
@@ -51,7 +65,7 @@
 <link>https://doi.org/10.1039/d6dd00679e</link>
 <guid isPermaLink="false">10.1039/d6dd00679e</guid>
 <pubDate>Thu, 12 Nov 2026 07:43:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kangming Li, Syeda Kinza Fatima</p><p>Large language models are increasingly used in materials science and chemistry, but selecting a suitable model requires more than comparing task performance. Scientific usefulness also requires valid, repeatable responses at...</p><p>DOI: 10.1039/d6dd00679e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Syeda Kinza Fatima, Kangming Li</p><p>Selecting large language models for scientific research requires scientific adequacy, validity, repeatability, and realized cost to identify fit-for-purpose models for materials and chemistry research.</p><p>DOI: 10.1039/d6dd00679e</p>]]></description>
 </item>
 <item>
 <title>Closed-loop robotic optimization of ligand, base, and solvent for the selective mono-functionalization of a symmetric dibromofluorene via Suzuki-Miyaura coupling</title>
@@ -96,11 +110,11 @@
 <description><![CDATA[<p>DOI: 10.1039/d6dd90055k</p>]]></description>
 </item>
 <item>
-<title>CHAMP and AMPToxPred: A Machine-Readable Dataset of Antimicrobial Peptides and Deep Learning-Based toxicity Prediction</title>
+<title>CHAMP and AMPToxPred: a machine-readable dataset of antimicrobial peptides and deep learning-based toxicity prediction</title>
 <link>https://doi.org/10.1039/d6dd00506c</link>
 <guid isPermaLink="false">10.1039/d6dd00506c</guid>
 <pubDate>Wed, 11 Nov 2026 02:43:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zeqi Zhang, Hantian Fang, Yunxiao Shi, Yaxin Fan, Shan Bian, Jinlei Bian, Jing Zhang, Min Xu, Xiao Yang, Cong Ma</p><p>Antimicrobial peptides (AMPs) are promising therapeutic agents, yet their clinical translation is frequently hindered by toxicity concerns. Current toxicity prediction methods are hampered by fragmented data sources, inconsistent annotation standards,...</p><p>DOI: 10.1039/d6dd00506c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zeqi Zhang, Hantian Fang, Yunxiao Shi, Yaxin Fan, Shan Bian, Jinlei Bian, Jing Zhang, Min Xu, Xiao Yang, Cong Ma</p><p>CHAMP and AMPToxPred provide a curated toxicity dataset and AI prediction framework for antimicrobial peptides (AMPs), enabling accurate toxicity assessment and accelerating safer AMP design and discovery.</p><p>DOI: 10.1039/d6dd00506c</p>]]></description>
 </item>
 <item>
 <title>CSP5: Large-scale Neural Chemical Shift Prediction from 2.5 Million Experimental NMR Spectra</title>
@@ -131,11 +145,11 @@
 <description><![CDATA[<p><b>Authors:</b> Victor Curean, Steven D. Brown, Manas Mahale, Ioana Berindan-Neagoe, Srijit Seal, Kristof Z. Szalay, Daniel V. Veres, Andreas Bender</p><p>We critically review single-cell foundation models applied for perturbation effect prediction, examining how various factors impact downstream performance and applicability.</p><p>DOI: 10.1039/d6dd00209a</p>]]></description>
 </item>
 <item>
-<title>Tox4Chem: Human toxicity and ecotoxicity characterization powered by EosCloud</title>
+<title>Tox4Chem : human toxicity and ecotoxicity characterization powered by EosCloud</title>
 <link>https://doi.org/10.1039/d6dd00474a</link>
 <guid isPermaLink="false">10.1039/d6dd00474a</guid>
 <pubDate>Fri, 06 Nov 2026 10:23:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dimitris G. Mintis, Panagiotis D. Kolokathis, Kerstin von Borries, Andreas Tsoumanis, Georgia Melagraki, Milica Velimirovic, Iseult Lynch, Peter Fantke, Antreas Afantitis</p><p>The characterization of human toxicity and freshwater ecotoxicity impacts of per-and polyfluoroalkyl substances (PFAS) remains challenging in Life Cycle Impact Assessment (LCIA), due to limited PFASspecific data and the practical...</p><p>DOI: 10.1039/d6dd00474a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Dimitris G. Mintis, Panagiotis D. Kolokathis, Kerstin von Borries, Andreas Tsoumanis, Georgia Melagraki, Milica Velimirovic, Iseult Lynch, Peter Fantke, Antreas Afantitis</p><p>PFAS toxicity characterization in LCIA is challenging due to limited substance-specific data and difficulties in calculating and comparing characterization factors across emission compartments and environmental settings. Tox4Chem addresses this gap.</p><p>DOI: 10.1039/d6dd00474a</p>]]></description>
 </item>
 <item>
 <title>Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery</title>

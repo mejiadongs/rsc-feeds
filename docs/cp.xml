@@ -3,7 +3,77 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Tue, 17 Nov 2026 08:06:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 21:03:34 +0000</lastBuildDate>
+<item>
+<title>An Atomic Cluster Expansion Potential for Hydrogen-Isotope Transport in Lithium Oxide</title>
+<link>https://doi.org/10.1039/d6cp03149h</link>
+<guid isPermaLink="false">10.1039/d6cp03149h</guid>
+<pubDate>Tue, 17 Nov 2026 15:16:52 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> AYOBAMI DANIEL DARAMOLA, Prashanth Srinivasan, Vladimir Martis, Duc Nguyen-Manh</p><p>Hydrogen-isotope transport in lithium oxide is coupled to the temperature-dependent disorder of the lithium sublattice, requiring an interatomic model that describes ordered, defective, thermally distorted, and O-H-containing environments within a...</p><p>DOI: 10.1039/d6cp03149h</p>]]></description>
+</item>
+<item>
+<title>A Computational Investigation of H2O and NH3 Interaction with a B12 N12 Nanocage: Benchmarking, Temperature, Multi-Guest, and Solvent Effects</title>
+<link>https://doi.org/10.1039/d6cp03903k</link>
+<guid isPermaLink="false">10.1039/d6cp03903k</guid>
+<pubDate>Tue, 17 Nov 2026 14:44:00 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Thatayothe E Moitshepisi, Taye B Demissie, Zibo G Keolopile</p><p>Molecular recognition of small gaseous molecules such as ammonia and water remains an important area of study in supramolecular host-guest chemistry due to relevance in public health, industry, and atmospheric...</p><p>DOI: 10.1039/d6cp03903k</p>]]></description>
+</item>
+<item>
+<title>Probing the electronic structure of linear acene ions by helium-tagging spectroscopy</title>
+<link>https://doi.org/10.1039/d6cp03820d</link>
+<guid isPermaLink="false">10.1039/d6cp03820d</guid>
+<pubDate>Tue, 17 Nov 2026 13:23:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Colombe Maurice, Florian Foitzik, Miriam Kappe, Lisa Ganner, Paul Scheier, Elisabeth Gruber</p><p>Tracking the evolution of the prominent B 3u and B 2u electronic transitions across the four smallest linear acene cations.</p><p>DOI: 10.1039/d6cp03820d</p>]]></description>
+</item>
+<item>
+<title>Exploring singlet fission in asymmetric tetraazapentacene derivatives</title>
+<link>https://doi.org/10.1039/d6cp02424f</link>
+<guid isPermaLink="false">10.1039/d6cp02424f</guid>
+<pubDate>Tue, 17 Nov 2026 13:20:23 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Xiaoke Duan, Fulin Xie, Yangyi Pan, Dan Li, Ji Xu, Yinhe Cao, William P. Gillin, Huanqing Ye, Chengyuan Wang</p><p>Magnetic-field-dependent PL and TCSPC reveal aggregation-dependent, spin-sensitive excited-state processes consistent with possible singlet fission in two asymmetric tetraazapentacene derivatives.</p><p>DOI: 10.1039/d6cp02424f</p>]]></description>
+</item>
+<item>
+<title>Correction: Coulomb trapping of ions in a solid electrolyte interphase by deprotonation-induced surface charges</title>
+<link>https://doi.org/10.1039/d6cp90206e</link>
+<guid isPermaLink="false">10.1039/d6cp90206e</guid>
+<pubDate>Tue, 17 Nov 2026 11:51:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Isabel Pantenburg, Michael Stich, Falk Thorsten Krauss, Lars Pateras Pescara, Andrea Gabriele Jaegermann, Diemo Renz, Till-Bjarne Upmeier, Jörg Sundermeyer, Andreas Bund, Bernhard Roling</p><p>Correction for ‘Coulomb trapping of ions in a solid electrolyte interphase by deprotonation-induced surface charges’ by Isabel Pantenburg et al. , Phys. Chem. Chem. Phys. , 2026, 28 , 24936–24944, https://doi.org/10.1039/d6cp00876c.</p><p>DOI: 10.1039/d6cp90206e</p>]]></description>
+</item>
+<item>
+<title>Photosensitive silicon-based optically switchable terahertz metasurface: linear and circular dichroism control and near- and far-field four-channel multiplexing</title>
+<link>https://doi.org/10.1039/d6cp03783f</link>
+<guid isPermaLink="false">10.1039/d6cp03783f</guid>
+<pubDate>Tue, 17 Nov 2026 10:56:09 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yuxin Fan, Shuai Cui, Hengli Feng, Daqiang Cong, Tongshun Wang, Sibo Wang, Yang Gao</p><p>This work presents a photo-tunable terahertz metasurface integrated with photosensitive silicon for synergistic near- and far-field modulation and multidimensional multiplexing.</p><p>DOI: 10.1039/d6cp03783f</p>]]></description>
+</item>
+<item>
+<title>Natural language-guided generation of molecular structures for single-molecule electronics</title>
+<link>https://doi.org/10.1039/d6cp03430f</link>
+<guid isPermaLink="false">10.1039/d6cp03430f</guid>
+<pubDate>Tue, 17 Nov 2026 10:01:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yiheng Zhao, Bingqian Cheng, Bailin Gao, Ziyang Wang, Saisai Yuan, Zhichao Pan</p><p>We propose SingMolT5, built by curating a domain-specific molecule–caption dataset and instruction-tuning a molecular foundation model. It enables text-to-single-molecule generation that general-purpose LLMs and in-context learning cannot achieve.</p><p>DOI: 10.1039/d6cp03430f</p>]]></description>
+</item>
+<item>
+<title>Comparing Li + and Na + Transport in Carbonate Electrolytes: The Role of Structure and Solvation Dynamics †</title>
+<link>https://doi.org/10.1039/d6cp03292c</link>
+<guid isPermaLink="false">10.1039/d6cp03292c</guid>
+<pubDate>Tue, 17 Nov 2026 09:03:30 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Chinwendu Nancy Anabaraonye, Diddo Diddens, Andreas Heuer</p><p>Lithium-ion batteries dominate the battery market, but concerns about the long-term availability of lithium have stimulated the development of sodium-ion batteries as a sustainable alternative. Since electrolyte transport properties critically...</p><p>DOI: 10.1039/d6cp03292c</p>]]></description>
+</item>
+<item>
+<title>Alleviating the Strain on Hybrid Density Functional Theory: Strong-Correlation-Corrected Range-Separated Local Hybrids for Fullerene Isomerization Energies</title>
+<link>https://doi.org/10.1039/d6cp03583c</link>
+<guid isPermaLink="false">10.1039/d6cp03583c</guid>
+<pubDate>Tue, 17 Nov 2026 08:03:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Andrew Kai, Tiffany Nguyen, Robin Grotjahn</p><p>Fullerene isomerization energies are highly sensitive to the strain of the curved sp 2 carbon network, which makes them a demanding test for approximate density functional theory. Complementing the recent C 60 ...</p><p>DOI: 10.1039/d6cp03583c</p>]]></description>
+</item>
+<item>
+<title>Symmetric double-W terahertz metasurface based on ED-TD cooperative interference for high-Q Fano sensing and polarization-dependent near-field imaging</title>
+<link>https://doi.org/10.1039/d6cp03404g</link>
+<guid isPermaLink="false">10.1039/d6cp03404g</guid>
+<pubDate>Tue, 17 Nov 2026 07:53:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Fenglei Guo, Haoyi Yang, J. Li</p><p>We design a terahertz metasurface based on the electric dipole-toroidal dipole (ED-TD) coupling mechanism. Under y-polarized terahertz wave incidence, the structure excites a high-Q (2833) Fano-like resonance at 7.546 THz,...</p><p>DOI: 10.1039/d6cp03404g</p>]]></description>
+</item>
 <item>
 <title>Linking Length to Strength: A Molecular Dynamics Perspective on the Mechanical and Barrier Properties of Polydisperse Polyethylene Systems for Hydrogen Storage</title>
 <link>https://doi.org/10.1039/d6cp01332e</link>
@@ -408,7 +478,7 @@
 <link>https://doi.org/10.1039/d6cp03656b</link>
 <guid isPermaLink="false">10.1039/d6cp03656b</guid>
 <pubDate>Mon, 09 Nov 2026 10:23:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lien Lemmens, Rayco Lommelen, Stijn Raiguel, Tom Van Gerven, Koen Binnemans</p><p>Solid–liquid equilibria (SLE) relevant to the antisolvent crystallization of lithium hydroxide monohydrate (LiOH·H2O) from water–2-propanol mixtures were experimentally investigated in the presence of process-relevant hydroxide and chloride impurities (NaOH, KOH,...</p><p>DOI: 10.1039/d6cp03656b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Lien Lemmens, Rayco Lommelen, Stijn Raiguel, Tom Van Gerven, Koen Binnemans</p><p>Solid–liquid equilibrium experiments and thermodynamic modeling in water–2-propanol mixtures reveal selective LiOH·H 2 O crystallization from hydroxide- and LiCl-containing solutions, while NaCl and KCl are critical co-crystallizing impurities.</p><p>DOI: 10.1039/d6cp03656b</p>]]></description>
 </item>
 <item>
 <title>Shear-dependent slip of an amphiphilic n -hexanol self-assembled monolayer in a calcite nanopore</title>
@@ -439,11 +509,11 @@
 <description><![CDATA[<p><b>Authors:</b> Sanyasi Sitha</p><p>This computational work investigates a methylene (-CH 2 -) bridged pyridinium phenolate based zwitterion. Optimized structure of the molecule showed an unusual conformation. Thus, to ascertain molecule is not broken,...</p><p>DOI: 10.1039/d6cp03358j</p>]]></description>
 </item>
 <item>
-<title>All-metallic transistor with ultralow-power consumption and ultrafast switching speed constructed from the metalsemiconductor phase transition of zigzag germanene nanoribbons</title>
+<title>An all-metallic transistor with ultralow-power consumption and ultrafast switching speed based on the metal–semiconductor phase transition of zigzag germanene nanoribbons</title>
 <link>https://doi.org/10.1039/d6cp03775e</link>
 <guid isPermaLink="false">10.1039/d6cp03775e</guid>
 <pubDate>Mon, 09 Nov 2026 07:23:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Huan Xiao, Xingyi Tan, Jing Wan, Gang Xu, Qiang Li</p><p>All-metallic field-effect transistors (FETs) have remained a persistent focus of scientific exploration because they can be scaled down to smaller dimensions while maintaining low energy consumption and superior performance at...</p><p>DOI: 10.1039/d6cp03775e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Huan Xiao, Xing-Yi Tan, Gang Xu, Jing Wan, Qiang Li</p><p>We propose an all-metal transistor featuring ultralow power consumption and ultrafast switching, exploiting the metal-semiconductor phase transition of zigzag germanene nanoribbons for efficient switching via controlled electric-field modulation.</p><p>DOI: 10.1039/d6cp03775e</p>]]></description>
 </item>
 <item>
 <title>Hydrophilic silica surfaces host a hydrophobic-like two-dimensional water network</title>
@@ -572,11 +642,11 @@
 <description><![CDATA[<p><b>Authors:</b> Marvin Quack, Haeri Lee, Qianqian Yan, Guido H. Clever, Karina Morgenstern</p><p>A chiral solvation shell from chloroform of a non-covalent dimer of a pincer complex is imaged in real space. Its removal yields extended polymers on a chlorinated Ag(111) surface.</p><p>DOI: 10.1039/d6cp03660k</p>]]></description>
 </item>
 <item>
-<title>End-Group Electronic Stabilization Enables Energy-Dense Neutral Polynitrogen Chains beyond N₆</title>
+<title>End-group electronic stabilization enables energy-dense neutral polynitrogen chains beyond N 6</title>
 <link>https://doi.org/10.1039/d6cp02829b</link>
 <guid isPermaLink="false">10.1039/d6cp02829b</guid>
 <pubDate>Wed, 04 Nov 2026 14:43:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Cherumuttathu Hariharan Suresh</p><p>Neutral polynitrogen chains are attractive high-energy-density materials because conversion of catenated nitrogen frameworks to N₂ can release large amounts of energy. However, extending neutral nitrogen chains beyond the recently isolated...</p><p>DOI: 10.1039/d6cp02829b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Cherumuttathu H. Suresh</p><p>Chain extension raises the energy density to 8.73 MJ kg −1 without proportionally lowering the initial N–N cleavage barrier, revealing energy-dense, kinetically metastable neutral polynitrogen frameworks.</p><p>DOI: 10.1039/d6cp02829b</p>]]></description>
 </item>
 <item>
 <title>Semi-empirical thermodynamic model for solvent extraction of neodymium( iii ) nitrate by tri- n -butyl phosphate</title>
