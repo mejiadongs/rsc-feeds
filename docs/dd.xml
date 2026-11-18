@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 18 Nov 2026 07:41:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 20:40:11 +0000</lastBuildDate>
 <item>
 <title>Pocket-Based 3D Molecular Generation: Binding-Environment Representations and Pocket Adaptability</title>
 <link>https://doi.org/10.1039/d6dd00558f</link>
@@ -138,11 +138,11 @@
 <description><![CDATA[<p><b>Authors:</b> Thanapat Worakul, Clemence Corminboeuf</p><p>By operating on full Cartesian geometries, three-dimensional (3D) molecular generative models offer direct control over the spatial arrangements dictating molecular properties. Yet generating structures that are both geometrically valid (reasonable...</p><p>DOI: 10.1039/d6dd00456c</p>]]></description>
 </item>
 <item>
-<title>Data-Driven Investigation of Push–Pull π+/π− Interactions in Squaramide Catalysis</title>
+<title>Data-driven investigation of push–pull π+/π− interactions in squaramide catalysis</title>
 <link>https://doi.org/10.1039/d6dd00678g</link>
 <guid isPermaLink="false">10.1039/d6dd00678g</guid>
 <pubDate>Mon, 09 Nov 2026 21:03:38 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Javier Cruz-Oliver, David Dalmau, Juan V. Alegre-Requena</p><p>Secondary aromatic π interactions can complement primary hydrogen bonding and base activation to fine-tune enantioselectivity in organocatalysis. In a reported squaramide-catalyzed Henry reaction, we identified a push-pull π+/π− (PPππ) interaction...</p><p>DOI: 10.1039/d6dd00678g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Javier Cruz-Oliver, David Dalmau, Juan V. Alegre-Requena</p><p>Exploring squaramide-based push–pull π+/π− (PPππ) interaction systems with cheminformatics and machine learning workflows.</p><p>DOI: 10.1039/d6dd00678g</p>]]></description>
 </item>
 <item>
 <title>Single-cell foundation models in perturbation prediction: progress, pitfalls and moving forward</title>
