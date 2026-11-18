@@ -3,7 +3,35 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Tue, 17 Nov 2026 21:03:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 07:40:58 +0000</lastBuildDate>
+<item>
+<title>Controlling Memristor Stochasticity for Synaptic Computing and Hardware Security</title>
+<link>https://doi.org/10.1039/d6mh01915c</link>
+<guid isPermaLink="false">10.1039/d6mh01915c</guid>
+<pubDate>Wed, 18 Nov 2026 07:05:03 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kyung-Min Kim, UI Do Ji, Jungyeop Oh, Byung Chul Jang</p><p>Memristor stochasticity is usually suppressed for analogue computing but exploited as entropy for hardware security, creating apparently conflicting device requirements. Here we show that these functions can be accessed within...</p><p>DOI: 10.1039/d6mh01915c</p>]]></description>
+</item>
+<item>
+<title>Sustainable Microwave-Assisted Synthesis and Rheological Engineering of Screen-Printable Graphene Ink for Flexible Wearable Devices</title>
+<link>https://doi.org/10.1039/d6mh01891b</link>
+<guid isPermaLink="false">10.1039/d6mh01891b</guid>
+<pubDate>Wed, 18 Nov 2026 07:04:30 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Lokesh Kumar, Devang Anadkat, Riya Wadhwa, Kirti Pawar, Dipti Gupta</p><p>This work demonstrates a complete and sustainable pathway from the green synthesis of tunablegraphene to its integration into high-performance, screen-printable conductive inks and multifunctional printed devices. Few-layer graphene was synthesized...</p><p>DOI: 10.1039/d6mh01891b</p>]]></description>
+</item>
+<item>
+<title>Direct Observation of Structure–Reactivity Correlation in Acidic and Non-Acidic Zeolite-Supported Pt Catalysts</title>
+<link>https://doi.org/10.1039/d6mh01806h</link>
+<guid isPermaLink="false">10.1039/d6mh01806h</guid>
+<pubDate>Wed, 18 Nov 2026 07:04:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ying Shu, Lizhuo Wang, Liwei Cao, Namuerkesaihan Namuerkesaihan, Zhiqiang Zhao, Yasuhiro Sakamoto, Chung K Nguyen, Sarina Sarina, Ang Li, Xiaodong Han, Jun Huang</p><p>Understanding how zeolite acidity governs the redox behaviour and structural evolution of confined metal nanoparticles is central to the rational design of catalysts for methane valorisation. Here, using the partial...</p><p>DOI: 10.1039/d6mh01806h</p>]]></description>
+</item>
+<item>
+<title>Strengthened and Toughened Epoxy Resin with a Zipper-Type Coordination Supramolecular Network for High-Performance Chip Packaging</title>
+<link>https://doi.org/10.1039/d6mh01649a</link>
+<guid isPermaLink="false">10.1039/d6mh01649a</guid>
+<pubDate>Wed, 18 Nov 2026 04:03:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yingpeng Zhou, Zi-Han Zhao, Jiajun Fu</p><p>Traditional epoxies fail to meet chip packaging demands, driving the pursuit of hightoughness, low-coefficient of thermal expansion (CTE) counterparts with formidable fabrication challenges. Herein, we fabricate an epoxy network with...</p><p>DOI: 10.1039/d6mh01649a</p>]]></description>
+</item>
 <item>
 <title>Alkali-Mediated Hierarchical Defect Fingerprinting of Luminescent ZnO Nanohexagons for Multilevel Security Encoding</title>
 <link>https://doi.org/10.1039/d6mh01877g</link>
@@ -213,12 +241,5 @@
 <guid isPermaLink="false">10.1039/d6mh01642a</guid>
 <pubDate>Wed, 04 Nov 2026 00:43:35 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Wenhao Wang, Zhengnan Fang, Yingying Zheng, Wei Lin, Chengyang Ying, Haoliang Lou, Bo Yao, Qinyong Dai, Zebo Fang</p><p>The HLO/IGCO device exhibits excellent electrical performance as a field-effect transistor. As a synaptic transistor, it can also perform various neural network computations using gate-controlled LTP/STP.</p><p>DOI: 10.1039/d6mh01642a</p>]]></description>
-</item>
-<item>
-<title>Durable, flexible, and solar-driven anti-icing/de-icing fabrics</title>
-<link>https://doi.org/10.1039/d6mh01953f</link>
-<guid isPermaLink="false">10.1039/d6mh01953f</guid>
-<pubDate>Tue, 03 Nov 2026 12:03:47 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Hongde Zhu, Zhiguang Guo</p><p>Herein, a molecular bridge covalently anchors TiN and KB on cotton fabric to make flexible superhydrophobic PTKC fabric. Synergistic KB thermal vibration and TiN plasmonic resonance enable efficient solar absorption for solar-driven de-icing.</p><p>DOI: 10.1039/d6mh01953f</p>]]></description>
 </item>
 </channel></rss>

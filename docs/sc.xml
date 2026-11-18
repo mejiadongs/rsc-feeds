@@ -3,7 +3,14 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Tue, 17 Nov 2026 21:03:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 07:41:05 +0000</lastBuildDate>
+<item>
+<title>Core-shell Nanophotocatalysts Enable Wavelength-orthogonal Aqueous photoATRP for Living 3D Printing</title>
+<link>https://doi.org/10.1039/d6sc07244e</link>
+<guid isPermaLink="false">10.1039/d6sc07244e</guid>
+<pubDate>Wed, 18 Nov 2026 02:03:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mengjie Zhou, Kang Li, Junle Zhang, Xuejing Zhai, Wenjie Zhang, Ge Shi, Yanjie He, Xiaoguang Qiao, Weihua Fan, Xinchang Pang</p><p>Photoinduced atom transfer radical polymerization (photoATRP) enables hydrogels with preserved dormant chain ends, yet few water-compatible catalytic systems support orthogonal optical inputs for rapid visible-light printing and NIR-gated post-printing remodeling....</p><p>DOI: 10.1039/d6sc07244e</p>]]></description>
+</item>
 <item>
 <title>Pd-catalytic atroposelective coupling of diazonaphthoquinones with trifluoro(naphth-1-yl)borates</title>
 <link>https://doi.org/10.1039/d6sc06637b</link>
@@ -451,40 +458,5 @@
 <guid isPermaLink="false">10.1039/d6sc06368c</guid>
 <pubDate>Wed, 04 Nov 2026 07:40:42 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Katrina H. Ruzicka, Matthew T. Zambri, Jolene P. Reid, Mark S. Taylor</p><p>Bayesian algorithms facilitate challenging optimizations of site-selective, enzyme-catalyzed monoacetylations of pyranoside derivatives. The data were used to evaluate transfer learning models for warm-starting new optimizations.</p><p>DOI: 10.1039/d6sc06368c</p>]]></description>
-</item>
-<item>
-<title>Tetrazine-based bio-protection: reversible masking of cell surface thiols for orthogonal cellular chemistry</title>
-<link>https://doi.org/10.1039/d6sc04306b</link>
-<guid isPermaLink="false">10.1039/d6sc04306b</guid>
-<pubDate>Tue, 03 Nov 2026 21:23:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mingchen Sun, Katerina Gavriel, Chenxuan Wan, Jelte Schermer, Kevin Neumann, Daniela A. Wilson</p><p>Tetrazine-based protection transiently masks cell-surface thiols, shielding them from oxidative damage. GSH-mediated deprotection restores native thiol reactivity and preserves thiol-mediated cellular uptake.</p><p>DOI: 10.1039/d6sc04306b</p>]]></description>
-</item>
-<item>
-<title>Metal–ligand orbital mixing mediates spin–phonon coupling in group VI tetraaryl molecular color centers</title>
-<link>https://doi.org/10.1039/d6sc06308j</link>
-<guid isPermaLink="false">10.1039/d6sc06308j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Victor Chang Lee, Jaewon Lee, Hong Youl Park, Dane A. Johnson, Mark C. Hersam, Danna E. Freedman, James M. Rondinelli</p><p>Understanding the microscopic mechanisms governing spin–phonon coupling in transition metal complexes is essential for the rational design of molecular qubits with long coherence and relaxation times.</p><p>DOI: 10.1039/d6sc06308j</p>]]></description>
-</item>
-<item>
-<title>A large language model-based autonomous agent for scanning tunnelling microscopy</title>
-<link>https://doi.org/10.1039/d6sc06485j</link>
-<guid isPermaLink="false">10.1039/d6sc06485j</guid>
-<pubDate>Tue, 03 Nov 2026 18:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Juan Xiang, Zhipeng Xiang, Zhiwen Zhu, Qi Huang, Jiayi Lu, Liangliang Cai, Qiang Sun</p><p>We develop STMClaw, a large language model agent framework that coordinates autonomous scanning tunnelling microscopy through natural language instructions, instrument feedback and retrieved scientific knowledge.</p><p>DOI: 10.1039/d6sc06485j</p>]]></description>
-</item>
-<item>
-<title>Electronic excitation pathway engineering through p-orbital hybridization in a wide-bandgap Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 cathode for extreme-condition sodium storage</title>
-<link>https://doi.org/10.1039/d6sc06589a</link>
-<guid isPermaLink="false">10.1039/d6sc06589a</guid>
-<pubDate>Tue, 03 Nov 2026 09:03:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yanan Zhang, Cong Liu, Zhi Zhang, Huanyi Liao, Changwu Liu, Kaisi Liu, Kang Du, Yihua Gao, Shengxiang Wang</p><p>P-orbital hybridization engineering for multistep electron excitation via intermediate states in wide-bandgap polyanion cathodes.</p><p>DOI: 10.1039/d6sc06589a</p>]]></description>
-</item>
-<item>
-<title>Ultrasensitive endogenous miRNA imaging in live cells by an allosteric orthogonal CRISPR probe</title>
-<link>https://doi.org/10.1039/d6sc07431f</link>
-<guid isPermaLink="false">10.1039/d6sc07431f</guid>
-<pubDate>Tue, 03 Nov 2026 07:04:15 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xiaoyue Zhang, Hyeonji Rha, Yuanzhi Zhang, Ming Gao, Jaewon Kim, Wenjing Zheng, Yesim Bakan, Jingtian Chi, Yueyuan Cai, Xingang Wang, Chengqin Wang, Jie Wang, Bin Yue, Zhi Chen, Jong Seung Kim, Meng Qiu</p><p>An allosteric orthogonal CRISPR probe integrates independent DNAzyme and Cas12a pathways for sensitive imaging of endogenous miRNAs, distinguishing breast cell types and enabling breast cancer subtype discrimination in tissue sections.</p><p>DOI: 10.1039/d6sc07431f</p>]]></description>
 </item>
 </channel></rss>

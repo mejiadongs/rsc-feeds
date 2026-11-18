@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 17 Nov 2026 21:03:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 07:41:10 +0000</lastBuildDate>
+<item>
+<title>Pocket-Based 3D Molecular Generation: Binding-Environment Representations and Pocket Adaptability</title>
+<link>https://doi.org/10.1039/d6dd00558f</link>
+<guid isPermaLink="false">10.1039/d6dd00558f</guid>
+<pubDate>Wed, 18 Nov 2026 02:43:43 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Bo Huang, Dongsheng Cao, Aiping Lu, Rong Qian, Tingfei Zhu, Jia-Cai Yi, Woruo Chen, Lei Wang, Yanjing Duan, Ling Zhang, Jin Liu</p><p>Pocket-based 3D molecular generation has emerged as an important direction in structure-based drug design by enabling ligands to be generated directly within protein binding environments. Most existing methods rely on...</p><p>DOI: 10.1039/d6dd00558f</p>]]></description>
+</item>
 <item>
 <title>Best practices for the BitBIRCH clustering algorithm</title>
 <link>https://doi.org/10.1039/d6dd00179c</link>
@@ -171,12 +178,5 @@
 <guid isPermaLink="false">10.1039/d6dd00433d</guid>
 <pubDate>Wed, 04 Nov 2026 11:38:41 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Chun-Yi Tsai, Tim Cernak</p><p>Predicting chemical synthesis outcomes is critical to inventing new molecules and strengthening chemical supply chains. Today's surge in reaction prediction algorithms requires more data. We summarize such large datasets for improving AI models.</p><p>DOI: 10.1039/d6dd00433d</p>]]></description>
-</item>
-<item>
-<title>Where Foundation Machine-Learning Potentials Fail for Iron-Sulfide Defect Kinetics: Failure Modes, Pre-Flight Checks, and a DFT Benchmark of Vacancy-Anchored Hydrogen Migration in Pyrite, Marcasite, Mackinawite, and Greigite</title>
-<link>https://doi.org/10.1039/d6dd00359a</link>
-<guid isPermaLink="false">10.1039/d6dd00359a</guid>
-<pubDate>Tue, 03 Nov 2026 11:48:30 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Igor N. Morozov</p><p>Foundation machine-learning interatomic potentials (MLIPs) offer inexpensive migration-barrier calculations, but their reliability for hydrogen defects in magnetic iron sulfides remains uncertain. We establish plane-wave DFT references at PBE, U =...</p><p>DOI: 10.1039/d6dd00359a</p>]]></description>
 </item>
 </channel></rss>
