@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 19 Nov 2026 07:37:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 20:46:19 +0000</lastBuildDate>
+<item>
+<title>PSE-RepairBench: a simulator-grounded benchmark for evaluating large language model-based setpoint correction in executable chemical process flowsheets</title>
+<link>https://doi.org/10.1039/d6dd00673f</link>
+<guid isPermaLink="false">10.1039/d6dd00673f</guid>
+<pubDate>Thu, 19 Nov 2026 10:25:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wataru Takahara, Ryu Suganuma, Souta Miyamoto, Katsuaki Tanabe</p><p>Model rankings on general-purpose benchmarks did not carry over to chemical process repair, and most successful repairs differed from the reference answer, highlighting the value of simulator-verified evaluation.</p><p>DOI: 10.1039/d6dd00673f</p>]]></description>
+</item>
 <item>
 <title>Democratizing Reaction Kinetics through Machine Vision and Learning</title>
 <link>https://doi.org/10.1039/d6dd00225k</link>
@@ -23,7 +30,7 @@
 <link>https://doi.org/10.1039/d6dd00179c</link>
 <guid isPermaLink="false">10.1039/d6dd00179c</guid>
 <pubDate>Tue, 17 Nov 2026 14:03:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kenneth López Pérez, Ramon Alain Miranda-Quintana</p><p>BitBIRCH is a novel clustering algorithm that enables the analysis of extremely large molecular libraries; however, its performance can be hindered by an excessive number of singletons or the formation...</p><p>DOI: 10.1039/d6dd00179c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Kenneth Lopez-Perez, Ramon Alain Miranda-Quintana</p><p>BitBIRCH is a novel clustering algorithm that enables the analysis of extremely large molecular libraries; however, its performance can be hindered by an excessive number of singletons or the formation of disproportionately large clusters.</p><p>DOI: 10.1039/d6dd00179c</p>]]></description>
 </item>
 <item>
 <title>NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer</title>
@@ -138,11 +145,11 @@
 <description><![CDATA[<p><b>Authors:</b> J. Benji Rowlands, Richard James Lewis, Peter Howe, Jonathan Goodman</p><p>Accurate nuclear magnetic resonance (NMR) chemical shift prediction remains limited by the small size and narrow chemical diversity of atom-assigned training datasets. Here, we address that bottleneck by leveraging the...</p><p>DOI: 10.1039/d6dd00524a</p>]]></description>
 </item>
 <item>
-<title>A Diffusion Framework for Geometrically Valid and Practically Viable 3D Molecular Generation</title>
+<title>A diffusion framework for geometrically valid and practically viable 3D molecular generation</title>
 <link>https://doi.org/10.1039/d6dd00456c</link>
 <guid isPermaLink="false">10.1039/d6dd00456c</guid>
 <pubDate>Tue, 10 Nov 2026 09:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Thanapat Worakul, Clemence Corminboeuf</p><p>By operating on full Cartesian geometries, three-dimensional (3D) molecular generative models offer direct control over the spatial arrangements dictating molecular properties. Yet generating structures that are both geometrically valid (reasonable...</p><p>DOI: 10.1039/d6dd00456c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Thanapat Worakul, Clémence Corminboeuf</p><p>We introduce a quality-guided 3D molecular diffusion framework that learns desirable and undesirable structural attributes to improve the geometric validity, charge neutrality, and synthetic accessibility of generated organic molecules.</p><p>DOI: 10.1039/d6dd00456c</p>]]></description>
 </item>
 <item>
 <title>Data-driven investigation of push–pull π+/π− interactions in squaramide catalysis</title>

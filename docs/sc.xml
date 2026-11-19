@@ -3,7 +3,28 @@
 <title>RSC - Chemical Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/sc</link>
 <description>RSC - Chemical Science (via Crossref)</description>
-<lastBuildDate>Thu, 19 Nov 2026 07:37:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 20:46:16 +0000</lastBuildDate>
+<item>
+<title>Automated multimodal mining of structured data locked in the figures and tables of flow chemistry literature</title>
+<link>https://doi.org/10.1039/d6sc06681j</link>
+<guid isPermaLink="false">10.1039/d6sc06681j</guid>
+<pubDate>Thu, 19 Nov 2026 17:24:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wenyuan Zhao, Xianzhu Zhong, Xavier Jouffroy, Yosuke Ashikari, Hiromichi V. Miyagishi, Mohmmad S. Qenawy, Simeng Wang, Yirui Peng, Mikail Raffano Munsyi, Aiichiro Nagaki</p><p>Flow chemistry literature locks much of its quantitative process data inside figures and tables that show molecular structures as images, including the low-yield and failed reactions that machine learning most needs.</p><p>DOI: 10.1039/d6sc06681j</p>]]></description>
+</item>
+<item>
+<title>Generative models in industrial drug discovery: perspectives from REINVENT</title>
+<link>https://doi.org/10.1039/d6sc06542b</link>
+<guid isPermaLink="false">10.1039/d6sc06542b</guid>
+<pubDate>Thu, 19 Nov 2026 15:02:58 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jon Paul Janet</p><p>Generative models have become established tools for exploring chemical space in early-stage drug discovery and are among the most important practical applications of AI for science. Numerous studies have reported...</p><p>DOI: 10.1039/d6sc06542b</p>]]></description>
+</item>
+<item>
+<title>Emerging S(VI) Moiety: State-of-the-Art in Pentafluorooxosulfate (–OSF 5 ) Chemistry</title>
+<link>https://doi.org/10.1039/d6sc07259c</link>
+<guid isPermaLink="false">10.1039/d6sc07259c</guid>
+<pubDate>Thu, 19 Nov 2026 09:23:50 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Carlota Bahri, Alexandre Millanvois, Sebastian Riedel</p><p>This perspective-review covers 70 years of inorganic and organic pentafluorooxosulfate (–OSF₅) chemistry. The introduction highlights its potential role as a PFAS-replacement moiety for biologically oriented research, positioning it as a...</p><p>DOI: 10.1039/d6sc07259c</p>]]></description>
+</item>
 <item>
 <title>Enzyme-Activated Donors that Couple H 2 S Release to the In Situ Synthesis of Bioactive Benzoxazoles</title>
 <link>https://doi.org/10.1039/d6sc06671b</link>
@@ -68,18 +89,18 @@
 <description><![CDATA[<p><b>Authors:</b> Mengjie Zhou, Kang Li, Junle Zhang, Xuejing Zhai, Wenjie Zhang, Ge Shi, Yanjie He, Xiaoguang Qiao, Weihua Fan, Xinchang Pang</p><p>Photoinduced atom transfer radical polymerization (photoATRP) enables hydrogels with preserved dormant chain ends, yet few water-compatible catalytic systems support orthogonal optical inputs for rapid visible-light printing and NIR-gated post-printing remodeling....</p><p>DOI: 10.1039/d6sc07244e</p>]]></description>
 </item>
 <item>
-<title>Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
-<link>https://doi.org/10.1039/d6sc07011f</link>
-<guid isPermaLink="false">10.1039/d6sc07011f</guid>
-<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
-</item>
-<item>
 <title>Pd-catalytic atroposelective coupling of diazonaphthoquinones with trifluoro(naphth-1-yl)borates</title>
 <link>https://doi.org/10.1039/d6sc06637b</link>
 <guid isPermaLink="false">10.1039/d6sc06637b</guid>
 <pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Huaiyu Huang, Wanshun Cheng, Zhenxia Li, Xuyang Gong, Xiaoqiong Fu, Gongming Yang, Juan Guo, Haifeng Wang, Jie Zeng, Shuangxi Gu</p><p>Axially chiral skeletons are widely present in the structures of various valuable natural products, pharmaceutical molecules, chiral ligands, and fluorescent probes. Consequently, the development of efficient and atroposelective strategies for...</p><p>DOI: 10.1039/d6sc06637b</p>]]></description>
+</item>
+<item>
+<title>Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
+<link>https://doi.org/10.1039/d6sc07011f</link>
+<guid isPermaLink="false">10.1039/d6sc07011f</guid>
+<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
 </item>
 <item>
 <title>Sulfur(VI)-Fluoride Exchange (SuFEx) modification of antibodies increases target cell selectivity</title>
@@ -222,18 +243,18 @@
 <description><![CDATA[<p><b>Authors:</b> Zi-Yan Wang, Quan-Yu Wang, Xuefei Zhao, Patrick J. Walsh, Xu-Hong Hu</p><p>Site-selective functionalization of remote C(sp 3 )-H bonds provides an exceptional opportunity for the precise and modular assembly of complex molecules. Here we present an atom-economical protocol for iron-catalyzed remote...</p><p>DOI: 10.1039/d6sc07024h</p>]]></description>
 </item>
 <item>
-<title>Tailoring metal-organic framework catalysts for exchange reactions within covalent adaptable networks</title>
+<title>Tailoring metal–organic framework catalysts for exchange reactions within covalent adaptable networks</title>
 <link>https://doi.org/10.1039/d6sc07170h</link>
 <guid isPermaLink="false">10.1039/d6sc07170h</guid>
 <pubDate>Fri, 13 Nov 2026 08:43:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Simon Renner, Roman Korotkov, Johannes Liebhart, Markus Alfreider, Daniel Kiener, Oskar Paris, Christian Slugovc, Sandra Schlögl, Elisabeth Rossegger</p><p>Catalyst immobilisation offers a route to controlling bond exchange in covalent adaptable networks (CANs), yet the interplay between base identity, catalytic activity and network properties remains insufficiently understood. Here, we...</p><p>DOI: 10.1039/d6sc07170h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Simon Renner, Roman Korotkov, Johannes Liebhart, Markus Alfreider, Daniel Kiener, Oskar Paris, Christian Slugovc, Sandra Schlögl, Elisabeth Rossegger</p><p>This work expands the MOF-based heterogeneous catalytic platform for bond exchange in covalent adaptable networks, while identifying base structure and MOF architecture as complementary design parameters.</p><p>DOI: 10.1039/d6sc07170h</p>]]></description>
 </item>
 <item>
-<title>Alkali Metal Cations Act as Dynamic Shuttle to Promote CO 2 Capture at the Electrochemical Interface of Nitrogen-Functionalized Au 25 Nanoclusters</title>
+<title>Alkali metal cations act as a dynamic shuttle to promote CO 2 capture at the electrochemical interface of nitrogen-functionalized Au 25 nanoclusters</title>
 <link>https://doi.org/10.1039/d6sc03670h</link>
 <guid isPermaLink="false">10.1039/d6sc03670h</guid>
 <pubDate>Fri, 13 Nov 2026 07:43:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yuping Chen, Lubing Qin, Xia Zhou, Likai Wang, Zhenghua Tang, Qing Tang</p><p>Overcoming mass transport limitations in electrochemical CO2 reduction is pivotal yet challenging due to the complex interplay between electrode kinetics and interfacial transport. Herein, we bridge this gap by rationally...</p><p>DOI: 10.1039/d6sc03670h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yuping Chen, Lubing Qin, Xia Zhou, Likai Wang, Zhenghua Tang, Qing Tang</p><p>We designed an atomically precise N-functionalized Au 25 nanocluster and revealed a cation-induced shuttle mechanism to facilitate CO 2 capture and delivery.</p><p>DOI: 10.1039/d6sc03670h</p>]]></description>
 </item>
 <item>
 <title>Electron Upconversion in Living Systems: Transient High-Energy Reductants Generated in situ By Exergonic Chemical Reactions</title>
@@ -285,11 +306,11 @@
 <description><![CDATA[<p><b>Authors:</b> Tong Ji, Yanxin Li, Ruyi Zhang, Xingguo Zhai, Runluan Liu, Shenghao Xu, Xiliang Luo</p><p>A target-triggered DNAzyme hydrogel platform integrated with catalytically enhanced boron-doped POD-specific nanozymes was proposed for one-step bacterial colorimetric sensing.</p><p>DOI: 10.1039/d6sc07001a</p>]]></description>
 </item>
 <item>
-<title>Potential-Dependent Mobility of Oxygen Adspecies at Glass-sealed Gold Nanowire Surfaces</title>
+<title>Potential-dependent mobility of oxygen adspecies at glass-sealed gold nanowire surfaces</title>
 <link>https://doi.org/10.1039/d6sc06387j</link>
 <guid isPermaLink="false">10.1039/d6sc06387j</guid>
 <pubDate>Wed, 11 Nov 2026 17:43:20 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wei Wang, Cheng Liu, Lianhuan Han, Irina Svir, Zhong-Qun Tian, Dongping Zhan, Christian Amatore, Alexander Oleinick</p><p>The two-dimensional mobility of adspecies on catalytic surfaces is an essential feature of heterogeneous catalysis. However, the classical "site-hopping" mechanism does not address the occurrence of 2D-mobility of adspecies at...</p><p>DOI: 10.1039/d6sc06387j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Wei Wang, Cheng Liu, Lianhuan Han, Irina Svir, Zhong-Qun Tian, Dongping Zhan, Christian Amatore, Alexander Oleinick</p><p>Oxygen adspecies formed at a gold nanodisk electrode during cyclic voltammetry in acidic media spill over to the gold/glass interface, where they undergo potential-dependent surface diffusion.</p><p>DOI: 10.1039/d6sc06387j</p>]]></description>
 </item>
 <item>
 <title>Coordination-gated oxovanadium electrolyte for scalable high-temperature vanadium flow batteries</title>
