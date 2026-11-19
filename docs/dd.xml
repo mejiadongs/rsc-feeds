@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 18 Nov 2026 20:40:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 07:37:17 +0000</lastBuildDate>
+<item>
+<title>Democratizing Reaction Kinetics through Machine Vision and Learning</title>
+<link>https://doi.org/10.1039/d6dd00225k</link>
+<guid isPermaLink="false">10.1039/d6dd00225k</guid>
+<pubDate>Thu, 19 Nov 2026 00:03:55 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mitchell A. Baumer, Liliana C. Gallegos, Dylan M Anstine, Andrew Kubaney, Jose E Regio, Olexandr Isayev, Gabriel dos Passos Gomes, Stefan Bernhard</p><p>We present a new methodology for measuring reaction rate constants by monitoring pH changes via indicator dyes, achieving precision comparable to traditional NMR techniques, called PRISM (Parallelized Reaction-rates via Indicator...</p><p>DOI: 10.1039/d6dd00225k</p>]]></description>
+</item>
 <item>
 <title>Pocket-Based 3D Molecular Generation: Binding-Environment Representations and Pocket Adaptability</title>
 <link>https://doi.org/10.1039/d6dd00558f</link>
@@ -171,12 +178,5 @@
 <guid isPermaLink="false">10.1039/d6dd00314a</guid>
 <pubDate>Thu, 05 Nov 2026 13:56:16 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Simone Innocente, Katarzyna Komolibus, Stefan Andersson-Engels, Rekha Gautam, Andrea Visentin</p><p>The Raman pipeline jointly optimizes spectral preprocessing and classifier settings in a single search space, from raw spectra to predictions, for objective, reproducible and leakage-aware Raman classification.</p><p>DOI: 10.1039/d6dd00314a</p>]]></description>
-</item>
-<item>
-<title>Big reaction datasets for AI model training</title>
-<link>https://doi.org/10.1039/d6dd00433d</link>
-<guid isPermaLink="false">10.1039/d6dd00433d</guid>
-<pubDate>Wed, 04 Nov 2026 11:38:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chun-Yi Tsai, Tim Cernak</p><p>Predicting chemical synthesis outcomes is critical to inventing new molecules and strengthening chemical supply chains. Today's surge in reaction prediction algorithms requires more data. We summarize such large datasets for improving AI models.</p><p>DOI: 10.1039/d6dd00433d</p>]]></description>
 </item>
 </channel></rss>
