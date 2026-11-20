@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 19 Nov 2026 20:46:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 07:28:55 +0000</lastBuildDate>
+<item>
+<title>Contrastive representation learning for polymer informatics</title>
+<link>https://doi.org/10.1039/d6dd00383d</link>
+<guid isPermaLink="false">10.1039/d6dd00383d</guid>
+<pubDate>Fri, 20 Nov 2026 04:03:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Lida Wang, Donghui Long</p><p>Modeling polymer structure-property relationships remains challenging due to structural complexity and data scarcity. Self-supervised learning offers a promising strategy to learn transferable polymer representations from unlabeled data, but existing approaches...</p><p>DOI: 10.1039/d6dd00383d</p>]]></description>
+</item>
 <item>
 <title>PSE-RepairBench: a simulator-grounded benchmark for evaluating large language model-based setpoint correction in executable chemical process flowsheets</title>
 <link>https://doi.org/10.1039/d6dd00673f</link>
@@ -178,12 +185,5 @@
 <guid isPermaLink="false">10.1039/d6dd00472e</guid>
 <pubDate>Fri, 06 Nov 2026 09:04:02 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Michael Backenköhler, Joschka Groß, Andrea Volkamer</p><p>The success of machine learning (ML) in drug discovery relies on modeling and evaluation strategies that accurately reflect the conditions under which compounds are tested in experimental practice. However, we...</p><p>DOI: 10.1039/d6dd00472e</p>]]></description>
-</item>
-<item>
-<title>An integrated pipeline for preprocessing and machine learning optimization in Raman spectroscopy</title>
-<link>https://doi.org/10.1039/d6dd00314a</link>
-<guid isPermaLink="false">10.1039/d6dd00314a</guid>
-<pubDate>Thu, 05 Nov 2026 13:56:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Simone Innocente, Katarzyna Komolibus, Stefan Andersson-Engels, Rekha Gautam, Andrea Visentin</p><p>The Raman pipeline jointly optimizes spectral preprocessing and classifier settings in a single search space, from raw spectra to predictions, for objective, reproducible and leakage-aware Raman classification.</p><p>DOI: 10.1039/d6dd00314a</p>]]></description>
 </item>
 </channel></rss>
