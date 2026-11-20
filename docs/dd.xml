@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 20 Nov 2026 07:28:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:30:33 +0000</lastBuildDate>
+<item>
+<title>POINT 2 : A Polymer Informatics Training and Testing Database</title>
+<link>https://doi.org/10.1039/d5dd00447k</link>
+<guid isPermaLink="false">10.1039/d5dd00447k</guid>
+<pubDate>Fri, 20 Nov 2026 13:42:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiaxin Xu, Gang Liu, Ruilan Guo, Meng Jiang, Tengfei Luo</p><p>The advancement of polymer informatics has been significantly propelled by the integration of machine learning (ML) techniques, enabling the rapid prediction of polymer properties and expediting the discovery of high-performance...</p><p>DOI: 10.1039/d5dd00447k</p>]]></description>
+</item>
 <item>
 <title>Contrastive representation learning for polymer informatics</title>
 <link>https://doi.org/10.1039/d6dd00383d</link>
@@ -68,11 +75,11 @@
 <description><![CDATA[<p><b>Authors:</b> Xiaoning Feng, Hans Hon Sang Chan, David Tew</p><p>We establish and analyse the performance and resource requirements of an end-to-end fault-tolerant quantum algorithm for computing the absorption spectrum and population dynamics of photoexcited pyrazine. The quantum circuit construction...</p><p>DOI: 10.1039/d6dd00747c</p>]]></description>
 </item>
 <item>
-<title>Coverage-Guided Chemical Space Sampling Using Complementary Molecular Representations</title>
+<title>Coverage-guided chemical space sampling using complementary molecular representations</title>
 <link>https://doi.org/10.1039/d6dd00577b</link>
 <guid isPermaLink="false">10.1039/d6dd00577b</guid>
 <pubDate>Fri, 13 Nov 2026 15:43:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Danny Serlin, Jamie A Cadge</p><p>The success of data-driven chemistry depends critically on the selection of informative experimental training sets. However, many existing strategies rely on clustering chemical space, despite molecular representations often exhibiting continuous...</p><p>DOI: 10.1039/d6dd00577b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Daniel Serlin, Jamie A. Cadge</p><p>A clusterability-informed workflow combines complementary molecular representations and coverage-guided sampling to select informative training sets, enabling reaction-driven mapping of chemical space.</p><p>DOI: 10.1039/d6dd00577b</p>]]></description>
 </item>
 <item>
 <title>Q-Twin: a digital twin beamline for molecular scattering and coherent dynamics</title>
@@ -96,11 +103,11 @@
 <description><![CDATA[<p><b>Authors:</b> Syeda Kinza Fatima, Kangming Li</p><p>Selecting large language models for scientific research requires scientific adequacy, validity, repeatability, and realized cost to identify fit-for-purpose models for materials and chemistry research.</p><p>DOI: 10.1039/d6dd00679e</p>]]></description>
 </item>
 <item>
-<title>Closed-loop robotic optimization of ligand, base, and solvent for the selective mono-functionalization of a symmetric dibromofluorene via Suzuki-Miyaura coupling</title>
+<title>Closed-loop robotic optimization of ligand, base, and solvent for the selective mono-functionalization of a symmetric dibromofluorene via Suzuki–Miyaura coupling</title>
 <link>https://doi.org/10.1039/d6dd00634e</link>
 <guid isPermaLink="false">10.1039/d6dd00634e</guid>
 <pubDate>Thu, 12 Nov 2026 07:24:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Hayaka Akitsu, Yuuya Nagata, Seiji Akiyama, Ryo Tamura, Wataru Matsuoka, Satoshi Maeda, Koji Tsuda</p><p>Closed-loop reaction optimization has been developed extensively for continuous and mixed variables, whereas fully robotic campaigns in which every optimized variable is a discrete chemical choice remain less common. Here...</p><p>DOI: 10.1039/d6dd00634e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Seiji Akiyama, Hayaka Akitsu, Ryo Tamura, Wataru Matsuoka, Satoshi Maeda, Koji Tsuda, Yuuya Nagata</p><p>Robotic synthesis–analysis feedback drives autonomous Bayesian optimization of ligand, base and solvent, reaching a highest observed mono-product analytical yield of 49% within a defined Suzuki–Miyaura reaction space.</p><p>DOI: 10.1039/d6dd00634e</p>]]></description>
 </item>
 <item>
 <title>Back cover</title>
