@@ -3,7 +3,7 @@
 <title>RSC - Chemical Communications</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cc</link>
 <description>RSC - Chemical Communications (via Crossref)</description>
-<lastBuildDate>Fri, 20 Nov 2026 20:30:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 07:23:18 +0000</lastBuildDate>
 <item>
 <title>Light-gated structural control of a zinc bicarbonate complex</title>
 <link>https://doi.org/10.1039/d6cc06211c</link>
@@ -222,18 +222,18 @@
 <description><![CDATA[<p><b>Authors:</b> Xinyi Zhou, Jingna Nie, Lu Zhang, Zhihong Cui, Shiyu Zhong, Chaohe Xu, Yuping Liu</p><p>The as-synthesized (EtMgCl) 2 –B(OTMS) 3 electrolyte constructs a B–O/Si–O/Si–C interphase for reversible magnesium deposition/dissolution in rechargeable Mg batteries.</p><p>DOI: 10.1039/d6cc05949j</p>]]></description>
 </item>
 <item>
-<title>DNA Origami-Programmed Spatial Coupling of Anisotropic Plasmonic Nanoantennas for Single-Molecule SERS</title>
-<link>https://doi.org/10.1039/d6cc06828f</link>
-<guid isPermaLink="false">10.1039/d6cc06828f</guid>
-<pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wenqing He, Renjie Niu, Lianhui Wang, Jie Chao</p><p>DNA origami programs Au nanoparticle coupling at the vertex, edge, or face of Au triangular nanoprisms, yielding triangular plasmonic nanoantennas (TPNs). Correlated single-particle SERS, and simulations reveal position-dependent hotspot strengths...</p><p>DOI: 10.1039/d6cc06828f</p>]]></description>
-</item>
-<item>
 <title>Machine learning-assisted single-system multichannel sensor for the recognition of ochratoxins</title>
 <link>https://doi.org/10.1039/d6cc06089g</link>
 <guid isPermaLink="false">10.1039/d6cc06089g</guid>
 <pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Bin Liu, Zhongyong Xu</p><p>An albumin-based single-system multichannel sensor was developed for the discrimination of ochratoxins with the aid of machine learning</p><p>DOI: 10.1039/d6cc06089g</p>]]></description>
+</item>
+<item>
+<title>DNA Origami-Programmed Spatial Coupling of Anisotropic Plasmonic Nanoantennas for Single-Molecule SERS</title>
+<link>https://doi.org/10.1039/d6cc06828f</link>
+<guid isPermaLink="false">10.1039/d6cc06828f</guid>
+<pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wenqing He, Renjie Niu, Lianhui Wang, Jie Chao</p><p>DNA origami programs Au nanoparticle coupling at the vertex, edge, or face of Au triangular nanoprisms, yielding triangular plasmonic nanoantennas (TPNs). Correlated single-particle SERS, and simulations reveal position-dependent hotspot strengths...</p><p>DOI: 10.1039/d6cc06828f</p>]]></description>
 </item>
 <item>
 <title>Dynamic proton buffering stabilizes aqueous indium metal batteries</title>
@@ -334,11 +334,11 @@
 <description><![CDATA[<p><b>Authors:</b> Fumiya Kobayashi, Shunji Oya, Chisa Itoh, Haruka Yoshino, Hitoshi Miyasaka, Makoto Tadokoro</p><p>An ionic crystal, [Co III (H 2 bim) 3 ][PMo 12 O 40 ] (1), composed of a hydrogen-bonded cobalt(III) biimidazole complex and a Keggin-type polyoxometalate, was synthesised. The ionic crystal retained its crystalline framework upon solvent removal and exhibited...</p><p>DOI: 10.1039/d6cc05986d</p>]]></description>
 </item>
 <item>
-<title>Bulk structure modulation and interfacial rock-salt phase engineering toward high-performance ultrahigh-nickel singlecrystal cathodes</title>
+<title>Bulk structure modulation and interfacial rock-salt phase engineering toward high-performance ultrahigh-nickel single-crystal cathodes</title>
 <link>https://doi.org/10.1039/d6cc05465j</link>
 <guid isPermaLink="false">10.1039/d6cc05465j</guid>
 <pubDate>Tue, 17 Nov 2026 07:06:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhen Zhang, Lincong Wu, Kaiyuan Lu, Zhiqiang Song, Xuan Li, Kun Du, Yanan Xu, Yunzhe Shi, Chunyang Xu, Chaojiang Niu, Xinwei Cui</p><p>To overcome the constraints imposed by sluggish Li+ transport kinetics and irreversible phase transitions on ultrahigh-nickel single-crystal cathodes in high-energy-density lithium-ion batteries, this work proposes a synergistic regulation strategy combining...</p><p>DOI: 10.1039/d6cc05465j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zhen Zhang, Lincong Wu, Kaiyuan Lu, Zhiqiang Song, Xuan Li, Kun Du, Yanan Xu, Yunzhe Shi, Chunyang Xu, Chaojiang Niu, Xinwei Cui</p><p>Sr bulk doping combined with interfacial Al–N modification in ultrahigh-nickel LiNi 0.94 Co 0.04 Mn 0.02 O 2 single crystals enhances the rate capability for lithium-ion storage.</p><p>DOI: 10.1039/d6cc05465j</p>]]></description>
 </item>
 <item>
 <title>Multiplexed Tear Diagnostic Intelligence at the Point of Care: Toward Clinically Informative Biomarker Panels</title>
@@ -955,61 +955,5 @@
 <guid isPermaLink="false">10.1039/d6cc05962g</guid>
 <pubDate>Mon, 09 Nov 2026 07:03:56 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Hui Zou, Honghao Liu, Shiqi Wang, Weijie Zhu, Yule Zhang, Li Zhou</p><p>Well-defined poly(2-ethyl-2-oxazoline)- block -poly(phenyl isocyanide) copolymers were synthesized by combining living CROP and Pd( ii )-initiated isocyanide polymerization, and their self-assembly was investigated.</p><p>DOI: 10.1039/d6cc05962g</p>]]></description>
-</item>
-<item>
-<title>Solvent effect in the semi-hydrogenation of cinnamaldehyde over oxide-supported nickel catalysts at low temperature</title>
-<link>https://doi.org/10.1039/d6cc05006a</link>
-<guid isPermaLink="false">10.1039/d6cc05006a</guid>
-<pubDate>Fri, 06 Nov 2026 16:01:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ajay Tomer, Sabrina Boughougal, Theresa Al Bayeh, Laurent Djakovitch, Noémie Perret</p><p>High hydrocinnamaldehyde yields were achieved at low temperature when working in ethanol/water mixtures with a Ni/TiO 2 catalyst.</p><p>DOI: 10.1039/d6cc05006a</p>]]></description>
-</item>
-<item>
-<title>Reactivity of the s -hydrindacene-based hydridostibenium ion [M S FluindSbH][B(C 6 F 5 ) 4 ] towards organic substrates</title>
-<link>https://doi.org/10.1039/d6cc04793a</link>
-<guid isPermaLink="false">10.1039/d6cc04793a</guid>
-<pubDate>Fri, 06 Nov 2026 14:43:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Marvin Janssen, Enno Lork, Emanuel Hupf, Jens Beckmann</p><p>The reactivity of the s -hydrindacene-based hydridostibenium ion [M S FluindSbH][B(C 6 F 5 ) 4 ] towards triethylamine, alkynes, alkenes, p -benzoquinone and tetraphenyltin was investigated, providing access to a range of functionalised stibenium ions.</p><p>DOI: 10.1039/d6cc04793a</p>]]></description>
-</item>
-<item>
-<title>Synthesis of 2,4-diphenylthiophene derivatives via the cleavage of C–C/C–H bonds and metal-free sulfuration/annulation of alkenes</title>
-<link>https://doi.org/10.1039/d6cc05547h</link>
-<guid isPermaLink="false">10.1039/d6cc05547h</guid>
-<pubDate>Fri, 06 Nov 2026 13:03:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mangang Guan, Guoxin Yang, Hao Liu, Binbiao Wang, Shouteng Liu, Feiyu Xiao, Bing Hu, Rulong Yan</p><p>This reaction synthesizes 2,4-diphenythiophene derivatives from bis(ester)-functionalized 2-phenyl-2-(2-phenylallyl)malonate and K 2 S·5H 2 O.</p><p>DOI: 10.1039/d6cc05547h</p>]]></description>
-</item>
-<item>
-<title>Consecutive photoinduced electron transfer (ConPET) in electron-deficient DCA-encapsulated mesoporous MOFs for the enhanced activation of chloroarenes and aryl C–B bond formation</title>
-<link>https://doi.org/10.1039/d6cc05514a</link>
-<guid isPermaLink="false">10.1039/d6cc05514a</guid>
-<pubDate>Fri, 06 Nov 2026 12:43:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Leixin Hou, Congfa Bian, Yanli Chen, Youyi Li, Mi Zhang, Bo Liang, Miao Yu, Huilin Huang, Lin Ma</p><p>Encapsulating electron-deficient DCA molecules into mesoporous UiO-66 to efficiently improve photogenerated charge transfer to promote the activation of chloroarenes for aromatic C–B bond formation via a ConPET process.</p><p>DOI: 10.1039/d6cc05514a</p>]]></description>
-</item>
-<item>
-<title>Binary chalcogen alloys: structural evolution and versatile applications</title>
-<link>https://doi.org/10.1039/d6cc06411f</link>
-<guid isPermaLink="false">10.1039/d6cc06411f</guid>
-<pubDate>Fri, 06 Nov 2026 12:43:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xia Wang, Xianyu Wen, Zongbao Li, Xin Wen, Zhouqing Wei, Changwei Zou, Bin Yan, Hui-Juan Yan, Ding-Jiang Xue</p><p>We review recent progress in the structural evolution and versatile applications of binary chalcogen alloys (S–Se, S–Te, and Se–Te systems).</p><p>DOI: 10.1039/d6cc06411f</p>]]></description>
-</item>
-<item>
-<title>“Y-shaped” cyanostilbene derivatives for dynamically regulated photochromism and single-component white-light emission</title>
-<link>https://doi.org/10.1039/d6cc05544c</link>
-<guid isPermaLink="false">10.1039/d6cc05544c</guid>
-<pubDate>Fri, 06 Nov 2026 12:10:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yuhan Zhang, Qiusi Shi, Xinyu Yuan, Quankui Zhang, Longmei Yang, Chengyuan Wang</p><p>“Y-shaped” cyanostilbene derivatives achieve dynamic photochromism regulation and stable white-light emission via photo-isomerization, outperforming “V-shaped” counterparts in both solution and polymer matrices.</p><p>DOI: 10.1039/d6cc05544c</p>]]></description>
-</item>
-<item>
-<title>Preorganized supramolecular recognition strengthens solid–solid interfaces in all-solid-state lithium–sulfur batteries</title>
-<link>https://doi.org/10.1039/d6cc05663f</link>
-<guid isPermaLink="false">10.1039/d6cc05663f</guid>
-<pubDate>Fri, 06 Nov 2026 09:41:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wenkai Song, Ran Sun, Borui Li, Yunpeng Qu, Changxing Han, Keju Chen, Xigao Jian, Fangyuan Hu</p><p>Stronger T–D recognition displaces weak intrachain folding, releasing hidden chain length to sustain contact across an evolving cathode–electrolyte interface.</p><p>DOI: 10.1039/d6cc05663f</p>]]></description>
-</item>
-<item>
-<title>Protein-based multidimensional stabilization of nanopesticides</title>
-<link>https://doi.org/10.1039/d6cc05652k</link>
-<guid isPermaLink="false">10.1039/d6cc05652k</guid>
-<pubDate>Fri, 06 Nov 2026 00:43:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mengmeng Chen, Xuefei Tian, Jia Kong, Peng Yang</p><p>This review highlights protein-based supramolecular stabilization of nanopesticides against colloidal aggregation, interfacial coalescence, environmental degradation, foliar wash-off, and premature release for sustainable crop protection.</p><p>DOI: 10.1039/d6cc05652k</p>]]></description>
 </item>
 </channel></rss>

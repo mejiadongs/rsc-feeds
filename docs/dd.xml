@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 20 Nov 2026 20:30:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 07:23:14 +0000</lastBuildDate>
 <item>
 <title>POINT 2 : A Polymer Informatics Training and Testing Database</title>
 <link>https://doi.org/10.1039/d5dd00447k</link>
@@ -178,19 +178,5 @@
 <guid isPermaLink="false">10.1039/d6dd00209a</guid>
 <pubDate>Mon, 09 Nov 2026 14:00:03 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Victor Curean, Steven D. Brown, Manas Mahale, Ioana Berindan-Neagoe, Srijit Seal, Kristof Z. Szalay, Daniel V. Veres, Andreas Bender</p><p>We critically review single-cell foundation models applied for perturbation effect prediction, examining how various factors impact downstream performance and applicability.</p><p>DOI: 10.1039/d6dd00209a</p>]]></description>
-</item>
-<item>
-<title>Tox4Chem : human toxicity and ecotoxicity characterization powered by EosCloud</title>
-<link>https://doi.org/10.1039/d6dd00474a</link>
-<guid isPermaLink="false">10.1039/d6dd00474a</guid>
-<pubDate>Fri, 06 Nov 2026 10:23:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dimitris G. Mintis, Panagiotis D. Kolokathis, Kerstin von Borries, Andreas Tsoumanis, Georgia Melagraki, Milica Velimirovic, Iseult Lynch, Peter Fantke, Antreas Afantitis</p><p>PFAS toxicity characterization in LCIA is challenging due to limited substance-specific data and difficulties in calculating and comparing characterization factors across emission compartments and environmental settings. Tox4Chem addresses this gap.</p><p>DOI: 10.1039/d6dd00474a</p>]]></description>
-</item>
-<item>
-<title>Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery</title>
-<link>https://doi.org/10.1039/d6dd00472e</link>
-<guid isPermaLink="false">10.1039/d6dd00472e</guid>
-<pubDate>Fri, 06 Nov 2026 09:04:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Michael Backenköhler, Joschka Groß, Andrea Volkamer</p><p>The success of machine learning (ML) in drug discovery relies on modeling and evaluation strategies that accurately reflect the conditions under which compounds are tested in experimental practice. However, we...</p><p>DOI: 10.1039/d6dd00472e</p>]]></description>
 </item>
 </channel></rss>
