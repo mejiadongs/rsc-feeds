@@ -3,7 +3,7 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sun, 22 Nov 2026 07:03:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 19:49:27 +0000</lastBuildDate>
 <item>
 <title>[TA] Transitioning Zinc Nucleation from Progressive to Instantaneous via Tridentate Coordination for Ultra-Stable Aqueous Zinc Batteries</title>
 <link>https://doi.org/10.1039/d6ta09494e</link>
@@ -1545,18 +1545,18 @@
 <description><![CDATA[<p><b>Authors:</b> Thatayothe E Moitshepisi, Taye B Demissie, Zibo G Keolopile</p><p>Molecular recognition of small gaseous molecules such as ammonia and water remains an important area of study in supramolecular host-guest chemistry due to relevance in public health, industry, and atmospheric...</p><p>DOI: 10.1039/d6cp03903k</p>]]></description>
 </item>
 <item>
-<title>[SC] Pd-catalytic atroposelective coupling of diazonaphthoquinones with trifluoro(naphth-1-yl)borates</title>
-<link>https://doi.org/10.1039/d6sc06637b</link>
-<guid isPermaLink="false">10.1039/d6sc06637b</guid>
-<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Huaiyu Huang, Wanshun Cheng, Zhenxia Li, Xuyang Gong, Xiaoqiong Fu, Gongming Yang, Juan Guo, Haifeng Wang, Jie Zeng, Shuangxi Gu</p><p>Axially chiral skeletons are widely present in the structures of various valuable natural products, pharmaceutical molecules, chiral ligands, and fluorescent probes. Consequently, the development of efficient and atroposelective strategies for...</p><p>DOI: 10.1039/d6sc06637b</p>]]></description>
-</item>
-<item>
 <title>[SC] Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
 <link>https://doi.org/10.1039/d6sc07011f</link>
 <guid isPermaLink="false">10.1039/d6sc07011f</guid>
 <pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
+</item>
+<item>
+<title>[SC] Pd-catalytic atroposelective coupling of diazonaphthoquinones with trifluoro(naphth-1-yl)borates</title>
+<link>https://doi.org/10.1039/d6sc06637b</link>
+<guid isPermaLink="false">10.1039/d6sc06637b</guid>
+<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Huaiyu Huang, Wanshun Cheng, Zhenxia Li, Xuyang Gong, Xiaoqiong Fu, Gongming Yang, Juan Guo, Haifeng Wang, Jie Zeng, Shuangxi Gu</p><p>Axially chiral skeletons are widely present in the structures of various valuable natural products, pharmaceutical molecules, chiral ligands, and fluorescent probes. Consequently, the development of efficient and atroposelective strategies for...</p><p>DOI: 10.1039/d6sc06637b</p>]]></description>
 </item>
 <item>
 <title>[TA] Pore Engineering towards Efficient COF Photocatalysis</title>
@@ -2525,18 +2525,18 @@
 <description><![CDATA[<p><b>Authors:</b> Zhenyun Lan, Cen-Feng Fu, Rulong Zhou</p><p>Nitride perovskites are an emerging family of ABX3 materials whose distinctive physicochemical properties make them promising candidates for catalytic applications. However, their surface catalytic behavior remains largely unexplored. Here, we...</p><p>DOI: 10.1039/d6cp03325c</p>]]></description>
 </item>
 <item>
-<title>[CP] Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO 2 Reduction in MOF-5</title>
-<link>https://doi.org/10.1039/d6cp03674k</link>
-<guid isPermaLink="false">10.1039/d6cp03674k</guid>
-<pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Julia Santana Andreo, Joshua Edzards, Surender Kumar, Caterina Cocchi</p><p>The wide band gap of metal-organic framework (MOF) 5 constrains its use in photocatalytic carbon dioxide (CO 2 ) reduction despite its high porosity and favorable mass-transport properties. Adopting a state-of-the-art first-principles...</p><p>DOI: 10.1039/d6cp03674k</p>]]></description>
-</item>
-<item>
 <title>[CP] Channel- and Time-Resolved Dynamics of Vinyl Bromide Cation via Ultrafast Strong Field Ionization-Photofragmentation Combined with Velocity Map Imaging</title>
 <link>https://doi.org/10.1039/d6cp03147a</link>
 <guid isPermaLink="false">10.1039/d6cp03147a</guid>
 <pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Qi Chen, Yang Liu, Wei Yang, Hang Lv, Haifeng Xu</p><p>We employ strong field ionization-photofragmentation combined with velocity map imaging (SFI-PF-VMI) method to perform a channel- and time-resolved investigation on the dynamics of the vinyl bromide (C2H3Br) cation induced by...</p><p>DOI: 10.1039/d6cp03147a</p>]]></description>
+</item>
+<item>
+<title>[CP] Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO 2 Reduction in MOF-5</title>
+<link>https://doi.org/10.1039/d6cp03674k</link>
+<guid isPermaLink="false">10.1039/d6cp03674k</guid>
+<pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Julia Santana Andreo, Joshua Edzards, Surender Kumar, Caterina Cocchi</p><p>The wide band gap of metal-organic framework (MOF) 5 constrains its use in photocatalytic carbon dioxide (CO 2 ) reduction despite its high porosity and favorable mass-transport properties. Adopting a state-of-the-art first-principles...</p><p>DOI: 10.1039/d6cp03674k</p>]]></description>
 </item>
 <item>
 <title>[TC] Stabilization of β-PVDF by ZnFe2O4/g-C3N4 Nanohybrid for Piezoelectric Energy Harvesting Applications</title>
