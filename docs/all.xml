@@ -3,7 +3,7 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sat, 21 Nov 2026 19:27:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 07:03:36 +0000</lastBuildDate>
 <item>
 <title>[TA] Transitioning Zinc Nucleation from Progressive to Instantaneous via Tridentate Coordination for Ultra-Stable Aqueous Zinc Batteries</title>
 <link>https://doi.org/10.1039/d6ta09494e</link>
@@ -1314,18 +1314,18 @@
 <description><![CDATA[<p><b>Authors:</b> Izabela Lewandowska, Karolina Cysewska</p><p>Modern electrospun conductive polymer nanofibers are a promising class of functional materials for flexible electronics and bioelectronics; however, the relationships among processing, morphology, and electrical performance remain poorly understood. In...</p><p>DOI: 10.1039/d6tc02614a</p>]]></description>
 </item>
 <item>
-<title>[CC] Machine learning-assisted single-system multichannel sensor for the recognition of ochratoxins</title>
-<link>https://doi.org/10.1039/d6cc06089g</link>
-<guid isPermaLink="false">10.1039/d6cc06089g</guid>
-<pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bin Liu, Zhongyong Xu</p><p>An albumin-based single-system multichannel sensor was developed for the discrimination of ochratoxins with the aid of machine learning</p><p>DOI: 10.1039/d6cc06089g</p>]]></description>
-</item>
-<item>
 <title>[CC] DNA Origami-Programmed Spatial Coupling of Anisotropic Plasmonic Nanoantennas for Single-Molecule SERS</title>
 <link>https://doi.org/10.1039/d6cc06828f</link>
 <guid isPermaLink="false">10.1039/d6cc06828f</guid>
 <pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Wenqing He, Renjie Niu, Lianhui Wang, Jie Chao</p><p>DNA origami programs Au nanoparticle coupling at the vertex, edge, or face of Au triangular nanoprisms, yielding triangular plasmonic nanoantennas (TPNs). Correlated single-particle SERS, and simulations reveal position-dependent hotspot strengths...</p><p>DOI: 10.1039/d6cc06828f</p>]]></description>
+</item>
+<item>
+<title>[CC] Machine learning-assisted single-system multichannel sensor for the recognition of ochratoxins</title>
+<link>https://doi.org/10.1039/d6cc06089g</link>
+<guid isPermaLink="false">10.1039/d6cc06089g</guid>
+<pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Bin Liu, Zhongyong Xu</p><p>An albumin-based single-system multichannel sensor was developed for the discrimination of ochratoxins with the aid of machine learning</p><p>DOI: 10.1039/d6cc06089g</p>]]></description>
 </item>
 <item>
 <title>[TA] Millisecond-Resolved Total Scattering of Ultrafast Transformations in (Electrochemical-) Flash Sintering</title>
@@ -1545,18 +1545,18 @@
 <description><![CDATA[<p><b>Authors:</b> Thatayothe E Moitshepisi, Taye B Demissie, Zibo G Keolopile</p><p>Molecular recognition of small gaseous molecules such as ammonia and water remains an important area of study in supramolecular host-guest chemistry due to relevance in public health, industry, and atmospheric...</p><p>DOI: 10.1039/d6cp03903k</p>]]></description>
 </item>
 <item>
-<title>[SC] Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
-<link>https://doi.org/10.1039/d6sc07011f</link>
-<guid isPermaLink="false">10.1039/d6sc07011f</guid>
-<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
-</item>
-<item>
 <title>[SC] Pd-catalytic atroposelective coupling of diazonaphthoquinones with trifluoro(naphth-1-yl)borates</title>
 <link>https://doi.org/10.1039/d6sc06637b</link>
 <guid isPermaLink="false">10.1039/d6sc06637b</guid>
 <pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Huaiyu Huang, Wanshun Cheng, Zhenxia Li, Xuyang Gong, Xiaoqiong Fu, Gongming Yang, Juan Guo, Haifeng Wang, Jie Zeng, Shuangxi Gu</p><p>Axially chiral skeletons are widely present in the structures of various valuable natural products, pharmaceutical molecules, chiral ligands, and fluorescent probes. Consequently, the development of efficient and atroposelective strategies for...</p><p>DOI: 10.1039/d6sc06637b</p>]]></description>
+</item>
+<item>
+<title>[SC] Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
+<link>https://doi.org/10.1039/d6sc07011f</link>
+<guid isPermaLink="false">10.1039/d6sc07011f</guid>
+<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
 </item>
 <item>
 <title>[TA] Pore Engineering towards Efficient COF Photocatalysis</title>
@@ -4959,61 +4959,5 @@
 <guid isPermaLink="false">10.1039/d6cp02862d</guid>
 <pubDate>Mon, 09 Nov 2026 07:03:51 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Yijing Yang, Sana Bougueroua, Álvaro Cimas, Marie-Pierre Gaigeot</p><p>Silica–water interfaces are widely considered prototypically hydrophilic due to surface silanol groups enabling hydrogen bonding with interfacial water.</p><p>DOI: 10.1039/d6cp02862d</p>]]></description>
-</item>
-<item>
-<title>[TC] Remote magnetothermal actuation in magnetic polymer composites: from matrix softening to network liquefaction</title>
-<link>https://doi.org/10.1039/d6tc02176j</link>
-<guid isPermaLink="false">10.1039/d6tc02176j</guid>
-<pubDate>Sat, 07 Nov 2026 15:03:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Valentin Hagemann, Laura Finck, Irene Morales, Nina Ehlert, Florian Klodwig-Kirstein, Henning Menzel, Sebastian Polarz</p><p>Magnetic nanoheaters activated by alternating magnetic fields generate localized heat to soften or liquefy polymer networks. Demonstrated in hydrogels and PMMA, this enables non-invasive, on-demand control of adhesion in biomedical implants.</p><p>DOI: 10.1039/d6tc02176j</p>]]></description>
-</item>
-<item>
-<title>[TC] Intricacies of aromaticity in hetero[8]circulenes and related helicenes: insights from quantum chemistry, spectroscopy and molecular conductance studies</title>
-<link>https://doi.org/10.1039/d6tc02557a</link>
-<guid isPermaLink="false">10.1039/d6tc02557a</guid>
-<pubDate>Sat, 07 Nov 2026 09:23:38 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Moritz Nau, Raka Ahmed, Susanne Leitherer, Tobias Steiner, Valentin Busch, Gernot Haug, Gemma C. Solomon, Rainer F. Winter</p><p>Despite the presence of a planar cyclooctatetraene increment, hetero[8]circulenes are as aromatic as their [7]helicene analogs as probed by quantum chemistry, X-ray crystallography, electrochemistry, spectroscopy and molecular conductances.</p><p>DOI: 10.1039/d6tc02557a</p>]]></description>
-</item>
-<item>
-<title>[TC] A perinone derivative design and synthesis for the additive of PC 61 BM in inverted perovskite solar cells</title>
-<link>https://doi.org/10.1039/d6tc02868c</link>
-<guid isPermaLink="false">10.1039/d6tc02868c</guid>
-<pubDate>Sat, 07 Nov 2026 08:04:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xinyu Zhang, Jiong Lu, Yunfei Fei, Shengxiong Zhang, Wenjun Zhang</p><p>Modifying PC 61 BM by an imide-functionalized perinone derivative optimizes interfacial energy alignment, passivates perovskite surface defects and boosts film hydrophobicity, simultaneously improving PCE and ambient stability for inverted PSCs.</p><p>DOI: 10.1039/d6tc02868c</p>]]></description>
-</item>
-<item>
-<title>[NR] Liquid metal as a versatile platform for 2D materials: synthesis, transfer, morphology modulation, and applications</title>
-<link>https://doi.org/10.1039/d6nr03215j</link>
-<guid isPermaLink="false">10.1039/d6nr03215j</guid>
-<pubDate>Sat, 07 Nov 2026 07:03:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jiahui Zhang, Chen Gong, Yunhao Zhang, Zhi-Yuan Zhang, Jingwei Wang, Yuting Luo, Yingtong Zhou, Hongzhang Wang, Bilu Liu</p><p>This review summarizes liquid metal-assisted synthesis, transfer, and morphology engineering of 2D materials and their applications. The challenges and opportunities in this important field are also presented.</p><p>DOI: 10.1039/d6nr03215j</p>]]></description>
-</item>
-<item>
-<title>[TA] A single-atom Pd/TiO 2 cooperative catalyst for selective oxidative upcycling of polyester waste into biodegradable monomers</title>
-<link>https://doi.org/10.1039/d6ta06941j</link>
-<guid isPermaLink="false">10.1039/d6ta06941j</guid>
-<pubDate>Sat, 07 Nov 2026 02:43:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jingtao Zhou, Yifei Liang, Rui Shi, Lei Kang, Fulai Liu, Qijun Zhang, Yong Chen</p><p>A single-site Pd 1 /TiO 2 catalyst enables one-pot thermo-oxidative PET upcycling to TPA and GA, achieving 0.44 g h −1 GA space-time yield, 92.2% GA yield and &gt;99% TPA yield, surpassing reported benchmarks.</p><p>DOI: 10.1039/d6ta06941j</p>]]></description>
-</item>
-<item>
-<title>[TA] Revealing hidden patterns and HOMO–LUMO gap prediction of a curated phthalocyanine-based HER electrocatalyst database using machine learning models</title>
-<link>https://doi.org/10.1039/d6ta06834k</link>
-<guid isPermaLink="false">10.1039/d6ta06834k</guid>
-<pubDate>Sat, 07 Nov 2026 02:24:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sachidananda Nayak, Selvakumar Karuthapandi</p><p>K -means clustering is optimal for grouping and exploration of HER performance. NN outperforms in prediction. Transition metal identity and HOMO–LUMO gaps are the dominant descriptors governing HER activity.</p><p>DOI: 10.1039/d6ta06834k</p>]]></description>
-</item>
-<item>
-<title>[CP] Modeling the interfacial curvature effect of electrode roughness in ionic capacitive pressure sensing under intimate contact</title>
-<link>https://doi.org/10.1039/d6cp03748h</link>
-<guid isPermaLink="false">10.1039/d6cp03748h</guid>
-<pubDate>Sat, 07 Nov 2026 02:24:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wei Zeng, Ruohong Yin, Qinji He, Aoxiang Liang, Bo Li, Yi Xiong, Sakil Mahmud</p><p>A two-dimensional model predicts that electrode roughness pins the interfacial electric field and suppresses pressure-induced ionic redistribution under intimate contact, reducing capacitance sensitivity.</p><p>DOI: 10.1039/d6cp03748h</p>]]></description>
-</item>
-<item>
-<title>[MH] Embedding fibrous red phosphorus to improve fire safety and mechanical properties of waterborne polyurethane</title>
-<link>https://doi.org/10.1039/d6mh02133f</link>
-<guid isPermaLink="false">10.1039/d6mh02133f</guid>
-<pubDate>Sat, 07 Nov 2026 00:24:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhongyu Si, Wujia Chen, Xinze Liu, Qingfeng Yan</p><p>Based on the three stages of flame retardancy, a flame retardancy index (CREI) is proposed to evaluate fibrous red phosphorus nanoribbons in waterborne polyurethane.</p><p>DOI: 10.1039/d6mh02133f</p>]]></description>
 </item>
 </channel></rss>

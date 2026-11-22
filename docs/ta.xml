@@ -3,7 +3,7 @@
 <title>RSC - Journal of Materials Chemistry A</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/ta</link>
 <description>RSC - Journal of Materials Chemistry A (via Crossref)</description>
-<lastBuildDate>Sat, 21 Nov 2026 19:27:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 07:03:22 +0000</lastBuildDate>
 <item>
 <title>Transitioning Zinc Nucleation from Progressive to Instantaneous via Tridentate Coordination for Ultra-Stable Aqueous Zinc Batteries</title>
 <link>https://doi.org/10.1039/d6ta09494e</link>
@@ -1032,19 +1032,5 @@
 <guid isPermaLink="false">10.1039/d6ta07569j</guid>
 <pubDate>Mon, 09 Nov 2026 09:01:51 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Tianwen Luo, Lingrong Zeng</p><p>An interconnected CuO network coupled with Bi 2 Ti 2 O 7 nanoparticles establishes an S-scheme heterojunction. Charge regulation and structure engineering enhance charge separation and transport, enabling 1423 µmol g −1 h −1 H 2 production from water vapor.</p><p>DOI: 10.1039/d6ta07569j</p>]]></description>
-</item>
-<item>
-<title>A single-atom Pd/TiO 2 cooperative catalyst for selective oxidative upcycling of polyester waste into biodegradable monomers</title>
-<link>https://doi.org/10.1039/d6ta06941j</link>
-<guid isPermaLink="false">10.1039/d6ta06941j</guid>
-<pubDate>Sat, 07 Nov 2026 02:43:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jingtao Zhou, Yifei Liang, Rui Shi, Lei Kang, Fulai Liu, Qijun Zhang, Yong Chen</p><p>A single-site Pd 1 /TiO 2 catalyst enables one-pot thermo-oxidative PET upcycling to TPA and GA, achieving 0.44 g h −1 GA space-time yield, 92.2% GA yield and &gt;99% TPA yield, surpassing reported benchmarks.</p><p>DOI: 10.1039/d6ta06941j</p>]]></description>
-</item>
-<item>
-<title>Revealing hidden patterns and HOMO–LUMO gap prediction of a curated phthalocyanine-based HER electrocatalyst database using machine learning models</title>
-<link>https://doi.org/10.1039/d6ta06834k</link>
-<guid isPermaLink="false">10.1039/d6ta06834k</guid>
-<pubDate>Sat, 07 Nov 2026 02:24:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sachidananda Nayak, Selvakumar Karuthapandi</p><p>K -means clustering is optimal for grouping and exploration of HER performance. NN outperforms in prediction. Transition metal identity and HOMO–LUMO gaps are the dominant descriptors governing HER activity.</p><p>DOI: 10.1039/d6ta06834k</p>]]></description>
 </item>
 </channel></rss>
