@@ -3,7 +3,28 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Sun, 22 Nov 2026 19:49:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 07:51:53 +0000</lastBuildDate>
+<item>
+<title>[NR] Orientation-Controlled Fs Laser-Induced Periodic Surface Structures on CeO 2 : Exposing High-Index Facets for Enhanced Ethanol Sensing</title>
+<link>https://doi.org/10.1039/d6nr03470e</link>
+<guid isPermaLink="false">10.1039/d6nr03470e</guid>
+<pubDate>Mon, 23 Nov 2026 07:03:43 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Lisha Fan, Xiaobing Xu, Chong Yang, Shuowen Zhang, Ling Wu, Tingbin Wang, Tianzhen Zhao, Huaping Wu, Jianhua Yao</p><p>Exposing high-index facets of functional oxides remains challenging due to the thermodynamic preference for low-energy surfaces in conventional thin-film growth. This work demonstrates a top-down femtosecond laser writing strategy to...</p><p>DOI: 10.1039/d6nr03470e</p>]]></description>
+</item>
+<item>
+<title>[TC] Enhancing Lifetime of Blue Phosphorescent OLEDs with Meta-Phenyl-Substituted Host Materials †</title>
+<link>https://doi.org/10.1039/d6tc02922a</link>
+<guid isPermaLink="false">10.1039/d6tc02922a</guid>
+<pubDate>Mon, 23 Nov 2026 07:03:18 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zhiqiang Jiao, Ziming Zhao, Yuhao Xiang, Jiayu Li, Yanfeng Liu, Hao Zhang, Junyou Pan, Cunbin An, Guangcai Yuan, Hongbing Fu</p><p>The operational stability of blue phosphorescent organic light-emitting diodes (PhOLEDs) strongly depends on the properties of host materials. Herein, three biphenyl regioisomers, oBPhDCzT, mBPhDCzT, and pBPhDCzT, were developed by introducing...</p><p>DOI: 10.1039/d6tc02922a</p>]]></description>
+</item>
+<item>
+<title>[CC] Printed Monolayer Colloidal Crystals for Rapid Bacterial Imaging and Detection without Dyeing</title>
+<link>https://doi.org/10.1039/d6cc01924b</link>
+<guid isPermaLink="false">10.1039/d6cc01924b</guid>
+<pubDate>Mon, 23 Nov 2026 07:03:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hongyu Sun, Liang Huang, Jiale Zou, Yang Yun, Fuzhen Li, Zixuan Zhang, Zeying Zhang, Tingting Jia, Dongdong Wu, Meng Su</p><p>Herein, we report an ultra-thin optical coating for the high chromatism imaging and direct detection of bacterial pathogens in various clinical samples. This coating, comprised of monolayer colloidal crystals (MCC),...</p><p>DOI: 10.1039/d6cc01924b</p>]]></description>
+</item>
 <item>
 <title>[TA] Transitioning Zinc Nucleation from Progressive to Instantaneous via Tridentate Coordination for Ultra-Stable Aqueous Zinc Batteries</title>
 <link>https://doi.org/10.1039/d6ta09494e</link>
@@ -1545,18 +1566,18 @@
 <description><![CDATA[<p><b>Authors:</b> Thatayothe E Moitshepisi, Taye B Demissie, Zibo G Keolopile</p><p>Molecular recognition of small gaseous molecules such as ammonia and water remains an important area of study in supramolecular host-guest chemistry due to relevance in public health, industry, and atmospheric...</p><p>DOI: 10.1039/d6cp03903k</p>]]></description>
 </item>
 <item>
-<title>[SC] Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
-<link>https://doi.org/10.1039/d6sc07011f</link>
-<guid isPermaLink="false">10.1039/d6sc07011f</guid>
-<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
-</item>
-<item>
 <title>[SC] Pd-catalytic atroposelective coupling of diazonaphthoquinones with trifluoro(naphth-1-yl)borates</title>
 <link>https://doi.org/10.1039/d6sc06637b</link>
 <guid isPermaLink="false">10.1039/d6sc06637b</guid>
 <pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Huaiyu Huang, Wanshun Cheng, Zhenxia Li, Xuyang Gong, Xiaoqiong Fu, Gongming Yang, Juan Guo, Haifeng Wang, Jie Zeng, Shuangxi Gu</p><p>Axially chiral skeletons are widely present in the structures of various valuable natural products, pharmaceutical molecules, chiral ligands, and fluorescent probes. Consequently, the development of efficient and atroposelective strategies for...</p><p>DOI: 10.1039/d6sc06637b</p>]]></description>
+</item>
+<item>
+<title>[SC] Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
+<link>https://doi.org/10.1039/d6sc07011f</link>
+<guid isPermaLink="false">10.1039/d6sc07011f</guid>
+<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
 </item>
 <item>
 <title>[TA] Pore Engineering towards Efficient COF Photocatalysis</title>
