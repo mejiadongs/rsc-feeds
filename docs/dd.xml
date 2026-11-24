@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Mon, 23 Nov 2026 07:51:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:01:47 +0000</lastBuildDate>
+<item>
+<title>Data generation for machine-learned force fields</title>
+<link>https://doi.org/10.1039/d6dd00059b</link>
+<guid isPermaLink="false">10.1039/d6dd00059b</guid>
+<pubDate>Mon, 23 Nov 2026 12:22:52 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Saffron Luxford, Connor Williamson, Shayantan Chaudhuri, Alexander Miguel Ganose, Valerio Giuffrida, Julie Greensmith, Katherine Inzani</p><p>Machine-learned force fields (MLFFs) significantly enhance molecular dynamics simulations by offering ab initio-level accuracy at lower computational costs. Successful model training depends on the availability of high-quality, scalable datasets, which...</p><p>DOI: 10.1039/d6dd00059b</p>]]></description>
+</item>
 <item>
 <title>POINT 2 : A Polymer Informatics Training and Testing Database</title>
 <link>https://doi.org/10.1039/d5dd00447k</link>
@@ -16,7 +23,7 @@
 <link>https://doi.org/10.1039/d6dd00383d</link>
 <guid isPermaLink="false">10.1039/d6dd00383d</guid>
 <pubDate>Fri, 20 Nov 2026 04:03:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lida Wang, Donghui Long</p><p>Modeling polymer structure-property relationships remains challenging due to structural complexity and data scarcity. Self-supervised learning offers a promising strategy to learn transferable polymer representations from unlabeled data, but existing approaches...</p><p>DOI: 10.1039/d6dd00383d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Lida Wang, Donghui Long</p><p>PoCo learns polymer representations from chemically equivalent SMILES through contrastive learning. The compact model rivals state-of-the-art predictors while revealing chemically meaningful substructures for fragment-level interpretation.</p><p>DOI: 10.1039/d6dd00383d</p>]]></description>
 </item>
 <item>
 <title>PSE-RepairBench: a simulator-grounded benchmark for evaluating large language model-based setpoint correction in executable chemical process flowsheets</title>
@@ -26,11 +33,11 @@
 <description><![CDATA[<p><b>Authors:</b> Wataru Takahara, Ryu Suganuma, Souta Miyamoto, Katsuaki Tanabe</p><p>Model rankings on general-purpose benchmarks did not carry over to chemical process repair, and most successful repairs differed from the reference answer, highlighting the value of simulator-verified evaluation.</p><p>DOI: 10.1039/d6dd00673f</p>]]></description>
 </item>
 <item>
-<title>Democratizing Reaction Kinetics through Machine Vision and Learning</title>
+<title>Democratizing reaction kinetics through machine vision and learning</title>
 <link>https://doi.org/10.1039/d6dd00225k</link>
 <guid isPermaLink="false">10.1039/d6dd00225k</guid>
 <pubDate>Thu, 19 Nov 2026 00:03:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mitchell A. Baumer, Liliana C. Gallegos, Dylan M Anstine, Andrew Kubaney, Jose E Regio, Olexandr Isayev, Gabriel dos Passos Gomes, Stefan Bernhard</p><p>We present a new methodology for measuring reaction rate constants by monitoring pH changes via indicator dyes, achieving precision comparable to traditional NMR techniques, called PRISM (Parallelized Reaction-rates via Indicator...</p><p>DOI: 10.1039/d6dd00225k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Mitchell Baumer, Liliana C. Gallegos, Dylan M. Anstine, Andrew Kubaney, Jose Emilio A. Regio, Olexandr Isayev, Stefan Bernhard, Gabe Gomes</p><p>A 3D-printed, camera-based reactor reads pH-indicator color changes to measure second-order rate constants in parallel. The 363 amide-coupling rate constants, validated by 19 F NMR, train a two-stage model that predicts reactivity and rate constant.</p><p>DOI: 10.1039/d6dd00225k</p>]]></description>
 </item>
 <item>
 <title>Pocket-Based 3D Molecular Generation: Binding-Environment Representations and Pocket Adaptability</title>
@@ -54,11 +61,11 @@
 <description><![CDATA[<p><b>Authors:</b> Roxane Axel Jacob, Daniel Rose, Thierry Langer, Johannes Kirchmair</p><p>AI-driven de novo molecular design offers a promising route to accelerate early-stage drug discovery by generating novel ligands directly within target protein binding pockets. We present NEAT-POCKET, a pocket-conditioned extension...</p><p>DOI: 10.1039/d6dd00705h</p>]]></description>
 </item>
 <item>
-<title>A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution</title>
+<title>A single reference-energy outlier nearly eliminates Co–O chemistry from a generative model's training distribution</title>
 <link>https://doi.org/10.1039/d6dd00707d</link>
 <guid isPermaLink="false">10.1039/d6dd00707d</guid>
 <pubDate>Tue, 17 Nov 2026 01:45:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dowon Song</p><p>An element-resolved audit of 44,688 oxide structures generated by MatterGen under chemical-system conditioning revealed that the aggregate composition compliance (73.27% exact match) concealed a severe chemistry-specific failure. Cobalt was omitted...</p><p>DOI: 10.1039/d6dd00707d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Dowon Song</p><p>An element-resolved audit of 44 688 oxide structures generated by a single conditional checkpoint of MatterGen under chemical-system conditioning showed that 73.27% aggregate compliance (exact match) concealed a chemistry-specific failure.</p><p>DOI: 10.1039/d6dd00707d</p>]]></description>
 </item>
 <item>
 <title>Mapping structured absences in scientific papers: an auditable LLM-assisted workflow demonstrated on cross-coupling chemistry</title>
@@ -164,19 +171,5 @@
 <guid isPermaLink="false">10.1039/d6dd00456c</guid>
 <pubDate>Tue, 10 Nov 2026 09:23:32 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Thanapat Worakul, Clémence Corminboeuf</p><p>We introduce a quality-guided 3D molecular diffusion framework that learns desirable and undesirable structural attributes to improve the geometric validity, charge neutrality, and synthetic accessibility of generated organic molecules.</p><p>DOI: 10.1039/d6dd00456c</p>]]></description>
-</item>
-<item>
-<title>Data-driven investigation of push–pull π+/π− interactions in squaramide catalysis</title>
-<link>https://doi.org/10.1039/d6dd00678g</link>
-<guid isPermaLink="false">10.1039/d6dd00678g</guid>
-<pubDate>Mon, 09 Nov 2026 21:03:38 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Javier Cruz-Oliver, David Dalmau, Juan V. Alegre-Requena</p><p>Exploring squaramide-based push–pull π+/π− (PPππ) interaction systems with cheminformatics and machine learning workflows.</p><p>DOI: 10.1039/d6dd00678g</p>]]></description>
-</item>
-<item>
-<title>Single-cell foundation models in perturbation prediction: progress, pitfalls and moving forward</title>
-<link>https://doi.org/10.1039/d6dd00209a</link>
-<guid isPermaLink="false">10.1039/d6dd00209a</guid>
-<pubDate>Mon, 09 Nov 2026 14:00:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Victor Curean, Steven D. Brown, Manas Mahale, Ioana Berindan-Neagoe, Srijit Seal, Kristof Z. Szalay, Daniel V. Veres, Andreas Bender</p><p>We critically review single-cell foundation models applied for perturbation effect prediction, examining how various factors impact downstream performance and applicability.</p><p>DOI: 10.1039/d6dd00209a</p>]]></description>
 </item>
 </channel></rss>

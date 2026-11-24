@@ -3,7 +3,63 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Mon, 23 Nov 2026 07:51:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:01:43 +0000</lastBuildDate>
+<item>
+<title>SilicoDock: physics-constrained diffusion sampling and surface-based mixture-density scoring for accurate and physically valid molecular docking</title>
+<link>https://doi.org/10.1039/d6cp03972c</link>
+<guid isPermaLink="false">10.1039/d6cp03972c</guid>
+<pubDate>Mon, 23 Nov 2026 17:46:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Rinku Choudhary, Kunal Shire, Mahati Munikoti Srikantamurthy, Sonali Chikhale, Shovonlal Bhowmick, Md Ataul Islam</p><p>SilicoDock couples physics-constrained diffusion sampling with surface-based mixture-density scoring, generating binding poses that are both accurate and chemically valid.</p><p>DOI: 10.1039/d6cp03972c</p>]]></description>
+</item>
+<item>
+<title>Molecular Mechanism of Amphiphilic Promotion of CO2 Hydrate Nucleation by L-Methionine</title>
+<link>https://doi.org/10.1039/d6cp03418g</link>
+<guid isPermaLink="false">10.1039/d6cp03418g</guid>
+<pubDate>Mon, 23 Nov 2026 15:03:06 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hsuan-Yi Lin, Shiang-Tai Lin</p><p>Amphiphilic molecules can promote clathrate hydrate formation, yet how their molecular structure modifies the hydrate–liquid interface to accelerate nucleation remains poorly understood. Here, molecular dynamics simulations are conducted to investigate...</p><p>DOI: 10.1039/d6cp03418g</p>]]></description>
+</item>
+<item>
+<title>Surface Work Function Tuning in Out-of-Plane Polarized Two-Dimensional Ferroelectric α-In2Se3</title>
+<link>https://doi.org/10.1039/d6cp03020c</link>
+<guid isPermaLink="false">10.1039/d6cp03020c</guid>
+<pubDate>Mon, 23 Nov 2026 14:23:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiaqing Yu, Chun-sheng Liu, Shaohui Yu, Xiaohong Zheng, Weiyang Wang, Hua Hao</p><p>α-In2Se3, as a two-dimensional ferroelectric material with robust out-of-plane polarization, holds great promise for nonvolatile memory, tunnel junctions, and gas sensing devices. The work function of its surface plays a...</p><p>DOI: 10.1039/d6cp03020c</p>]]></description>
+</item>
+<item>
+<title>Topological Fermi states in SiC nanoslabs driven by surface magnetism</title>
+<link>https://doi.org/10.1039/d6cp04222h</link>
+<guid isPermaLink="false">10.1039/d6cp04222h</guid>
+<pubDate>Mon, 23 Nov 2026 14:03:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Dinesh Thapa, Yulun Han, Dmitri Kilin, Sakineh Chabi, Sergei Tretiak, Svetlana Kilina</p><p>Low-dimensional materials, particularly nanoscale slabs, have emerged as promising candidates for the next-generation semiconductors, energy-conversion devices, thermal management, and integrated quantum-photonic platforms. Computational modeling provides a powerful approach to understanding...</p><p>DOI: 10.1039/d6cp04222h</p>]]></description>
+</item>
+<item>
+<title>Field-Programmable Skyrmions in Carrier-Doped Chiral Antiferromagnet</title>
+<link>https://doi.org/10.1039/d6cp02005d</link>
+<guid isPermaLink="false">10.1039/d6cp02005d</guid>
+<pubDate>Mon, 23 Nov 2026 14:03:36 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Liyenda Gogoi, P. Deb</p><p>Realization of controllable reconfigurable skyrmions in monolayer limit is a challenging endeavor, as it essentially requires reversible changes to intrinsic magnetic properties to favor skyrmion nucleation. Here, in this article,...</p><p>DOI: 10.1039/d6cp02005d</p>]]></description>
+</item>
+<item>
+<title>Engineering Heterotypic Biomolecular Condensates with Synthetic Peptides for Controlled Spatial Organization and Liquid-like Nature</title>
+<link>https://doi.org/10.1039/d6cp03284b</link>
+<guid isPermaLink="false">10.1039/d6cp03284b</guid>
+<pubDate>Mon, 23 Nov 2026 13:43:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sudhriti Roy, Deepak Sharma, Milan Hazra</p><p>Sequence heterogeneity is a defining feature of cellular biomolecular condensates, yet how competing interaction motifs encode their thermodynamic stability, internal organization, and dynamics remains poorly understood. Here, we systematically tune...</p><p>DOI: 10.1039/d6cp03284b</p>]]></description>
+</item>
+<item>
+<title>Prediction of Solid-Liquid Equilibria under Nanoconfinement: A Model for Predicting Freezing Points of Pure Fluids and Eutectic Points of Mixtures</title>
+<link>https://doi.org/10.1039/d6cp03376h</link>
+<guid isPermaLink="false">10.1039/d6cp03376h</guid>
+<pubDate>Mon, 23 Nov 2026 13:42:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Aliakbar akbar Roosta, Hamid R Godini</p><p>A thermodynamic framework was developed to predict solid-liquid equilibria under nanoconfinement for both pure fluids and eutectic mixtures. The model relates the chemical potentials of the confined liquid and solid...</p><p>DOI: 10.1039/d6cp03376h</p>]]></description>
+</item>
+<item>
+<title>Wide-concentration HCl corrosion inhibition of carbon steel by a triazine compound with protonation-induced efficiency decline revealed by experiments and molecular dynamics</title>
+<link>https://doi.org/10.1039/d6cp03101c</link>
+<guid isPermaLink="false">10.1039/d6cp03101c</guid>
+<pubDate>Mon, 23 Nov 2026 09:23:38 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yi Luo, Yubo Lian, Feng Gao, Xingyan Ge, Zhongying Xu, Ying Tang, Gang Chen</p><p>MF inhibits Q235 steel in 5–20 wt% HCl. Neutral MF chemisorbs via N–Fe coordination; protonated MFH + /MFH 2+ physisorb electrostatically. High acidity increases protonation, causing efficiency decline. Combined adsorption protects steel.</p><p>DOI: 10.1039/d6cp03101c</p>]]></description>
+</item>
 <item>
 <title>Multi-functional quantum dots contribute to enhance the performance of Li-S batteries: A First-principle investigation</title>
 <link>https://doi.org/10.1039/d6cp03417a</link>
@@ -313,11 +369,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yu-Xi Shen, Li Dong, Shun-Qiang Chang, Kai Wang, Ping Wang, Yao Zhang, Yang Zhang, Zhen-Chao Dong</p><p>The photoluminescence enhancement in p-type doped MoS 2 under high excitations is found to be driven primarily by an increased radiative quantum efficiency, originating from an enhanced exciton oscillator strength.</p><p>DOI: 10.1039/d6cp02346k</p>]]></description>
 </item>
 <item>
-<title>Ordered Stone-Wales Defects on Grazynes: A Computational Study</title>
+<title>Ordered Stone–Wales defects on grazynes: a computational study</title>
 <link>https://doi.org/10.1039/d6cp03478k</link>
 <guid isPermaLink="false">10.1039/d6cp03478k</guid>
 <pubDate>Mon, 16 Nov 2026 15:03:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Cong Wang, Adrià Calzada, Francesc Viñes, Pablo Gamallo</p><p>Over the past decades, different carbon allotropes have attracted tremendous attention due to their remarkable structural diversity arising from sp, sp 2 , and sp 3 hybridization combinations. Among most recent two-dimensional (2D)...</p><p>DOI: 10.1039/d6cp03478k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Cong Wang, Adrià Calzada, Francesc Viñes, Pablo Gamallo</p><p>Fully acetylene-saturated [ n ],[1]-grazynes act as transition states, promoting ring rearrangements into 5–7 or 7–5 configurations (Stone–Wales defects) corresponding to energetically stable minima.</p><p>DOI: 10.1039/d6cp03478k</p>]]></description>
 </item>
 <item>
 <title>A theoretical study on the adsorption and separation performance of SF 6 /N 2 via linkage-type modulation of m -TetPB-COF frameworks</title>
@@ -341,18 +397,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yuzhen Liu, Qiang Sun</p><p>The addition of NaCl increases the critical point (CP) relative to that of pure water. This is due to the reinforcement of tetrahedral hydrogen bondings at high temperature and pressure, which is related to the association of Na + and Cl − ions.</p><p>DOI: 10.1039/d6cp03561b</p>]]></description>
 </item>
 <item>
-<title>Exploring Perovskite Nitrides LaWN3 for Oxygen Evolution Reaction: Nitrogen Engineering toward High Activity and Mechanistic Insights</title>
+<title>Exploring perovskite nitrides LaWN 3 for oxygen evolution reaction: nitrogen engineering toward high activity and mechanistic insights</title>
 <link>https://doi.org/10.1039/d6cp03325c</link>
 <guid isPermaLink="false">10.1039/d6cp03325c</guid>
 <pubDate>Mon, 16 Nov 2026 07:23:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhenyun Lan, Cen-Feng Fu, Rulong Zhou</p><p>Nitride perovskites are an emerging family of ABX3 materials whose distinctive physicochemical properties make them promising candidates for catalytic applications. However, their surface catalytic behavior remains largely unexplored. Here, we...</p><p>DOI: 10.1039/d6cp03325c</p>]]></description>
-</item>
-<item>
-<title>Channel- and Time-Resolved Dynamics of Vinyl Bromide Cation via Ultrafast Strong Field Ionization-Photofragmentation Combined with Velocity Map Imaging</title>
-<link>https://doi.org/10.1039/d6cp03147a</link>
-<guid isPermaLink="false">10.1039/d6cp03147a</guid>
-<pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qi Chen, Yang Liu, Wei Yang, Hang Lv, Haifeng Xu</p><p>We employ strong field ionization-photofragmentation combined with velocity map imaging (SFI-PF-VMI) method to perform a channel- and time-resolved investigation on the dynamics of the vinyl bromide (C2H3Br) cation induced by...</p><p>DOI: 10.1039/d6cp03147a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zhenyun Lan, Cenfeng Fu, Rulong Zhou</p><p>Enhancing the oxygen evolution reaction activity of nitride perovskites through nitrogen engineering.</p><p>DOI: 10.1039/d6cp03325c</p>]]></description>
 </item>
 <item>
 <title>Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO 2 Reduction in MOF-5</title>
@@ -360,6 +409,13 @@
 <guid isPermaLink="false">10.1039/d6cp03674k</guid>
 <pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Julia Santana Andreo, Joshua Edzards, Surender Kumar, Caterina Cocchi</p><p>The wide band gap of metal-organic framework (MOF) 5 constrains its use in photocatalytic carbon dioxide (CO 2 ) reduction despite its high porosity and favorable mass-transport properties. Adopting a state-of-the-art first-principles...</p><p>DOI: 10.1039/d6cp03674k</p>]]></description>
+</item>
+<item>
+<title>Channel- and Time-Resolved Dynamics of Vinyl Bromide Cation via Ultrafast Strong Field Ionization-Photofragmentation Combined with Velocity Map Imaging</title>
+<link>https://doi.org/10.1039/d6cp03147a</link>
+<guid isPermaLink="false">10.1039/d6cp03147a</guid>
+<pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Qi Chen, Yang Liu, Wei Yang, Hang Lv, Haifeng Xu</p><p>We employ strong field ionization-photofragmentation combined with velocity map imaging (SFI-PF-VMI) method to perform a channel- and time-resolved investigation on the dynamics of the vinyl bromide (C2H3Br) cation induced by...</p><p>DOI: 10.1039/d6cp03147a</p>]]></description>
 </item>
 <item>
 <title>A First-Principles Quantum Modeling Strategy for Cost-Effective Green Energy Materials: Lead-Free AHf4Bi4O15 (A = Ca, Ba, Sr) Aurivillius Phases</title>
@@ -397,11 +453,11 @@
 <description><![CDATA[<p><b>Authors:</b> Cedrix J. Dongmo Foumthuim, Giovanni Parolin, Stefano Corni, Laura Zanetti-Polzi</p><p>The carbonyl stretching mode is a widely used signal in the infrared spectroscopy of biomolecules, being highly sensitive to changes in their structural organization, such as secondary structure in peptides...</p><p>DOI: 10.1039/d6cp02614a</p>]]></description>
 </item>
 <item>
-<title>Contribution of Noncovalent Interactions in Ionic Crystal Containing Halonium Cation explored via static and time-evolution methods in the crystalline phase</title>
+<title>Exploring the contribution of noncovalent interactions in an ionic crystal containing a halonium cation using static and time-evolution methods in the crystalline phase</title>
 <link>https://doi.org/10.1039/d6cp03567a</link>
 <guid isPermaLink="false">10.1039/d6cp03567a</guid>
 <pubDate>Fri, 13 Nov 2026 13:23:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mariusz Michalczyk, Jarosław Panek, Aneta Jezierska, Wiktor Zierkiewicz</p><p>Halonium ions are promising candidates for strong and efficient Lewis acids. Recent research has highlighted their applicability in catalysis and as building blocks in supramolecular architectures. In this work, a...</p><p>DOI: 10.1039/d6cp03567a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Mariusz Michalczyk, Jarosław J. Panek, Aneta Jezierska, Wiktor Zierkiewicz</p><p>Two different computational perspectives are employed for multidimensional analyses of interactions occurring in a crystal structure containing a halonium cation motif.</p><p>DOI: 10.1039/d6cp03567a</p>]]></description>
 </item>
 <item>
 <title>Revealing Phase Transition Mechanism of GaAs Nanoparticle via Machine Learning Molecular Dynamics Simulation</title>
@@ -425,11 +481,11 @@
 <description><![CDATA[<p><b>Authors:</b> Bing Ma, Na Qin, Sheng Zhang, Xiao Wang, Wei Zhou, Lipiao Bao, Xing Lu</p><p>CrystalInterpen is an open-source web tool that generates interpenetrated framework structures from CIF files and estimates the maximum interpenetration degree N max ≈ 2 a / c , validated against COF-300, IRMOF-9 and a charge-assisted HOF.</p><p>DOI: 10.1039/d6cp03643k</p>]]></description>
 </item>
 <item>
-<title>Ultra-High-Density Skyrmions in SrTiO3/BaTiO3 Superlattices Achieved by Substrate and Stacking Engineering</title>
+<title>Ultra-high-density skyrmions in SrTiO 3 /BaTiO 3 superlattices achieved by substrate and stacking engineering</title>
 <link>https://doi.org/10.1039/d6cp04045d</link>
 <guid isPermaLink="false">10.1039/d6cp04045d</guid>
 <pubDate>Fri, 13 Nov 2026 03:43:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Luhang Jin, Yidong Ke, Jiong Wang, Pingping Wu</p><p>Skyrmion devices are considered promising candidates for next-generation memory devices, particularly for racetrack memory applications. In recent years, the potentially high storage density of such devices has attracted great interest....</p><p>DOI: 10.1039/d6cp04045d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Luhang Jin, Yidong Ke, Jiong Wang, Pingping Wu</p><p>Enhancement of polar skyrmion density is achieved through neural network-assisted phase-field simulations, revealing the joint effects of stacking, temperature, and substrate.</p><p>DOI: 10.1039/d6cp04045d</p>]]></description>
 </item>
 <item>
 <title>Interfacial water modulation of Cm( iii ) adsorption and incorporation at the calcite–water interface</title>
@@ -523,11 +579,11 @@
 <description><![CDATA[<p><b>Authors:</b> Krzysztof Pachucki, Jacek Komasa</p><p>First-principles nonadiabatic and relativistic calculations deliver sub-MHz rovibrational spectra and dissociation energies across molecular hydrogen isotopologues, enabling stringent tests of molecular theory and fundamental constants.</p><p>DOI: 10.1039/d6cp01863g</p>]]></description>
 </item>
 <item>
-<title>Effect of π-bridge and vertex group on the transport and interfacial properties of Y-shaped hole-transporting materials in perovskite solar cells</title>
+<title>Effects of π-bridge and vertex groups on the transport and interfacial properties of Y-shaped hole-transporting materials in perovskite solar cells</title>
 <link>https://doi.org/10.1039/d6cp02852g</link>
 <guid isPermaLink="false">10.1039/d6cp02852g</guid>
 <pubDate>Wed, 11 Nov 2026 08:07:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zemin Zhang, Zetian Tang, Jie Yuan, Ping Wang</p><p>Eight novel Y-shaped hole transport materials (HTMs) 109ome, 109sme, sbb, sbbome, sbbsme, sbs, sbsome and sbssme were designed by introducing thiophene or benzene rings to the π-bridge and methoxy or...</p><p>DOI: 10.1039/d6cp02852g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zemin Zhang, Zetian Tang, Jie Yuan, Ping Wang</p><p>Eight Y-shaped HTMs were designed by terminal and π-bridge modifications of A1090B769. The optimized sbsome has a hole mobility of 1.73 cm 2 V −1 s −1 , 1.6 orders of magnitude above A1090B769, with enhanced π–π stacking and interfacial interactions.</p><p>DOI: 10.1039/d6cp02852g</p>]]></description>
 </item>
 <item>
 <title>Elucidation of organohalogenochromism (OHC) of D–A pyridinium dyes bearing various counter anions</title>
@@ -572,11 +628,11 @@
 <description><![CDATA[<p><b>Authors:</b> Darshil Chodvadiya, Izabela Zgłobicka, Dominik Kurzydłowski, Prafulla K. Jha, Krzysztof J. Kurzydłowski</p><p>h-AlN promotes an O 2 -first four-electron ORR pathway toward Li 4 O 2 formation, achieving low ORR/OER overpotentials of 0.178/0.104 V and total overpotential of 0.282 V, highlighting its potential as a bifunctional cathode catalyst for Li–O 2 batteries.</p><p>DOI: 10.1039/d6cp03043b</p>]]></description>
 </item>
 <item>
-<title>Strain-tunable 2D Type-II PtS2/PtSSe van der Waals heterostructure with high carrier mobility for solar cell application</title>
+<title>Strain-tunable 2D type-II PtS 2 /PtSSe van der Waals heterostructure with high carrier mobility for solar cell applications</title>
 <link>https://doi.org/10.1039/d6cp03870k</link>
 <guid isPermaLink="false">10.1039/d6cp03870k</guid>
 <pubDate>Tue, 10 Nov 2026 15:03:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xin Zhou, Xi Zhang, Feng Tang, Wenjie He, Ya Nie, Gang Xiang</p><p>The realization of two-dimensional (2D) van der Waals (vdW) heterostructures (HSs) with high optical absorption, superior carrier mobility, and ideal type-II band alignment is pivotal for photovoltaic applications. Using first-principles...</p><p>DOI: 10.1039/d6cp03870k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Xin Zhou, Xi Zhang, Feng Tang, Wenjie He, Ya Nie, Gang Xiang</p><p>The type-II PtS 2 /SePtS heterostructure enables efficient carrier separation, strong optical absorption, and ultrahigh mobility. Strain engineering further amplifies transport disparity and significantly boosts the power conversion efficiency.</p><p>DOI: 10.1039/d6cp03870k</p>]]></description>
 </item>
 <item>
 <title>Damage-free separator engineering strategy via solvent-free in situ growth of Zn-MOF functional layers for long-cycling aqueous zinc-ion batteries</title>
@@ -633,96 +689,5 @@
 <guid isPermaLink="false">10.1039/d6cp02513g</guid>
 <pubDate>Tue, 10 Nov 2026 08:04:06 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Pengju Wu, Yan Xu, Zhiheng Ma, Tianze Xu, Tianyang Liu, Yu Jing</p><p>Dimethylformamide (DMF) is a widely used industrial solvent and reagent, traditionally synthesized from carbon monoxide (CO) and dimethylamine (DMA) under harsh and energy-intensive conditions. Although alternative routes for DMF production...</p><p>DOI: 10.1039/d6cp02513g</p>]]></description>
-</item>
-<item>
-<title>The role of water in the thermal decomposition of HXeCl in the HXeCl–H 2 O complex: spectator or chemical participant?</title>
-<link>https://doi.org/10.1039/d6cp02395a</link>
-<guid isPermaLink="false">10.1039/d6cp02395a</guid>
-<pubDate>Mon, 09 Nov 2026 14:44:08 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Arik Cohen, Masashi Tsuge, Robert Benny Gerber</p><p>A simple picture presenting the dominant role played by water in the thermal decomposition of HXeCl in the HXeCl–H 2 O complex.</p><p>DOI: 10.1039/d6cp02395a</p>]]></description>
-</item>
-<item>
-<title>A robust two-dimensional nodal-loop spin-gapless semimetal with d 0 ferromagnetism</title>
-<link>https://doi.org/10.1039/d6cp03494b</link>
-<guid isPermaLink="false">10.1039/d6cp03494b</guid>
-<pubDate>Mon, 09 Nov 2026 13:43:00 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qian Zheng, Aining Wang, Zikui Ye, Yueqiao Qu, Hongquan Zeng, Yu Chen, Liang Liu, Weiyao Jia, Huaxing Zhu, Junzhong Wang, Gang Yao</p><p>Nodal-line spin-gapless semimetals (NLSGSMs), combining 100% spin polarization with gapless conducting channels, are highly sought after for low-dissipation spintronics.</p><p>DOI: 10.1039/d6cp03494b</p>]]></description>
-</item>
-<item>
-<title>Unveiling the multifunctionality of CdBiS 2 Cl monolayer: insights into negative Poisson's ratio and piezo-photocatalysis</title>
-<link>https://doi.org/10.1039/d6cp02452a</link>
-<guid isPermaLink="false">10.1039/d6cp02452a</guid>
-<pubDate>Mon, 09 Nov 2026 13:23:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nilakantha Tripathy, Fathima IS, Harshita Seksaria, Abir De Sarkar</p><p>The integration of multifunctionality has opened new avenues for advancing modern technologies, especially within the realm of two-dimensional (2D) materials.</p><p>DOI: 10.1039/d6cp02452a</p>]]></description>
-</item>
-<item>
-<title>Machine-Learning Interatomic Potential-based Enhanced Sampling Simulations Reveal Dynamic Conformations and Small Molecule Activation on Au9 Nanocluster Confined in UiO-66-NH2 MOF</title>
-<link>https://doi.org/10.1039/d6cp02396g</link>
-<guid isPermaLink="false">10.1039/d6cp02396g</guid>
-<pubDate>Mon, 09 Nov 2026 11:42:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dhananjay Gupta, Tarak Karmakar</p><p>Atomically precise metal nanoclusters (NCs) confined within metal-organic frameworks (MOFs) have emerged as promising multifunctional porous crystalline nanocomposites (NC@MOFs) materials for applications in catalysis and sensing. Despite growing interest in...</p><p>DOI: 10.1039/d6cp02396g</p>]]></description>
-</item>
-<item>
-<title>Experimental and theoretical study on the kinetics of chlorine atom recombination with fluoroformyl radicals</title>
-<link>https://doi.org/10.1039/d6cp03757g</link>
-<guid isPermaLink="false">10.1039/d6cp03757g</guid>
-<pubDate>Mon, 09 Nov 2026 10:55:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> María P. Badenes, Larisa L. B. Bracco, Carlos J. Cobos, Adela E. Croce, María E. Tucceri</p><p>Combining quantum chemical calculations with experimental kinetics provides a complementary approach to elucidate the reaction rate constant and the detailed atmospheric mechanism of the Cl atom recombination with the FCO radicals.</p><p>DOI: 10.1039/d6cp03757g</p>]]></description>
-</item>
-<item>
-<title>Electron momentum spectroscopy of benzonitrile: probing substitution effects on the molecular orbitals of benzene derivatives</title>
-<link>https://doi.org/10.1039/d6cp03352k</link>
-<guid isPermaLink="false">10.1039/d6cp03352k</guid>
-<pubDate>Mon, 09 Nov 2026 10:23:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> David George Matalon, Darryl Bruce Jones, Samuel Eden, Kate Nixon</p><p>This work applies experimental and theoretical electron momentum spectroscopy to the interstellar molecule benzonitrile for the first time. The results are presented both in position space (spatial orbital representations using...</p><p>DOI: 10.1039/d6cp03352k</p>]]></description>
-</item>
-<item>
-<title>Influence of process-relevant impurities on the thermodynamic equilibrium of lithium hydroxide monohydrate during antisolvent crystallization with 2-propanol</title>
-<link>https://doi.org/10.1039/d6cp03656b</link>
-<guid isPermaLink="false">10.1039/d6cp03656b</guid>
-<pubDate>Mon, 09 Nov 2026 10:23:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lien Lemmens, Rayco Lommelen, Stijn Raiguel, Tom Van Gerven, Koen Binnemans</p><p>Solid–liquid equilibrium experiments and thermodynamic modeling in water–2-propanol mixtures reveal selective LiOH·H 2 O crystallization from hydroxide- and LiCl-containing solutions, while NaCl and KCl are critical co-crystallizing impurities.</p><p>DOI: 10.1039/d6cp03656b</p>]]></description>
-</item>
-<item>
-<title>Shear-dependent slip of an amphiphilic n -hexanol self-assembled monolayer in a calcite nanopore</title>
-<link>https://doi.org/10.1039/d6cp02663j</link>
-<guid isPermaLink="false">10.1039/d6cp02663j</guid>
-<pubDate>Mon, 09 Nov 2026 10:20:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mohammad Mehdi Koleini, Mohammad Hasan Badizad</p><p>Anchored n -hexanol SAMs create a hydrophobic, shear-responsive boundary layer on calcite. Non-monotonic slip, anisotropic diffusion, and enhanced streaming demonstrate tunable molecular lubrication under nanoconfinement.</p><p>DOI: 10.1039/d6cp02663j</p>]]></description>
-</item>
-<item>
-<title>Experimental and theoretical exploration of the photophysics and photochemistry of a meso -(phenoxymethyl)-BODIPY-based model compound</title>
-<link>https://doi.org/10.1039/d6cp01495j</link>
-<guid isPermaLink="false">10.1039/d6cp01495j</guid>
-<pubDate>Mon, 09 Nov 2026 09:23:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sasipreetham Devarakonda, Atanu Bhattacharya, Gowri Sankar Reddipalli, Balakrishna Kolli, Qazi Saifullah, Partha Roy, Suman Das, Manoj P. Rayaroth</p><p>Photoactivated chemotherapy (PACT) enables controlled drug release independent of oxygen, offering advantages over photodynamic therapy.</p><p>DOI: 10.1039/d6cp01495j</p>]]></description>
-</item>
-<item>
-<title>Fe–vacancy complexes in KDP: contrasting force partitioning reveals the Fe 3d–O 2p hybridization bottleneck</title>
-<link>https://doi.org/10.1039/d6cp03408j</link>
-<guid isPermaLink="false">10.1039/d6cp03408j</guid>
-<pubDate>Mon, 09 Nov 2026 09:17:54 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wenkang Yu, Xiaoning Guan, Weijun Wang, Yue Cheng, Chunlian Xiong, Xunzhe Zhang, Jinkang Yu, Zhengjun Wang, Jiangzhou Xie, Yaxin Xu, Amondulloi Burhonzoda, Changcheng Chen, Pengfei Lu</p><p>Fe impurities lower the laser damage threshold of KDP crystals of sub-bandgap photon absorption into localized structural instability.</p><p>DOI: 10.1039/d6cp03408j</p>]]></description>
-</item>
-<item>
-<title>Long C-N Quasi Banana Bond in an Organic Molecule: A Quadripartite Computational Investigation</title>
-<link>https://doi.org/10.1039/d6cp03358j</link>
-<guid isPermaLink="false">10.1039/d6cp03358j</guid>
-<pubDate>Mon, 09 Nov 2026 08:43:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sanyasi Sitha</p><p>This computational work investigates a methylene (-CH 2 -) bridged pyridinium phenolate based zwitterion. Optimized structure of the molecule showed an unusual conformation. Thus, to ascertain molecule is not broken,...</p><p>DOI: 10.1039/d6cp03358j</p>]]></description>
-</item>
-<item>
-<title>An all-metallic transistor with ultralow-power consumption and ultrafast switching speed based on the metal–semiconductor phase transition of zigzag germanene nanoribbons</title>
-<link>https://doi.org/10.1039/d6cp03775e</link>
-<guid isPermaLink="false">10.1039/d6cp03775e</guid>
-<pubDate>Mon, 09 Nov 2026 07:23:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Huan Xiao, Xing-Yi Tan, Gang Xu, Jing Wan, Qiang Li</p><p>We propose an all-metal transistor featuring ultralow power consumption and ultrafast switching, exploiting the metal-semiconductor phase transition of zigzag germanene nanoribbons for efficient switching via controlled electric-field modulation.</p><p>DOI: 10.1039/d6cp03775e</p>]]></description>
-</item>
-<item>
-<title>Hydrophilic silica surfaces host a hydrophobic-like two-dimensional water network</title>
-<link>https://doi.org/10.1039/d6cp02862d</link>
-<guid isPermaLink="false">10.1039/d6cp02862d</guid>
-<pubDate>Mon, 09 Nov 2026 07:03:51 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yijing Yang, Sana Bougueroua, Álvaro Cimas, Marie-Pierre Gaigeot</p><p>Silica–water interfaces are widely considered prototypically hydrophilic due to surface silanol groups enabling hydrogen bonding with interfacial water.</p><p>DOI: 10.1039/d6cp02862d</p>]]></description>
 </item>
 </channel></rss>

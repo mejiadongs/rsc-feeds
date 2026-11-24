@@ -3,7 +3,42 @@
 <title>RSC - Nanoscale</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/nr</link>
 <description>RSC - Nanoscale (via Crossref)</description>
-<lastBuildDate>Mon, 23 Nov 2026 07:51:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:01:41 +0000</lastBuildDate>
+<item>
+<title>Effect of continuous interlayer sliding on stacking disorder in graphite</title>
+<link>https://doi.org/10.1039/d6nr02829b</link>
+<guid isPermaLink="false">10.1039/d6nr02829b</guid>
+<pubDate>Mon, 23 Nov 2026 20:43:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Emma Helen Wolpert, William S. J. Skinner, Johannes Lischner, Kim E. Jelfs</p><p>Layered materials underpin technologies ranging from batteries to van der Waals electronics, but their weak interlayer interactions can lead to stacking disorder that affects their mechanical, electronic and optical properties....</p><p>DOI: 10.1039/d6nr02829b</p>]]></description>
+</item>
+<item>
+<title>Triggering high-efficiency electrocatalytic oxygen evolution reaction over NiFe-LDHs with rare-earth metal oxide modification</title>
+<link>https://doi.org/10.1039/d6nr03308c</link>
+<guid isPermaLink="false">10.1039/d6nr03308c</guid>
+<pubDate>Mon, 23 Nov 2026 14:23:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jingyi Gu, Deguang Ji, Yezi Hu, Guixia Zhao, Cheng Zhang, Jing Zhao, Guangtong Hai, Xiubing Huang</p><p>Highly reactive and long-lasting oxygen evolution reaction (OER) electrocatalysts are a prerequisite for effective H2 generation by anion exchange membrane water electrolyzer (AEMWE). In this work, four rare-earth metal oxides...</p><p>DOI: 10.1039/d6nr03308c</p>]]></description>
+</item>
+<item>
+<title>Neuromorphic Device Architectures for Bio-inspired Olfaction: From Chemiresistive Sensing to Perception and Learning</title>
+<link>https://doi.org/10.1039/d6nr03094g</link>
+<guid isPermaLink="false">10.1039/d6nr03094g</guid>
+<pubDate>Mon, 23 Nov 2026 14:23:08 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Young Geun Song, Incheol Cho</p><p>Artificial olfaction is advancing beyond gas-sensor arrays toward integrated platforms that encode time-dependent chemical responses, retain exposure history, and support recognition near the sensing front end. This review examines how...</p><p>DOI: 10.1039/d6nr03094g</p>]]></description>
+</item>
+<item>
+<title>Nitrile Geometry as an Architectural Code for Cu 10 Nanocluster Metal-Organic Frameworks</title>
+<link>https://doi.org/10.1039/d6nr03513b</link>
+<guid isPermaLink="false">10.1039/d6nr03513b</guid>
+<pubDate>Mon, 23 Nov 2026 14:03:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ayumu Kondo, Riki Nakatani, Sreelakshmi K. S., Tsukasa Irie, Yunosuke Arai, Yuya Sugawara, Tokuhisa Kawawaki, Saikat Das, Yuichi Negishi</p><p>Atomically precise nanoclusters offer molecularly defined metal architectures, yet their conversion into extended frameworks remains difficult because reticulation must impose long-range order without erasing the structural adaptability of the multinuclear...</p><p>DOI: 10.1039/d6nr03513b</p>]]></description>
+</item>
+<item>
+<title>NanoQA: a literature-grounded question answering benchmark for evaluating large language models in nanomaterials science</title>
+<link>https://doi.org/10.1039/d6nr00888g</link>
+<guid isPermaLink="false">10.1039/d6nr00888g</guid>
+<pubDate>Mon, 23 Nov 2026 11:09:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yongzhu Cai, Xinyi Ji, Hong Wang</p><p>NanoQA is a literature-grounded benchmark across five core domains, designed to evaluate the factual accuracy and conceptual differentiation of large language models in nanomaterials science.</p><p>DOI: 10.1039/d6nr00888g</p>]]></description>
+</item>
 <item>
 <title>Orientation-Controlled Fs Laser-Induced Periodic Surface Structures on CeO 2 : Exposing High-Index Facets for Enhanced Ethanol Sensing</title>
 <link>https://doi.org/10.1039/d6nr03470e</link>
@@ -61,11 +96,11 @@
 <description><![CDATA[<p><b>Authors:</b> Fangyuan Chen, Yikai Chen, Xiangzhi Zheng, Hongbin Xing, Luqian Ma, Jiale Zheng, Ang Li, Zhonghua Shen</p><p>Multiscale ordered hot spots for controllable, uniform, highly sensitive SERS detection in food safety, environmental monitoring, and trace analysis.</p><p>DOI: 10.1039/d6nr03564g</p>]]></description>
 </item>
 <item>
-<title>Self-Assembly Procedure for Fabricating Mn3O4@PDA@CuS Nanocrystals with Antibacterial Activity and Imaging Properties</title>
+<title>Self-assembly procedure for fabricating Mn 3 O 4 @PDA@CuS nanocrystals with antibacterial activity and imaging properties</title>
 <link>https://doi.org/10.1039/d6nr03336a</link>
 <guid isPermaLink="false">10.1039/d6nr03336a</guid>
 <pubDate>Thu, 19 Nov 2026 13:03:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhiyong Li, Shaojun Liu, Fang Qin, Xingyu Guan, Ting Yin, Xiaojuan Deng, Xiang Mao</p><p>Traditional fabrication methods for multifunctional nanocrystals often struggle to effectively integrate imaging capabilities and biological functionalities. For the development of nanomaterials with both imaging properties and antibacterial activity, a precise...</p><p>DOI: 10.1039/d6nr03336a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zhiyong Li, Shaojun Liu, Fang Qin, Xingyu Guan, Ting Yin, Xiaojuan Deng, Xiang Mao</p><p>Schematic of MPC (Mn 3 O 4 @PDA@CuS) fabrication via self-assembly, integrating PTT, CDT, MRI, and antibacterial activity.</p><p>DOI: 10.1039/d6nr03336a</p>]]></description>
 </item>
 <item>
 <title>From Bulk to Bright: Mechanochemically Derived MAPbBr3 Nanocrystals for Stable Green-Down Color Converters</title>
@@ -117,11 +152,11 @@
 <description><![CDATA[<p><b>Authors:</b> Fateh Ullah, Fahimeh Marvi, Guoguang Rong, Mohamad Sawan</p><p>Porous silicon (PSi), a versatile material with tunable nanoporosity, exhibits a markedly higher surface-to-volume ratio than conventional crystalline silicon (cSi), making it exceptionally attractive for surface-mediated physicochemical processes. Although cSi...</p><p>DOI: 10.1039/d6nr03192g</p>]]></description>
 </item>
 <item>
-<title>Co-Al LDH Nanoclusters for Enhanced Visible-Light-Driven Photocatalytic H 2 Production</title>
+<title>Co–Al LDH nanoclusters for enhanced visible-light-driven photocatalytic H 2 production</title>
 <link>https://doi.org/10.1039/d6nr03412h</link>
 <guid isPermaLink="false">10.1039/d6nr03412h</guid>
 <pubDate>Wed, 18 Nov 2026 19:03:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Dolores Gema Gema Gil Gavilán, Raul Rojas Luna, Souvik Roy, José Rafael Ruiz, Vanessa Prévot, Francisco José Romero Salguero</p><p>The efficient conversion of solar energy into chemical fuels remains challenging.Multicomponent photocatalytic systems, combining catalyst, photosensitizer (PS), and sacrificial electron donor (ED), offer a convenient platform for studying light-driven hydrogen...</p><p>DOI: 10.1039/d6nr03412h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Dolores G. Gil-Gavilán, Raúl Rojas-Luna, Souvik Roy, José R. Ruiz, Vanessa Prevot, Francisco J. Romero-Salguero</p><p>Highly stable colloidal Co–Al LDH nanoclusters show a photocatalytic hydrogen evolution activity over an order-of-magnitude higher than that of micrometric LDH.</p><p>DOI: 10.1039/d6nr03412h</p>]]></description>
 </item>
 <item>
 <title>Phosphoramidate-driven charge modulation enhances the cellular uptake of spherical nucleic acids</title>
@@ -159,11 +194,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yuhan He, Jinrong Lv, Min Liu, Bernard A. Goodman, Shaogang Liu</p><p>A noble-metal-free SERS platform synergistically couples Mie resonance and photo-induced charge transfer, enabling highly durable trace-level molecular sensing.</p><p>DOI: 10.1039/d6nr02967a</p>]]></description>
 </item>
 <item>
-<title>Probing Nanoscale DNA Fingerprints and Hybridization with Graphene Plasmonic Biosensor</title>
+<title>Probing nanoscale DNA fingerprints and hybridization with a graphene plasmonic biosensor</title>
 <link>https://doi.org/10.1039/d6nr03510h</link>
 <guid isPermaLink="false">10.1039/d6nr03510h</guid>
 <pubDate>Wed, 18 Nov 2026 01:23:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu Duan, Shiyu Yang, Chenchen Wu, Xiaoxia Yang</p><p>Deoxyribonucleic acid (DNA) plays a vital role in genetic information storage, biological regulation, and cancer diagnosis. Understanding its nanoscale structure and behavior is crucial for advancing biomedical research and developing...</p><p>DOI: 10.1039/d6nr03510h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yu Duan, Shiyu Yang, Chenchen Wu, Xiaoxia Yang</p><p>A plasmonic biosensor based on cleaned graphene nanoribbons enhances the infrared signal of a 12 nm-thick ssDNA film by a factor of 125. Changes in graphene plasmon resonance enable real-time monitoring of DNA hybridization in aqueous solutions.</p><p>DOI: 10.1039/d6nr03510h</p>]]></description>
 </item>
 <item>
 <title>Comparison of 3D photoactive ZnO nanotube membranes fabricated via electroless and sol–gel deposition</title>
@@ -208,18 +243,18 @@
 <description><![CDATA[<p><b>Authors:</b> Jiaqin Cai, Bingxue Lin, Chennan Deng, Hang Zhao, Ronghui Zhou</p><p>Copper-based platforms boost ROS via photosensitizer photophysics, Cu( i )/Cu( ii ) redox cycling, and GSH depletion, while combining PDT with PTT/CDT and triggering cuproptosis, ferroptosis, pyroptosis, and ICD to enhance antitumor efficacy.</p><p>DOI: 10.1039/d6nr03495k</p>]]></description>
 </item>
 <item>
-<title>Interfacial molecular recognition of Fe-Ce twinned nanozyme for colorimetric food freshness sensing</title>
+<title>Interfacial molecular recognition of an Fe–Ce twinned nanozyme for colorimetric food freshness sensing</title>
 <link>https://doi.org/10.1039/d6nr02879a</link>
 <guid isPermaLink="false">10.1039/d6nr02879a</guid>
 <pubDate>Tue, 17 Nov 2026 01:45:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Heng Zhao, Zixian Zhao, Zhuo Wen, Yilin Zhao</p><p>An Fe–Ce twinned nanozyme (FeCe-TNZ) exhibiting oxidase-, peroxidase- and phosphatase-like activities was developed. AMP and guanine suppressed its peroxidase-like response, enabling colorimetric determination of these food-related biomarkers. Substrate-dependent measurements revealed...</p><p>DOI: 10.1039/d6nr02879a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Heng Zhao, Zixian Zhao, Zhuo Wen, Yilin Zhao</p><p>Twin Fe–Ce nanozymes with tri-enzyme activity achieve dual-mode molecular recognition for colorimetric simultaneous detection of food freshness biomarkers.</p><p>DOI: 10.1039/d6nr02879a</p>]]></description>
 </item>
 <item>
-<title>Engineering p-d Orbital Hybridization at CuSn-Co 3 O 4 Heterointerfaces for Synergistic Nitrate-to-Ammonia Electrocatalysis</title>
+<title>Engineering p–d orbital hybridization at CuSn–Co 3 O 4 heterointerfaces for synergistic nitrate-to-ammonia electrocatalysis</title>
 <link>https://doi.org/10.1039/d6nr03611b</link>
 <guid isPermaLink="false">10.1039/d6nr03611b</guid>
 <pubDate>Tue, 17 Nov 2026 01:04:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shanshan Zheng, Li Deng, Mengyun Yang, Chen Chen, Yu Bai, Zhifeng Xin, Zhipeng Chen</p><p>Electrocatalytic nitrate reduction (NO3RR) to ammonia offers a sustainable route for wastewater remediation and green NH3 synthesis, yet its practical application is hindered by sluggish reaction kinetics, competitive hydrogen evolution,...</p><p>DOI: 10.1039/d6nr03611b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shanshan Zheng, Li Deng, Mengyun Yang, Chen Chen, Yu Bai, Zhifeng Xin, Zhipeng Chen</p><p>An in-situ anchored CuSn–Co 3 O 4 heterointerface catalyst achieves high Faradaic efficiency for nitrate electroreduction to ammonia via p–d orbital hybridization and an active hydrogen-mediated hydrogenation.</p><p>DOI: 10.1039/d6nr03611b</p>]]></description>
 </item>
 <item>
 <title>Ion-specific Effects on Bacterial Lipopolysaccharide (LPS) Langmuir Monolayers: Membrane Elasticity, Nanostructure, and Stability</title>
@@ -271,11 +306,11 @@
 <description><![CDATA[<p><b>Authors:</b> Chandra Sekhar Reddy Kolli, Gowtham Polumati, Aleksandra A. Kutuzova, Ekaterina E. Maslova, Andres De Luna Bugallo, Nitish Kumar Gupta, Mikhail V. Rybin, Parikshit Sahatiya</p><p>A mixed-dimensional WSe 2 /NiO nanowire heterostructure achieves broadband UV-VIS-NIR photodetection with high responsivity through engineered nanophotonic field localization and enhanced light-matter interactions.</p><p>DOI: 10.1039/d6nr02876d</p>]]></description>
 </item>
 <item>
-<title>Magnetic graphyne: A versatile two-dimensional carbon allotrope</title>
+<title>Magnetic graphyne: a versatile two-dimensional carbon allotrope</title>
 <link>https://doi.org/10.1039/d6nr01320a</link>
 <guid isPermaLink="false">10.1039/d6nr01320a</guid>
 <pubDate>Mon, 16 Nov 2026 12:43:42 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Siyu Chen, Kai-Wei Chang</p><p>Carbon allotropes exhibit exceptional structural diversity, enabling a wide range of electronic and functional behaviors. In this work, we propose a previously unexplored two-dimensional member of the graphyne family that...</p><p>DOI: 10.1039/d6nr01320a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Kai-Wei Chang, Siyu Chen</p><p>Magnetic graphyne, a single carbon layer, hosts σ radicals that order into antiparallel ferromagnetic spin chains below a Monte Carlo Néel temperature of 19 K and whose flat bands coexist with a π Dirac crossing at the Fermi level.</p><p>DOI: 10.1039/d6nr01320a</p>]]></description>
 </item>
 <item>
 <title>Molecular Insights into Defect-Dependent Stability of ZIF-8</title>
@@ -299,11 +334,11 @@
 <description><![CDATA[<p><b>Authors:</b> Wenjing Fan, Haiyan Liu, Yaolan Li, Lihui Huang, Xichen Wang, Liping Chen, Xinjian Feng</p><p>Core–shell ZIF nanoparticles spatially segregate hydrophobic oxygen reservoirs and hydrophilic enzyme interfaces for triphase biosensing.</p><p>DOI: 10.1039/d6nr03864f</p>]]></description>
 </item>
 <item>
-<title>Intracellular Trafficking Governs Membrane Scaffold Performance in Small Extracellular Vesicle Engineering</title>
+<title>Intracellular trafficking governs membrane scaffold performance in small extracellular vesicle engineering</title>
 <link>https://doi.org/10.1039/d6nr02768g</link>
 <guid isPermaLink="false">10.1039/d6nr02768g</guid>
 <pubDate>Fri, 13 Nov 2026 18:23:38 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> David Wang, Christopher Olson, Blaine Baker, Pengyang Zhang, Ellie Wangard, Fernanda Mendoza, Danielle Otero, Lissette Weaver, Haseeb Afzali, Keegan Kogl, Seth Madden, Cate Wessels, Aijun Wang, Biao Lu</p><p>Small extracellular vesicles (sEVs) are emerging as versatile platforms for molecular imaging, targeted delivery, and nanotheranostics. Although membrane scaffolds can facilitate cargo loading into sEVs, scaffold selection remains largely empirical,...</p><p>DOI: 10.1039/d6nr02768g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> David Wang, Christopher Olson, Blaine Baker, Pengyang Zhang, Ellie Wangard, Fernanda Mendoza, Danielle Otero, Lissette Weaver, Haseeb Afzali, Keegan Kogl, Seth Madden, Cate Wessels, Aijun Wang, Biao Lu</p><p>Small extracellular vesicle (sEV) scaffold performance depends on intracellular trafficking. VSVG, ACY and FAR enable robust cargo loading through endosomal trafficking, establishing a trafficking-guided framework for rational nanotherapeutic design.</p><p>DOI: 10.1039/d6nr02768g</p>]]></description>
 </item>
 <item>
 <title>Enhancing the solvent stability and electrochemical transport of polymer brushes using a double-network architecture</title>
@@ -369,11 +404,11 @@
 <description><![CDATA[<p>DOI: 10.1039/d6nr90200f</p>]]></description>
 </item>
 <item>
-<title>Machine-learning insights into molecular junction instabilities: the symmetry breaking and a fast random walk of the molecule</title>
+<title>Machine-learning insights into molecular junction instabilities: symmetry breaking and fast random walking of the molecule</title>
 <link>https://doi.org/10.1039/d6nr03092k</link>
 <guid isPermaLink="false">10.1039/d6nr03092k</guid>
 <pubDate>Wed, 11 Nov 2026 11:03:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nikolay M. Chtchelkatchev, Yuriy Uspenskii, Alexander Алексеевич Gorbatsevich</p><p>The mechanical stability of junctions is a topical problem of molecular electronics and many other applications. To advance in this issue, we used the technique of neural network potentials, which...</p><p>DOI: 10.1039/d6nr03092k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Nikolay M. Chtchelkatchev, Yuriy A. Uspenskii, Alexander A. Gorbatsevich</p><p>Stretching breaks the symmetry of a Cu–molecule–Cu junction. At finite temperature, the molecule undergoes stochastic motion along the electrode surfaces.</p><p>DOI: 10.1039/d6nr03092k</p>]]></description>
 </item>
 <item>
 <title>Hierarchical 3D Brick-and Mortar-Steel Interpenetrating Networks Enabling Efficient and Uniform Heat Distribution in Portable Electronics</title>
@@ -437,33 +472,5 @@
 <guid isPermaLink="false">10.1039/d6nr03363f</guid>
 <pubDate>Tue, 10 Nov 2026 07:43:38 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Minli Fu, Haixia Liu, Zekai Xu, Wenqian Dang, Chao Yao, Xiazhang Li</p><p>Interfacial engineering creates a tea polyphenol-coated ZnO/modified mica 2D–2D composite that integrates UV shielding with daytime radiative cooling, delivering SPF 9.8 and ∼8 °C skin cooling under sunlight.</p><p>DOI: 10.1039/d6nr03363f</p>]]></description>
-</item>
-<item>
-<title>Hierarchically engineered rose-petal-like CoMoO 4 immobilized on V 2 CT x MXene nanosheets: a potent multi-responsive nano-catalyst for wastewater remediation and intensified piezo-modulated electrocatalytic hydrogen evolution</title>
-<link>https://doi.org/10.1039/d6nr01985d</link>
-<guid isPermaLink="false">10.1039/d6nr01985d</guid>
-<pubDate>Mon, 09 Nov 2026 15:44:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Gouranga Mahapatra, Anup Debnath, Amartya Sau, Swarnalata Maity, Pratyusha Das, Srija Ghosh, Shyamal K. Saha</p><p>Hierarchical V 2 CT x -CoMoO 4 nanocomposite for piezo-catalytic wastewater remediation and enhanced hydrogen evolution.</p><p>DOI: 10.1039/d6nr01985d</p>]]></description>
-</item>
-<item>
-<title>Carbon nanotube confinement reshapes exchange topology in a quasi-one-dimensional VOCl ribbon</title>
-<link>https://doi.org/10.1039/d6nr02936a</link>
-<guid isPermaLink="false">10.1039/d6nr02936a</guid>
-<pubDate>Mon, 09 Nov 2026 15:43:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Waqas Saeed, Omer Farooq, Slawomir Kret</p><p>Carbon nanotube confinement actively rewires magnetic exchange in quasi-1D VOCl: deformation favors AFM, whereas the CNT reverses a key interaction and restores FM.</p><p>DOI: 10.1039/d6nr02936a</p>]]></description>
-</item>
-<item>
-<title>Magnetic-field-induced unconventional angle-dependent magnetoresistance in van der Waals antiferromagnetic semimetals</title>
-<link>https://doi.org/10.1039/d6nr03273g</link>
-<guid isPermaLink="false">10.1039/d6nr03273g</guid>
-<pubDate>Mon, 09 Nov 2026 08:43:45 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jicheng Wang, Weiqi Liu, Wenxing Chen, Xue He, Xiaoxiao Fu, Shilei Ding, Jinbo Yang, Yanglong Hou, Rui Wu</p><p>The ADMR responses in the xz - and yz -planes exhibit unconventional angular dependence, originating from anisotropic electronic band-structure modulation induced by a magnetic field.</p><p>DOI: 10.1039/d6nr03273g</p>]]></description>
-</item>
-<item>
-<title>Micro- and nanoplastics: analytical advances, degradation mechanisms, and transformation fates in environmental and biological systems</title>
-<link>https://doi.org/10.1039/d6nr03387c</link>
-<guid isPermaLink="false">10.1039/d6nr03387c</guid>
-<pubDate>Mon, 09 Nov 2026 08:03:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yaoyuan Peng, Xin Qiao, Jiafan Lin, Guanyu Liu, Wanzhao Zhang, Yeteng Zhong, Chunying Chen, Xuejing Cui</p><p>MNPs are detected by microscopy, spectroscopy or mass spectrometry; degrade abiotically or biotically; and convert to resources, upcycled materials or metabolites, affecting fate, transformation-product risks and environmental/human health.</p><p>DOI: 10.1039/d6nr03387c</p>]]></description>
 </item>
 </channel></rss>
