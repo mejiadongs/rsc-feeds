@@ -3,7 +3,42 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Tue, 24 Nov 2026 10:03:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:35:06 +0000</lastBuildDate>
+<item>
+<title>Deciphering the spacer code: a spectroscopic and computational investigation into BSA binding by structurally engineered cationic Gemini surfactants</title>
+<link>https://doi.org/10.1039/d6cp00809g</link>
+<guid isPermaLink="false">10.1039/d6cp00809g</guid>
+<pubDate>Tue, 24 Nov 2026 16:57:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Homen Dahal, Shashi Kumar, Joykrishna Dey</p><p>The rational design of surfactant architectures to control biomolecular interactions is pivotal for advancing drug delivery and protein engineering.</p><p>DOI: 10.1039/d6cp00809g</p>]]></description>
+</item>
+<item>
+<title>Fluxionality of Pt clusters on TiO 2 at 1000 K: Insights into mobility and morphology from molecular dynamics and metadynamics</title>
+<link>https://doi.org/10.1039/d6cp03157a</link>
+<guid isPermaLink="false">10.1039/d6cp03157a</guid>
+<pubDate>Tue, 24 Nov 2026 15:22:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Usama Saleem, Shaama Mallikarjun Sharada</p><p>We examine the dynamical evolution of small Ptn clusters (3 ≤ n ≤ 9) on rutile TiO 2 (110) to identify factors that favor thermal stability, as a first step towards...</p><p>DOI: 10.1039/d6cp03157a</p>]]></description>
+</item>
+<item>
+<title>Ultrafast Photochemistry of Glutamate and GABA: Replicating the Chemistry but Not the Selectivity of Glutamate Decarboxylase</title>
+<link>https://doi.org/10.1039/d6cp03175g</link>
+<guid isPermaLink="false">10.1039/d6cp03175g</guid>
+<pubDate>Tue, 24 Nov 2026 12:42:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Peter  Marius Helt Jensen, Jan ThOgersen, Henrik Stapelfeldt, Tobias Weidner, Frank Jensen</p><p>Glutamate and 4-aminobutyrate (γ-aminobutyric acid, GABA) are the principal excitatory and inhibitory neurotransmitters of the brain, and the balance between them is set by the enzymatic decarboxylation of glutamate to...</p><p>DOI: 10.1039/d6cp03175g</p>]]></description>
+</item>
+<item>
+<title>AI-guided discovery of mechanistic degeneracy in TiO 2 -supported catalysts</title>
+<link>https://doi.org/10.1039/d6cp03908a</link>
+<guid isPermaLink="false">10.1039/d6cp03908a</guid>
+<pubDate>Tue, 24 Nov 2026 12:03:51 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Salvador Castillo, Diego Valencia</p><p>Using an AI-guided causal and machine learning framework, this study reveals topological dependencies and mechanistic degeneracy in TiO 2 -supported catalysts across six industrial reactions.</p><p>DOI: 10.1039/d6cp03908a</p>]]></description>
+</item>
+<item>
+<title>In silico design and prediction of M-sandwiched MCP (M = Cu, Ag, Au) compounds featuring buckled phosphidocarbide sheets</title>
+<link>https://doi.org/10.1039/d6cp02532c</link>
+<guid isPermaLink="false">10.1039/d6cp02532c</guid>
+<pubDate>Tue, 24 Nov 2026 10:33:22 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Forouzan Arashnezhad, Morgan Redington, Zabiollah Mahdavifar, Morteza Zare, Gilles Frapper</p><p>A new family of ternary MCP phosphidocarbide compounds (M = Cu, Ag, Au) is predicted by combining evolutionary crystal structure prediction with density functional theory calculations.</p><p>DOI: 10.1039/d6cp02532c</p>]]></description>
+</item>
 <item>
 <title>Enhancing the electrochemical performance of crednerite CuMnO2 materials for alkaline water electrolysis through morphology optimization</title>
 <link>https://doi.org/10.1039/d6cp02550a</link>
@@ -306,11 +341,11 @@
 <description><![CDATA[<p><b>Authors:</b> Satish Bhusan Panda, Subesh Gharai, Ankur Sharma, Surajit Maity</p><p>Relocating a hydroxyl group selects opposite lactam–lactim tautomers of hydroxyisoquinoline, while both form cyclic hydration networks offering molecular insight into hydrogen-bonding patterns relevant to biological base pairing.</p><p>DOI: 10.1039/d6cp03907c</p>]]></description>
 </item>
 <item>
-<title>Interplay between the redox and acid-base active sites in water splitting reaction on Ti and V substituted Silicalite-1</title>
+<title>Interplay between the redox and acid–base active sites in the water splitting reaction on Ti and V substituted silicalite-1</title>
 <link>https://doi.org/10.1039/d6cp02212j</link>
 <guid isPermaLink="false">10.1039/d6cp02212j</guid>
 <pubDate>Wed, 18 Nov 2026 07:23:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bartłomiej Szyja, Tomasz Dymkowski, Ana Palcic</p><p>In this work, we investigate the reaction mechanism of the water splitting on the MFI zeolite with transition metal (Ti and V) substitutions. We found that the overpotentials needed for...</p><p>DOI: 10.1039/d6cp02212j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Bartłomiej M. Szyja, Tomasz Dymkowski, Ana Palčić</p><p>In this work, we investigate the reaction mechanism of water splitting on the MFI zeolite with transition metal (Ti and V) substitutions.</p><p>DOI: 10.1039/d6cp02212j</p>]]></description>
 </item>
 <item>
 <title>Growth mode switching through competing growth sites in a lateral chemical garden tube realized by a physical step</title>
@@ -320,11 +355,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yujin Kubodera, Muneyuki Matsuo, Ágota Tóth, Dezso Horvath, Satoshi Nakata</p><p>A chemical garden tube, grown by injecting an aqueous copper chloride solution into an aqueous sodium silicate solution in a vertically oriented Hele–Shaw cell, exhibited growth-mode switching in response to...</p><p>DOI: 10.1039/d6cp03804b</p>]]></description>
 </item>
 <item>
-<title>An Atomic Cluster Expansion Potential for Hydrogen-Isotope Transport in Lithium Oxide</title>
+<title>An atomic cluster expansion potential for hydrogen-isotope transport in lithium oxide</title>
 <link>https://doi.org/10.1039/d6cp03149h</link>
 <guid isPermaLink="false">10.1039/d6cp03149h</guid>
 <pubDate>Tue, 17 Nov 2026 15:16:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> AYOBAMI DANIEL DARAMOLA, Prashanth Srinivasan, Vladimir Martis, Duc Nguyen-Manh</p><p>Hydrogen-isotope transport in lithium oxide is coupled to the temperature-dependent disorder of the lithium sublattice, requiring an interatomic model that describes ordered, defective, thermally distorted, and O-H-containing environments within a...</p><p>DOI: 10.1039/d6cp03149h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ayobami Daramola, Prashanth Srinivasan, Vladimir Martis, Duc Nguyen-Manh</p><p>Transport of hydrogen (H), deuterium (D), and tritium (T) in lithium oxide (Li 2 O) depends on how the host lattice changes with temperature.</p><p>DOI: 10.1039/d6cp03149h</p>]]></description>
 </item>
 <item>
 <title>A Computational Investigation of H2O and NH3 Interaction with a B12 N12 Nanocage: Benchmarking, Temperature, Multi-Guest, and Solvent Effects</title>
@@ -383,11 +418,11 @@
 <description><![CDATA[<p><b>Authors:</b> Andrew Kai, Tiffany Nguyen, Robin Grotjahn</p><p>Fullerene isomerization energies are highly sensitive to the strain of the curved sp 2 carbon network, which makes them a demanding test for approximate density functional theory. Complementing the recent C 60 ...</p><p>DOI: 10.1039/d6cp03583c</p>]]></description>
 </item>
 <item>
-<title>Symmetric double-W terahertz metasurface based on ED-TD cooperative interference for high-Q Fano sensing and polarization-dependent near-field imaging</title>
+<title>Symmetric double-“W” terahertz metasurface based on ED–TD cooperative interference for high- Q Fano sensing and polarization-dependent near-field imaging</title>
 <link>https://doi.org/10.1039/d6cp03404g</link>
 <guid isPermaLink="false">10.1039/d6cp03404g</guid>
 <pubDate>Tue, 17 Nov 2026 07:53:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Fenglei Guo, Haoyi Yang, J. Li</p><p>We design a terahertz metasurface based on the electric dipole-toroidal dipole (ED-TD) coupling mechanism. Under y-polarized terahertz wave incidence, the structure excites a high-Q (2833) Fano-like resonance at 7.546 THz,...</p><p>DOI: 10.1039/d6cp03404g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Fenglei Guo, Haoyi Yang, Jiusheng Li</p><p>We design a terahertz metasurface based on the electric dipole–toroidal dipole (ED–TD) coupling mechanism.</p><p>DOI: 10.1039/d6cp03404g</p>]]></description>
 </item>
 <item>
 <title>Linking Length to Strength: A Molecular Dynamics Perspective on the Mechanical and Barrier Properties of Polydisperse Polyethylene Systems for Hydrogen Storage</title>
@@ -460,11 +495,11 @@
 <description><![CDATA[<p><b>Authors:</b> Zhenyun Lan, Cenfeng Fu, Rulong Zhou</p><p>Enhancing the oxygen evolution reaction activity of nitride perovskites through nitrogen engineering.</p><p>DOI: 10.1039/d6cp03325c</p>]]></description>
 </item>
 <item>
-<title>Channel- and Time-Resolved Dynamics of Vinyl Bromide Cation via Ultrafast Strong Field Ionization-Photofragmentation Combined with Velocity Map Imaging</title>
+<title>Channel- and time-resolved dynamics of the vinyl bromide cation via ultrafast strong field ionization–photofragmentation combined with velocity map imaging</title>
 <link>https://doi.org/10.1039/d6cp03147a</link>
 <guid isPermaLink="false">10.1039/d6cp03147a</guid>
 <pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qi Chen, Yang Liu, Wei Yang, Hang Lv, Haifeng Xu</p><p>We employ strong field ionization-photofragmentation combined with velocity map imaging (SFI-PF-VMI) method to perform a channel- and time-resolved investigation on the dynamics of the vinyl bromide (C2H3Br) cation induced by...</p><p>DOI: 10.1039/d6cp03147a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Qi Chen, Yang Liu, Wei Yang, Hang Lv, Haifeng Xu</p><p>We employ strong field ionization–photofragmentation combined with velocity map imaging (SFI-PF-VMI) to study channel- and time-resolved dynamics of vinyl bromide (C 2 H 3 Br) cation under femtosecond laser fields.</p><p>DOI: 10.1039/d6cp03147a</p>]]></description>
 </item>
 <item>
 <title>Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO 2 Reduction in MOF-5</title>
@@ -611,7 +646,7 @@
 <link>https://doi.org/10.1039/d6cp02680j</link>
 <guid isPermaLink="false">10.1039/d6cp02680j</guid>
 <pubDate>Wed, 11 Nov 2026 13:24:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Iyarat Ounrit, Sirinee Thasitha, Ghaim M Oo, Alexandra Zevalkink, Aparporn Sakulkalavek, Komsilp Kotmool</p><p>In this work, we investigate novel Janus BiXY monolayers (BiSSe, BiSeTe, and BiSTe) using firstprinciples calculations. Their structural, electronic, mechanical, and thermoelectric properties are systematically examined within the framework of...</p><p>DOI: 10.1039/d6cp02680j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Iyarat Ounrit, Sirinee Thasitha, Ghaim Man Oo, Alexandra Zevalkink, Aparporn Sakulkalavek, Komsilp Kotmool</p><p>Janus 1T-BiXY (X, Y = S, Se, Te) monolayers are dynamically, thermally, and mechanically stable metals with ultralow lattice thermal conductivity.</p><p>DOI: 10.1039/d6cp02680j</p>]]></description>
 </item>
 <item>
 <title>Towards automated development of real fuel combustion models: from quantum chemistry to chemical kinetics</title>
@@ -740,10 +775,10 @@
 <description><![CDATA[<p><b>Authors:</b> Judith Wurmel, Daniel J Cregg, John M Simmie</p><p>Detailed chemical kinetics of the rotamerisation and hydrogen atom transfer reactions of gaseous carbonic acid and its sulfur analogues mono-, di-and tri-thiocarbonic acids are determined at temperatures between 10 K...</p><p>DOI: 10.1039/d6cp03054h</p>]]></description>
 </item>
 <item>
-<title>Dimethylformamide formation via water bridge assisted C−N coupling between dimethylamine and CO₂ in water microdroplets</title>
+<title>Dimethylformamide formation via water bridge assisted C–N coupling between dimethylamine and CO 2 in water microdroplets</title>
 <link>https://doi.org/10.1039/d6cp02513g</link>
 <guid isPermaLink="false">10.1039/d6cp02513g</guid>
 <pubDate>Tue, 10 Nov 2026 08:04:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Pengju Wu, Yan Xu, Zhiheng Ma, Tianze Xu, Tianyang Liu, Yu Jing</p><p>Dimethylformamide (DMF) is a widely used industrial solvent and reagent, traditionally synthesized from carbon monoxide (CO) and dimethylamine (DMA) under harsh and energy-intensive conditions. Although alternative routes for DMF production...</p><p>DOI: 10.1039/d6cp02513g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Pengju Wu, Yan Xu, Zhiheng Ma, Tianze Xu, Tianyang Liu, Yu Jing</p><p>Spontaneous DMF from DMA and CO 2 in ambient catalyst-free aqueous microdroplets by multiscale theoretical simulation and mass spectrometry experiments.</p><p>DOI: 10.1039/d6cp02513g</p>]]></description>
 </item>
 </channel></rss>

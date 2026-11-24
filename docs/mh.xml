@@ -3,7 +3,35 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Tue, 24 Nov 2026 10:03:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:34:57 +0000</lastBuildDate>
+<item>
+<title>Anti-Freezing Hydrogels for Subzero Soft Electronics</title>
+<link>https://doi.org/10.1039/d6mh01837h</link>
+<guid isPermaLink="false">10.1039/d6mh01837h</guid>
+<pubDate>Tue, 24 Nov 2026 19:23:06 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yongzan Zhou, Zhe Su, Lu Yin, Meng Zhang, Adam Leontowich, Huicong Liu, Boxin Zhao, Youchao Teng, Yimin A. Wu</p><p>Conductive hydrogels for wearable and flexible electronic systems often suffer from coupled mechanical and electrical failure at subzero temperatures because water crystallization stiffens the polymer network and restricts ion transport....</p><p>DOI: 10.1039/d6mh01837h</p>]]></description>
+</item>
+<item>
+<title>Beyond pore scattering and monotonic gradients: a design framework for graded electromagnetic absorbers</title>
+<link>https://doi.org/10.1039/d6mh01653g</link>
+<guid isPermaLink="false">10.1039/d6mh01653g</guid>
+<pubDate>Tue, 24 Nov 2026 18:23:33 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Meysam Salari, Sara Mohseni Taromsari, Piyapong Buahom, Mohamad Kheradmandkeysomi, Byeongjin Park, Hani E. Naguib, Chul B. Park</p><p>Over 10 6 configurations reveal that optimal absorption arises from coupled thickness–permittivity–layer design, with pore scattering limited by subwavelength pores and no universal benefit from added layers or conductivity gradients.</p><p>DOI: 10.1039/d6mh01653g</p>]]></description>
+</item>
+<item>
+<title>Deep learning-assistant development of asymmetric gradient composite aerogels for absorption-dominant electromagnetic interference shielding</title>
+<link>https://doi.org/10.1039/d6mh01815g</link>
+<guid isPermaLink="false">10.1039/d6mh01815g</guid>
+<pubDate>Tue, 24 Nov 2026 11:22:52 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ji Lei, Bai Xue, Peng Ai, Zhigang Li</p><p>Conventional experimental material development typically involves labor-intensive preparation and characterization procedures, which hinders the rapid iteration and optimization of novel electromagnetic interference (EMI) shielding materials. Herein, a graph neural network...</p><p>DOI: 10.1039/d6mh01815g</p>]]></description>
+</item>
+<item>
+<title>Nanoscale Mapping of Spin Dependent Charge Transport in Chiral Semiconductors</title>
+<link>https://doi.org/10.1039/d6mh01697a</link>
+<guid isPermaLink="false">10.1039/d6mh01697a</guid>
+<pubDate>Tue, 24 Nov 2026 11:02:38 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Marta Di Girolamo, Jessica Wade, Matthew P Hautzinger, Francesco Furlan, Sandrine Heutz, Matthew Fuchter</p><p>The ability of chiral materials to influence electron spin through the Chiral Induced Spin Selectivity (CISS) effect has attracted increasing attention, driven by both fundamental scientific technological interest in a...</p><p>DOI: 10.1039/d6mh01697a</p>]]></description>
+</item>
 <item>
 <title>Universal in situ strategy for chiral/achiral perovskite bulk heterojunctions via hydrophilic chemical environment sculpting</title>
 <link>https://doi.org/10.1039/d6mh01600f</link>
@@ -82,11 +110,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jesika Asatryan, Alberto Peinador Veiga, Xabier Rodríguez-Martínez, Jorge L. Olmedo-Martínez, Marián Prada-Cortés, Eugenio Solla, Mariavittoria Craighero, Belén Montero, Araceli Flores, Eduardo Solano, Christian Müller, Jaime Martín</p><p>The orientation of ordered domains in D18 correlates with the mechanical response more strongly than crystallinity or lattice disorder. Improved order increases in-plane stiffness and strength, while crystal texture controls mechanical anisotropy.</p><p>DOI: 10.1039/d6mh01589a</p>]]></description>
 </item>
 <item>
-<title>Magnetically Tunable Ti Single-Atom Catalysts Supported on Cr 2 CO 2 MXene for Waste-Heat-Driven Formaldehyde Oxidation</title>
+<title>Magnetically tunable Ti single-atom catalysts supported on Cr 2 CO 2 MXene for waste-heat-driven formaldehyde oxidation</title>
 <link>https://doi.org/10.1039/d6mh02139e</link>
 <guid isPermaLink="false">10.1039/d6mh02139e</guid>
 <pubDate>Fri, 20 Nov 2026 03:43:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yucheng Feng, Bin Liu, Zhongyong Zhang, Ruiyang Ma, Shifeng Wang, Wei Li, Neng Li</p><p>Formaldehyde is a toxic volatile organic compound whose catalytic oxidation offers a promising abatement route, yet practical application remains limited by high reaction temperatures. Using density functional theory, we investigated...</p><p>DOI: 10.1039/d6mh02139e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yucheng Feng, Bin Liu, Zhongyong Zhang, Ruiyang Ma, Shifeng Wang, Wei Li, Neng Li</p><p>Ti single-atom catalysts on Cr 2 CO 2 MXene enable waste-heat-driven formaldehyde oxidation. Thermal electronic modulation weakens O–H bonds and lowers reaction barriers, highlighting spin-dependent catalysis for energy-efficient remediation.</p><p>DOI: 10.1039/d6mh02139e</p>]]></description>
 </item>
 <item>
 <title>Robust solar-thermal phase-change microcapsules enabling freezing-point-matched thermal regulation toward enhanced anti/de-icing of superhydrophobic coatings</title>
@@ -117,11 +145,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jie Zou, Yanan Zhao, Ping Li, Lukang Wang, Yufei Yao, Guohua Dong, Yun Liang, Bin Peng, Jinghong Guo, Ming Liu</p><p>Layered nickelate/PMN–PT heterostructures show reversible room-temperature electroresistance modulation up to 296% across eight distinct resistance states, enabling VGG-integrated hardware encryption with 98.46% authorized recognition accuracy.</p><p>DOI: 10.1039/d6mh01655c</p>]]></description>
 </item>
 <item>
-<title>Salt-Triggered Self-Rotation of a Radially Channeled Core-Skin Hydrogel Enables Sustained Solar Desalination</title>
+<title>Salt-triggered self-rotation of a radially channeled core–skin hydrogel enables sustained solar desalination</title>
 <link>https://doi.org/10.1039/d6mh01942k</link>
 <guid isPermaLink="false">10.1039/d6mh01942k</guid>
 <pubDate>Wed, 18 Nov 2026 08:03:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wanshuai Hu, Minmin Qiang, Zhijiang Shao, Runying Lai, Zhiyuan Liao, Shurui Zhang, Hongkun Song, Xiaoshuai Han, Yiqing Yao, Heyu Chen</p><p>Salt crystallization is typically treated as fouling to be suppressed in solar desalination. Yet salt-triggered self-rotation offers a rare dynamic alternative: accumulated crystals generate the mechanical imbalance that renews the...</p><p>DOI: 10.1039/d6mh01942k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Wanshuai Hu, Minmin Qiang, Zhijiang Shao, Runying Lai, Zhiyuan Liao, Shurui Zhang, Hongkun Song, Xiaoshuai Han, Yiqing Yao, Heyu Chen</p><p>A radially channeled core–skin hydrogel couples continuous water delivery with salt-triggered self-rotation, enabling dynamic surface renewal and sustained solar evaporation under hypersaline conditions.</p><p>DOI: 10.1039/d6mh01942k</p>]]></description>
 </item>
 <item>
 <title>Controlling Memristor Stochasticity for Synaptic Computing and Hardware Security</title>

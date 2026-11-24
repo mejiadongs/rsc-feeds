@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 24 Nov 2026 10:04:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:35:13 +0000</lastBuildDate>
+<item>
+<title>Multi-Objective Inverse Design of High-Performance Polymers via Contrastive-Pretrained Graph Attention Networks and NSGA-II</title>
+<link>https://doi.org/10.1039/d6dd00106h</link>
+<guid isPermaLink="false">10.1039/d6dd00106h</guid>
+<pubDate>Tue, 24 Nov 2026 15:22:08 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Qinyu Ma, Zelin Wu, Yuhao Zhou, Junpo He, Jianfeng Li</p><p>The simultaneous optimization of low dielectric constant (k) and high glass transition temperature (Tg) remains a fundamental challenge in the design of high-performance polymer materials for advanced electronic applications, as...</p><p>DOI: 10.1039/d6dd00106h</p>]]></description>
+</item>
+<item>
+<title>AEGISS: Atomic Orbital and Entropy-Guided Inference for Active Space Selection in Quantum Chemistry</title>
+<link>https://doi.org/10.1039/d6dd00500d</link>
+<guid isPermaLink="false">10.1039/d6dd00500d</guid>
+<pubDate>Tue, 24 Nov 2026 13:43:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Fabio Tarocco, Pi A. B. Haase, Fabijan Pavosevic, Vijay Krishna, Leonardo Guidoni, Stefan Knecht, Martina Stella</p><p>In this work, we present AEGISS, an active-space selection framework inspired by both the AVAS (Atomic Valence Active Space) and AutoCAS methodologies. By combining orbital entropy analysis with atomic-orbital projections,...</p><p>DOI: 10.1039/d6dd00500d</p>]]></description>
+</item>
 <item>
 <title>Data generation for machine-learned force fields</title>
 <link>https://doi.org/10.1039/d6dd00059b</link>
@@ -96,11 +110,11 @@
 <description><![CDATA[<p><b>Authors:</b> Guang Chen, Xiao-Min Lin, Suresh Narayanan, Subramanian K. R. S. Sankaranarayanan</p><p>Q-Twin: a digital twin beamline for molecular scattering and coherent dynamics that bridges molecular simulations and experimental scattering.</p><p>DOI: 10.1039/d6dd00457a</p>]]></description>
 </item>
 <item>
-<title>Feynman-Kac-Flow: Inference Steering of Conditional Flow Matching to an Energy-Tilted Posterior</title>
+<title>Feynman–Kac-flow: inference steering of conditional flow matching to an energy-tilted posterior</title>
 <link>https://doi.org/10.1039/d6dd00258g</link>
 <guid isPermaLink="false">10.1039/d6dd00258g</guid>
 <pubDate>Thu, 12 Nov 2026 09:32:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Konstantin Mark, Leonard Galustian, Maximilian Peter-Paul Kovar, Esther Heid</p><p>Conditional Flow Matching (CFM) represents a fast and high-quality approach to generative modelling, but methods for steering CFM during inference toward energy- or reward-tilted distributions remain underdeveloped. For diffusion models,...</p><p>DOI: 10.1039/d6dd00258g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Konstantin Mark, Leonard Galustian, Maximilian P.-P. Kovar, Esther Heid</p><p>Feynman–Kac steering allows a trained flow matching model to be adapted to a steering potential without retraining as shown in the application of generating transition state geometries with the correct stereochemistry and lower forces.</p><p>DOI: 10.1039/d6dd00258g</p>]]></description>
 </item>
 <item>
 <title>Beyond performance: selecting fit-for-purpose large language models for materials research</title>
