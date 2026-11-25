@@ -3,7 +3,14 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Wed, 25 Nov 2026 08:49:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:49:03 +0000</lastBuildDate>
+<item>
+<title>Chemical Fuel-Driven Rubbery-to-Glassy Transition of Hydrogels for High-Stress-Output Actuation with Tunable Self-Recovery</title>
+<link>https://doi.org/10.1039/d6mh02055k</link>
+<guid isPermaLink="false">10.1039/d6mh02055k</guid>
+<pubDate>Wed, 25 Nov 2026 13:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jianwen Shan, Xiao Feng Li, Cuihong Ma, Dejin Jiao, Zhi Jian Wang, Zi Liang Wu</p><p>Controlled hydration or dehydration of hydrogels is crucial for tuning their mechanical properties and actuation performances, particularly in associative polymers where water content dictates the density and strength of the...</p><p>DOI: 10.1039/d6mh02055k</p>]]></description>
+</item>
 <item>
 <title>Synergistically Enhancing Room-Temperature Phosphorescence, Circularly Polarized Luminescence, and Stimuli Responsiveness through Luminogen-Polymer Interaction Engineering</title>
 <link>https://doi.org/10.1039/d6mh01612j</link>
@@ -152,11 +159,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jiaxing Zhang, Weijie Lin, Jing Liu, Peipei Zhang, Chunhao Lu, Binrui Wu, Xin Cui, Bin Yan</p><p>Photothermal phase-change superhydrophobic coatings have emerged as promising candidates for anti/de-icing applications, yet their practical utilization is severely constrained by trade-off between photothermal efficiency and thermal storage capacity, mismatch between...</p><p>DOI: 10.1039/d6mh01986b</p>]]></description>
 </item>
 <item>
-<title>Facet-Selective Fluoride Engineering Enables Weakly Confined Nanocrystals for Eco-Friendly Deep-Blue Electroluminescence</title>
+<title>Facet-selective fluoride engineering enables the fabrication of weakly confined nanocrystals for eco-friendly deep-blue electroluminescence</title>
 <link>https://doi.org/10.1039/d6mh02173e</link>
 <guid isPermaLink="false">10.1039/d6mh02173e</guid>
 <pubDate>Fri, 20 Nov 2026 01:43:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Haiyang Li, Jing Zhou, Jiayu Li, Yujing Ruan, Yongyou Mo, Qingqing Liu, Wenxuan Li, Yina Zheng, Peng Xiao, Tipeng Zhao, Sui-Dong Wang, Nianqing Fu, Qifan Xue, Dongxiang Luo, Cuong Dang, Xueqing Xu, Baiquan Liu</p><p>Cadmium-free deep-blue quantum-dots are challenging to combine ultra-narrow spectra, efficient radiative recombination, and resistance to multicarrier losses. Here, we introduce ZnF₂ during seed-mediated growth of weakly confined ZnSe nanocrystals. Fluoride...</p><p>DOI: 10.1039/d6mh02173e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Haiyang Li, Jing Zhou, Jiayu Li, Yujing Ruan, Yongyou Mo, Qingqing Liu, Wenxuan Li, Yina Zheng, Peng Xiao, Tipeng Zhao, Sui-Dong Wang, Nianqing Fu, Qifan Xue, Dongxiang Luo, Cuong Dang, Xueqing Xu, Baiquan Liu</p><p>For cadmium-free deep-blue quantum-dots, it is challenging to combine ultra-narrow spectra, efficient radiative recombination, and resistance to multicarrier losses.</p><p>DOI: 10.1039/d6mh02173e</p>]]></description>
 </item>
 <item>
 <title>Metal-Organic Frameworks: From Materials Design to Integrated Sensing Systems</title>
@@ -180,11 +187,11 @@
 <description><![CDATA[<p><b>Authors:</b> Wanshuai Hu, Minmin Qiang, Zhijiang Shao, Runying Lai, Zhiyuan Liao, Shurui Zhang, Hongkun Song, Xiaoshuai Han, Yiqing Yao, Heyu Chen</p><p>A radially channeled core–skin hydrogel couples continuous water delivery with salt-triggered self-rotation, enabling dynamic surface renewal and sustained solar evaporation under hypersaline conditions.</p><p>DOI: 10.1039/d6mh01942k</p>]]></description>
 </item>
 <item>
-<title>Controlling Memristor Stochasticity for Synaptic Computing and Hardware Security</title>
+<title>Controlling memristor stochasticity for synaptic computing and hardware security</title>
 <link>https://doi.org/10.1039/d6mh01915c</link>
 <guid isPermaLink="false">10.1039/d6mh01915c</guid>
 <pubDate>Wed, 18 Nov 2026 07:05:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kyung-Min Kim, UI Do Ji, Jungyeop Oh, Byung Chul Jang</p><p>Memristor stochasticity is usually suppressed for analogue computing but exploited as entropy for hardware security, creating apparently conflicting device requirements. Here we show that these functions can be accessed within...</p><p>DOI: 10.1039/d6mh01915c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Kyoung-Min Kim, Ui Do Ji, Byung Chul Jang, Jungyeop Oh</p><p>In a single Cu/pV3D3/Al polymer memristor, resistance-state selection enables analogue synaptic weights (LRS), random telegraph noise nonces (MRS), and static PUF fingerprints (HRS). This unifies edge inference and hardware security.</p><p>DOI: 10.1039/d6mh01915c</p>]]></description>
 </item>
 <item>
 <title>Sustainable Microwave-Assisted Synthesis and Rheological Engineering of Screen-Printable Graphene Ink for Flexible Wearable Devices</title>

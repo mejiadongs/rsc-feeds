@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 25 Nov 2026 08:49:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:49:09 +0000</lastBuildDate>
+<item>
+<title>∂-HyMD: A Massively Parallel Differentiable Molecular Dynamics Framework for Automatic Force-Field Optimization</title>
+<link>https://doi.org/10.1039/d6dd00485g</link>
+<guid isPermaLink="false">10.1039/d6dd00485g</guid>
+<pubDate>Wed, 25 Nov 2026 18:23:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Matteo Orlandi, Vinicius Firmino Firmino dos Santos, Henrique Cesar, Marco Pagliai, Thereza A. Soares, Michele Cascella</p><p>Driven by advanced high-performance computing architectures and GPU acceleration, classical molecular dynamics simulations are steadily breaking their boundaries in both time and size domains. However, their predictive fidelity remains anchored...</p><p>DOI: 10.1039/d6dd00485g</p>]]></description>
+</item>
+<item>
+<title>NAffinity: A Nucleic Acid–Ligand Binding Affinity Classifier</title>
+<link>https://doi.org/10.1039/d6dd00214e</link>
+<guid isPermaLink="false">10.1039/d6dd00214e</guid>
+<pubDate>Wed, 25 Nov 2026 16:40:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jason Andrew Andrew Amburn, Mood Mohan, Jerry M Parks, Jeremy C Smith</p><p>Nucleic acids are now recognized as critical therapeutic targets, yet tools for predicting the binding affinity of ligands to RNA and DNA remain limited in accuracy. Here, we introduce NAffinity,...</p><p>DOI: 10.1039/d6dd00214e</p>]]></description>
+</item>
 <item>
 <title>A general deep learning processing scheme for high-fidelity enhancement of Raman spectra</title>
 <link>https://doi.org/10.1039/d6dd00181e</link>
@@ -30,7 +44,7 @@
 <link>https://doi.org/10.1039/d6dd00059b</link>
 <guid isPermaLink="false">10.1039/d6dd00059b</guid>
 <pubDate>Mon, 23 Nov 2026 12:22:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Saffron Luxford, Connor Williamson, Shayantan Chaudhuri, Alexander Miguel Ganose, Valerio Giuffrida, Julie Greensmith, Katherine Inzani</p><p>Machine-learned force fields (MLFFs) significantly enhance molecular dynamics simulations by offering ab initio-level accuracy at lower computational costs. Successful model training depends on the availability of high-quality, scalable datasets, which...</p><p>DOI: 10.1039/d6dd00059b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Saffron Luxford, Connor Williamson, Shayantan Chaudhuri, Alex M. Ganose, Valerio Giuffrida, Julie Greensmith, Katherine Inzani</p><p>Beyond model architecture, training data largely determines the performance of machine-learned force fields. We review dataset generation and curation methods and propose an iterative workflow for developing force fields for functional materials.</p><p>DOI: 10.1039/d6dd00059b</p>]]></description>
 </item>
 <item>
 <title>POINT 2 : A Polymer Informatics Training and Testing Database</title>

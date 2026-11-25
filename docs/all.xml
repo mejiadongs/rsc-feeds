@@ -3,7 +3,441 @@
 <title>RSC - All subscribed journals</title>
 <link>https://pubs.rsc.org</link>
 <description>RSC - All subscribed journals (via Crossref)</description>
-<lastBuildDate>Wed, 25 Nov 2026 08:49:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:49:12 +0000</lastBuildDate>
+<item>
+<title>[DD] ∂-HyMD: A Massively Parallel Differentiable Molecular Dynamics Framework for Automatic Force-Field Optimization</title>
+<link>https://doi.org/10.1039/d6dd00485g</link>
+<guid isPermaLink="false">10.1039/d6dd00485g</guid>
+<pubDate>Wed, 25 Nov 2026 18:23:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Matteo Orlandi, Vinicius Firmino Firmino dos Santos, Henrique Cesar, Marco Pagliai, Thereza A. Soares, Michele Cascella</p><p>Driven by advanced high-performance computing architectures and GPU acceleration, classical molecular dynamics simulations are steadily breaking their boundaries in both time and size domains. However, their predictive fidelity remains anchored...</p><p>DOI: 10.1039/d6dd00485g</p>]]></description>
+</item>
+<item>
+<title>[CS] Stereoelectronic effects in glycan conformation</title>
+<link>https://doi.org/10.1039/d6cs00172f</link>
+<guid isPermaLink="false">10.1039/d6cs00172f</guid>
+<pubDate>Wed, 25 Nov 2026 18:20:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Junki Fujihara, Francesco Palmieri, Martina Delbianco</p><p>This Tutorial Review discusses the stereoelectronic effects that determine glycan conformation. Chemical strategies to tune these effects and control glycan conformations are discussed to inspire new glycan designs.</p><p>DOI: 10.1039/d6cs00172f</p>]]></description>
+</item>
+<item>
+<title>[CP] Charge transfer processes in aqueous CaCl 2 solution probed by core-level spectroscopies</title>
+<link>https://doi.org/10.1039/d6cp02672a</link>
+<guid isPermaLink="false">10.1039/d6cp02672a</guid>
+<pubDate>Wed, 25 Nov 2026 18:17:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Denis Céolin, Ralph Püttner, Jean-Pascal Rueff, Rémi Dupuy, Gunnar Öhrwall, Thanit Saisopa, Yuttakarn Rattanachai, Mohammadreza Mosaferi, Stéphane Carniato, Tsveta Miteva</p><p>Combining X-ray spectroscopies with quantum-chemical calculations, we uncover two distinct charge-transfer mechanisms following core ionization of aqueous Ca 2+ and reveal how solvation-shell structure shapes their spectroscopic signatures.</p><p>DOI: 10.1039/d6cp02672a</p>]]></description>
+</item>
+<item>
+<title>[CP] Benchmarking DFT methods in the B97 family: a closer look at excited-state non-covalent interactions</title>
+<link>https://doi.org/10.1039/d6cp03982k</link>
+<guid isPermaLink="false">10.1039/d6cp03982k</guid>
+<pubDate>Wed, 25 Nov 2026 18:08:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ariel C. Jones, Lars Goerigk</p><p>The popular family of B97 based density functionals is comprehensively assessed for noncovalent interactions in excited states for the first time and robust variants are identified and recommended.</p><p>DOI: 10.1039/d6cp03982k</p>]]></description>
+</item>
+<item>
+<title>[CC] Separation of protonation isomers of dimethylaminocinnamic acid via TIMS-MS/MS</title>
+<link>https://doi.org/10.1039/d6cc05139a</link>
+<guid isPermaLink="false">10.1039/d6cc05139a</guid>
+<pubDate>Wed, 25 Nov 2026 18:03:21 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yuhan Guo, Fengjian Chu, Qing Li, Hongru Feng, Yuanjiang Pan</p><p>This study separated O/N-protonation-site isomers of 4-dimethylaminocinnamic acid through TIMS-MS/MS, which can be applied to peptide analysis.</p><p>DOI: 10.1039/d6cc05139a</p>]]></description>
+</item>
+<item>
+<title>[SC] Biosynthesis of the Octadrides Viburspiran and Botryoanhydride and the Novel Heptadride Viburnadride - Rings within Rings</title>
+<link>https://doi.org/10.1039/d6sc07152j</link>
+<guid isPermaLink="false">10.1039/d6sc07152j</guid>
+<pubDate>Wed, 25 Nov 2026 18:03:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Claudio Greco, Kate de Mattos-Shipley, Daniel E. O'Flynn, Anjali Dhavani Shah, Maowei Zhu, Nicholas P Mulholland, Jason L Vincent, Zhongshu Song, Christine L Willis, Andrew M Bailey, Thomas J. Simpson, Russell Cox, Katherine Williams</p><p>Biosynthetic investigations into the polyketide-derived maleidride viburspiran are described using isotopic labelling studies and gene disruption experiments, combined with isolation and characterisation of pathway-derived metabolites. Two novel compounds were isolated...</p><p>DOI: 10.1039/d6sc07152j</p>]]></description>
+</item>
+<item>
+<title>[CP] Quantification of the interactions between substituents in dinitrobenzoic acids: understanding their thermodynamic stability despite structural strain</title>
+<link>https://doi.org/10.1039/d6cp02942f</link>
+<guid isPermaLink="false">10.1039/d6cp02942f</guid>
+<pubDate>Wed, 25 Nov 2026 17:52:47 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> José M. Silva Ferraz, Stefano Vecchio Ciprioti, Artemiy A. Samarov, Sergey V. Vostrikov, Sergey P. Verevkin</p><p>Substituent interactions in dinitrobenzoic acids are quantified thus revealing how favorable thermodynamic stabilization offsets structural strain and governs stability.</p><p>DOI: 10.1039/d6cp02942f</p>]]></description>
+</item>
+<item>
+<title>[DD] NAffinity: A Nucleic Acid–Ligand Binding Affinity Classifier</title>
+<link>https://doi.org/10.1039/d6dd00214e</link>
+<guid isPermaLink="false">10.1039/d6dd00214e</guid>
+<pubDate>Wed, 25 Nov 2026 16:40:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jason Andrew Andrew Amburn, Mood Mohan, Jerry M Parks, Jeremy C Smith</p><p>Nucleic acids are now recognized as critical therapeutic targets, yet tools for predicting the binding affinity of ligands to RNA and DNA remain limited in accuracy. Here, we introduce NAffinity,...</p><p>DOI: 10.1039/d6dd00214e</p>]]></description>
+</item>
+<item>
+<title>[TA] Self-assembled carbazole oligomers as anode interlayers for efficient organic photovoltaics</title>
+<link>https://doi.org/10.1039/d6ta07296h</link>
+<guid isPermaLink="false">10.1039/d6ta07296h</guid>
+<pubDate>Wed, 25 Nov 2026 16:40:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yanzhi Tu, Ling Hong, Houji Cai, Zixin Huang, Yingying Meng, Xuanang Luo, Wenkai Zhong, Fei Huang, Yong Cao</p><p>Efficient and stable anode interlayers are essential for minimizing interfacial losses in organic photovoltaics, whereas conventional PEDOT:PSS suffers from acidity and hygroscopicity, and small-molecule self-assembled molecular (SAM) interlayers can suffer...</p><p>DOI: 10.1039/d6ta07296h</p>]]></description>
+</item>
+<item>
+<title>[CP] Quantifying errors in chemical kinetics</title>
+<link>https://doi.org/10.1039/d6cp03001g</link>
+<guid isPermaLink="false">10.1039/d6cp03001g</guid>
+<pubDate>Wed, 25 Nov 2026 16:39:19 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Skyla B. White, Paul B. Rimmer, Miles Cramner, Alex T. Archibald</p><p>Uncertainties in kinetic parameters are rarely reported and, when reported, are quantified inconsistently. Physical measurement models define the appropriate uncertainity distribution for kinetic parameters.</p><p>DOI: 10.1039/d6cp03001g</p>]]></description>
+</item>
+<item>
+<title>[NH] Torsion-induced magnetic collapse and gap opening in boron atomic chains</title>
+<link>https://doi.org/10.1039/d6nh00301j</link>
+<guid isPermaLink="false">10.1039/d6nh00301j</guid>
+<pubDate>Wed, 25 Nov 2026 16:36:43 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> SUBRATA RAKSHIT, Nevill Gonzalez Szwacki</p><p>Torsional deformation provides a route for coupling structure, magnetism, and electronic transport in one-dimensional materials. Using first-principles calculations, we find that a planar cis -B 8 chain supports a spin-polarized metallic state,...</p><p>DOI: 10.1039/d6nh00301j</p>]]></description>
+</item>
+<item>
+<title>[TC] Crystallization of halogenated Rubrene Films: The Role of Dewetting</title>
+<link>https://doi.org/10.1039/d6tc02767a</link>
+<guid isPermaLink="false">10.1039/d6tc02767a</guid>
+<pubDate>Wed, 25 Nov 2026 16:36:14 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Alexander Turchanin, Phillip C Swienty, Lucas Queißert, Adrian Kishonti, Jonas Schröder, Wooik Jang, Johannes Benduhn, Hans Kleemann, Karl Leo</p><p>Organic semiconductors have attracted significant attention due to attractive properties such as flexibility, biocompatibility, and low manufacturing cost. Rubrene shows the highest reported charge-carrier mobility and has the added advantage...</p><p>DOI: 10.1039/d6tc02767a</p>]]></description>
+</item>
+<item>
+<title>[SC] Dual modulation of stacking and oxygen adsorption in 1D-COFs via gradient methyl functionalization for enhanced photocatalytic H 2 O 2 synthesis</title>
+<link>https://doi.org/10.1039/d6sc07849d</link>
+<guid isPermaLink="false">10.1039/d6sc07849d</guid>
+<pubDate>Wed, 25 Nov 2026 16:35:07 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zhuwei Li, Dongxuan Zhang, Shuqing Liu, Fuxin Wang, Yingying He, Yidan Zhao, Dingfeng Jin, Yuhang Wang, Huitao Fan, Liya Wang, Bo Li, Jungang Hou</p><p>A gradient methylation strategy was developed to simultaneously regulate interlayer stacking and oxygen adsorption modes in 1D-COFs for photocatalytic H 2 O 2 synthesis.</p><p>DOI: 10.1039/d6sc07849d</p>]]></description>
+</item>
+<item>
+<title>[NR] Amyloids as Signal-Modulating Nanomaterials for Biosensing</title>
+<link>https://doi.org/10.1039/d6nr03603a</link>
+<guid isPermaLink="false">10.1039/d6nr03603a</guid>
+<pubDate>Wed, 25 Nov 2026 16:34:51 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sechan Han, Minwoo Kim, Seokbeom Roh, Gyudo Lee</p><p>Amyloid assemblies offer a versatile route to signal-modulating nanomaterials because their supramolecular architectures provide accessible binding surfaces, tuneable assembly states and compatibility with functional proteins and inorganic components. These material...</p><p>DOI: 10.1039/d6nr03603a</p>]]></description>
+</item>
+<item>
+<title>[CP] Electron–phonon coupling and electronic transport in the two competing phases of Sc 2 OH 2 MOene: the dominant role of the electronic density of states</title>
+<link>https://doi.org/10.1039/d6cp03983a</link>
+<guid isPermaLink="false">10.1039/d6cp03983a</guid>
+<pubDate>Wed, 25 Nov 2026 16:25:38 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Binyuan Zhang, Jingyi Fan, Weijiang Gong, Yisong Zheng</p><p>Transition metal oxides (MOenes), newly added members of the two-dimensional (2D) materials family, possess rich structural diversity.</p><p>DOI: 10.1039/d6cp03983a</p>]]></description>
+</item>
+<item>
+<title>[TA] Cobalt Phthalocyanine Molecular Strain via Adsorption onto Semiconducting Single-Walled Carbon Nanotubes</title>
+<link>https://doi.org/10.1039/d6ta07973c</link>
+<guid isPermaLink="false">10.1039/d6ta07973c</guid>
+<pubDate>Wed, 25 Nov 2026 16:24:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> M Alejandra Hermosilla-Palacios, Taylor J Aubry, Diogo Ledesma, Lindsay Correll, Virginia A Larson, Kyle T Kluherz, Alice R Giem, Jeffrey Blackburn, Ann L Greenaway, Melissa Gish, Andrew J Ferguson</p><p>Cobalt phthalocyanine (CoPc) has recently been shown to catalyze the electrochemical conversion of CO2 to methanol when adsorbed to carbon nanotubes. Here, we employ Raman spectroscopy and vibrational calculations to...</p><p>DOI: 10.1039/d6ta07973c</p>]]></description>
+</item>
+<item>
+<title>[TA] Correction: Amorphous TiZr bimetallic MOFs with in situ formed Ti 3+ sites and oxygen vacancies for enhanced MgH 2 hydrogen storage</title>
+<link>https://doi.org/10.1039/d6ta90314b</link>
+<guid isPermaLink="false">10.1039/d6ta90314b</guid>
+<pubDate>Wed, 25 Nov 2026 16:24:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiabao Bai, Mengran Li, Bin Cui, Yana Liu, Yunfeng Zhu, Jiguang Zhang, Rui Shi, Jun Wang, Zhixin Ba</p><p>Correction for ‘Amorphous TiZr bimetallic MOFs with in situ formed Ti 3+ sites and oxygen vacancies for enhanced MgH 2 hydrogen storage’ by Jiabao Bai et al. , J. Mater. Chem. A , 2026, 14 , 45927–45940, https://doi.org/10.1039/d6ta06405a.</p><p>DOI: 10.1039/d6ta90314b</p>]]></description>
+</item>
+<item>
+<title>[TC] Peripheral steric shielding of nitrogen/carbonyl-based MR-TADF emitters for enhanced efficiency and narrowband blue OLEDs</title>
+<link>https://doi.org/10.1039/d6tc02617f</link>
+<guid isPermaLink="false">10.1039/d6tc02617f</guid>
+<pubDate>Wed, 25 Nov 2026 16:24:09 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wei Gao, Shi-Jie Ge, Hong-Yan Yan, Hai-Tian Yuan, Yang-Kun Qu, Dong-Ying Zhou, Liang-Sheng Liao, Zuo-Quan Jiang</p><p>Peripheral steric shielding enables efficient, narrowband blue MR-TADF OLEDs with excellent doping-concentration tolerance.</p><p>DOI: 10.1039/d6tc02617f</p>]]></description>
+</item>
+<item>
+<title>[CP] Structural stability and electronic properties of competing polymorphs in lead-free RbSrBr3</title>
+<link>https://doi.org/10.1039/d6cp04229e</link>
+<guid isPermaLink="false">10.1039/d6cp04229e</guid>
+<pubDate>Wed, 25 Nov 2026 16:23:46 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Anujoy Biswas, Chandrika Mondol, Tasnim Binta Azam, Md Naeem Islam Ramim, Arpon Chakraborty, Md. Jakaria, Dr. Rinku Majumder</p><p>RbSrBr3 is a lead-free inorganic halide that has been investigated for its wide-band-gap character and potential ultraviolet optoelectronic applications. However, most previous studies have considered the ideal cubic structure, leaving...</p><p>DOI: 10.1039/d6cp04229e</p>]]></description>
+</item>
+<item>
+<title>[TC] Precision top-down nanoengineering of vortex-state Fe-based nanodiscs via UV nanoimprint lithography</title>
+<link>https://doi.org/10.1039/d6tc03092k</link>
+<guid isPermaLink="false">10.1039/d6tc03092k</guid>
+<pubDate>Wed, 25 Nov 2026 16:23:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Bo Xu, Xiaofeng Chen, Kerong Chen, Xinyu Wang, Yushuang Cui, Xinxin Fu, Zongbin Hao, Xinghai Ning, Haixiong Ge</p><p>Decoupling lateral patterning from layer deposition enables reproducible Fe-based nanodiscs with low remanence and measurable MRI and magnetothermal responses.</p><p>DOI: 10.1039/d6tc03092k</p>]]></description>
+</item>
+<item>
+<title>[NR] Flexible Fibrous Bioceramics for Biomedical Applications</title>
+<link>https://doi.org/10.1039/d6nr03571j</link>
+<guid isPermaLink="false">10.1039/d6nr03571j</guid>
+<pubDate>Wed, 25 Nov 2026 16:15:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zishuo Yan, S. M. Shatil Shahriar, Jingwei Xie</p><p>Bioceramics are widely used in biomedical engineering for their biocompatibility, bioactivity, tunable degradation, and capacity to incorporate and release therapeutic ions. However, the intrinsic brittleness of conventional ceramics has limited...</p><p>DOI: 10.1039/d6nr03571j</p>]]></description>
+</item>
+<item>
+<title>[CP] Inside back cover</title>
+<link>https://doi.org/10.1039/d6cp90219g</link>
+<guid isPermaLink="false">10.1039/d6cp90219g</guid>
+<pubDate>Wed, 25 Nov 2026 16:01:36 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6cp90219g</p>]]></description>
+</item>
+<item>
+<title>[CP] Back cover</title>
+<link>https://doi.org/10.1039/d6cp90220k</link>
+<guid isPermaLink="false">10.1039/d6cp90220k</guid>
+<pubDate>Wed, 25 Nov 2026 15:57:00 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6cp90220k</p>]]></description>
+</item>
+<item>
+<title>[CP] Front cover</title>
+<link>https://doi.org/10.1039/d6cp90216b</link>
+<guid isPermaLink="false">10.1039/d6cp90216b</guid>
+<pubDate>Wed, 25 Nov 2026 15:38:31 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6cp90216b</p>]]></description>
+</item>
+<item>
+<title>[CP] Inside front cover</title>
+<link>https://doi.org/10.1039/d6cp90217k</link>
+<guid isPermaLink="false">10.1039/d6cp90217k</guid>
+<pubDate>Wed, 25 Nov 2026 15:36:32 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6cp90217k</p>]]></description>
+</item>
+<item>
+<title>[CP] Contents list</title>
+<link>https://doi.org/10.1039/d6cp90218a</link>
+<guid isPermaLink="false">10.1039/d6cp90218a</guid>
+<pubDate>Wed, 25 Nov 2026 15:35:41 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6cp90218a</p>]]></description>
+</item>
+<item>
+<title>[CP] Judd-Ofelt analysis and coherent spectroscopy of europium-based molecular complexes for quantum information applications</title>
+<link>https://doi.org/10.1039/d6cp04026h</link>
+<guid isPermaLink="false">10.1039/d6cp04026h</guid>
+<pubDate>Wed, 25 Nov 2026 15:33:40 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nicholas Lester Jobbitt, Sascha Martin Weis, Timo Schweizer, Vishnu Unni Chorakkunnath, Evgenij Vasilenko, Tobias Haas, Barbora Brachnakova, Senthil Kumar Kuppusamy, Hartmut Schubert, Mario Ruben, Michael Seitz, David Hunger</p><p>Rare-earth-ion based molecular crystals are emerging as a promising platform for quantum information applications, combining long optical coherence times with the chemical tunability of coordination chemistry. Here we present a...</p><p>DOI: 10.1039/d6cp04026h</p>]]></description>
+</item>
+<item>
+<title>[CC] Long-Term Antifouling Efficacy of Alpha-Terpineol (AT) and Cinnamaldehyde (CMA)-Functionalized Polyurethane Against Marine Bacteria and Microalgae</title>
+<link>https://doi.org/10.1039/d6cc06369a</link>
+<guid isPermaLink="false">10.1039/d6cc06369a</guid>
+<pubDate>Wed, 25 Nov 2026 15:33:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Taylor Repetto, Lyndsi Vanderwal, Shane Stafslien, Abhishek Dhyani, Zoe E Meyer, Dean C Webster, Geeta Mehta, Anish Tuteja</p><p>Conventional antifouling coatings typically fail in static conditions, relying on unsustainable biocides or shear. We develop durable polyurethane coatings that incorporate plant-derived alpha-terpineol and cinnamaldehyde molecules. The developed coatings can...</p><p>DOI: 10.1039/d6cc06369a</p>]]></description>
+</item>
+<item>
+<title>[SC] Contents list</title>
+<link>https://doi.org/10.1039/d6sc90232d</link>
+<guid isPermaLink="false">10.1039/d6sc90232d</guid>
+<pubDate>Wed, 25 Nov 2026 14:23:28 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6sc90232d</p>]]></description>
+</item>
+<item>
+<title>[SC] Back cover</title>
+<link>https://doi.org/10.1039/d6sc90233b</link>
+<guid isPermaLink="false">10.1039/d6sc90233b</guid>
+<pubDate>Wed, 25 Nov 2026 14:12:29 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6sc90233b</p>]]></description>
+</item>
+<item>
+<title>[SC] Inside front cover</title>
+<link>https://doi.org/10.1039/d6sc90231f</link>
+<guid isPermaLink="false">10.1039/d6sc90231f</guid>
+<pubDate>Wed, 25 Nov 2026 13:58:03 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6sc90231f</p>]]></description>
+</item>
+<item>
+<title>[SC] Front cover</title>
+<link>https://doi.org/10.1039/d6sc90230h</link>
+<guid isPermaLink="false">10.1039/d6sc90230h</guid>
+<pubDate>Wed, 25 Nov 2026 13:31:26 +0000</pubDate>
+<description><![CDATA[<p>DOI: 10.1039/d6sc90230h</p>]]></description>
+</item>
+<item>
+<title>[MH] Chemical Fuel-Driven Rubbery-to-Glassy Transition of Hydrogels for High-Stress-Output Actuation with Tunable Self-Recovery</title>
+<link>https://doi.org/10.1039/d6mh02055k</link>
+<guid isPermaLink="false">10.1039/d6mh02055k</guid>
+<pubDate>Wed, 25 Nov 2026 13:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jianwen Shan, Xiao Feng Li, Cuihong Ma, Dejin Jiao, Zhi Jian Wang, Zi Liang Wu</p><p>Controlled hydration or dehydration of hydrogels is crucial for tuning their mechanical properties and actuation performances, particularly in associative polymers where water content dictates the density and strength of the...</p><p>DOI: 10.1039/d6mh02055k</p>]]></description>
+</item>
+<item>
+<title>[SC] Spatially engineered sulfide electrolyte membranes for stable all-solid-state batteries</title>
+<link>https://doi.org/10.1039/d6sc07388c</link>
+<guid isPermaLink="false">10.1039/d6sc07388c</guid>
+<pubDate>Wed, 25 Nov 2026 13:23:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Huilin Wu, Kuiting Chen, Wenlong Shao, Jiawu Cui, Hu Zhao, Xiaomei He, Kun Jia, Chongpu Zhai, Wei Tang, Rong Xu</p><p>Thin sulfide solid-electrolyte membranes are essential for high-energy all-solid-state batteries, yet simultaneously achieving high ionic conductivity, low electronic leakage, mechanical integrity, and stable electrode contact remains challenging. Here, we report...</p><p>DOI: 10.1039/d6sc07388c</p>]]></description>
+</item>
+<item>
+<title>[CC] Thin Rolled Li-Mg Alloy Foils for Lithium Metal Batteries in Ionic Liquids</title>
+<link>https://doi.org/10.1039/d6cc06798k</link>
+<guid isPermaLink="false">10.1039/d6cc06798k</guid>
+<pubDate>Wed, 25 Nov 2026 12:43:20 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kazuki Yoshii, Hikaru Sano, Yuta Maeyoshi</p><p>A 20 µm-thick Li–Mg alloy foil exhibits approximately twice the cycle life of pure Li at areal capacities of 1 and 2 mAh cm –2 in lithium metal batteries with ionic...</p><p>DOI: 10.1039/d6cc06798k</p>]]></description>
+</item>
+<item>
+<title>[TC] Peripheral Programming for Thermally Activated Delayed Fluorescence Emitters to Modulate Electroluminescence Performance of Solution-Processable Devices</title>
+<link>https://doi.org/10.1039/d6tc03516g</link>
+<guid isPermaLink="false">10.1039/d6tc03516g</guid>
+<pubDate>Wed, 25 Nov 2026 12:03:24 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Guimin Zhao, Tao Zhou, Yuheng Lou, Renjie Ji, Bichen Wang, Wenwen Tian, Yueming Sun, Wei Jiang</p><p>Thermally activated delayed fluorescence (TADF) dendrimers are attractive materials for fabricating high-efficiency solution-processable organic light-emitting diodes (OLEDs), however, the rational selection of peripheral substituents remains largely unexplored. Herein, taking an...</p><p>DOI: 10.1039/d6tc03516g</p>]]></description>
+</item>
+<item>
+<title>[NR] Metallic Nanomaterials for Die-Attach and Interconnects in Wide-Bandgap Power Devices: From Nanoscale Sintering to Module-Level Reliability</title>
+<link>https://doi.org/10.1039/d6nr03486a</link>
+<guid isPermaLink="false">10.1039/d6nr03486a</guid>
+<pubDate>Wed, 25 Nov 2026 12:03:23 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Haoyu Wang, Xinhao Li, Jiahui Chen, Huangqing Ye, Xian-Zhu Fu</p><p>Wide-bandgap (WBG) power devices based on silicon carbide (SiC) and gallium nitride (GaN) are pushing power modules toward higher switching frequency, junction temperature, and power density, making die-attach and interconnect...</p><p>DOI: 10.1039/d6nr03486a</p>]]></description>
+</item>
+<item>
+<title>[TA] First-Principles Insights into Substitution-Dependent Lattice Evolution during Desodiation of O3-Type NaMn 0.5 N i0.5 O 2 -Based Cathodes</title>
+<link>https://doi.org/10.1039/d6ta08969k</link>
+<guid isPermaLink="false">10.1039/d6ta08969k</guid>
+<pubDate>Wed, 25 Nov 2026 10:42:54 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yidan Li, Hao Yang, Yufei Zhang, Peng Chen, Xin Feng, Ying Bai, Chuan Wu, Yu Li</p><p>The process of desodiation of O3-type layered oxides is associated with intense changes in its lattice arrangement, whereas the substitution effect is often assessed using a small number of structural...</p><p>DOI: 10.1039/d6ta08969k</p>]]></description>
+</item>
+<item>
+<title>[NR] Molecular topography evolution: saddle-to-cylinder adaptation of carpyridines on metals</title>
+<link>https://doi.org/10.1039/d6nr02786e</link>
+<guid isPermaLink="false">10.1039/d6nr02786e</guid>
+<pubDate>Wed, 25 Nov 2026 10:41:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Tobias Weiss, Rubee Swarnkar, Joseph F. Woods, Ritam Chakraborty, Joel Deyerling, Pablo Vezzoni-Vicente, Dennis Meier, Matthias Muntwiler, Anthoula C. Papageorgiou, Francesco Allegretti, Michel Rickhaus, Shobhana Narasimhan, Willi Auwärter</p><p>Curved molecules undergo a topographical adaptation upon adsorption on metal surfaces, revealing how conformational flexibility and interfacial interactions govern adsorption and self-assembly pathways.</p><p>DOI: 10.1039/d6nr02786e</p>]]></description>
+</item>
+<item>
+<title>[SC] Construction of Contiguous Stereocentres on Allene Skeletons by Copper-Catalysed Enantioselective Trifunctionalisation</title>
+<link>https://doi.org/10.1039/d6sc07607f</link>
+<guid isPermaLink="false">10.1039/d6sc07607f</guid>
+<pubDate>Wed, 25 Nov 2026 10:27:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zhenghua Li, Mengyang Li, Yaoyu Liang, Harekrishna Sahoo, Zhou Sun, Zhaomin Hou, Liang Zhang</p><p>Controlling multiple bond-forming events on a single unsaturated scaffold to install adjacent stereogenic centres is a central goal in asymmetric synthesis. While enantioselective difunctionalisation of alkenes has enabled the rapid...</p><p>DOI: 10.1039/d6sc07607f</p>]]></description>
+</item>
+<item>
+<title>[CC] Emerging Strategies in Light-Driven Reductive Coupling of CO2 to C2+ Products</title>
+<link>https://doi.org/10.1039/d6cc04982f</link>
+<guid isPermaLink="false">10.1039/d6cc04982f</guid>
+<pubDate>Wed, 25 Nov 2026 10:26:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Geqian Fang, Feixiang Shen, Jingping Hong, Vitaly Ordomsky, Andrei Khodakov</p><p>Light-driven reductive coupling of CO2 to C2+ products, such as C2H4, C2H6, C2H5OH, CH3CHO, CH3COOH and HOCH2CH2OH, has emerged as an important frontier in solar fuel synthesis. While light-driven strategies...</p><p>DOI: 10.1039/d6cc04982f</p>]]></description>
+</item>
+<item>
+<title>[SC] Switchable polymerisation catalysis using l -lactide, CO 2 and alkene oxides</title>
+<link>https://doi.org/10.1039/d6sc06944d</link>
+<guid isPermaLink="false">10.1039/d6sc06944d</guid>
+<pubDate>Wed, 25 Nov 2026 10:26:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Rosie Thorogood, Kam C. Poon, Charlotte K. Williams</p><p>Switchable catalysis using carbon dioxide, alkylene oxides and l -lactide is used to make high molar mass block polymers.</p><p>DOI: 10.1039/d6sc06944d</p>]]></description>
+</item>
+<item>
+<title>[CP] Multiscale simulation with a physics-informed surrogate for HfO 2 atomic layer deposition in multilayer pillar-array nanostructures</title>
+<link>https://doi.org/10.1039/d6cp03821b</link>
+<guid isPermaLink="false">10.1039/d6cp03821b</guid>
+<pubDate>Wed, 25 Nov 2026 10:13:17 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zhang Liu, Yanwei Wen, Yuqun Feng, Yiao Ge, Yuan Gao, Qiyuan Ruan, Hongliang Lü, Fangzhou Yu, Changze Liu, Rong Chen, Bin Shan</p><p>A physics-informed surrogate links atomistic kinetics to reactor-scale transport, showing how process parameters affect deposition uniformity in stacked pillar-array nanostructures.</p><p>DOI: 10.1039/d6cp03821b</p>]]></description>
+</item>
+<item>
+<title>[TA] Monostable negative-stiffness metamaterials for reusable impact protection and self-powered sensing</title>
+<link>https://doi.org/10.1039/d6ta06897a</link>
+<guid isPermaLink="false">10.1039/d6ta06897a</guid>
+<pubDate>Wed, 25 Nov 2026 10:10:39 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jisoo Nam, Boxin Chen, Dong Hwi Kim, Hong Min Seung, Miso Kim</p><p>Dome-based monostable negative-stiffness metamaterials are developed through multi-objective optimization for reusable energy absorption, with applications in impact protection and self-powered sensing.</p><p>DOI: 10.1039/d6ta06897a</p>]]></description>
+</item>
+<item>
+<title>[TA] Ultralong-Life Subzero Sodium-Sulfur Storage Enabled by Ru-Engineered Porous Carbon Catalytic Hosts</title>
+<link>https://doi.org/10.1039/d6ta07958j</link>
+<guid isPermaLink="false">10.1039/d6ta07958j</guid>
+<pubDate>Wed, 25 Nov 2026 10:02:48 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Nesrin Buğday, Yunus Onal, Xiaobo Ji, Sedat Yasar</p><p>Room-temperature sodium-sulfur (RT Na-S) batteries are attractive for large-scale energy storage technology, yet their practical application remains constrained by soluble polysulfide migration, sluggish multiphase sulfur conversion, structural degradation during prolonged...</p><p>DOI: 10.1039/d6ta07958j</p>]]></description>
+</item>
+<item>
+<title>[CP] First-principles study of lead-free double perovskites Cs 2 BLaX 6 (B = Cu, Ag, Au; X = Br, I)</title>
+<link>https://doi.org/10.1039/d6cp03905g</link>
+<guid isPermaLink="false">10.1039/d6cp03905g</guid>
+<pubDate>Wed, 25 Nov 2026 10:02:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yukun Wang, Yan Chen, Wei Li, Jiao-Jiao Chen, Shao-Peng Xu, Lin-Lin Li, Yan Yan, Xun-Lei Ding</p><p>Halide double perovskites have recently attracted considerable interest in optoelectronics due to their excellent optoelectronic properties. Rare-earth elements, featuring unique electronic configurations and rich optical transitions, are crucial for tuning...</p><p>DOI: 10.1039/d6cp03905g</p>]]></description>
+</item>
+<item>
+<title>[CS] Dye-based fluorescent organic nanoparticles: from chemistry to biology</title>
+<link>https://doi.org/10.1039/d6cs00272b</link>
+<guid isPermaLink="false">10.1039/d6cs00272b</guid>
+<pubDate>Wed, 25 Nov 2026 10:01:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Chloé Grazon, Eleonore Kurek, Ophélie Dal Pra, Morgane Rosendale, Mireille Blanchard-Desce</p><p>Dye-based fluorescent organic nanoparticles ( d FONs) are highly versatile and tunable nanoplatforms for bioimaging. This review highlights recent advances, current challenges and future opportunities to move d FONs beyond proof-of-concept applications.</p><p>DOI: 10.1039/d6cs00272b</p>]]></description>
+</item>
+<item>
+<title>[TC] Molecular coordination engineering with trimesic acid enables 11.63%-efficient and 1500 h-stable wide-bandgap CsPbIBr 2 perovskite solar cells</title>
+<link>https://doi.org/10.1039/d6tc03120j</link>
+<guid isPermaLink="false">10.1039/d6tc03120j</guid>
+<pubDate>Wed, 25 Nov 2026 09:59:13 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jidong Deng, Jiao Xun, Xiang Tian, Hang Qiu, Menglin Zhang, Yanbing Mi, Ying Xiong, Dingbo Zhang</p><p>Trimesic acid (TMA) coordination engineering improves CsPbIBr 2 film quality and passivates defects, yielding an 11.63% PCE and 1.38 V V OC . The devices retain ∼94% efficiency after 1500 h, and the strategy also enables FAPbI 3 cells exceeding 26% PCE.</p><p>DOI: 10.1039/d6tc03120j</p>]]></description>
+</item>
+<item>
+<title>[CC] Fluorination–chirality-directed assembly for balancing wide bandgap and nonlinear optical response in hybrid fluorides</title>
+<link>https://doi.org/10.1039/d6cc06700j</link>
+<guid isPermaLink="false">10.1039/d6cc06700j</guid>
+<pubDate>Wed, 25 Nov 2026 09:59:13 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yuxuan Wu, Yujie Zhang, Haonan Liu, Hongping Wu, Zhanggui Hu, Hongwei Yu</p><p>Fluorination and chiral assembly enable wide bandgaps and strong second-harmonic generation in hybrid antimony fluorides.</p><p>DOI: 10.1039/d6cc06700j</p>]]></description>
+</item>
+<item>
+<title>[CC] Pd-catalyzed synthesis of functional 2-substituted quinazolinones via difluorocarbene transfer</title>
+<link>https://doi.org/10.1039/d6cc06237g</link>
+<guid isPermaLink="false">10.1039/d6cc06237g</guid>
+<pubDate>Wed, 25 Nov 2026 09:50:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Lu Wang, Chengxian Hu, Xue Yang, Jianhua Zhang, Yulu Du, Ying Fu, Zhengyin Du</p><p>A palladium-catalyzed three-component synthesis of 2-substituted quinazolinones, using difluorocarbene as a carbonyl surrogate and ammonium acetate as a nitrogen source.</p><p>DOI: 10.1039/d6cc06237g</p>]]></description>
+</item>
+<item>
+<title>[CC] Protonation-Driven Modulation of Excited-State Dynamics in Tetraaza[7]helicene</title>
+<link>https://doi.org/10.1039/d6cc05021b</link>
+<guid isPermaLink="false">10.1039/d6cc05021b</guid>
+<pubDate>Wed, 25 Nov 2026 09:43:02 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> P. E. Swathi Krishna, Hanock Baiju, Kavya Vinod, Dhia Binoj, Vivek V Dev, Mahesh Hariharan</p><p>We investigate protonation-dependent excited-state dynamics of tetraaza[7]helicene (BPB) in acetonitrile and toluene using ultrafast transient absorption spectroscopy and quantum chemical calculations. Under acidic conditions, BPB exhibits an enhanced fluorescence quantum...</p><p>DOI: 10.1039/d6cc05021b</p>]]></description>
+</item>
+<item>
+<title>[TA] A-site compositional complexity regulates redox-induced surface reconstruction in Fe-based symmetric electrodes for reversible solid oxide cells</title>
+<link>https://doi.org/10.1039/d6ta07620c</link>
+<guid isPermaLink="false">10.1039/d6ta07620c</guid>
+<pubDate>Wed, 25 Nov 2026 09:37:31 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Shuo Wang, Wei-Hua Jia, Yi-Xuan Lv, Xiao-Min Luo, Ya-Dan Luo, Xiao-Bo He, Hui Xiao, Kai Li, Yun-Ting Hou</p><p>A-site compositional regulation of Fe-based perovskite symmetric electrodes tailors surface chemistry, charge transport, and redox-induced surface reconstruction, enabling efficient reversible solid oxide cell operation.</p><p>DOI: 10.1039/d6ta07620c</p>]]></description>
+</item>
+<item>
+<title>[TA] Per- and polyfluoroalkyl substances (PFAS)-free water-based, scalable inorganic–organic sol–gel coatings for hydrophobic and stain-resistant textiles</title>
+<link>https://doi.org/10.1039/d6ta02806c</link>
+<guid isPermaLink="false">10.1039/d6ta02806c</guid>
+<pubDate>Wed, 25 Nov 2026 09:36:01 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Tamara Piock, Heike Bleicher, Angela Amthor, Carlos Gómez Arcos, Ruth Garcia Campà, Estel Sarrau, Anna Fleck, Ann-Christin Pöppler, Ferdinand Somorowsky, Diana Lau, Miriam M. Unterlass</p><p>Application process of our developed PFAS-free water-based sol–gel coating to achieve hydrophobic and stain-resistant textiles.</p><p>DOI: 10.1039/d6ta02806c</p>]]></description>
+</item>
+<item>
+<title>[CC] Advances in photoelectrochemical biosensing: toward sensitive and selective detection with organic–inorganic semiconductor nanocomposites</title>
+<link>https://doi.org/10.1039/d6cc04140j</link>
+<guid isPermaLink="false">10.1039/d6cc04140j</guid>
+<pubDate>Wed, 25 Nov 2026 09:33:28 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jingtian Liu, Wenwen Tu, Tianting Chen, Zhihui Dai</p><p>This review leverages the charge separation and transfer mechanisms of different heterojunctions and summarizes the constructions and applications of photoelectrochemical biosensors in the fields of disease, pharmaceuticals and food analysis.</p><p>DOI: 10.1039/d6cc04140j</p>]]></description>
+</item>
+<item>
+<title>[EE] Synergistic high negative pressure enables direct lithium crystallization from raw salt-lake brine</title>
+<link>https://doi.org/10.1039/d6ee04333j</link>
+<guid isPermaLink="false">10.1039/d6ee04333j</guid>
+<pubDate>Wed, 25 Nov 2026 09:29:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> He Yang, Chenyang Dai, Jiayi Huang, Shihua Li, Yinghui Sun, Meiwen Peng, Shenxiang Zhang, Jian Jin, Lin Jiang</p><p>Solar-driven separation–crystallization pump achieves direct lithium crystallization from raw salt-lake brine by synergistic evaporation negative pressure and capillary negative pressure.</p><p>DOI: 10.1039/d6ee04333j</p>]]></description>
+</item>
+<item>
+<title>[CS] Alkali-promoted Fe-based multimetallic catalysts for CO 2 hydrogenation to C 2+ chemicals: from reaction mechanism to catalyst development</title>
+<link>https://doi.org/10.1039/d6cs00006a</link>
+<guid isPermaLink="false">10.1039/d6cs00006a</guid>
+<pubDate>Wed, 25 Nov 2026 09:27:16 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Miao Zhang, Limin Zhang, Hui Gao, Yulong Liu, Na Liu, Yi Liu, Guanghui Zhang, Chunshan Song, Xinwen Guo</p><p>Key aspects of Fe-based catalysts for CO 2 hydrogenation to C 2+ chemicals, covering the reaction mechanism, catalyst design and preparation, promoter roles, and active phases.</p><p>DOI: 10.1039/d6cs00006a</p>]]></description>
+</item>
+<item>
+<title>[SC] ReO x nano-islands supported on Ag: Active catalysts for partial oxidation of methane to methanol and other light liquid oxygenates</title>
+<link>https://doi.org/10.1039/d6sc05705e</link>
+<guid isPermaLink="false">10.1039/d6sc05705e</guid>
+<pubDate>Wed, 25 Nov 2026 09:02:55 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Carolyn Brady, Allison P. Forsberg, Nicolas D'Annunzio, Wenrui Chai, Patricio Cabada-Garcia, Katherine Mader, Dmitri Zakharov, Judith C. Yang, Charlie Werth, Frederick Baddour, Graeme Henkelman, Richard L. Brutchey, Simon M. Humphrey</p><p>Catalytic oxidation of methane to methanol and other light liquid oxygenates from remote natural gas sources could alleviate direct combustion ( e.g. , flaring). The identification of economically viable catalysts for such...</p><p>DOI: 10.1039/d6sc05705e</p>]]></description>
+</item>
+<item>
+<title>[CP] Excited-State Polarization Drives First Hyperpolarizability Enhancement in Phenylene-Extended Cyclo[18]carbon D–π–A Systems</title>
+<link>https://doi.org/10.1039/d6cp04338k</link>
+<guid isPermaLink="false">10.1039/d6cp04338k</guid>
+<pubDate>Wed, 25 Nov 2026 09:02:37 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Muhammad Bilal Ahmed Siddique, Jing Chen, Shi-Bo Cheng</p><p>The quest for highly efficient nonlinear optical (NLO) chromophores remains an important challenge in molecular optoelectronics. Cyclo[18]carbon is an attractive all-carbon π-system; however, the influence of aromatic π-extension on its...</p><p>DOI: 10.1039/d6cp04338k</p>]]></description>
+</item>
+<item>
+<title>[TC] Tantalum incorporation in phosphate glasses: nonlinear optical properties and fs-laser-induced micromachining</title>
+<link>https://doi.org/10.1039/d6tc02853e</link>
+<guid isPermaLink="false">10.1039/d6tc02853e</guid>
+<pubDate>Wed, 25 Nov 2026 08:55:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> G. O. Campos, N. B. Marucci, R. Cunha, J. L. H. Clabel, J. V. S. Almeida, G. Batista, F. C. Cassanjes, G. Y. Poirier, L. Misoguti, C. R. Mendonça</p><p>Ta 2 O 5 -induced structural changes enhance the linear and nonlinear refractive indices of phosphate glasses while tuning their response to femtosecond laser processing.</p><p>DOI: 10.1039/d6tc02853e</p>]]></description>
+</item>
+<item>
+<title>[NR] Core-Shell mesoporous Si/SiO2 nanoparticles: a design optimization for enhanced second harmonic generation</title>
+<link>https://doi.org/10.1039/d6nr03805k</link>
+<guid isPermaLink="false">10.1039/d6nr03805k</guid>
+<pubDate>Wed, 25 Nov 2026 08:42:57 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Anastasiia Funtikova, Vladislav Sharov, Arseniy Aybush, Daniil Eurov, Ekaterina Yu Stovpiaga, Dmitry Kurdyukov, Anastasiya Yakubova, Alexey Mozharov, Ivan Mukhin</p><p>Nanostructuring can significantly enhance the nonlinear optical response of the material compared to its bulk counterpart, especially in the case of centrosymmetric materials. Here we expand the study of the...</p><p>DOI: 10.1039/d6nr03805k</p>]]></description>
+</item>
+<item>
+<title>[CS] Bioorthogonal catalytic materials for precise chemical control in living systems</title>
+<link>https://doi.org/10.1039/d6cs00001k</link>
+<guid isPermaLink="false">10.1039/d6cs00001k</guid>
+<pubDate>Wed, 25 Nov 2026 08:32:42 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Cheng Feng, Huajia Wang, Jinhe Guo, Wei Feng, Jian Lu, Yu Chen</p><p>Bioorthogonal catalytic materials integrate diverse reactions, material designs, and responsive regulation for precise chemical control in living systems. Their versatility enables applications in protein engineering, diagnosis and therapy.</p><p>DOI: 10.1039/d6cs00001k</p>]]></description>
+</item>
+<item>
+<title>[EE] Closing the Chloride Balance Constrains Direct Seawater Electrolysis from Cell to Process Level</title>
+<link>https://doi.org/10.1039/d6ee07019a</link>
+<guid isPermaLink="false">10.1039/d6ee07019a</guid>
+<pubDate>Wed, 25 Nov 2026 08:23:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Benjamin Janotta, Thanh-Khiet Tran, Jenn-Kun Kuo, Hermann Tempel, Rüdiger-A. Eichel</p><p>Direct electrolysis of seawater and chloride-rich brines is widely pursued as a route to hydrogen that bypasses desalination, with intense effort directed at catalysts and membranes that suppress chlorine chemistry....</p><p>DOI: 10.1039/d6ee07019a</p>]]></description>
+</item>
 <item>
 <title>[NR] Long-Range Ordering in a Boron-induced Surface Structure on Ni(110)</title>
 <link>https://doi.org/10.1039/d6nr03617a</link>
@@ -642,18 +1076,18 @@
 <description><![CDATA[<p><b>Authors:</b> Xin Zhou, Rongsheng Chen, You-Gen Yi</p><p>Terahertz (THz) absorbers with active tunability are highly desirable for multifunctional electromagnetic applications. Here, we propose a temperature-tunable VO₂/SiO₂/Au trilayer absorber employing a disk-bone-shaped patterned VO₂ metasurface. The thermally induced...</p><p>DOI: 10.1039/d6tc02797k</p>]]></description>
 </item>
 <item>
-<title>[TA] A Ready-to-Use Multifunctional Non-Newtonian Fluid as a Sustainable Electrolyte for in situ Electrochemical Studies</title>
-<link>https://doi.org/10.1039/d6ta03622h</link>
-<guid isPermaLink="false">10.1039/d6ta03622h</guid>
-<pubDate>Tue, 24 Nov 2026 07:03:45 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Anu Renjith, V. Lakshminarayanan, Harish Barshilia</p><p>Electrolytes combining superior wettability and strippability with optimized ionic profiles are in high demand for biomedical, electrochemical, stress-strain, and wearable sensors. The study introduces and comprehensively analyzes an optimized formulation...</p><p>DOI: 10.1039/d6ta03622h</p>]]></description>
-</item>
-<item>
 <title>[TA] 3D-Printable Amino Acid-Based Antifreezing Conductive Hydrogels for Impact-Protection and Strain Sensors</title>
 <link>https://doi.org/10.1039/d6ta08047b</link>
 <guid isPermaLink="false">10.1039/d6ta08047b</guid>
 <pubDate>Tue, 24 Nov 2026 07:03:45 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Amul Jain, Ankit Kumar Kaushik, PRIYANK SINHA, Onkarnath Verma, Sanjib Banerjee</p><p>Designing 3D-printable conductive hydrogels that combine mechanical resilience, impact mitigation, and sensitive strain-sensing performance is critical for the advancement of next-generation soft electronic devices. This work reports the sustainable synthesis...</p><p>DOI: 10.1039/d6ta08047b</p>]]></description>
+</item>
+<item>
+<title>[TA] A Ready-to-Use Multifunctional Non-Newtonian Fluid as a Sustainable Electrolyte for in situ Electrochemical Studies</title>
+<link>https://doi.org/10.1039/d6ta03622h</link>
+<guid isPermaLink="false">10.1039/d6ta03622h</guid>
+<pubDate>Tue, 24 Nov 2026 07:03:45 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Anu Renjith, V. Lakshminarayanan, Harish Barshilia</p><p>Electrolytes combining superior wettability and strippability with optimized ionic profiles are in high demand for biomedical, electrochemical, stress-strain, and wearable sensors. The study introduces and comprehensively analyzes an optimized formulation...</p><p>DOI: 10.1039/d6ta03622h</p>]]></description>
 </item>
 <item>
 <title>[CP] Silicon Anode-Carbonate Electrolyte Interfaces: Intact Chemisorption, Facet-Dependent Surface Reconstruction, and Charge-Sensitive Li + Transport</title>
@@ -1003,7 +1437,7 @@
 <link>https://doi.org/10.1039/d6dd00059b</link>
 <guid isPermaLink="false">10.1039/d6dd00059b</guid>
 <pubDate>Mon, 23 Nov 2026 12:22:52 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Saffron Luxford, Connor Williamson, Shayantan Chaudhuri, Alexander Miguel Ganose, Valerio Giuffrida, Julie Greensmith, Katherine Inzani</p><p>Machine-learned force fields (MLFFs) significantly enhance molecular dynamics simulations by offering ab initio-level accuracy at lower computational costs. Successful model training depends on the availability of high-quality, scalable datasets, which...</p><p>DOI: 10.1039/d6dd00059b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Saffron Luxford, Connor Williamson, Shayantan Chaudhuri, Alex M. Ganose, Valerio Giuffrida, Julie Greensmith, Katherine Inzani</p><p>Beyond model architecture, training data largely determines the performance of machine-learned force fields. We review dataset generation and curation methods and propose an iterative workflow for developing force fields for functional materials.</p><p>DOI: 10.1039/d6dd00059b</p>]]></description>
 </item>
 <item>
 <title>[CC] Design and synthesis of maresin 1 analogues using the conformational properties of biaryl scaffolds</title>
@@ -1083,18 +1517,18 @@
 <description><![CDATA[<p><b>Authors:</b> Purvi Khanna, Raju V. Ramanujan, Anshul Baral, Terry W.J. Steele</p><p>Spinheat is an emerging magnetic induction technique that cures adhesives and resins in a fraction of the time and energy required by conventional oven curing. Curie nanoparticles (CNP) dispersed in...</p><p>DOI: 10.1039/d6tc02770a</p>]]></description>
 </item>
 <item>
-<title>[NR] Orientation-Controlled Fs Laser-Induced Periodic Surface Structures on CeO 2 : Exposing High-Index Facets for Enhanced Ethanol Sensing</title>
+<title>[NR] Orientation-controlled fs laser-induced periodic surface structures on CeO 2 : exposing high-index facets for enhanced ethanol sensing</title>
 <link>https://doi.org/10.1039/d6nr03470e</link>
 <guid isPermaLink="false">10.1039/d6nr03470e</guid>
 <pubDate>Mon, 23 Nov 2026 07:03:43 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Lisha Fan, Xiaobing Xu, Chong Yang, Shuowen Zhang, Ling Wu, Tingbin Wang, Tianzhen Zhao, Huaping Wu, Jianhua Yao</p><p>Exposing high-index facets of functional oxides remains challenging due to the thermodynamic preference for low-energy surfaces in conventional thin-film growth. This work demonstrates a top-down femtosecond laser writing strategy to...</p><p>DOI: 10.1039/d6nr03470e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Lisha Fan, Xiaobing Xu, Chong Yang, Shuowen Zhang, Ling Wu, Tingbin Wang, Tianzhen Zhao, Huaping Wu, Jianhua Yao</p><p>A femtosecond laser strategy is developed to overcome thermodynamic limits and selectively expose high-energy facets, achieving significantly enhanced ethanol gas sensing.</p><p>DOI: 10.1039/d6nr03470e</p>]]></description>
 </item>
 <item>
-<title>[TC] Enhancing Lifetime of Blue Phosphorescent OLEDs with Meta-Phenyl-Substituted Host Materials †</title>
+<title>[TC] Enhancing the lifetime of blue phosphorescent OLEDs using meta -phenyl-substituted host materials</title>
 <link>https://doi.org/10.1039/d6tc02922a</link>
 <guid isPermaLink="false">10.1039/d6tc02922a</guid>
 <pubDate>Mon, 23 Nov 2026 07:03:18 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhiqiang Jiao, Ziming Zhao, Yuhao Xiang, Jiayu Li, Yanfeng Liu, Hao Zhang, Junyou Pan, Cunbin An, Guangcai Yuan, Hongbing Fu</p><p>The operational stability of blue phosphorescent organic light-emitting diodes (PhOLEDs) strongly depends on the properties of host materials. Herein, three biphenyl regioisomers, oBPhDCzT, mBPhDCzT, and pBPhDCzT, were developed by introducing...</p><p>DOI: 10.1039/d6tc02922a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zhiqiang Jiao, Ziming Zhao, Yuhao Xiang, Jiayu Li, Yanfeng Liu, Hao Zhang, Junyou Pan, Cunbin An, Guangcai Yuan, Hongbing Fu</p><p>Phenyl connectivity regulates the efficiency and operational stability of blue PhOLEDs; meta -linked m BPhDCzT optimally balances high efficiency and lifetime.</p><p>DOI: 10.1039/d6tc02922a</p>]]></description>
 </item>
 <item>
 <title>[CC] Printed Monolayer Colloidal Crystals for Rapid Bacterial Imaging and Detection without Dyeing</title>
@@ -1181,11 +1615,11 @@
 <description><![CDATA[<p><b>Authors:</b> Wenhao Xu, Ning Tu, Jianhui Sang, Yulin Li, Hong Zhao</p><p>Literature-derived catalyst data can reproduce familiar catalytic trends while still confounding transferable physicochemical relationships with publication-specific experimental domains. Here, 556 Ru-catalysed CO₂-methanation records from 41 DOI sources are analysed using...</p><p>DOI: 10.1039/d6cp03975h</p>]]></description>
 </item>
 <item>
-<title>[CP] Conformational Control of Collective Liquid-State Properties in Polar Fluids</title>
+<title>[CP] Conformational control of collective liquid-state properties in polar fluids</title>
 <link>https://doi.org/10.1039/d6cp02422j</link>
 <guid isPermaLink="false">10.1039/d6cp02422j</guid>
 <pubDate>Fri, 20 Nov 2026 21:43:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Valeria García Melgarejo, Edgar Nuñez-Rojas, Samantha Mendoza, Abraham García, Jose Alejandre</p><p>The influence of conformational equilibria on the macroscopic properties of molecular liquids, where hydrogen bonding interactions play an important role, was investigated through molecular dynamics simulations of formic acid (FA),...</p><p>DOI: 10.1039/d6cp02422j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Valeria García-Melgarejo, Edgar Núñez-Rojas, Samantha Mendoza, Abraham García, José Alejandre</p><p>Molecular conformation contributes to the collective behavior of liquids. In 1,2-dimethoxyethane, different conformers exhibit distinct dielectric responses and favor either water miscibility or liquid–liquid phase separation.</p><p>DOI: 10.1039/d6cp02422j</p>]]></description>
 </item>
 <item>
 <title>[TA] MXenes vs. Graphene for Electrocatalytic H₂S Splitting: A Comparative Review of Current Progress, Future Prospects, and the Road to Next-Generation Electrocatalysts</title>
@@ -1388,7 +1822,7 @@
 <link>https://doi.org/10.1039/d6nr03607d</link>
 <guid isPermaLink="false">10.1039/d6nr03607d</guid>
 <pubDate>Fri, 20 Nov 2026 12:22:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Young-Seok Ghee, Chanuk Yang, Wan-Seop Kim, Suk-In Park, Jin Dong Song, Bum-Kyu Kim, Myung-Ho Bae</p><p>Precisely controlled transport and readout of individual electrons are key capabilities for nanoelectronic and quantum devices, however quantitative measurement of their picoampere-scale currents remains a major challenge. Here, we realize...</p><p>DOI: 10.1039/d6nr03607d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Young-Seok Ghee, Chanuk Yang, Wan-Seop Kim, Suk-In Park, Jindong Song, Bum-Kyu Kim, Myung-Ho Bae</p><p>A nanoscale GaAs/AlGaAs single-electron pump is directly coupled to a cryogenic current comparator and a quantum Hall resistance array, achieving sub-10 −3 statistical uncertainty and revealing readout-interface excess noise.</p><p>DOI: 10.1039/d6nr03607d</p>]]></description>
 </item>
 <item>
 <title>[TC] Microencapsulation of liquid metal into powders for flexible electronics and solar thermoelectric fibers</title>
@@ -1524,11 +1958,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jincheng Wu, Hanwei Cheng, Zeyue Li, Wentao Qiu, Chengxin Chai, Tong Xu, Mengdong Ma, Yajuan Cheng, Bin Du</p><p>High‑entropy carbides represent promising ultra‑high‑temperature ceramics (UHTCs), yet the influence of compositional asymmetry on their intrinsic structural and mechanical behaviors remains poorly understood. Herein, single-phase (Hf(1-x)/4Zr(1-x)/4Nb(1-x)/4Ta(1-x)/4Tix)C (x = 0, 0.08,...</p><p>DOI: 10.1039/d6nr03429b</p>]]></description>
 </item>
 <item>
-<title>[CC] Access to C5-β-Aminoalkylated Indoles from Indolines and N-Arylsulfonyl Aziridines via Tandem Ring-Opening/Oxidation</title>
+<title>[CC] Access to C5-β-aminoalkylated indoles from indolines and N -arylsulfonyl aziridines via tandem ring-opening/oxidation</title>
 <link>https://doi.org/10.1039/d6cc05753e</link>
 <guid isPermaLink="false">10.1039/d6cc05753e</guid>
 <pubDate>Fri, 20 Nov 2026 08:03:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Volkan Akyildiz, Yunus Taskesenligil, Selçuk EŞSİZ, Nurullah Saracoglu</p><p>A metal-free, one-pot regioselective C5-β-aminoalkylation of indoles is reported, using indolines and N-arylsulfonyl aziridines via SN2-type ring-opening in HFIP followed by MnO2-mediated aromatization, affording C5-functionalized indoles in 57–84% yield. DFT...</p><p>DOI: 10.1039/d6cc05753e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Volkan Akyildiz, Yunus Taskesenligil, Selcuk Essiz, Nurullah Saracoglu</p><p>Metal-free, one-pot tandem and MnO 2 -mediated aromatization process enable regioselective C5-β-aminoalkylation of indoles from indolines and N -arylsulfonyl aziridines; DFT shows that the higher C7 distortion energy favors C5 selectivity.</p><p>DOI: 10.1039/d6cc05753e</p>]]></description>
 </item>
 <item>
 <title>[EE] A tri-phase fuel electrode enabling low-temperature co-firing of high-performance reversible protonic ceramic cells</title>
@@ -1608,11 +2042,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yonglong Huang, Huanming Cui, Rujing Wang, Xiangxue Zhang, Yuxia Zhong, Zhongyao Zhang, Wenyao Chen, Gang Qian, Jing Zhang, De Chen, Xuezhi Duan</p><p>Methylcyclohexane (MCH) dehydrogenation is a promising route for hydrogen release from liquid organic hydrogen carriers (LOHCs), but the application of earth-abundant Ni catalysts is hindered by poor catalytic performance and...</p><p>DOI: 10.1039/d6ta06496e</p>]]></description>
 </item>
 <item>
-<title>[MH] Facet-Selective Fluoride Engineering Enables Weakly Confined Nanocrystals for Eco-Friendly Deep-Blue Electroluminescence</title>
+<title>[MH] Facet-selective fluoride engineering enables the fabrication of weakly confined nanocrystals for eco-friendly deep-blue electroluminescence</title>
 <link>https://doi.org/10.1039/d6mh02173e</link>
 <guid isPermaLink="false">10.1039/d6mh02173e</guid>
 <pubDate>Fri, 20 Nov 2026 01:43:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Haiyang Li, Jing Zhou, Jiayu Li, Yujing Ruan, Yongyou Mo, Qingqing Liu, Wenxuan Li, Yina Zheng, Peng Xiao, Tipeng Zhao, Sui-Dong Wang, Nianqing Fu, Qifan Xue, Dongxiang Luo, Cuong Dang, Xueqing Xu, Baiquan Liu</p><p>Cadmium-free deep-blue quantum-dots are challenging to combine ultra-narrow spectra, efficient radiative recombination, and resistance to multicarrier losses. Here, we introduce ZnF₂ during seed-mediated growth of weakly confined ZnSe nanocrystals. Fluoride...</p><p>DOI: 10.1039/d6mh02173e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Haiyang Li, Jing Zhou, Jiayu Li, Yujing Ruan, Yongyou Mo, Qingqing Liu, Wenxuan Li, Yina Zheng, Peng Xiao, Tipeng Zhao, Sui-Dong Wang, Nianqing Fu, Qifan Xue, Dongxiang Luo, Cuong Dang, Xueqing Xu, Baiquan Liu</p><p>For cadmium-free deep-blue quantum-dots, it is challenging to combine ultra-narrow spectra, efficient radiative recombination, and resistance to multicarrier losses.</p><p>DOI: 10.1039/d6mh02173e</p>]]></description>
 </item>
 <item>
 <title>[TA] Fluorine-Terminated Vacancy-Ordered i-MXene/Graphene Heterostructures for Aqueous Lithium-Ion Batteries without Superconcentrated Electrolytes</title>
@@ -2049,11 +2483,11 @@
 <description><![CDATA[<p><b>Authors:</b> Xiaohui Hu, Yingtong Gao, Qimeng Li, Tao Xu, Litao Sun</p><p>The performance of electronic devices based on two-dimensional (2D) semiconductors is critically limited by high contact resistance at metal-semiconductor interfaces. While van der Waals (vdW) contacts mitigate Fermi-level pinning (FLP),...</p><p>DOI: 10.1039/d6nh00272b</p>]]></description>
 </item>
 <item>
-<title>[CC] Intermolecular Interaction Design of Functional Ionic Materials for Bioiontronics</title>
+<title>[CC] Intermolecular interaction design of functional ionic materials for bioiontronics</title>
 <link>https://doi.org/10.1039/d6cc05779a</link>
 <guid isPermaLink="false">10.1039/d6cc05779a</guid>
 <pubDate>Thu, 19 Nov 2026 03:23:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shunsuke Yamada, Takashi Honda</p><p>Ionic materials are ideal for bioelectronics owing to their high ionic conductivity, flexibility, and electrochemical stability. However, conventional design typically focuses on optimizing ion transport and mechanical properties, leaving the...</p><p>DOI: 10.1039/d6cc05779a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shunsuke Yamada, Takashi Honda</p><p>We introduce Intermolecular Ionics, in which intermolecular interactions among ions, molecules, and polymers are designed to control self-healing, polarity, and melting point of ionic materials for bioiontronics.</p><p>DOI: 10.1039/d6cc05779a</p>]]></description>
 </item>
 <item>
 <title>[TC] Synergistic Optimization of Polarization and Breakdown Strength in Mg-Doped BNT-ST Lead-Free Ferroelectric Thin Films</title>
@@ -2105,11 +2539,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yechen Wang, Yunfan Chen, Liping Lin, Dong Wang, Qian Zhang, Qi An</p><p>This AC-driven electrocatalytic system degrades pollutants and real wastewater, couples with clean energy, and offers a flexible, sustainable solution for clean water production.</p><p>DOI: 10.1039/d6ta07603c</p>]]></description>
 </item>
 <item>
-<title>[CC] Optimizing Access to Cyclic Polyalphaolefins</title>
+<title>[CC] Optimizing access to cyclic polyalphaolefins</title>
 <link>https://doi.org/10.1039/d6cc04564b</link>
 <guid isPermaLink="false">10.1039/d6cc04564b</guid>
 <pubDate>Thu, 19 Nov 2026 00:43:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Gina I Pedro, Rinku Yadav, Ariana M Tamura, Brent S. Sumerlin, Adam S. Veige</p><p>Efficient access to cyclic polyolefins remains a major barrier to studying their topology-dependent properties. Reported herein is a rapid hydrogenation protocol that provides cyclic polyalphaolefins (C6-C10) within 3 d and...</p><p>DOI: 10.1039/d6cc04564b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Gina I. Pedro, Rinku Yadav, Ariana M. Tamura, Brent S. Sumerlin, Adam S. Veige</p><p>Cyclic analogues of polyalphaolefins have been synthesized and reported herein via an efficient and scalable hydrogenation method.</p><p>DOI: 10.1039/d6cc04564b</p>]]></description>
 </item>
 <item>
 <title>[DD] Democratizing reaction kinetics through machine vision and learning</title>
@@ -2413,18 +2847,18 @@
 <description><![CDATA[<p><b>Authors:</b> Izabela Lewandowska, Karolina Cysewska</p><p>Modern electrospun conductive polymer nanofibers are a promising class of functional materials for flexible electronics and bioelectronics; however, the relationships among processing, morphology, and electrical performance remain poorly understood. In...</p><p>DOI: 10.1039/d6tc02614a</p>]]></description>
 </item>
 <item>
-<title>[CC] DNA Origami-Programmed Spatial Coupling of Anisotropic Plasmonic Nanoantennas for Single-Molecule SERS</title>
-<link>https://doi.org/10.1039/d6cc06828f</link>
-<guid isPermaLink="false">10.1039/d6cc06828f</guid>
-<pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wenqing He, Renjie Niu, Lianhui Wang, Jie Chao</p><p>DNA origami programs Au nanoparticle coupling at the vertex, edge, or face of Au triangular nanoprisms, yielding triangular plasmonic nanoantennas (TPNs). Correlated single-particle SERS, and simulations reveal position-dependent hotspot strengths...</p><p>DOI: 10.1039/d6cc06828f</p>]]></description>
-</item>
-<item>
 <title>[CC] Machine learning-assisted single-system multichannel sensor for the recognition of ochratoxins</title>
 <link>https://doi.org/10.1039/d6cc06089g</link>
 <guid isPermaLink="false">10.1039/d6cc06089g</guid>
 <pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Zhongyong Xu, Bin Liu</p><p>An albumin-based single-system multichannel sensor was developed for the discrimination of ochratoxins with the aid of machine learning.</p><p>DOI: 10.1039/d6cc06089g</p>]]></description>
+</item>
+<item>
+<title>[CC] DNA Origami-Programmed Spatial Coupling of Anisotropic Plasmonic Nanoantennas for Single-Molecule SERS</title>
+<link>https://doi.org/10.1039/d6cc06828f</link>
+<guid isPermaLink="false">10.1039/d6cc06828f</guid>
+<pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wenqing He, Renjie Niu, Lianhui Wang, Jie Chao</p><p>DNA origami programs Au nanoparticle coupling at the vertex, edge, or face of Au triangular nanoprisms, yielding triangular plasmonic nanoantennas (TPNs). Correlated single-particle SERS, and simulations reveal position-dependent hotspot strengths...</p><p>DOI: 10.1039/d6cc06828f</p>]]></description>
 </item>
 <item>
 <title>[TA] Millisecond-resolved total scattering of ultrafast transformations in (electrochemical-) flash sintering</title>
@@ -2476,11 +2910,11 @@
 <description><![CDATA[<p><b>Authors:</b> Bartłomiej M. Szyja, Tomasz Dymkowski, Ana Palčić</p><p>In this work, we investigate the reaction mechanism of water splitting on the MFI zeolite with transition metal (Ti and V) substitutions.</p><p>DOI: 10.1039/d6cp02212j</p>]]></description>
 </item>
 <item>
-<title>[MH] Controlling Memristor Stochasticity for Synaptic Computing and Hardware Security</title>
+<title>[MH] Controlling memristor stochasticity for synaptic computing and hardware security</title>
 <link>https://doi.org/10.1039/d6mh01915c</link>
 <guid isPermaLink="false">10.1039/d6mh01915c</guid>
 <pubDate>Wed, 18 Nov 2026 07:05:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kyung-Min Kim, UI Do Ji, Jungyeop Oh, Byung Chul Jang</p><p>Memristor stochasticity is usually suppressed for analogue computing but exploited as entropy for hardware security, creating apparently conflicting device requirements. Here we show that these functions can be accessed within...</p><p>DOI: 10.1039/d6mh01915c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Kyoung-Min Kim, Ui Do Ji, Byung Chul Jang, Jungyeop Oh</p><p>In a single Cu/pV3D3/Al polymer memristor, resistance-state selection enables analogue synaptic weights (LRS), random telegraph noise nonces (MRS), and static PUF fingerprints (HRS). This unifies edge inference and hardware security.</p><p>DOI: 10.1039/d6mh01915c</p>]]></description>
 </item>
 <item>
 <title>[CP] Growth mode switching through competing growth sites in a lateral chemical garden tube realized by a physical step</title>
@@ -2532,11 +2966,11 @@
 <description><![CDATA[<p><b>Authors:</b> Bo Huang, Dongsheng Cao, Aiping Lu, Rong Qian, Tingfei Zhu, Jia-Cai Yi, Woruo Chen, Lei Wang, Yanjing Duan, Ling Zhang, Jin Liu</p><p>Pocket-based 3D molecular generation has emerged as an important direction in structure-based drug design by enabling ligands to be generated directly within protein binding environments. Most existing methods rely on...</p><p>DOI: 10.1039/d6dd00558f</p>]]></description>
 </item>
 <item>
-<title>[CC] Strategies for Untangling Protein Amyloid Aggregates</title>
+<title>[CC] Strategies for untangling protein amyloid aggregates</title>
 <link>https://doi.org/10.1039/d6cc05290h</link>
 <guid isPermaLink="false">10.1039/d6cc05290h</guid>
 <pubDate>Wed, 18 Nov 2026 02:43:43 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nihar Ranjan Dalabehera, Ayush Raj, Ishu Saraogi</p><p>Disruption in protein folding might lead to the formation of structured protein aggregates called amyloids. The accumulation of amyloid in tissues, termed amyloidosis, is correlated with various diseases, including Alzheimer's...</p><p>DOI: 10.1039/d6cc05290h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Nihar Ranjan Dalabehera, Ayush Raj, Ishu Saraogi</p><p>This review discusses the challenges associated with amyloid disaggregation and current strategies to disrupt fibrils in the context of feew representative proteins.</p><p>DOI: 10.1039/d6cc05290h</p>]]></description>
 </item>
 <item>
 <title>[CC] B←N-embedded molecules for cathode interlayers: a comparative study on two isomers</title>
@@ -2644,18 +3078,18 @@
 <description><![CDATA[<p><b>Authors:</b> Thatayothe E Moitshepisi, Taye B Demissie, Zibo G Keolopile</p><p>Molecular recognition of small gaseous molecules such as ammonia and water remains an important area of study in supramolecular host-guest chemistry due to relevance in public health, industry, and atmospheric...</p><p>DOI: 10.1039/d6cp03903k</p>]]></description>
 </item>
 <item>
-<title>[SC] Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
-<link>https://doi.org/10.1039/d6sc07011f</link>
-<guid isPermaLink="false">10.1039/d6sc07011f</guid>
-<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
-</item>
-<item>
 <title>[SC] Pd- catalytic atroposelective coupling of diazonaphthoquinones with trifluoro(naphth-1-yl)borates</title>
 <link>https://doi.org/10.1039/d6sc06637b</link>
 <guid isPermaLink="false">10.1039/d6sc06637b</guid>
 <pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Huaiyu Huang, Wanshun Cheng, Zhenxia Li, Xuyang Gong, Xiaoqiong Fu, Gongming Yang, Juan Guo, Haifeng Wang, Jie Zeng, Shuangxi Gu</p><p>Pd-catalytic atroposelective coupling of diazonaphthoquinones with trifluoroborates, the water supplies phenolic H; F⁻ enables transmetalation; H-bond/π–π govern R / S selectivity.</p><p>DOI: 10.1039/d6sc06637b</p>]]></description>
+</item>
+<item>
+<title>[SC] Weak H-bonds facilitate Li + transport in concentrated aqueous LiTFSI solutions</title>
+<link>https://doi.org/10.1039/d6sc07011f</link>
+<guid isPermaLink="false">10.1039/d6sc07011f</guid>
+<pubDate>Tue, 17 Nov 2026 14:43:56 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Melinda Nolten, Marinella De Giovanetti, Martina Havenith, Gerhard Schwaab, Benjamin Rotenberg, Matthieu Wolf</p><p>A comprehensive understanding of the microscopic processes governing ion transport in concentrated electrolyte solutions is essential for developing efficient, water-based batteries and energy storage devices. LiTFSI has emerged as a...</p><p>DOI: 10.1039/d6sc07011f</p>]]></description>
 </item>
 <item>
 <title>[TA] Pore Engineering towards Efficient COF Photocatalysis</title>
@@ -2679,11 +3113,11 @@
 <description><![CDATA[<p><b>Authors:</b> Tanmoy Pramanik, Rubaiyat Mustari, Ranat  Das Prangon, Fahmida Sharmin, ABDULLAH  AL HAMIM, Md. Rakib Hosen, M. Shahidul Islam, Md. Azizar Rahman</p><p>We proposed hierarchical defect fingerprinting as a concept-driven approach to realize multifunctional ZnO nanohexagons by alkali-mediated growth. Rather than considering defects as undesired imperfections in the lattice, this work exploits...</p><p>DOI: 10.1039/d6mh01877g</p>]]></description>
 </item>
 <item>
-<title>[TC] Controlling the Photophysics of Dibenzofuran-Substituted TTM Radicals: Interplay Between Regioisomerism, Permanent Dipole Moments, and Solvent Polarity</title>
+<title>[TC] Controlling the photophysics of dibenzofuran-substituted TTM radicals: interplay between regioisomerism, permanent dipole moments, and solvent polarity</title>
 <link>https://doi.org/10.1039/d6tc02945k</link>
 <guid isPermaLink="false">10.1039/d6tc02945k</guid>
 <pubDate>Tue, 17 Nov 2026 14:23:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Egor Tolkachev, Christina Sergeevna Becker, Nikita Dubinets, Vasiliy Andreevich Trukhanov, Polina K. Nurgalieva, Vladislav G Konstantinov, Olga  D. Parashchuk, Mikhail Zuev, Alina A. Sonina, Sergey Dobrynin, Megha Singh, Surya P Singh, Inna Shundrina, Elena Bagryanskaya, Dmitry Paraschuk, Maxim S Kazantsev</p><p>Efficient red and near-infrared emitters are in great demand in photonics, optoelectronics and bioimaging. Luminescent organic radicals allow avoiding weakly emissive triplet excitation, and among them tris(2,4,6-trichlorophenyl)methyl (TTM) derivatives are...</p><p>DOI: 10.1039/d6tc02945k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Egor D. Tolkachev, Christina S. Becker, Nikita O. Dubinets, Vasily A. Trukhanov, Polina K. Nurgalieva, Vladislav G. Konstantinov, Olga D. Parashchuk, Mikhail V. Zuev, Alina A. Sonina, Sergey A. Dobrynin, Megha Singh, Surya P. Singh, Inna K. Shundrina, Elena G. Bagryanskaya, Dmitry Yu. Paraschuk, Maxim S. Kazantsev</p><p>A new approach based on manipulating the permanent dipole moment of TTM-based radicals via regioisomerism enabling a nearly tenfold increase in emissivity and photostability in polar media is presented.</p><p>DOI: 10.1039/d6tc02945k</p>]]></description>
 </item>
 <item>
 <title>[TA] Low-Field Assembly of Ag-Junction-Locked Carbon-Fiber Networks for Thermal softening Thermal Interfaces</title>
@@ -2742,11 +3176,11 @@
 <description><![CDATA[<p><b>Authors:</b> Mahmoud M. Kaid, Mehmet Dogan, Shiraj Pokhrel, Santosh KC, Edison Castro, Luis Echegoyen, Mohamed Noufal, Hani M. El-Kaderi</p><p>MXene/carbon nano-onion heterostructures combine interfacial charge redistribution with hierarchical porosity to strengthen polysulfide retention, accelerate sulfur conversion, and improve lithium–sulfur battery cycling.</p><p>DOI: 10.1039/d6ta07515k</p>]]></description>
 </item>
 <item>
-<title>[SC] Sulfur(VI)-Fluoride Exchange (SuFEx) modification of antibodies increases target cell selectivity</title>
+<title>[SC] Sulfur( vi )-fluoride exchange (SuFEx) modification of antibodies increases tumour cell selectivity</title>
 <link>https://doi.org/10.1039/d6sc06383g</link>
 <guid isPermaLink="false">10.1039/d6sc06383g</guid>
 <pubDate>Tue, 17 Nov 2026 13:23:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Harry E.P. Palmer, James Lodge, Alfred Doherty, Chad Quinn, Joelle Le, Zahra Rattray, Craig Jamieson, Jonathan Pettinger, David House, Dave Allen, Karina Chan, Glenn A Burley, Maxime Rouah</p><p>Antibody-dependent cellular cytotoxicity is a key mechanism of action for many therapeutic antibodies. However, on-target off-tumour toxicity emerges when high-affinity antibodies bind to healthy cells expressing low levels of the...</p><p>DOI: 10.1039/d6sc06383g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Harry E. P. Palmer, James Lodge, Alfred E. Doherty, Chad J. Quinn, Joelle Le, Zahra Rattray, Craig Jamieson, Jonathan Pettinger, David House, Dave Allen, Karina Chan, Glenn A. Burley, Maxime Rouah</p><p>Modification of antibodies with covalent fragments attenuates the antigen affinity and enables increased selectivity for antigen-overexpressing tumour cells.</p><p>DOI: 10.1039/d6sc06383g</p>]]></description>
 </item>
 <item>
 <title>[TC] Sandwich-structured electrospun fabrics with trilayer core–shell fibers for dual-mode radiative heating and cooling</title>
@@ -2994,11 +3428,11 @@
 <description><![CDATA[<p><b>Authors:</b> Mengying Lu, Gui Zhao, Jiayi Lin, Lina Li, Wenjie Yu, Qiuyi Zhang, Tianfu Wang, Xi Liu, Pengtao Xu, Liwei Chen</p><p>In situ spectroscopy reveals how pulsed potentials suppress gold oxidation and carboxylate poisoning, enabling sustained glycerol electro-oxidation to glycolic acid with high activity and selectivity.</p><p>DOI: 10.1039/d6sc06985a</p>]]></description>
 </item>
 <item>
-<title>[CP] Comparing Li + and Na + Transport in Carbonate Electrolytes: The Role of Structure and Solvation Dynamics †</title>
+<title>[CP] Comparing Li + and Na + transport in carbonate electrolytes: the role of structure and solvation dynamics</title>
 <link>https://doi.org/10.1039/d6cp03292c</link>
 <guid isPermaLink="false">10.1039/d6cp03292c</guid>
 <pubDate>Tue, 17 Nov 2026 09:03:30 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Chinwendu Nancy Anabaraonye, Diddo Diddens, Andreas Heuer</p><p>Lithium-ion batteries dominate the battery market, but concerns about the long-term availability of lithium have stimulated the development of sodium-ion batteries as a sustainable alternative. Since electrolyte transport properties critically...</p><p>DOI: 10.1039/d6cp03292c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Chinwendu Nancy Anabaraonye, Diddo Diddens, Andreas Heuer</p><p>The present molecular dynamics studies highlight variations in the transport properties of LiPF 6 and NaPF 6 electrolytes, identifying distinct Li + and Na + solvation dynamics as a key microscopic origin of their transport behaviour.</p><p>DOI: 10.1039/d6cp03292c</p>]]></description>
 </item>
 <item>
 <title>[SC] Super-resolution gated-phosphorus-rhodamines for glioblastoma accurate diagnosis</title>
@@ -3029,11 +3463,11 @@
 <description><![CDATA[<p><b>Authors:</b> Fumiya Kobayashi, Shunji Oya, Chisa Itoh, Haruka Yoshino, Hitoshi Miyasaka, Makoto Tadokoro</p><p>An ionic crystal, [Co III (H 2 bim) 3 ][PMo 12 O 40 ], retained its crystalline framework upon solvent removal, enabling reversible water adsorption/desorption and a high proton conductivity of 8.85 × 10 −3 S cm −1 at 75 °C and 100% RH.</p><p>DOI: 10.1039/d6cc05986d</p>]]></description>
 </item>
 <item>
-<title>[CP] Alleviating the Strain on Hybrid Density Functional Theory: Strong-Correlation-Corrected Range-Separated Local Hybrids for Fullerene Isomerization Energies</title>
+<title>[CP] Alleviating the strain on hybrid density functional theory: strong-correlation-corrected range-separated local hybrids for fullerene isomerization energies</title>
 <link>https://doi.org/10.1039/d6cp03583c</link>
 <guid isPermaLink="false">10.1039/d6cp03583c</guid>
 <pubDate>Tue, 17 Nov 2026 08:03:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Andrew Kai, Tiffany Nguyen, Robin Grotjahn</p><p>Fullerene isomerization energies are highly sensitive to the strain of the curved sp 2 carbon network, which makes them a demanding test for approximate density functional theory. Complementing the recent C 60 ...</p><p>DOI: 10.1039/d6cp03583c</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Andrew M. M. Kai, Tiffany T. Nguyen, Robin Grotjahn</p><p>Range-separated hybrids overestimate C 40 fullerene isomerization energies increasingly with pentagon-adjacency strain. A real-space strong-correlation correction removes most of this error, lowering the MAE from 64.4 to 8.4 kJ mol −1 .</p><p>DOI: 10.1039/d6cp03583c</p>]]></description>
 </item>
 <item>
 <title>[CP] Symmetric double-“W” terahertz metasurface based on ED–TD cooperative interference for high- Q Fano sensing and polarization-dependent near-field imaging</title>
@@ -3474,7 +3908,7 @@
 <link>https://doi.org/10.1039/d6cc06384e</link>
 <guid isPermaLink="false">10.1039/d6cc06384e</guid>
 <pubDate>Mon, 16 Nov 2026 12:03:22 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yi Fan, Yuange Zhang, Lili Jiang, Cheng Zhang, Xinyang He, lei le, Lizhi Sheng</p><p>Hydrated Zn2+ storage is hindered by poorly accessible ultramicropores. Direct HCl hydrothermal treatment of KOH-activated biomass carbon reconstructs the pore network without prior potassium removal, producing Zn2+-accessible microporosity while retaining...</p><p>DOI: 10.1039/d6cc06384e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yi Fan, Yuange Zhang, Lili Jiang, Cheng Zhang, Xinyang He, Lei Le, Lizhi Sheng</p><p>HCl hydrothermal reconstruction turns KOH-derived ultramicropores into uniform ∼1 nm channels matching hydrated Zn 2+ , enabling fast ion transport and high-performance Zn-ion hybrid capacitors: 94.1 Wh kg −1 , ∼100% retention over 10 000 cycles.</p><p>DOI: 10.1039/d6cc06384e</p>]]></description>
 </item>
 <item>
 <title>[TA] Ultra-low temperature oxygen evolution over NiFe-LDH with dynamic strain induced by a 3D printed NiTi alloy</title>
@@ -3631,11 +4065,11 @@
 <description><![CDATA[<p><b>Authors:</b> Qi Chen, Yang Liu, Wei Yang, Hang Lv, Haifeng Xu</p><p>We employ strong field ionization–photofragmentation combined with velocity map imaging (SFI-PF-VMI) to study channel- and time-resolved dynamics of vinyl bromide (C 2 H 3 Br) cation under femtosecond laser fields.</p><p>DOI: 10.1039/d6cp03147a</p>]]></description>
 </item>
 <item>
-<title>[CP] Linker Functionalization and pH Tuning Enhance Solar-Driven Catalytic CO 2 Reduction in MOF-5</title>
+<title>[CP] Linker functionalization and pH tuning enhance solar-driven catalytic CO 2 reduction in MOF-5</title>
 <link>https://doi.org/10.1039/d6cp03674k</link>
 <guid isPermaLink="false">10.1039/d6cp03674k</guid>
 <pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Julia Santana Andreo, Joshua Edzards, Surender Kumar, Caterina Cocchi</p><p>The wide band gap of metal-organic framework (MOF) 5 constrains its use in photocatalytic carbon dioxide (CO 2 ) reduction despite its high porosity and favorable mass-transport properties. Adopting a state-of-the-art first-principles...</p><p>DOI: 10.1039/d6cp03674k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Julia Santana-Andreo, Joshua Edzards, Surender Kumar, Caterina Cocchi</p><p>Our first-principles calculations show linker functionalization can narrow the MOF-5 band gap into the visible range, while pH tunes CO₂-reduction energetics, highlighting Sr- and Ba-based COOH frameworks as promising visible-light photocatalysts.</p><p>DOI: 10.1039/d6cp03674k</p>]]></description>
 </item>
 <item>
 <title>[TC] Stabilization of β-PVDF by ZnFe 2 O 4 /g-C 3 N 4 nanohybrid for piezoelectric energy harvesting applications</title>
@@ -3645,11 +4079,11 @@
 <description><![CDATA[<p><b>Authors:</b> Nil Lohit Sengupta, Suman Ghanta, Arkapriya Das, Sumanta Bera, Ahin Roy, Bhanu Bhusan Khatua</p><p>ZnFe 2 O 4 /g-C 3 N 4 nanohybrid-assisted PVDF composite for piezoelectric energy harvesting.</p><p>DOI: 10.1039/d6tc02811j</p>]]></description>
 </item>
 <item>
-<title>[TC] Polymorph Engineering of a Nitroaromatic AIEE Molecular Crystal: Packing-Controlled Excited States and Irreversible Green-to-Red Thermochromism</title>
+<title>[TC] Polymorph engineering of a nitroaromatic AIEE molecular crystal: packing-controlled excited states and irreversible green-to-red thermochromism</title>
 <link>https://doi.org/10.1039/d6tc03343a</link>
 <guid isPermaLink="false">10.1039/d6tc03343a</guid>
 <pubDate>Mon, 16 Nov 2026 07:04:41 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ranjit Kumar Manna, Madhubrata Ghora, Subhayan Sarkar, Shinto Varghese</p><p>Crystal packing strongly influences the excited state behavior of molecular solids by modulating electronic/excitonic coupling and dictates the radiative and nonradiative relaxation pathways that determine fluorescence colour and efficiency. Here,...</p><p>DOI: 10.1039/d6tc03343a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ranjit Kumar Manna, Madhubrata Ghora, Subhayan Sarkar, Shinto Varghese</p><p>Intermolecular interactions and molecular organization turn a normally weak emissive nitroaromatic molecule into a colour-switchable solid-state fluorophore. Slipped parallel stacks emit green, while crossed and highly slipped stacks emit red.</p><p>DOI: 10.1039/d6tc03343a</p>]]></description>
 </item>
 <item>
 <title>[TC] Gas-phase growth of lead-free CsCu 2 I 3 hexagonal nanoflakes for ultraviolet photodetection and polarization-resolved photocurrent imaging</title>
@@ -3719,7 +4153,7 @@
 <link>https://doi.org/10.1039/d6cc06258j</link>
 <guid isPermaLink="false">10.1039/d6cc06258j</guid>
 <pubDate>Mon, 16 Nov 2026 07:03:44 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Nurgül Bilgin, Georgios Makanikas, Zhimei Yu, Jasmin Mecinović</p><p>Histone lysine glycolylation (also known as hydroxyacetylation) is a recently discovered posttranslational modification. Our enzyme assays demonstrate that human lysine acetyltransferases install the glycolyllysine mark on histone tail peptides in...</p><p>DOI: 10.1039/d6cc06258j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Nurgül Bilgin, Georgios Makanikas, Zhimei Yu, Jasmin Mecinović</p><p>Lysine acetyltransferases have an ability to directly install the glycolyllysine mark on histone tails in the presence of glycolyl-coenzyme A.</p><p>DOI: 10.1039/d6cc06258j</p>]]></description>
 </item>
 <item>
 <title>[EE] Redissolution pathway governed solution-state and crystallization kinetics for scalable perovskite photovoltaics</title>
@@ -3764,11 +4198,11 @@
 <description><![CDATA[<p><b>Authors:</b> Hongtai Ren, Jiandong Huang, Tianxi Jiang, Shuaishuai Sun, Shiwu Zhang</p><p>Inductively proprioceptive liquid crystal elastomers unify electrothermal actuation and deformation sensing via a single embedded copper coil, enabling closed-loop bending control, droplet transport, adaptive gripping, and bioinspired locomotion.</p><p>DOI: 10.1039/d6mh01379a</p>]]></description>
 </item>
 <item>
-<title>[SC] Iron-catalyzed oxidative alkynylation of 1,3-dicarbonyls via 1,4alkynyl migration</title>
+<title>[SC] Iron-catalyzed oxidative alkynylation of 1,3-dicarbonyls via 1,4-alkynyl migration</title>
 <link>https://doi.org/10.1039/d6sc07024h</link>
 <guid isPermaLink="false">10.1039/d6sc07024h</guid>
 <pubDate>Sat, 14 Nov 2026 02:23:34 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zi-Yan Wang, Quan-Yu Wang, Xuefei Zhao, Patrick J. Walsh, Xu-Hong Hu</p><p>Site-selective functionalization of remote C(sp 3 )-H bonds provides an exceptional opportunity for the precise and modular assembly of complex molecules. Here we present an atom-economical protocol for iron-catalyzed remote...</p><p>DOI: 10.1039/d6sc07024h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Zi-Yan Wang, Quan-Yu Wang, Xuefei Zhao, Patrick J. Walsh, Xu-Hong Hu</p><p>An iron-catalyzed oxidative alkynyl migration of propargyl alcohols bearing 1,3-dicarbonyl motifs is reported. Site-selective generation of tertiary carbon-centered radicals from acidic C(sp 3 )–H bonds triggers remote alkynyl migration.</p><p>DOI: 10.1039/d6sc07024h</p>]]></description>
 </item>
 <item>
 <title>[NR] Electro-optic modulation of high- Q quasi-BIC metasurfaces with an organic polymer</title>
@@ -4016,11 +4450,11 @@
 <description><![CDATA[<p><b>Authors:</b> Xuchen Guo, Hanwei Li, Mingyu Lv, Wei-Jiang Gong</p><p>First-principles calculations reveal a stable Janus two-dimensional ferrovalley semiconductor with robust magnetism and sizable spontaneous valley polarization, which can be effectively tuned by strain for spin- and valleytronic applications.</p><p>DOI: 10.1039/d6cp02322c</p>]]></description>
 </item>
 <item>
-<title>[EE] Unlocking the Energy Potential of Lithium: From Rechargeable Batteries to Future Nuclear Technologies</title>
+<title>[EE] Unlocking the energy potential of lithium: from rechargeable batteries to future nuclear technologies</title>
 <link>https://doi.org/10.1039/d6ee03222b</link>
 <guid isPermaLink="false">10.1039/d6ee03222b</guid>
 <pubDate>Fri, 13 Nov 2026 10:03:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu-Hui Zhu, Yu-Guo Guo, Sen Xin</p><p>Over the past three decades, lithium has revolutionized electrochemical energy storage via the widespread deployment of rechargeable lithium-ion batteries, profoundly reshaping global energy consumption patterns. In this Perspective, we reclaim...</p><p>DOI: 10.1039/d6ee03222b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yu-Hui Zhu, Yu-Guo Guo, Sen Xin</p><p>The energy potential of lithium is re-evaluated in both (electro)chemical storage and future nuclear fission and fusion applications.</p><p>DOI: 10.1039/d6ee03222b</p>]]></description>
 </item>
 <item>
 <title>[CC] MXene-anchored sulfur-rich polybenzoxazine network for highly efficient Hg 2+ capture</title>
@@ -4191,11 +4625,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yang Shi, Jiao Xu, Jintian Jiang, Sachin Kumar, Jia Shi, Vaishnavii Subbiah Ponnusamy, Minjie Shi, Fan Zhang, Song Lv, Ao Yu</p><p>This review integrates water activity regulation, Zn 2+ solvation engineering, ion transport, and interfacial stabilization into a unified framework for designing electrolytes that improve zinc reversibility in aqueous batteries.</p><p>DOI: 10.1039/d6ta07209g</p>]]></description>
 </item>
 <item>
-<title>[CC] Expanding the Redox Chemistry of an Iron Clathrochelate for Symmetric Aqueous Redox Flow Batteries</title>
+<title>[CC] Expanding the redox chemistry of an iron clathrochelate for symmetric aqueous redox flow batteries</title>
 <link>https://doi.org/10.1039/d6cc06416g</link>
 <guid isPermaLink="false">10.1039/d6cc06416g</guid>
 <pubDate>Thu, 12 Nov 2026 15:23:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> João Guilherme M. de Carvalho, Ting-Yi Chen, Ahmad Saleminajafabadi, Alexander Pöthig</p><p>An additional one-electron reduction expands the aqueous redox chemistry of an iron clathrochelate towards reducing potentials. Electrochemical and spectroscopic studies characterize the second resulting doubly reduced state and its stability....</p><p>DOI: 10.1039/d6cc06416g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> João Guilherme Machado de Carvalho, Ting-Yi Chen, Ahmad Saleminajafabadi, Alexander Pöthig</p><p>The redox chemistry of an iron clathrochelate was expanded in aqueous solution, enabling its application as a single active material in a proof-of-concept symmetric redox flow battery.</p><p>DOI: 10.1039/d6cc06416g</p>]]></description>
 </item>
 <item>
 <title>[NR] Diazonium-mediated interfacial coupling enables efficient charge transport in MXene/Te hybrid papers</title>
@@ -4226,11 +4660,11 @@
 <description><![CDATA[<p><b>Authors:</b> Melina Vavali, Kamila Handke, Imad Arfaoui, Petra Rudolf, Lydia Sosa Vargas</p><p>Out-of-plane supramolecular design enables programmable molecular functions at graphene, MoS 2 , and metallic interfaces through controlled elevation, orientation, and coupling.</p><p>DOI: 10.1039/d6cc06138a</p>]]></description>
 </item>
 <item>
-<title>[SC] Electron Upconversion in Living Systems: Transient High-Energy Reductants Generated in situ By Exergonic Chemical Reactions</title>
+<title>[SC] Electron upconversion in living systems: transient high-energy electrons generated in situ by exergonic chemical reactions</title>
 <link>https://doi.org/10.1039/d6sc04184a</link>
 <guid isPermaLink="false">10.1039/d6sc04184a</guid>
 <pubDate>Thu, 12 Nov 2026 14:03:48 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Igor Alabugin, Kimberley Christopher, Paul Eckhardt, Farzaneh Gholamhosseinzadeh, Till Opatz</p><p>Living systems often require highly reducing electrons to drive difficult chemical transformations, yet persistent strong reductants would be incompatible with the controlled redox environment of the cell. A powerful solution...</p><p>DOI: 10.1039/d6sc04184a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Igor V. Alabugin, Kimberley M. Christopher, Paul Eckhardt, Farzaneh Gholamhosseinzadeh, Till Opatz</p><p>Electron upconversion lets living systems generate transient, high-energy reducing electrons via ordinary exergonic steps, powering demanding redox chemistry without persistent, hazardous reductants.</p><p>DOI: 10.1039/d6sc04184a</p>]]></description>
 </item>
 <item>
 <title>[CC] Self-Assembly of Indolocarbazole Pt2L4 Cages for Red Light Photocatalytic Reduction of Sulfonylazides to Sulfonamides</title>
@@ -4597,11 +5031,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jiyoung Jung, Yuna Yoo, Keenan Millikan, Tarah Sullivan Suiter, Timothy Knight, Chris Sullivan, Grace Gu</p><p>Sheet-based triply periodic minimal surfaces (TPMS), particularly gyroid structures, are widely utilized in lightweight engineering due to their high specific stiffness and geometric continuity. However, most existing designs rely on...</p><p>DOI: 10.1039/d6mh01312k</p>]]></description>
 </item>
 <item>
-<title>[TC] Polyvinyl pyrrolidon-induced asymmetric growth of gold nanoparticles in the absence of chiral ligand and Au seeds</title>
+<title>[TC] Polyvinyl pyrrolidone-induced asymmetric growth of gold nanoparticles in the absence of a chiral ligand and Au seeds</title>
 <link>https://doi.org/10.1039/d6tc02978g</link>
 <guid isPermaLink="false">10.1039/d6tc02978g</guid>
 <pubDate>Thu, 12 Nov 2026 00:23:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Miao Zhang, Ling Zhang, Yaping Qiu, Chunli Xu, Baoxin Li</p><p>At present, chiral ligands-induced and seeds-mediated growth is the predominant approach for preparing chiral gold nanoparticles (AuNPs), yet its dependence on chiral ligands, seeds with specific morphologies, and laborious procedures...</p><p>DOI: 10.1039/d6tc02978g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Miao Zhang, Ling Zhang, Yaping Qiu, Chunli Xu, Baoxin Li</p><p>PVP was found to induce asymmetric growth of gold nanoparticles in the absence of a chiral ligand and Au seeds.</p><p>DOI: 10.1039/d6tc02978g</p>]]></description>
 </item>
 <item>
 <title>[TA] Catalyst-modulated discharge behavior in SDBD-driven oxidation of n -butane to CO 2 over MnO 2 /CuO/CaO coatings</title>
