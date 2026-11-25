@@ -3,7 +3,14 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Tue, 24 Nov 2026 22:35:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:49:36 +0000</lastBuildDate>
+<item>
+<title>A general deep learning processing scheme for high-fidelity enhancement of Raman spectra</title>
+<link>https://doi.org/10.1039/d6dd00181e</link>
+<guid isPermaLink="false">10.1039/d6dd00181e</guid>
+<pubDate>Wed, 25 Nov 2026 01:23:33 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ze-Heng Xia, yuanyuan Niu, Jinchang Xu, Zhenyou Wang, Guangyou Fang</p><p>Raman spectroscopy, as a pivotal molecular analysis tool, has a wide range of applications in multiple fields. The surge in Raman data generated during the experimental processes makes the automated...</p><p>DOI: 10.1039/d6dd00181e</p>]]></description>
+</item>
 <item>
 <title>Multi-Objective Inverse Design of High-Performance Polymers via Contrastive-Pretrained Graph Attention Networks and NSGA-II</title>
 <link>https://doi.org/10.1039/d6dd00106h</link>
@@ -171,19 +178,5 @@
 <guid isPermaLink="false">10.1039/d6dd00506c</guid>
 <pubDate>Wed, 11 Nov 2026 02:43:27 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Zeqi Zhang, Hantian Fang, Yunxiao Shi, Yaxin Fan, Shan Bian, Jinlei Bian, Jing Zhang, Min Xu, Xiao Yang, Cong Ma</p><p>CHAMP and AMPToxPred provide a curated toxicity dataset and AI prediction framework for antimicrobial peptides (AMPs), enabling accurate toxicity assessment and accelerating safer AMP design and discovery.</p><p>DOI: 10.1039/d6dd00506c</p>]]></description>
-</item>
-<item>
-<title>CSP5: Large-scale Neural Chemical Shift Prediction from 2.5 Million Experimental NMR Spectra</title>
-<link>https://doi.org/10.1039/d6dd00524a</link>
-<guid isPermaLink="false">10.1039/d6dd00524a</guid>
-<pubDate>Tue, 10 Nov 2026 10:44:37 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> J. Benji Rowlands, Richard James Lewis, Peter Howe, Jonathan Goodman</p><p>Accurate nuclear magnetic resonance (NMR) chemical shift prediction remains limited by the small size and narrow chemical diversity of atom-assigned training datasets. Here, we address that bottleneck by leveraging the...</p><p>DOI: 10.1039/d6dd00524a</p>]]></description>
-</item>
-<item>
-<title>A diffusion framework for geometrically valid and practically viable 3D molecular generation</title>
-<link>https://doi.org/10.1039/d6dd00456c</link>
-<guid isPermaLink="false">10.1039/d6dd00456c</guid>
-<pubDate>Tue, 10 Nov 2026 09:23:32 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Thanapat Worakul, Clémence Corminboeuf</p><p>We introduce a quality-guided 3D molecular diffusion framework that learns desirable and undesirable structural attributes to improve the geometric validity, charge neutrality, and synthetic accessibility of generated organic molecules.</p><p>DOI: 10.1039/d6dd00456c</p>]]></description>
 </item>
 </channel></rss>

@@ -3,7 +3,7 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Tue, 24 Nov 2026 22:35:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:49:25 +0000</lastBuildDate>
 <item>
 <title>Deciphering the spacer code: a spectroscopic and computational investigation into BSA binding by structurally engineered cationic Gemini surfactants</title>
 <link>https://doi.org/10.1039/d6cp00809g</link>
@@ -682,103 +682,5 @@
 <guid isPermaLink="false">10.1039/d6cp04321f</guid>
 <pubDate>Wed, 11 Nov 2026 07:24:58 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Kumpei Kozuka, Keiichi Imato, Yousuke Ooyama</p><p>Bathochromic shift-type organohalogenochromism (b-OHC) of D–A type pyridinium dyes KK1–4 bearing various counter anions is induced by specific solvation involving the positive σ-holes of organohalogen solvent molecules.</p><p>DOI: 10.1039/d6cp04321f</p>]]></description>
-</item>
-<item>
-<title>Characterizing ligand-mediated conformational dynamics and state transitions of KRAS-G12C through machine learning and molecular dynamics simulations</title>
-<link>https://doi.org/10.1039/d6cp03730e</link>
-<guid isPermaLink="false">10.1039/d6cp03730e</guid>
-<pubDate>Tue, 10 Nov 2026 22:31:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Gopal Hema, Kandhan Palanisamy, Muthuramalingam Prakash</p><p>An integrated computational pipeline accelerates ligand discovery against KRAS by rapidly prioritizing and validating potent binders, supporting efficient identification of candidates for targeted drug development.</p><p>DOI: 10.1039/d6cp03730e</p>]]></description>
-</item>
-<item>
-<title>Self-consistent optical, thermal, and morphological modeling of gold nanorod reshaping under nanosecond laser irradiation</title>
-<link>https://doi.org/10.1039/d6cp03771b</link>
-<guid isPermaLink="false">10.1039/d6cp03771b</guid>
-<pubDate>Tue, 10 Nov 2026 17:11:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> W. Alexander Ooijevaar, Gastón D. Godoy, Eduardo A. Coronado</p><p>Under nanosecond irradiation resonantly absorbing populations reach the melting regime before solid state surface diffusion can generate extensive reshaping, while off-resonant populations remain below the threshold and remains without changes.</p><p>DOI: 10.1039/d6cp03771b</p>]]></description>
-</item>
-<item>
-<title>Structural and electronic analysis of β-Mo 2 C doped with transition metals based on electronic structure calculations</title>
-<link>https://doi.org/10.1039/d6cp02199a</link>
-<guid isPermaLink="false">10.1039/d6cp02199a</guid>
-<pubDate>Tue, 10 Nov 2026 16:33:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yutong Yu, Ángel Morales-García, Francesc Viñes, Lisheng Zhong, Francesc Illas</p><p>A systematic density functional study (DFT) is carried out to assess the stability of orthorhombic molybdenum carbide (β-Mo 2 C) doped with 3d, 4d, and 5d transition metal (TM) elements.</p><p>DOI: 10.1039/d6cp02199a</p>]]></description>
-</item>
-<item>
-<title>Sub-5 nm monolayer K 2 NaGaP 2 transistor: a first-principles quantum transport simulation</title>
-<link>https://doi.org/10.1039/d6cp03411j</link>
-<guid isPermaLink="false">10.1039/d6cp03411j</guid>
-<pubDate>Tue, 10 Nov 2026 16:33:01 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Daming Wu, Yuhao Pu, Xin Tian, Putian Wang, Le Yang, Tanxiao Wu, Jinxia Tian, Jianning Zhang, Xuemei Zhang, Linqiang Xu, Lianqiang Xu</p><p>ML K 2 NaGaP 2 MOSFETs with sub-5 nm gate lengths show exceptional drive currents and subthreshold swings, outperforming conventional 2D channels.</p><p>DOI: 10.1039/d6cp03411j</p>]]></description>
-</item>
-<item>
-<title>Unveiling the electrocatalytic performance of h-AlN monolayer for nonaqueous Li–O 2 batteries: a first-principles study</title>
-<link>https://doi.org/10.1039/d6cp03043b</link>
-<guid isPermaLink="false">10.1039/d6cp03043b</guid>
-<pubDate>Tue, 10 Nov 2026 16:30:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Darshil Chodvadiya, Izabela Zgłobicka, Dominik Kurzydłowski, Prafulla K. Jha, Krzysztof J. Kurzydłowski</p><p>h-AlN promotes an O 2 -first four-electron ORR pathway toward Li 4 O 2 formation, achieving low ORR/OER overpotentials of 0.178/0.104 V and total overpotential of 0.282 V, highlighting its potential as a bifunctional cathode catalyst for Li–O 2 batteries.</p><p>DOI: 10.1039/d6cp03043b</p>]]></description>
-</item>
-<item>
-<title>Strain-tunable 2D type-II PtS 2 /PtSSe van der Waals heterostructure with high carrier mobility for solar cell applications</title>
-<link>https://doi.org/10.1039/d6cp03870k</link>
-<guid isPermaLink="false">10.1039/d6cp03870k</guid>
-<pubDate>Tue, 10 Nov 2026 15:03:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xin Zhou, Xi Zhang, Feng Tang, Wenjie He, Ya Nie, Gang Xiang</p><p>The type-II PtS 2 /SePtS heterostructure enables efficient carrier separation, strong optical absorption, and ultrahigh mobility. Strain engineering further amplifies transport disparity and significantly boosts the power conversion efficiency.</p><p>DOI: 10.1039/d6cp03870k</p>]]></description>
-</item>
-<item>
-<title>Damage-free separator engineering strategy via solvent-free in situ growth of Zn-MOF functional layers for long-cycling aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1039/d6cp03692a</link>
-<guid isPermaLink="false">10.1039/d6cp03692a</guid>
-<pubDate>Tue, 10 Nov 2026 11:05:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Juan Xu, Mengge Ding, Jiayi Li, Lingrui Zhu, Jiahui Zheng, Lei Wang, Pei Zhou, Zhiliang Chen, Zhongyang Li</p><p>A novel damage-free separator engineering strategy via in situ solvent-free deposited Zn-MOF functional layers homogenizes Zn 2+ flux, suppress zinc dendrites, and enable ultrastable aqueous zinc-ion batteries with exceptional cycling performance.</p><p>DOI: 10.1039/d6cp03692a</p>]]></description>
-</item>
-<item>
-<title>Structure–property relations on exchange couplings in distorted halide-bridged Gd( iii ) complexes</title>
-<link>https://doi.org/10.1039/d6cp03565e</link>
-<guid isPermaLink="false">10.1039/d6cp03565e</guid>
-<pubDate>Tue, 10 Nov 2026 10:31:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Christian F. Pachl, Karin Fink</p><p>Gadolinium halide molecules can be distorted to map the exchange coupling between the two Gd( iii ) centers. This reveals distinct ferromagnetic and antiferromagnetic areas.</p><p>DOI: 10.1039/d6cp03565e</p>]]></description>
-</item>
-<item>
-<title>High-throughput DFT screening of glutathione-triggered drug release from Au 13 , Ag 13 , and Pt 13 nanoclusters: metal-level selectivity and the limits of geometry-level screening</title>
-<link>https://doi.org/10.1039/d6cp02394k</link>
-<guid isPermaLink="false">10.1039/d6cp02394k</guid>
-<pubDate>Tue, 10 Nov 2026 10:26:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Saurav Mishra, Brijesh Kumar Pandey, Abhay P. Srivastava</p><p>DFT screening of 238 drug–metal complexes reveals metal-dependent binding and GSH-triggered release, identifying a 5.3 kcal/mol release window and carrier selection as the key design variable for selective drug delivery.</p><p>DOI: 10.1039/d6cp02394k</p>]]></description>
-</item>
-<item>
-<title>Molecular-scale corrugation and wall chemistry regulate amphiphilic self-assembly in nanotubes</title>
-<link>https://doi.org/10.1039/d6cp03597c</link>
-<guid isPermaLink="false">10.1039/d6cp03597c</guid>
-<pubDate>Tue, 10 Nov 2026 10:23:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Noriyoshi Arai, Takahiro Yokoyama, Arash Nikoubashman</p><p>Dissipative particle dynamics simulations reveal how wall corrugation, surface chemistry, and molecular architecture jointly control amphiphilic adsorption and self-assembly in nanotubes.</p><p>DOI: 10.1039/d6cp03597c</p>]]></description>
-</item>
-<item>
-<title>Pre-oxidation and molten salt activated semicoke carbon for zinc-ion hybrid capacitors</title>
-<link>https://doi.org/10.1039/d6cp03030k</link>
-<guid isPermaLink="false">10.1039/d6cp03030k</guid>
-<pubDate>Tue, 10 Nov 2026 10:04:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Na Wang, Tao Wang, Pengxu Ren, Haolan Wen, Gaojie Liu, Dongling Wu</p><p>Air pre-oxidation coupled with K 2 CO 3 /KOH molten-salt activation enables the conversion of semi-coke into defect-rich hierarchical porous carbon toward high performance zinc-ion hybrid capacitors.</p><p>DOI: 10.1039/d6cp03030k</p>]]></description>
-</item>
-<item>
-<title>Double halogenation controls the conformation of benzyl alcohol: does DFT fail to predict it even qualitatively?</title>
-<link>https://doi.org/10.1039/d6cp03475f</link>
-<guid isPermaLink="false">10.1039/d6cp03475f</guid>
-<pubDate>Tue, 10 Nov 2026 10:02:57 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Jannes N. Hasselhorn, Elisabeth Sennert, Martin A. Suhm, Daniel A. Obenchain</p><p>Is there a density functional which predicts the experimentally observed structural switch from difluoro- to dichlorobenzyl alcohol?</p><p>DOI: 10.1039/d6cp03475f</p>]]></description>
-</item>
-<item>
-<title>Conformational Fates and Secondary Kinetic Isotope Effects in Carbonic Acid and its Sulfur Analogues Mono-, Di-and Tri-thionic Acids at 10-300 K which Impact on their Lifetimes in the Interstellar Medium and Planetary Atmospheres</title>
-<link>https://doi.org/10.1039/d6cp03054h</link>
-<guid isPermaLink="false">10.1039/d6cp03054h</guid>
-<pubDate>Tue, 10 Nov 2026 09:43:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Judith Wurmel, Daniel J Cregg, John M Simmie</p><p>Detailed chemical kinetics of the rotamerisation and hydrogen atom transfer reactions of gaseous carbonic acid and its sulfur analogues mono-, di-and tri-thiocarbonic acids are determined at temperatures between 10 K...</p><p>DOI: 10.1039/d6cp03054h</p>]]></description>
-</item>
-<item>
-<title>Dimethylformamide formation via water bridge assisted C–N coupling between dimethylamine and CO 2 in water microdroplets</title>
-<link>https://doi.org/10.1039/d6cp02513g</link>
-<guid isPermaLink="false">10.1039/d6cp02513g</guid>
-<pubDate>Tue, 10 Nov 2026 08:04:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Pengju Wu, Yan Xu, Zhiheng Ma, Tianze Xu, Tianyang Liu, Yu Jing</p><p>Spontaneous DMF from DMA and CO 2 in ambient catalyst-free aqueous microdroplets by multiscale theoretical simulation and mass spectrometry experiments.</p><p>DOI: 10.1039/d6cp02513g</p>]]></description>
 </item>
 </channel></rss>
