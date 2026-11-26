@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Wed, 25 Nov 2026 21:49:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 08:34:44 +0000</lastBuildDate>
+<item>
+<title>Formulator-Pen: A Modular Dispensing Mechanism and Automated Robotic Platform for High-Viscosity Liquid Handling in Self-Driving Laboratories</title>
+<link>https://doi.org/10.1039/d6dd00821f</link>
+<guid isPermaLink="false">10.1039/d6dd00821f</guid>
+<pubDate>Thu, 26 Nov 2026 07:04:12 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mohammad Mahdi Rastegardoost, Renato Pinto Durao, Hiroki Oosaka, Frantz Le Dévédec</p><p>Self-driving laboratories (SDLs) rely on robotic liquid handling, yet commercial systems mainly target low-viscosity pipetting and rarely address gram-scale dispensing of viscous formulation components such as polymers and resins. Here...</p><p>DOI: 10.1039/d6dd00821f</p>]]></description>
+</item>
+<item>
+<title>Robotic Powder Processing of Cu–VO₂ Composites for Enhanced Thermal Conductivity</title>
+<link>https://doi.org/10.1039/d6dd00221h</link>
+<guid isPermaLink="false">10.1039/d6dd00221h</guid>
+<pubDate>Wed, 25 Nov 2026 23:43:35 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Kotaro Ooya, Yoshiaki Kinemuchi, Toshikazu Yamada, Takaya Inoue, Don N. Futaba, Woosuck Shin</p><p>A robotic system for automated powder dispensing, grinding, and handling was developed for powder-metallurgy workflows. Its performance was demonstrated by fabricating and optimizing sintered Cu-VO2 composites for improved thermal transport....</p><p>DOI: 10.1039/d6dd00221h</p>]]></description>
+</item>
 <item>
 <title>∂-HyMD: A Massively Parallel Differentiable Molecular Dynamics Framework for Automatic Force-Field Optimization</title>
 <link>https://doi.org/10.1039/d6dd00485g</link>
@@ -150,47 +164,5 @@
 <guid isPermaLink="false">10.1039/d6dd00634e</guid>
 <pubDate>Thu, 12 Nov 2026 07:24:03 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Seiji Akiyama, Hayaka Akitsu, Ryo Tamura, Wataru Matsuoka, Satoshi Maeda, Koji Tsuda, Yuuya Nagata</p><p>Robotic synthesis–analysis feedback drives autonomous Bayesian optimization of ligand, base and solvent, reaching a highest observed mono-product analytical yield of 49% within a defined Suzuki–Miyaura reaction space.</p><p>DOI: 10.1039/d6dd00634e</p>]]></description>
-</item>
-<item>
-<title>Back cover</title>
-<link>https://doi.org/10.1039/d6dd90058e</link>
-<guid isPermaLink="false">10.1039/d6dd90058e</guid>
-<pubDate>Wed, 11 Nov 2026 13:12:01 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90058e</p>]]></description>
-</item>
-<item>
-<title>Inside back cover</title>
-<link>https://doi.org/10.1039/d6dd90057g</link>
-<guid isPermaLink="false">10.1039/d6dd90057g</guid>
-<pubDate>Wed, 11 Nov 2026 13:09:59 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90057g</p>]]></description>
-</item>
-<item>
-<title>Front cover</title>
-<link>https://doi.org/10.1039/d6dd90054b</link>
-<guid isPermaLink="false">10.1039/d6dd90054b</guid>
-<pubDate>Wed, 11 Nov 2026 13:09:43 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90054b</p>]]></description>
-</item>
-<item>
-<title>Contents list</title>
-<link>https://doi.org/10.1039/d6dd90056a</link>
-<guid isPermaLink="false">10.1039/d6dd90056a</guid>
-<pubDate>Wed, 11 Nov 2026 13:09:17 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90056a</p>]]></description>
-</item>
-<item>
-<title>Inside front cover</title>
-<link>https://doi.org/10.1039/d6dd90055k</link>
-<guid isPermaLink="false">10.1039/d6dd90055k</guid>
-<pubDate>Wed, 11 Nov 2026 13:09:06 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6dd90055k</p>]]></description>
-</item>
-<item>
-<title>CHAMP and AMPToxPred: a machine-readable dataset of antimicrobial peptides and deep learning-based toxicity prediction</title>
-<link>https://doi.org/10.1039/d6dd00506c</link>
-<guid isPermaLink="false">10.1039/d6dd00506c</guid>
-<pubDate>Wed, 11 Nov 2026 02:43:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zeqi Zhang, Hantian Fang, Yunxiao Shi, Yaxin Fan, Shan Bian, Jinlei Bian, Jing Zhang, Min Xu, Xiao Yang, Cong Ma</p><p>CHAMP and AMPToxPred provide a curated toxicity dataset and AI prediction framework for antimicrobial peptides (AMPs), enabling accurate toxicity assessment and accelerating safer AMP design and discovery.</p><p>DOI: 10.1039/d6dd00506c</p>]]></description>
 </item>
 </channel></rss>
