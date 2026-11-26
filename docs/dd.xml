@@ -3,7 +3,21 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 26 Nov 2026 08:34:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:41:56 +0000</lastBuildDate>
+<item>
+<title>Fragment-Constrained Ionic Liquid Screening with a Compositional Gaussian Process Surrogate and an Uncertainty-Aware Multi-Objective Acquisition Function</title>
+<link>https://doi.org/10.1039/d6dd00373g</link>
+<guid isPermaLink="false">10.1039/d6dd00373g</guid>
+<pubDate>Thu, 26 Nov 2026 15:22:51 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Zeting Wu, Haoyang Li, Shifa Zhong</p><p>Multi-objective screening of ionic liquids (ILs) for CO₂ capture combines two primary design objectives, absorption capacity and viscosity, with toxicity as a tertiary constraint, over a cation-anion combinatorial space too...</p><p>DOI: 10.1039/d6dd00373g</p>]]></description>
+</item>
+<item>
+<title>Evidence guides relation-specific transfer of experimental knowledge in materials science</title>
+<link>https://doi.org/10.1039/d6dd00666c</link>
+<guid isPermaLink="false">10.1039/d6dd00666c</guid>
+<pubDate>Thu, 26 Nov 2026 14:50:46 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Sissi Feng, Ethan Han, Yang Bai</p><p>Experimental datasets may contain reusable knowledge, but relatedness alone does not reveal what remains valid in a new experimental program when context is incompletely recorded. We introduce a relation-specific framework...</p><p>DOI: 10.1039/d6dd00666c</p>]]></description>
+</item>
 <item>
 <title>Formulator-Pen: A Modular Dispensing Mechanism and Automated Robotic Platform for High-Viscosity Liquid Handling in Self-Driving Laboratories</title>
 <link>https://doi.org/10.1039/d6dd00821f</link>

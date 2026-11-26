@@ -3,7 +3,28 @@
 <title>RSC - Materials Horizons</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/mh</link>
 <description>RSC - Materials Horizons (via Crossref)</description>
-<lastBuildDate>Thu, 26 Nov 2026 08:34:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:41:49 +0000</lastBuildDate>
+<item>
+<title>FeCoNiCrMn addition leading to superior thermoelectric cooling performance in Mg 3 (Sb,Bi) 2 -based materials</title>
+<link>https://doi.org/10.1039/d6mh02227h</link>
+<guid isPermaLink="false">10.1039/d6mh02227h</guid>
+<pubDate>Thu, 26 Nov 2026 16:16:41 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yuxin Sun, Zhiyuan Yu, Xiangchen Meng, Kuai Yu, Haiqi Li, Jinsuo Hu, Kejia Liu, Fengkai Guo, Jiehe Sui, Weixin Song, Yue Chen</p><p>FeCoNiCrMn tunes grain boundaries and carrier concentration in Mg 3 (Sb,Bi) 2 , enabling high mobility and power factor near room temperature. A Bi 2 Te 3 /Mg 3 (Sb,Bi) 2 module achieves an 86.6 K temperature difference and ∼2.4 W cm −2 cooling power density.</p><p>DOI: 10.1039/d6mh02227h</p>]]></description>
+</item>
+<item>
+<title>Nanochaperone-mediated dynamic protection of protein conformation enables sustained enzymatic degradation of highly crystalline polylactic acid</title>
+<link>https://doi.org/10.1039/d6mh01570k</link>
+<guid isPermaLink="false">10.1039/d6mh01570k</guid>
+<pubDate>Thu, 26 Nov 2026 15:10:55 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Hongyun Liu, Feihe Ma, Wenyi Gui, Shijia Chen, Linqi Shi</p><p>Nanochaperone-mediated strategy for dynamic protection of protein conformation enables efficient degradation of PLA waste with high-purity l -lactic acid recovery for closed-loop plastic upcycling.</p><p>DOI: 10.1039/d6mh01570k</p>]]></description>
+</item>
+<item>
+<title>Dual-mode Tunable Gaussian Organic Electrochemical Transistors Enabling Gaussian Attention and Dendritic Computation</title>
+<link>https://doi.org/10.1039/d6mh01113f</link>
+<guid isPermaLink="false">10.1039/d6mh01113f</guid>
+<pubDate>Thu, 26 Nov 2026 09:02:47 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Lichao Peng, Sai Jiang, Jiandong Yan, Jinrui Sun, Chaoran Wu, Xinyu Chen, Ziyan Zhang, Sheng Li, Qijing Wang, Huafei Guo, Jianhua Qiu, Yun Li</p><p>Gaussian functions are core computational primitives for probabilistic inference, attention, and dendritic integration in next-generation neuromorphic systems. However, hardware that can physically instantiate and quantitatively program Gaussian kernels in a...</p><p>DOI: 10.1039/d6mh01113f</p>]]></description>
+</item>
 <item>
 <title>Blue light-emitting photo-crosslinker enables high-resolution photolithographic patterning of polymer display</title>
 <link>https://doi.org/10.1039/d6mh02150f</link>
@@ -131,11 +152,11 @@
 <description><![CDATA[<p><b>Authors:</b> Jun Zhao, Suxu Wang, Jingjing Li, Yuke Sun, Anle Yang, Zhihang Wang, Zhaojun Li, Petri Murto, Hongzhi Cui, Xiaofeng Xu</p><p>Solar-powered interfacial evaporation offers a sustainable route to freshwater production from saline water. However, conventional photothermal matrices often rely on multicomponent composites or modular assembly, which can introduce heterogeneous component...</p><p>DOI: 10.1039/d6mh02267g</p>]]></description>
 </item>
 <item>
-<title>Scalable Roller-Printed Graphite/Ecoflex Microstructured Arrays toward Submillimeter Spatial Resolution Tactile Sensing with Deep-Learning-Assisted Pattern Recognition</title>
+<title>Scalable roller-printed graphite/Ecoflex microstructured arrays toward submillimeter spatial resolution tactile sensing with deep-learning-assisted pattern recognition</title>
 <link>https://doi.org/10.1039/d6mh02296k</link>
 <guid isPermaLink="false">10.1039/d6mh02296k</guid>
 <pubDate>Sat, 21 Nov 2026 01:03:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wei-Bin Chen, Qi-Jun Sun, Wen-Tao Guo, Xin-Gui Tang, Vellaisamy A. L. Roy, Ye Zhou</p><p>Flexible tactile sensors constitute core building blocks for electronic skin, intelligent robotics, and human-machine interfaces. Nevertheless, concurrently achieving high sensitivity and submillimeter spatial resolution remains a persistent bottleneck for high-fidelity...</p><p>DOI: 10.1039/d6mh02296k</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Wei-Bin Chen, Qi-Jun Sun, Wen-Tao Guo, Xin-Gui Tang, Vellaisamy A. L. Roy, Ye Zhou</p><p>A fingertip-skin-inspired tactile sensing array is proposed, providing a new type of material choice for tactile sensing devices and expanding new strategies for constructing high-resolution tactile perception systems.</p><p>DOI: 10.1039/d6mh02296k</p>]]></description>
 </item>
 <item>
 <title>Artificial intelligence-driven sustainable polymers research: a lifecycle-integrated perspective</title>
@@ -159,11 +180,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yixuan Wang, Enjian He, Yuzhen Ge, Huan Liang, Zhijun Yang, Shuhan Zhang, Chao Gao, Guoli Wang, Yen Wei, Yan Ji</p><p>Correction for ‘A dual latent catalyst for achieving a broad gelation window and creep resistance in epoxy vitrimers’ by Yixuan Wang et al. , Mater. Horiz. , 2026, 13 , 10757–10767, https://doi.org/10.1039/d6mh01109h.</p><p>DOI: 10.1039/d6mh90125e</p>]]></description>
 </item>
 <item>
-<title>Discovery of Blue Thermally Activated Delayed Fluorescence Emitters in Low-Data Regime via Deep Generative Model</title>
+<title>Discovery of blue thermally activated delayed fluorescence emitters in low-data regime via deep generative model</title>
 <link>https://doi.org/10.1039/d6mh01859a</link>
 <guid isPermaLink="false">10.1039/d6mh01859a</guid>
 <pubDate>Fri, 20 Nov 2026 10:23:05 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Unhyeok Jo, Jae-Min Kim, Jun Yeob Lee</p><p>Thermally activated delayed fluorescence (TADF) materials have emerged as promising emitters in organic light-emitting diodes (OLEDs) owing to their ability to harvest both singlet and triplet excitons. However, designing novel...</p><p>DOI: 10.1039/d6mh01859a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Unhyeok Jo, Jae-Min Kim, Jun Yeob Lee</p><p>A transfer learning-based deep generative model combined with virtual screening enables the discovery of blue thermally activated delayed fluorescence emitters in a low-data regime.</p><p>DOI: 10.1039/d6mh01859a</p>]]></description>
 </item>
 <item>
 <title>Ordered-domain orientation correlates with the mechanical response of the high-performance semiconducting polymer D18</title>
@@ -229,11 +250,11 @@
 <description><![CDATA[<p><b>Authors:</b> Lokesh Kumar, Devang Anadkat, Riya Wadhwa, Kirti Pawar, Dipti Gupta</p><p>This work demonstrates a complete and sustainable pathway from the green synthesis of tunablegraphene to its integration into high-performance, screen-printable conductive inks and multifunctional printed devices. Few-layer graphene was synthesized...</p><p>DOI: 10.1039/d6mh01891b</p>]]></description>
 </item>
 <item>
-<title>Direct Observation of Structure–Reactivity Correlation in Acidic and Non-Acidic Zeolite-Supported Pt Catalysts</title>
+<title>Direct observation of structure–reactivity correlation in acidic and non-acidic zeolite-supported Pt catalysts</title>
 <link>https://doi.org/10.1039/d6mh01806h</link>
 <guid isPermaLink="false">10.1039/d6mh01806h</guid>
 <pubDate>Wed, 18 Nov 2026 07:04:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ying Shu, Lizhuo Wang, Liwei Cao, Namuerkesaihan Namuerkesaihan, Zhiqiang Zhao, Yasuhiro Sakamoto, Chung K Nguyen, Sarina Sarina, Ang Li, Xiaodong Han, Jun Huang</p><p>Understanding how zeolite acidity governs the redox behaviour and structural evolution of confined metal nanoparticles is central to the rational design of catalysts for methane valorisation. Here, using the partial...</p><p>DOI: 10.1039/d6mh01806h</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Ying Shu, Lizhuo Wang, Liwei Cao, Namuersaihan Namuersaihan, Zhiqiang Zhao, Yasuhiro Sakamoto, Chung Kim Nguyen, Sarina Sarina, Ang Li, Xiaodong Han, Jun Huang</p><p>Support acidity influences the reaction pathways of partial oxidation of methane (POM) over Pt catalysts.</p><p>DOI: 10.1039/d6mh01806h</p>]]></description>
 </item>
 <item>
 <title>Strengthened and toughened epoxy resin with a zipper-type coordination supramolecular network for high-performance chip packaging</title>
@@ -243,11 +264,11 @@
 <description><![CDATA[<p><b>Authors:</b> Yingpeng Zhou, Zi-Han Zhao, Jiajun Fu</p><p>A zipper mechanism based on hierarchical energy dissipation is constructed to prepare epoxy resins that exhibit outstanding overall performance, including high strength, superior toughness, a low CTE, and desirable thermal conductivity.</p><p>DOI: 10.1039/d6mh01649a</p>]]></description>
 </item>
 <item>
-<title>Alkali-Mediated Hierarchical Defect Fingerprinting of Luminescent ZnO Nanohexagons for Multilevel Security Encoding</title>
+<title>Alkali-mediated hierarchical defect fingerprinting of luminescent ZnO nanohexagons for multilevel security encoding</title>
 <link>https://doi.org/10.1039/d6mh01877g</link>
 <guid isPermaLink="false">10.1039/d6mh01877g</guid>
 <pubDate>Tue, 17 Nov 2026 14:24:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Tanmoy Pramanik, Rubaiyat Mustari, Ranat  Das Prangon, Fahmida Sharmin, ABDULLAH  AL HAMIM, Md. Rakib Hosen, M. Shahidul Islam, Md. Azizar Rahman</p><p>We proposed hierarchical defect fingerprinting as a concept-driven approach to realize multifunctional ZnO nanohexagons by alkali-mediated growth. Rather than considering defects as undesired imperfections in the lattice, this work exploits...</p><p>DOI: 10.1039/d6mh01877g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Tanmoy Pramanik, Rubaiyat Mustari, Ranat Das Prangon, Fahmida Sharmin, Abdullah Al Hamim, Md. Rakib Hosen, M. Shahidul Islam, M. Azizar Rahman</p><p>Alkali-mediated growth induces hierarchical defect fingerprints in ZnO nanohexagons, enabling tunable luminescence, lifetime-encoded authentication, photocatalysis, emission-entropy signatures, and physically unclonable multilevel optical security.</p><p>DOI: 10.1039/d6mh01877g</p>]]></description>
 </item>
 <item>
 <title>Handedness-Switchable Assembly Chirality of Non-Chiral Soft Materials Twisted by Configurationally Enantiomorphous Displaced Quadrupolar Electric and Magnetic Fields: Generation and Modulation of Circularly Polarized Light</title>
@@ -268,7 +289,7 @@
 <link>https://doi.org/10.1039/d6mh02078j</link>
 <guid isPermaLink="false">10.1039/d6mh02078j</guid>
 <pubDate>Tue, 17 Nov 2026 13:43:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bingbing Gao, Di Mu, Jingyi Zhu, Huijuan Lu, Shuidong Zhang</p><p>Hot-melt adhesives offer significant convenience in intelligent manufacturing, yet their practical use is limited by difficult on-demand debonding, electricity-dependent bonding and narrow substrate versatility. Carboxylated starch possesses intrinsic photothermal and...</p><p>DOI: 10.1039/d6mh02078j</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Bingbing Gao, Di Mu, Jingyi Zhu, Huijuan Lu, Shuidong Zhang</p><p>Antibacterial starch hot-melt adhesive: photothermal driven robust bonding and ethanol-triggered 3 s residue-free debonding.</p><p>DOI: 10.1039/d6mh02078j</p>]]></description>
 </item>
 <item>
 <title>Surface chemistry of zirconia and hafnia colloidal nanocrystals: from fundamentals to applications</title>
