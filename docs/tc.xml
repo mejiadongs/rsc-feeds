@@ -3,7 +3,21 @@
 <title>RSC - Journal of Materials Chemistry C</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/tc</link>
 <description>RSC - Journal of Materials Chemistry C (via Crossref)</description>
-<lastBuildDate>Fri, 27 Nov 2026 08:45:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 21:26:41 +0000</lastBuildDate>
+<item>
+<title>Unveiling the impact of Cu doping on GeSe-based ovonic threshold switching selectors</title>
+<link>https://doi.org/10.1039/d6tc02849g</link>
+<guid isPermaLink="false">10.1039/d6tc02849g</guid>
+<pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Yifan Yan, Qundao Xu, Shaojie Yuan, Chong Qiao, Songyou Wang, Ming Xu, Xiangshui Miao</p><p>Cu doping in amorphous GeSe increases the Ge-centered tetrahedral fraction and narrows the mobility gap, providing a theoretical basis for designing high-performance OTS selectors.</p><p>DOI: 10.1039/d6tc02849g</p>]]></description>
+</item>
+<item>
+<title>Chiral optoelectronic pathways for direct circularly polarized light detection: neuromorphic and spintronic applications</title>
+<link>https://doi.org/10.1039/d6tc03084j</link>
+<guid isPermaLink="false">10.1039/d6tc03084j</guid>
+<pubDate>Fri, 27 Nov 2026 09:22:51 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Junho Bae, Yuseok Song, Jaeyong Ahn, Su Hye Jeong, Jeongeun Lee, Soomin Cho, Yoonho Lee, Inho Song</p><p>Circularly polarized light (CPL), as an intrinsically chiral form of light, carries both chiroptical information and spin angular momentum, rendering its direct electrical detection highly attractive for next-generation applications such...</p><p>DOI: 10.1039/d6tc03084j</p>]]></description>
+</item>
 <item>
 <title>Tm3+ /Ho3+ Dual-Emitting Centers Activated Y2O3 Nanostructures for High-Sensitivity Luminescent Thermometry at Extremely High Temperatures</title>
 <link>https://doi.org/10.1039/d6tc03290g</link>
@@ -180,11 +194,11 @@
 <description><![CDATA[<p><b>Authors:</b> Wei Lin, Zhengnan Fang, Qinyong Dai, Haoliang Lou, Chengyang Ying, Haonan Wang, Bo Yao, Wenhao Wang, Xiao Luo</p><p>Dynamic learning rate scheduling (DLRS) is crucial for neuromorphic computing systems to achieve high generalization capability and superior energy efficiency in dynamic environments. However, achieving flexible control over conductance-update rates...</p><p>DOI: 10.1039/d6tc03382b</p>]]></description>
 </item>
 <item>
-<title>Low-Power All-Oxide Complementary Electronics Based on TeSeO and IGZO</title>
+<title>Low-power all-oxide complementary electronics based on TeSeO and IGZO</title>
 <link>https://doi.org/10.1039/d6tc03371g</link>
 <guid isPermaLink="false">10.1039/d6tc03371g</guid>
 <pubDate>Mon, 23 Nov 2026 14:03:35 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ao Liu, Yangbin Wei, Yuning Guo, Mingyang Wang, Huihui Zhu, Zhen Liu, Zhigang Wang, Yong‐Young Noh, Hao Li</p><p>The development of complementary oxide electronics requires p-channel semiconductors that combine effective hole transport, low off-state leakage, and compatibility with established n-channel oxide transistors. Here, we demonstrate low-power all-oxide complementary...</p><p>DOI: 10.1039/d6tc03371g</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Yangbin Wei, Yuning Guo, Mingyang Wang, Huihui Zhu, Zhen Liu, Zhigang Wang, Hao Li, Yong-Young Noh, Ao Liu</p><p>Sputtered p-type TeSeO and n-type IGZO enable low-voltage all-oxide complementary inverters, achieving a peak voltage gain of 486 and static power consumption of approximately 0.36 nW at a low supply voltage of 3 V.</p><p>DOI: 10.1039/d6tc03371g</p>]]></description>
 </item>
 <item>
 <title>Epoxy-based core–shell fillers for enhanced ionic conductivity in solid-state lithium batteries</title>
@@ -194,11 +208,11 @@
 <description><![CDATA[<p><b>Authors:</b> Xiao Hou, Tao He, Beibei Han, Jingang Zheng, Yuan Mu, Guiying Xu, Baigang An, Chengguo Sun, Kun Wang, Weimin Zhou</p><p>BN@SiO 2 /GPTMS fillers promote anion binding and reduce PVDF crystallinity, yielding a Li + transference number of 0.66 and stable lithium-metal battery cycling.</p><p>DOI: 10.1039/d6tc02618d</p>]]></description>
 </item>
 <item>
-<title>Mn-Zn Ferrite Nanoparticles Synthesized by the Auto-combustion Technique for Magnetic Induction Processing Applications</title>
+<title>Mn–Zn ferrite nanoparticles synthesized by the auto-combustion technique for magnetic induction processing applications</title>
 <link>https://doi.org/10.1039/d6tc02770a</link>
 <guid isPermaLink="false">10.1039/d6tc02770a</guid>
 <pubDate>Mon, 23 Nov 2026 07:22:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Purvi Khanna, Raju V. Ramanujan, Anshul Baral, Terry W.J. Steele</p><p>Spinheat is an emerging magnetic induction technique that cures adhesives and resins in a fraction of the time and energy required by conventional oven curing. Curie nanoparticles (CNP) dispersed in...</p><p>DOI: 10.1039/d6tc02770a</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Purvi Khanna, Anshul Baral, Terry W. J. Steele, R. V. Ramanujan</p><p>Glycine–nitrate auto-combustion produces Mn–Zn ferrite Curie nanoparticles with tunable T C (132–412 °C) and dry-powder SAR up to 15.4 W g −1 , enabling temperature-failsafe spinheat curing of adhesives in 5–10 min vs. 16 h.</p><p>DOI: 10.1039/d6tc02770a</p>]]></description>
 </item>
 <item>
 <title>Enhancing the lifetime of blue phosphorescent OLEDs using meta -phenyl-substituted host materials</title>
@@ -222,11 +236,11 @@
 <description><![CDATA[<p><b>Authors:</b> Siyi Zhang, Lixin Xu, Huijian Ye</p><p>Polymer dielectrics capable of stable operation under high electric fields and elevated temperatures are urgently needed for advanced electronic and power systems, yet conventional materials suffer from a fundamental trade-off...</p><p>DOI: 10.1039/d6tc03170f</p>]]></description>
 </item>
 <item>
-<title>Enhanced Self-Powered Photodetection in NiO/YMnO 3 Heterojunctions via Synergistic Ferroelectric Polarization and Interface Engineering</title>
+<title>Enhanced self-powered photodetection in NiO/YMnO 3 heterojunctions via synergistic ferroelectric polarization and interface engineering</title>
 <link>https://doi.org/10.1039/d6tc03131e</link>
 <guid isPermaLink="false">10.1039/d6tc03131e</guid>
 <pubDate>Fri, 20 Nov 2026 12:43:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shan Zhang, Yongzhi Li, Xin Song, Xing Gao, Shumin Fan, Chenglong He, Huan Liu, Guangcheng Wang, Yong Li</p><p>Ferroelectric materials exhibiting a unique photo-electric conversion mechanism based on spontaneous polarization attract significant interest for the development of self-powered photodetection. However, the performance of ferroelectric-based photodetectors is often limited...</p><p>DOI: 10.1039/d6tc03131e</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shan Zhang, Yongzhi Li, Xin Song, Xing Gao, Shumin Fan, Chenglong He, Huan Liu, Guangcheng Wang, Yong Li</p><p>A NiO/YMO ferroelectric heterostructure achieves enhanced self-powered photodetection. Interfacial field and ferroelectric depolarization jointly promote carrier separation, improving photocurrent and photoresponse for ferroelectric photodetectors.</p><p>DOI: 10.1039/d6tc03131e</p>]]></description>
 </item>
 <item>
 <title>Microencapsulation of liquid metal into powders for flexible electronics and solar thermoelectric fibers</title>
@@ -240,7 +254,7 @@
 <link>https://doi.org/10.1039/d6tc03122f</link>
 <guid isPermaLink="false">10.1039/d6tc03122f</guid>
 <pubDate>Fri, 20 Nov 2026 07:03:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shunsheng Ye, Meiqiao Wu, Fuqiang Fan, Liying Zhang, Xuemin Zhang, Yu Fu, Tieqiang Wang</p><p>Dynamic structural color devices often face compromises among fabrication scalability, response kinetics, and spectral tuning range. Here, we report a pH-responsive metal-dielectric-metal Fabry-Pérot (F-P) resonator incorporating surfacetethered poly(4-vinylpyridine) (P4VP) polymer...</p><p>DOI: 10.1039/d6tc03122f</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Shunsheng Ye, Meiqiao Wu, Fuqiang Fan, Liying Zhang, Xuemin Zhang, Yu Fu, Tieqiang Wang</p><p>Integrating pH-responsive poly(4-vinylpyridine) brushes into Fabry–Pérot cavities enables ultrafast, broad-spectrum structural color tuning for dynamic optical encryption and anticounterfeiting applications.</p><p>DOI: 10.1039/d6tc03122f</p>]]></description>
 </item>
 <item>
 <title>High-performance electron-transporting bis- ortho -α-carboline substituted benzimidazole hosts for blue TADF organic light-emitting diodes</title>
@@ -278,11 +292,11 @@
 <description><![CDATA[<p>DOI: 10.1039/d6tc90161a</p>]]></description>
 </item>
 <item>
-<title>Synergistic Optimization of Polarization and Breakdown Strength in Mg-Doped BNT-ST Lead-Free Ferroelectric Thin Films</title>
+<title>Synergistic optimization of polarization and breakdown strength in Mg-doped BNT–ST lead-free ferroelectric thin films</title>
 <link>https://doi.org/10.1039/d6tc02781d</link>
 <guid isPermaLink="false">10.1039/d6tc02781d</guid>
 <pubDate>Thu, 19 Nov 2026 03:04:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mingyu Dong, Shuai Zhang, Hengchang Nie, Zhiyan Guo, Liang Shi</p><p>Compared with lead-based ferroelectric materials containing toxic substances, lead-free ferroelectric materials meet the requirements of sustainable development. Among them, Bi 0.5 Na 0.5 TiO 3 (BNT), offers the advantage of inherently high polarization, which is...</p><p>DOI: 10.1039/d6tc02781d</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Mingyu Dong, Shuai Zhang, Hengchang Nie, Zhiyan Guo, Liang Shi</p><p>MT modification combines improved breakdown strength with a large high-field polarization response, achieving a recoverable energy density of 47.49 J cm −3 in BNT–ST thin films.</p><p>DOI: 10.1039/d6tc02781d</p>]]></description>
 </item>
 <item>
 <title>Intelligent Electromagnetic Metasurfaces: AI-Driven Design and Multi-functional Applications</title>
