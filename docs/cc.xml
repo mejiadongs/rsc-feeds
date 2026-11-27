@@ -3,7 +3,14 @@
 <title>RSC - Chemical Communications</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cc</link>
 <description>RSC - Chemical Communications (via Crossref)</description>
-<lastBuildDate>Thu, 26 Nov 2026 21:41:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:46:13 +0000</lastBuildDate>
+<item>
+<title>Correction: The electroanalytical wave against forever chemicals: molecularly imprinted electrochemical sensors for PFAS detection</title>
+<link>https://doi.org/10.1039/d6cc90380k</link>
+<guid isPermaLink="false">10.1039/d6cc90380k</guid>
+<pubDate>Fri, 27 Nov 2026 07:14:11 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Mobina Masdari, Jeffrey E. Dick</p><p>Correction for ‘The electroanalytical wave against forever chemicals: molecularly imprinted electrochemical sensors for PFAS detection’ by Mobina Masdari et al. , Chem. Commun. , 2026, DOI: https://doi.org/10.1039/d6cc03418g.</p><p>DOI: 10.1039/d6cc90380k</p>]]></description>
+</item>
 <item>
 <title>Copper-catalyzed alkynylboration of allenes: access to boryl-substituted Z -1,4-enynes</title>
 <link>https://doi.org/10.1039/d6cc04320h</link>
@@ -58,7 +65,7 @@
 <link>https://doi.org/10.1039/d6cc04774b</link>
 <guid isPermaLink="false">10.1039/d6cc04774b</guid>
 <pubDate>Thu, 26 Nov 2026 11:22:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Kaoru Ikekawa, Yukie Nohara, Takuma Yoshida, Hideyuki Okamoto, Shuko Amber Murano, Msaji Tamura, Hiroko Kawakami, Emiko Mihara, Takao Arimori, Sho Konno, Akihiro Taguchi, Hidemasa Nakaminami, Junichi Takagi, Taku Yoshiya, Yoshio Hayashi, Atsuhiko Taniguchi</p><p>For the inhibition of the SARS-CoV-2 spike protein, which is an attractive target for the treatment of COVID-19, the S-RBD (spike protein receptor-binding domain)-binding peptide was functionalized with an on/off...</p><p>DOI: 10.1039/d6cc04774b</p>]]></description>
+<description><![CDATA[<p><b>Authors:</b> Kaoru Ikekawa, Yukie Nohara, Takuma Yoshida, Hideyuki Okamoto, Shuko Amber Murano, Masaji Tamura, Hiroko Kawakami, Emiko Mihara, Takao Arimori, Sho Konno, Akihiro Taguchi, Hidemasa Nakaminami, Junichi Takagi, Taku Yoshiya, Yoshio Hayashi, Atsuhiko Taniguchi</p><p>An S-RBD (spike protein receptor-binding domain)-binding peptide with an on/off switchable photooxygenation catalyst photoinactivated the S-RBD, thereby inhibiting SARS-CoV-2 infection.</p><p>DOI: 10.1039/d6cc04774b</p>]]></description>
 </item>
 <item>
 <title>A Synthetic Cycle for the (Photoinduced) Generation of Guanidines from N 2 at Tungsten Complexes †</title>
@@ -628,18 +635,18 @@
 <description><![CDATA[<p><b>Authors:</b> Xinyi Zhou, Jingna Nie, Lu Zhang, Zhihong Cui, Shiyu Zhong, Chaohe Xu, Yuping Liu</p><p>The as-synthesized (EtMgCl) 2 –B(OTMS) 3 electrolyte constructs a B–O/Si–O/Si–C interphase for reversible magnesium deposition/dissolution in rechargeable Mg batteries.</p><p>DOI: 10.1039/d6cc05949j</p>]]></description>
 </item>
 <item>
-<title>DNA Origami-Programmed Spatial Coupling of Anisotropic Plasmonic Nanoantennas for Single-Molecule SERS</title>
-<link>https://doi.org/10.1039/d6cc06828f</link>
-<guid isPermaLink="false">10.1039/d6cc06828f</guid>
-<pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Wenqing He, Renjie Niu, Lianhui Wang, Jie Chao</p><p>DNA origami programs Au nanoparticle coupling at the vertex, edge, or face of Au triangular nanoprisms, yielding triangular plasmonic nanoantennas (TPNs). Correlated single-particle SERS, and simulations reveal position-dependent hotspot strengths...</p><p>DOI: 10.1039/d6cc06828f</p>]]></description>
-</item>
-<item>
 <title>Machine learning-assisted single-system multichannel sensor for the recognition of ochratoxins</title>
 <link>https://doi.org/10.1039/d6cc06089g</link>
 <guid isPermaLink="false">10.1039/d6cc06089g</guid>
 <pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Zhongyong Xu, Bin Liu</p><p>An albumin-based single-system multichannel sensor was developed for the discrimination of ochratoxins with the aid of machine learning.</p><p>DOI: 10.1039/d6cc06089g</p>]]></description>
+</item>
+<item>
+<title>DNA Origami-Programmed Spatial Coupling of Anisotropic Plasmonic Nanoantennas for Single-Molecule SERS</title>
+<link>https://doi.org/10.1039/d6cc06828f</link>
+<guid isPermaLink="false">10.1039/d6cc06828f</guid>
+<pubDate>Wed, 18 Nov 2026 08:43:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Wenqing He, Renjie Niu, Lianhui Wang, Jie Chao</p><p>DNA origami programs Au nanoparticle coupling at the vertex, edge, or face of Au triangular nanoprisms, yielding triangular plasmonic nanoantennas (TPNs). Correlated single-particle SERS, and simulations reveal position-dependent hotspot strengths...</p><p>DOI: 10.1039/d6cc06828f</p>]]></description>
 </item>
 <item>
 <title>Dynamic proton buffering stabilizes aqueous indium metal batteries</title>
@@ -927,131 +934,5 @@
 <guid isPermaLink="false">10.1039/d6cc06845f</guid>
 <pubDate>Fri, 13 Nov 2026 07:03:56 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Ziqiang Deng, Min Jiang, Jing Zhou, Jianyu Hu, Rui Liu, Yi Lv</p><p>A unified transduction strategy converts diverse targets into identical sequences, enabling universal lateral flow quantification via EXPAR and smartphones.</p><p>DOI: 10.1039/d6cc06845f</p>]]></description>
-</item>
-<item>
-<title>Front cover</title>
-<link>https://doi.org/10.1039/d6cc90377k</link>
-<guid isPermaLink="false">10.1039/d6cc90377k</guid>
-<pubDate>Thu, 12 Nov 2026 17:53:12 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cc90377k</p>]]></description>
-</item>
-<item>
-<title>Contents list</title>
-<link>https://doi.org/10.1039/d6cc90378a</link>
-<guid isPermaLink="false">10.1039/d6cc90378a</guid>
-<pubDate>Thu, 12 Nov 2026 17:51:57 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cc90378a</p>]]></description>
-</item>
-<item>
-<title>Back cover</title>
-<link>https://doi.org/10.1039/d6cc90379g</link>
-<guid isPermaLink="false">10.1039/d6cc90379g</guid>
-<pubDate>Thu, 12 Nov 2026 17:51:22 +0000</pubDate>
-<description><![CDATA[<p>DOI: 10.1039/d6cc90379g</p>]]></description>
-</item>
-<item>
-<title>Expanding the redox chemistry of an iron clathrochelate for symmetric aqueous redox flow batteries</title>
-<link>https://doi.org/10.1039/d6cc06416g</link>
-<guid isPermaLink="false">10.1039/d6cc06416g</guid>
-<pubDate>Thu, 12 Nov 2026 15:23:09 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> João Guilherme Machado de Carvalho, Ting-Yi Chen, Ahmad Saleminajafabadi, Alexander Pöthig</p><p>The redox chemistry of an iron clathrochelate was expanded in aqueous solution, enabling its application as a single active material in a proof-of-concept symmetric redox flow battery.</p><p>DOI: 10.1039/d6cc06416g</p>]]></description>
-</item>
-<item>
-<title>Pyrene-based double helicenes to zigzag-edge enriched nanographenes</title>
-<link>https://doi.org/10.1039/d6cc05677f</link>
-<guid isPermaLink="false">10.1039/d6cc05677f</guid>
-<pubDate>Thu, 12 Nov 2026 14:43:28 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Vikas Sharma, Kaysa Sekhavati, David Preston, George F. S. Whitehead, Ashok Keerthi</p><p>Zigzag-edged topology emerges as a molecular design parameter for controlling excited-state dynamics and fluorescence in nanographenes.</p><p>DOI: 10.1039/d6cc05677f</p>]]></description>
-</item>
-<item>
-<title>Engineering functional interfaces through out-of-plane supramolecular assembly</title>
-<link>https://doi.org/10.1039/d6cc06138a</link>
-<guid isPermaLink="false">10.1039/d6cc06138a</guid>
-<pubDate>Thu, 12 Nov 2026 14:04:21 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Melina Vavali, Kamila Handke, Imad Arfaoui, Petra Rudolf, Lydia Sosa Vargas</p><p>Out-of-plane supramolecular design enables programmable molecular functions at graphene, MoS 2 , and metallic interfaces through controlled elevation, orientation, and coupling.</p><p>DOI: 10.1039/d6cc06138a</p>]]></description>
-</item>
-<item>
-<title>Self-assembly of indolocarbazole Pt 2 L 4 cages for red light photocatalytic reduction of sulfonylazides to sulfonamides</title>
-<link>https://doi.org/10.1039/d6cc07135j</link>
-<guid isPermaLink="false">10.1039/d6cc07135j</guid>
-<pubDate>Thu, 12 Nov 2026 14:03:40 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Rens Ham, Michelle P. van Dongen, Joost N. H. Reek</p><p>Herein we report indolocarbazole-based Pt 2 L 4 coordination cages that are red-light photocatalysts for the conversion of sulfonylazides to sulfonamides, which is interesting for biological applications such as prodrug-to-drug conversion.</p><p>DOI: 10.1039/d6cc07135j</p>]]></description>
-</item>
-<item>
-<title>A light-triggered electron-adaptive nanoconverter enabling sequential substrate utilization for tumor therapy</title>
-<link>https://doi.org/10.1039/d6cc06015c</link>
-<guid isPermaLink="false">10.1039/d6cc06015c</guid>
-<pubDate>Thu, 12 Nov 2026 12:42:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Hongrui Zhu, Daqing Xia, Guangxu Fang, Lei Liu, Jixi Zhang</p><p>Light-triggered electron adaptation enables sequential utilization of H 2 O 2 and protons through substrate-dependent electron redirection.</p><p>DOI: 10.1039/d6cc06015c</p>]]></description>
-</item>
-<item>
-<title>Stretchable elastomers reconciling flexibility with triplet exciton stabilization for color-tunable circularly polarized afterglow from carbon dots</title>
-<link>https://doi.org/10.1039/d6cc05870a</link>
-<guid isPermaLink="false">10.1039/d6cc05870a</guid>
-<pubDate>Thu, 12 Nov 2026 12:22:58 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yimin Wei, Rui Guo, Xiaofeng Sun, Jin Zhou</p><p>Stretchable elastomers based on chiral carbon dots are developed, reconciling flexibility with triplet exciton stabilization. Sequential phosphorescence resonance energy transfer enables color-tunable circularly polarized afterglow.</p><p>DOI: 10.1039/d6cc05870a</p>]]></description>
-</item>
-<item>
-<title>Green and efficient length sorting of halloysite nanotubes for bioinspired high-performance aramid insulating films</title>
-<link>https://doi.org/10.1039/d6cc05527c</link>
-<guid isPermaLink="false">10.1039/d6cc05527c</guid>
-<pubDate>Thu, 12 Nov 2026 11:50:59 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yiheng Wang, Shengnan Gao, Xiaofeng Pan, Mengyao Wang, Yao Hong, Ruizhe Zhang, Xueqing Zhang, Zhenyu Wang, Qibao Dong, Chenyu Wang, Hanzhi Ni, Guangxin Cao, Bin Wu, Jiasheng Qian, Wei Bai</p><p>Long HNTs are efficiently sorted and co-assembled with ANFs into cross-layered films with enhanced mechanical strength, insulation, and environmental stability.</p><p>DOI: 10.1039/d6cc05527c</p>]]></description>
-</item>
-<item>
-<title>Covalent organic frameworks for chemodynamic therapy: from catalytic mechanisms to multimodal synergistic nanomedicine</title>
-<link>https://doi.org/10.1039/d6cc06229f</link>
-<guid isPermaLink="false">10.1039/d6cc06229f</guid>
-<pubDate>Thu, 12 Nov 2026 11:03:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yan-An Li, Wen-Jiao Yu, Hao-Yu Wang, Jia-Qi Ren, Qi-Kui Liu, Yan Geng</p><p>Covalent organic frameworks serve as versatile nanoplatforms for chemodynamic therapy: this review covers their catalytic mechanisms, tumor-microenvironment-responsive amplification, and multimodal synergistic cancer nanomedicine.</p><p>DOI: 10.1039/d6cc06229f</p>]]></description>
-</item>
-<item>
-<title>AcGlu-derived microenvironments for dilute CO 2 conversion: molecular platforms, nanointerfaces and mechanistic evidence</title>
-<link>https://doi.org/10.1039/d6cc05869h</link>
-<guid isPermaLink="false">10.1039/d6cc05869h</guid>
-<pubDate>Thu, 12 Nov 2026 11:03:13 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qinggang Zhang, Wei Liu, Canfeng Lin, Wenjing Shi, Yun Bai, Zhonggao Zhou</p><p>A carbohydrate motif becomes catalytic only when proximity and CO 2 association are coupled to NHC/NHO–CO 2 reactivity and metal-mediated turnover, enabling evidence-based design for dilute-CO 2 -to-OZD catalysis.</p><p>DOI: 10.1039/d6cc05869h</p>]]></description>
-</item>
-<item>
-<title>Structural chemistry of the second metal in Pt–M–zeolite catalysts for propane dehydrogenation: from static configurations to dynamic architectures</title>
-<link>https://doi.org/10.1039/d6cc05150b</link>
-<guid isPermaLink="false">10.1039/d6cc05150b</guid>
-<pubDate>Thu, 12 Nov 2026 09:37:23 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Sirong Zhang, Yingbo Zhang, Hang Zhou, Chengtao Wang, Feng-Shou Xiao</p><p>Pt–M–zeolite catalysts are systematically classified from static configurations to dynamic architectures, establishing structure–function relationships for rational design.</p><p>DOI: 10.1039/d6cc05150b</p>]]></description>
-</item>
-<item>
-<title>Nanojars: supramolecular coordination complexes for efficient anion binding and extraction</title>
-<link>https://doi.org/10.1039/d6cc05743h</link>
-<guid isPermaLink="false">10.1039/d6cc05743h</guid>
-<pubDate>Thu, 12 Nov 2026 09:19:12 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Gellert Mezei</p><p>Nanojar hosts self-assemble around target superhydrophilic anion guests and extract them efficiently from water into organic solvents.</p><p>DOI: 10.1039/d6cc05743h</p>]]></description>
-</item>
-<item>
-<title>On-surface polymerization: molecular-scale functionalization of hard and soft materials</title>
-<link>https://doi.org/10.1039/d6cc03894h</link>
-<guid isPermaLink="false">10.1039/d6cc03894h</guid>
-<pubDate>Thu, 12 Nov 2026 09:10:53 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Soumya Paul, Joseph A. Garfield, Md. Iqbal Hossain, Shelley A. Claridge</p><p>On-surface reactions on solid substrates represent an increasingly diverse route to generating interfaces functionalized with 1D or 2D polymers and molecular networks.</p><p>DOI: 10.1039/d6cc03894h</p>]]></description>
-</item>
-<item>
-<title>Fivefold path to carbon-rich macrocycles – a practical guide</title>
-<link>https://doi.org/10.1039/d6cc06607k</link>
-<guid isPermaLink="false">10.1039/d6cc06607k</guid>
-<pubDate>Thu, 12 Nov 2026 08:03:56 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Stanisław Kulczyk, Artur Kasprzak</p><p>We show that present-day protocols for the synthesis of macrocycles can be understood from the viewpoints of outlined five general strategies. We show that synthetic methods and purification procedures can be attributed to these approaches.</p><p>DOI: 10.1039/d6cc06607k</p>]]></description>
-</item>
-<item>
-<title>Catenane-confined copper coordination chemistry and catalysis</title>
-<link>https://doi.org/10.1039/d6cc06508b</link>
-<guid isPermaLink="false">10.1039/d6cc06508b</guid>
-<pubDate>Thu, 12 Nov 2026 07:43:31 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qi-Fa Chen, Mingda Hu, Edmund C. M. Tse, Ho Yu Au-Yeung</p><p>This article discusses Cu( i ) catenane complexes, focusing on their interlocked structures and coordination features, and highlights how ligand interlocking enables new catalytic applications.</p><p>DOI: 10.1039/d6cc06508b</p>]]></description>
-</item>
-<item>
-<title>Electrochemically induced N 2 coordination to iron β-diketiminate complexes and modulation by alkali metal cations</title>
-<link>https://doi.org/10.1039/d6cc05678d</link>
-<guid isPermaLink="false">10.1039/d6cc05678d</guid>
-<pubDate>Thu, 12 Nov 2026 03:43:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Ryan Walser-Kuntz, Chandler I. Woo, Patrick L. Holland</p><p>Electrochemical studies show that alkali metal control can promote N 2 coordination.</p><p>DOI: 10.1039/d6cc05678d</p>]]></description>
 </item>
 </channel></rss>

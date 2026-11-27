@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Thu, 26 Nov 2026 21:41:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:46:04 +0000</lastBuildDate>
+<item>
+<title>Orbital-selective correlations and intermediate-coupling 4f electronic states in Ce-Ni-Si intermetallics from charge-self-consistent many-body calculations</title>
+<link>https://doi.org/10.1039/d6cp03413f</link>
+<guid isPermaLink="false">10.1039/d6cp03413f</guid>
+<pubDate>Fri, 27 Nov 2026 03:03:26 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Ru-song Li, Jintao Wang, Fei Wang, Zheng Xie, Xiaohua Zhou, Deng-Wu Wang</p><p>This work employs fully charge-self-consistent DFT+EDMFT combined with the continuous-time hybridization-expansion (CT-HYB) quantum Monte Carlo impurity solver to comparatively investigate correlated-electron behaviours across the homologous Ce-Ni-Si intermetallic family CeNiSi, CeNiSi2,...</p><p>DOI: 10.1039/d6cp03413f</p>]]></description>
+</item>
 <item>
 <title>Molecular Origins of the Intermolecular Vibrational Sum-Frequency Generation Spectrum at the Air-Water Interface Revealed by Instantaneous Normal Mode Analysis</title>
 <link>https://doi.org/10.1039/d6cp03794a</link>
@@ -724,26 +731,5 @@
 <guid isPermaLink="false">10.1039/d6cp04045d</guid>
 <pubDate>Fri, 13 Nov 2026 03:43:11 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Luhang Jin, Yidong Ke, Jiong Wang, Pingping Wu</p><p>Enhancement of polar skyrmion density is achieved through neural network-assisted phase-field simulations, revealing the joint effects of stacking, temperature, and substrate.</p><p>DOI: 10.1039/d6cp04045d</p>]]></description>
-</item>
-<item>
-<title>Interfacial water modulation of Cm( iii ) adsorption and incorporation at the calcite–water interface</title>
-<link>https://doi.org/10.1039/d6cp03842e</link>
-<guid isPermaLink="false">10.1039/d6cp03842e</guid>
-<pubDate>Thu, 12 Nov 2026 13:23:06 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhao-Qin Chu, Xu-Xin Kang, Ru-Yu Zhu, Ze-Kai Li, Ben Niu, Zhuowei Zhang, Jing Su</p><p>Calculations characterize inner-sphere and incorporated Cm 3+ species at the calcite terrace–water interface. Simulated emission spectra and empirical lifetime estimates connect local coordination and hydration with qualitative spectroscopic trends.</p><p>DOI: 10.1039/d6cp03842e</p>]]></description>
-</item>
-<item>
-<title>High-temperature quantum anomalous Hall state and electrically tunable magnetic anisotropy in the FeCl monolayer</title>
-<link>https://doi.org/10.1039/d6cp03277j</link>
-<guid isPermaLink="false">10.1039/d6cp03277j</guid>
-<pubDate>Thu, 12 Nov 2026 10:12:07 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Aining Wang, Qian Zheng, Yu Liao, Yueqiao Qu, Zhixiang Wang, Weiyao Jia, Liang Liu, Junzhong Wang, Huaxing Zhu, Gang Yao</p><p>Monolayer FeCl hosts a large-gap (136 meV), high-Chern number ( C = ±2) QAH state and electrically tunable magnetic anisotropy, enabling ambient-condition spintronics.</p><p>DOI: 10.1039/d6cp03277j</p>]]></description>
-</item>
-<item>
-<title>Exploring the domain of the He–He bond: non-covalent interactions beyond dispersion</title>
-<link>https://doi.org/10.1039/d6cp03562k</link>
-<guid isPermaLink="false">10.1039/d6cp03562k</guid>
-<pubDate>Thu, 12 Nov 2026 09:03:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Stefano Borocci, Felice Grandinetti, Nico Sanna, Costantino Zazza</p><p>Theoretical calculations reveal a still little-explored region of the He–He bond domain, lying between purely dispersive contacts and true covalent bonds. These non-covalent interactions include an appreciable contribution from induction.</p><p>DOI: 10.1039/d6cp03562k</p>]]></description>
 </item>
 </channel></rss>

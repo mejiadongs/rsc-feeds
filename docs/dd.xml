@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Thu, 26 Nov 2026 21:41:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:46:09 +0000</lastBuildDate>
 <item>
 <title>Fragment-Constrained Ionic Liquid Screening with a Compositional Gaussian Process Surrogate and an Uncertainty-Aware Multi-Objective Acquisition Function</title>
 <link>https://doi.org/10.1039/d6dd00373g</link>
@@ -150,33 +150,5 @@
 <guid isPermaLink="false">10.1039/d6dd00577b</guid>
 <pubDate>Fri, 13 Nov 2026 15:43:25 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Daniel Serlin, Jamie A. Cadge</p><p>A clusterability-informed workflow combines complementary molecular representations and coverage-guided sampling to select informative training sets, enabling reaction-driven mapping of chemical space.</p><p>DOI: 10.1039/d6dd00577b</p>]]></description>
-</item>
-<item>
-<title>Q-Twin: a digital twin beamline for molecular scattering and coherent dynamics</title>
-<link>https://doi.org/10.1039/d6dd00457a</link>
-<guid isPermaLink="false">10.1039/d6dd00457a</guid>
-<pubDate>Thu, 12 Nov 2026 18:01:36 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Guang Chen, Xiao-Min Lin, Suresh Narayanan, Subramanian K. R. S. Sankaranarayanan</p><p>Q-Twin: a digital twin beamline for molecular scattering and coherent dynamics that bridges molecular simulations and experimental scattering.</p><p>DOI: 10.1039/d6dd00457a</p>]]></description>
-</item>
-<item>
-<title>Feynman–Kac-flow: inference steering of conditional flow matching to an energy-tilted posterior</title>
-<link>https://doi.org/10.1039/d6dd00258g</link>
-<guid isPermaLink="false">10.1039/d6dd00258g</guid>
-<pubDate>Thu, 12 Nov 2026 09:32:55 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Konstantin Mark, Leonard Galustian, Maximilian P.-P. Kovar, Esther Heid</p><p>Feynman–Kac steering allows a trained flow matching model to be adapted to a steering potential without retraining as shown in the application of generating transition state geometries with the correct stereochemistry and lower forces.</p><p>DOI: 10.1039/d6dd00258g</p>]]></description>
-</item>
-<item>
-<title>Beyond performance: selecting fit-for-purpose large language models for materials research</title>
-<link>https://doi.org/10.1039/d6dd00679e</link>
-<guid isPermaLink="false">10.1039/d6dd00679e</guid>
-<pubDate>Thu, 12 Nov 2026 07:43:49 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Syeda Kinza Fatima, Kangming Li</p><p>Selecting large language models for scientific research requires scientific adequacy, validity, repeatability, and realized cost to identify fit-for-purpose models for materials and chemistry research.</p><p>DOI: 10.1039/d6dd00679e</p>]]></description>
-</item>
-<item>
-<title>Closed-loop robotic optimization of ligand, base, and solvent for the selective mono-functionalization of a symmetric dibromofluorene via Suzuki–Miyaura coupling</title>
-<link>https://doi.org/10.1039/d6dd00634e</link>
-<guid isPermaLink="false">10.1039/d6dd00634e</guid>
-<pubDate>Thu, 12 Nov 2026 07:24:03 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Seiji Akiyama, Hayaka Akitsu, Ryo Tamura, Wataru Matsuoka, Satoshi Maeda, Koji Tsuda, Yuuya Nagata</p><p>Robotic synthesis–analysis feedback drives autonomous Bayesian optimization of ligand, base and solvent, reaching a highest observed mono-product analytical yield of 49% within a defined Suzuki–Miyaura reaction space.</p><p>DOI: 10.1039/d6dd00634e</p>]]></description>
 </item>
 </channel></rss>
