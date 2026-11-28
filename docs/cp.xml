@@ -3,7 +3,14 @@
 <title>RSC - Physical Chemistry Chemical Physics</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/cp</link>
 <description>RSC - Physical Chemistry Chemical Physics (via Crossref)</description>
-<lastBuildDate>Fri, 27 Nov 2026 21:26:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 08:01:32 +0000</lastBuildDate>
+<item>
+<title>The Chemical Stiffness of Adsorbed Layers: From Isotherms to Rate Laws</title>
+<link>https://doi.org/10.1039/d6cp03824g</link>
+<guid isPermaLink="false">10.1039/d6cp03824g</guid>
+<pubDate>Fri, 27 Nov 2026 22:43:32 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Benedikt Axel Brandes</p><p>Adsorption isotherms are fitted with a catalogue of named equations that are treated as unrelated models, and the fitted constants carry over neither to other isotherms nor to the rate...</p><p>DOI: 10.1039/d6cp03824g</p>]]></description>
+</item>
 <item>
 <title>The effect of Mn/Fe co-doping on charge transport, dielectric relaxation, and magnetic properties of LaNiO 3 nanoparticles</title>
 <link>https://doi.org/10.1039/d6cp02938h</link>
@@ -684,13 +691,6 @@
 <description><![CDATA[<p><b>Authors:</b> Zhenyun Lan, Cenfeng Fu, Rulong Zhou</p><p>Enhancing the oxygen evolution reaction activity of nitride perovskites through nitrogen engineering.</p><p>DOI: 10.1039/d6cp03325c</p>]]></description>
 </item>
 <item>
-<title>Channel- and time-resolved dynamics of the vinyl bromide cation via ultrafast strong field ionization–photofragmentation combined with velocity map imaging</title>
-<link>https://doi.org/10.1039/d6cp03147a</link>
-<guid isPermaLink="false">10.1039/d6cp03147a</guid>
-<pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Qi Chen, Yang Liu, Wei Yang, Hang Lv, Haifeng Xu</p><p>We employ strong field ionization–photofragmentation combined with velocity map imaging (SFI-PF-VMI) to study channel- and time-resolved dynamics of vinyl bromide (C 2 H 3 Br) cation under femtosecond laser fields.</p><p>DOI: 10.1039/d6cp03147a</p>]]></description>
-</item>
-<item>
 <title>Linker functionalization and pH tuning enhance solar-driven catalytic CO 2 reduction in MOF-5</title>
 <link>https://doi.org/10.1039/d6cp03674k</link>
 <guid isPermaLink="false">10.1039/d6cp03674k</guid>
@@ -698,73 +698,17 @@
 <description><![CDATA[<p><b>Authors:</b> Julia Santana-Andreo, Joshua Edzards, Surender Kumar, Caterina Cocchi</p><p>Our first-principles calculations show linker functionalization can narrow the MOF-5 band gap into the visible range, while pH tunes CO₂-reduction energetics, highlighting Sr- and Ba-based COOH frameworks as promising visible-light photocatalysts.</p><p>DOI: 10.1039/d6cp03674k</p>]]></description>
 </item>
 <item>
+<title>Channel- and time-resolved dynamics of the vinyl bromide cation via ultrafast strong field ionization–photofragmentation combined with velocity map imaging</title>
+<link>https://doi.org/10.1039/d6cp03147a</link>
+<guid isPermaLink="false">10.1039/d6cp03147a</guid>
+<pubDate>Mon, 16 Nov 2026 07:23:29 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Qi Chen, Yang Liu, Wei Yang, Hang Lv, Haifeng Xu</p><p>We employ strong field ionization–photofragmentation combined with velocity map imaging (SFI-PF-VMI) to study channel- and time-resolved dynamics of vinyl bromide (C 2 H 3 Br) cation under femtosecond laser fields.</p><p>DOI: 10.1039/d6cp03147a</p>]]></description>
+</item>
+<item>
 <title>A First-Principles Quantum Modeling Strategy for Cost-Effective Green Energy Materials: Lead-Free AHf4Bi4O15 (A = Ca, Ba, Sr) Aurivillius Phases</title>
 <link>https://doi.org/10.1039/d6cp01578f</link>
 <guid isPermaLink="false">10.1039/d6cp01578f</guid>
 <pubDate>Mon, 16 Nov 2026 07:04:09 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> A. Alqahtani, Rajesh Haldhar, Zeesham Abbas, Samar S Almojadah, Amna Parveen, Safwat  A Mahmoud, Abdullah Almohammedi</p><p>Layered lead-free Aurivillius perovskites AHf4Bi4O15 (A= Ca, Sr, Ba) were systematically investigated by employing first-principles density functional theory to assess their structural, electronic, optical, thermodynamic, and thermoelectric properties. Precise ground-state...</p><p>DOI: 10.1039/d6cp01578f</p>]]></description>
-</item>
-<item>
-<title>Recent developments and perspectives in variational quantum eigensolvers for molecular electronic structure: methods, tradeoffs, and benchmarking</title>
-<link>https://doi.org/10.1039/d6cp02633h</link>
-<guid isPermaLink="false">10.1039/d6cp02633h</guid>
-<pubDate>Fri, 13 Nov 2026 16:23:16 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Taylor Harville, Rishu Khurana, Vitor F. Grizzi, Cong Liu</p><p>VQE advances in three themes: (i) strategies for circuit and ansatz complexity reduction, (ii) chemically motivated workflows that combine VQE with classical chemistry frameworks, and (iii) extensions of VQE to excited-state calculations.</p><p>DOI: 10.1039/d6cp02633h</p>]]></description>
-</item>
-<item>
-<title>2,6-Substituent effects on BODIPY photostability: insights into electron-donating/withdrawing effects on the 1 O 2 -mediated degradation mechanism</title>
-<link>https://doi.org/10.1039/d6cp00284f</link>
-<guid isPermaLink="false">10.1039/d6cp00284f</guid>
-<pubDate>Fri, 13 Nov 2026 15:03:33 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Shaojie Liu, Liang Sun, Yudong Liu, Jinlong Zhang, Baozhu Tian</p><p>Electron-withdrawing groups at the 2,6-positions lower HOMO energies and raise oxidation barriers. These changes reduce BODIPY reactivity toward singlet oxygen and improve photostability.</p><p>DOI: 10.1039/d6cp00284f</p>]]></description>
-</item>
-<item>
-<title>Computational energetics of DNA G-quadruplexes: testing the transfer of physical conclusions</title>
-<link>https://doi.org/10.1039/d6cp03920k</link>
-<guid isPermaLink="false">10.1039/d6cp03920k</guid>
-<pubDate>Fri, 13 Nov 2026 14:44:14 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yevgen Yurenko</p><p>QM stacking energies of −61.6 and −56.1 kcal mol −1 were calculated for constrained parallel and antiparallel G4 stems after backbone and ion removal. Such local interaction energies do not determine which complete G4 fold is favoured.</p><p>DOI: 10.1039/d6cp03920k</p>]]></description>
-</item>
-<item>
-<title>Modeling IR spectral signatures of solvated single-stranded DNA: linking CO stretching vibrations to conformational dynamics</title>
-<link>https://doi.org/10.1039/d6cp02614a</link>
-<guid isPermaLink="false">10.1039/d6cp02614a</guid>
-<pubDate>Fri, 13 Nov 2026 14:43:29 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Cedrix J. Dongmo Foumthuim, Giovanni Parolin, Stefano Corni, Laura Zanetti-Polzi</p><p>A hybrid quantum–classical approach based on the perturbed matrix method models DNA carbonyl stretching spectra, capturing how molecular interactions, stacking and conformational dynamics shape their infrared signatures.</p><p>DOI: 10.1039/d6cp02614a</p>]]></description>
-</item>
-<item>
-<title>Exploring the contribution of noncovalent interactions in an ionic crystal containing a halonium cation using static and time-evolution methods in the crystalline phase</title>
-<link>https://doi.org/10.1039/d6cp03567a</link>
-<guid isPermaLink="false">10.1039/d6cp03567a</guid>
-<pubDate>Fri, 13 Nov 2026 13:23:19 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Mariusz Michalczyk, Jarosław J. Panek, Aneta Jezierska, Wiktor Zierkiewicz</p><p>Two different computational perspectives are employed for multidimensional analyses of interactions occurring in a crystal structure containing a halonium cation motif.</p><p>DOI: 10.1039/d6cp03567a</p>]]></description>
-</item>
-<item>
-<title>Revealing Phase Transition Mechanism of GaAs Nanoparticle via Machine Learning Molecular Dynamics Simulation</title>
-<link>https://doi.org/10.1039/d6cp03351b</link>
-<guid isPermaLink="false">10.1039/d6cp03351b</guid>
-<pubDate>Fri, 13 Nov 2026 10:43:04 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Hongbin Zhang, Mengru Huang, Haichao Li, Zijun Meng, Senze Gu, Lina Xu, Hongping Xiao, Guoyong Fang</p><p>Gallium arsenide (GaAs) nanoparticles exhibit size-tunable optoelectronic properties critical for nanoscale devices, yet the atomic-scale mechanisms of their solid-liquid phase transitions under vacuum remain poorly understood. Herein, we revealed the...</p><p>DOI: 10.1039/d6cp03351b</p>]]></description>
-</item>
-<item>
-<title>Intrinsic spin–valley coupling and strain-dependent valley splitting in two-dimensional Janus MoPnX monolayers (Pn = P, As; X = Cl, Br, I)</title>
-<link>https://doi.org/10.1039/d6cp02322c</link>
-<guid isPermaLink="false">10.1039/d6cp02322c</guid>
-<pubDate>Fri, 13 Nov 2026 10:04:17 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Xuchen Guo, Hanwei Li, Mingyu Lv, Wei-Jiang Gong</p><p>First-principles calculations reveal a stable Janus two-dimensional ferrovalley semiconductor with robust magnetism and sizable spontaneous valley polarization, which can be effectively tuned by strain for spin- and valleytronic applications.</p><p>DOI: 10.1039/d6cp02322c</p>]]></description>
-</item>
-<item>
-<title>CrystalInterpen: an open-source web tool for interpenetrated framework generation</title>
-<link>https://doi.org/10.1039/d6cp03643k</link>
-<guid isPermaLink="false">10.1039/d6cp03643k</guid>
-<pubDate>Fri, 13 Nov 2026 08:03:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Bing Ma, Na Qin, Sheng Zhang, Xiao Wang, Wei Zhou, Lipiao Bao, Xing Lu</p><p>CrystalInterpen is an open-source web tool that generates interpenetrated framework structures from CIF files and estimates the maximum interpenetration degree N max ≈ 2 a / c , validated against COF-300, IRMOF-9 and a charge-assisted HOF.</p><p>DOI: 10.1039/d6cp03643k</p>]]></description>
-</item>
-<item>
-<title>Ultra-high-density skyrmions in SrTiO 3 /BaTiO 3 superlattices achieved by substrate and stacking engineering</title>
-<link>https://doi.org/10.1039/d6cp04045d</link>
-<guid isPermaLink="false">10.1039/d6cp04045d</guid>
-<pubDate>Fri, 13 Nov 2026 03:43:11 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Luhang Jin, Yidong Ke, Jiong Wang, Pingping Wu</p><p>Enhancement of polar skyrmion density is achieved through neural network-assisted phase-field simulations, revealing the joint effects of stacking, temperature, and substrate.</p><p>DOI: 10.1039/d6cp04045d</p>]]></description>
 </item>
 </channel></rss>

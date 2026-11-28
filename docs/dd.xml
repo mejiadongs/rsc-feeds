@@ -3,7 +3,7 @@
 <title>RSC - Digital Discovery</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/dd</link>
 <description>RSC - Digital Discovery (via Crossref)</description>
-<lastBuildDate>Fri, 27 Nov 2026 21:26:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 08:01:38 +0000</lastBuildDate>
 <item>
 <title>Universal initial state preparation for first quantized quantum simulations</title>
 <link>https://doi.org/10.1039/d6dd00529b</link>
@@ -157,12 +157,5 @@
 <guid isPermaLink="false">10.1039/d6dd00747c</guid>
 <pubDate>Sun, 15 Nov 2026 05:34:21 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Xiaoning Feng, Hans Hon Sang Chan, David Tew</p><p>We establish and analyse the performance and resource requirements of an end-to-end fault-tolerant quantum algorithm for computing the absorption spectrum and population dynamics of photoexcited pyrazine. The quantum circuit construction...</p><p>DOI: 10.1039/d6dd00747c</p>]]></description>
-</item>
-<item>
-<title>Coverage-guided chemical space sampling using complementary molecular representations</title>
-<link>https://doi.org/10.1039/d6dd00577b</link>
-<guid isPermaLink="false">10.1039/d6dd00577b</guid>
-<pubDate>Fri, 13 Nov 2026 15:43:25 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Daniel Serlin, Jamie A. Cadge</p><p>A clusterability-informed workflow combines complementary molecular representations and coverage-guided sampling to select informative training sets, enabling reaction-driven mapping of chemical space.</p><p>DOI: 10.1039/d6dd00577b</p>]]></description>
 </item>
 </channel></rss>

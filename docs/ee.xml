@@ -3,7 +3,14 @@
 <title>RSC - Energy &amp; Environmental Science</title>
 <link>https://pubs.rsc.org/en/journals/journalissues/ee</link>
 <description>RSC - Energy &amp; Environmental Science (via Crossref)</description>
-<lastBuildDate>Fri, 27 Nov 2026 21:26:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 08:01:22 +0000</lastBuildDate>
+<item>
+<title>Catalyst-ionomer co-assembly engineering enables uniform electrode architectures for durable anion-exchange membrane electrolysis</title>
+<link>https://doi.org/10.1039/d6ee04479d</link>
+<guid isPermaLink="false">10.1039/d6ee04479d</guid>
+<pubDate>Fri, 27 Nov 2026 23:43:27 +0000</pubDate>
+<description><![CDATA[<p><b>Authors:</b> Jiheon Lim, Hyeryeon Lee, Geun Woong Ryoo, Jeewon Bu, Jae Kwan ­Lee, Inwook Song, Jin Ho Seo, Yunseo Lee, Gi Baek Nam, Hee A Kim, Seung Soo Kim, Minhyeok Choi, Geon-Woo Kim, Jong Hwan Lim, Dae-Hyun Nam, Byung-Hyun Kim, Sun Hwa Park, Min Sang Kwon, Ho Won Jang, Ki Chang Kwon</p><p>Anion exchange membrane water electrolysis (AEMWE) is constrained by catalyst-layer heterogeneity generated during ink processing, which increases interfacial resistance and accelerates electrode degradation under high-current operation. Existing strategies generally optimize...</p><p>DOI: 10.1039/d6ee04479d</p>]]></description>
+</item>
 <item>
 <title>Forward design of thick Fe–N–C cathodes via decoupled self-humidification and anti-flooding</title>
 <link>https://doi.org/10.1039/d6ee04441g</link>
@@ -206,26 +213,5 @@
 <guid isPermaLink="false">10.1039/d6ee06785a</guid>
 <pubDate>Sun, 15 Nov 2026 05:34:16 +0000</pubDate>
 <description><![CDATA[<p><b>Authors:</b> Rui Yang, Sidi Fan, Bo Qi, Shuo Zhang, Jun-Wei Zha, Xiang Yu</p><p>This review establishes a charge dynamics-guided framework for polymer structural engineering to boost high-temperature energy storage.</p><p>DOI: 10.1039/d6ee06785a</p>]]></description>
-</item>
-<item>
-<title>Ultrahigh output triboelectric nanogenerators via dual-domain charge bootstrapping strategy</title>
-<link>https://doi.org/10.1039/d6ee06725e</link>
-<guid isPermaLink="false">10.1039/d6ee06725e</guid>
-<pubDate>Fri, 13 Nov 2026 12:42:26 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yanrui Zhao, Lu Dong, Xinxian Wang, Borui Yang, Xin Guo, Jianlong Wang, Xiaosong Zhang, Hengyu Li, Yang Yu, Zhong Lin Wang, Tinghai Cheng</p><p>This work presents a dual-domain charge bootstrapping (DCB) strategy that decouples charge transport paths to extract energy from two electrostatically coupled charge domains for high charge accumulation and efficient energy utilization.</p><p>DOI: 10.1039/d6ee06725e</p>]]></description>
-</item>
-<item>
-<title>Unlocking the energy potential of lithium: from rechargeable batteries to future nuclear technologies</title>
-<link>https://doi.org/10.1039/d6ee03222b</link>
-<guid isPermaLink="false">10.1039/d6ee03222b</guid>
-<pubDate>Fri, 13 Nov 2026 10:03:02 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Yu-Hui Zhu, Yu-Guo Guo, Sen Xin</p><p>The energy potential of lithium is re-evaluated in both (electro)chemical storage and future nuclear fission and fusion applications.</p><p>DOI: 10.1039/d6ee03222b</p>]]></description>
-</item>
-<item>
-<title>Relieving space charge accumulation via spatial potential modulation to prepare high-performance semi-transparent organic photovoltaics</title>
-<link>https://doi.org/10.1039/d6ee05805a</link>
-<guid isPermaLink="false">10.1039/d6ee05805a</guid>
-<pubDate>Fri, 13 Nov 2026 00:23:46 +0000</pubDate>
-<description><![CDATA[<p><b>Authors:</b> Zhao Qin, Houdong Mao, Weishuo Chen, Yong Yan, Lifu Zhang, Licheng Tan, Yiwang Chen</p><p>A spatial potential modulation strategy reduces space charge accumulation by optimizing potential distribution. The resulting ST-OPVs achieves LUE of 6.14%/4.75% (0.04/16.94 cm 2 ), while integrated as self-regulating electrochromic glass.</p><p>DOI: 10.1039/d6ee05805a</p>]]></description>
 </item>
 </channel></rss>
